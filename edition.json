@@ -1,0 +1,256 @@
+{
+ "date": "2026-10-19",
+ "sections": [
+  {
+   "name": "Tech & AI",
+   "stories": [
+    {
+     "title": "Disney found a way to buy Character.AI without buying its lawsuits",
+     "url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
+     "source": "Ars Technica",
+     "take": "Disney will hire most of Character.AI's workforce while the startup's legal exposure over bots allegedly harming minors stays behind."
+    },
+    {
+     "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+     "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+     "source": "TechCrunch",
+     "take": "Nvidia is pushing open models companies can run in their own data centers \u2014 and private, on-device agents on PCs."
+    },
+    {
+     "title": "Anthropic gives outside AI watchdog \u201cemployee-like\u201d access",
+     "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
+     "source": "Ars Technica",
+     "take": "The outside watchdog can publish its findings without Anthropic's approval \u2014 an unusually open safety arrangement."
+    },
+    {
+     "title": "Anthropic says it\u2019s committing 5% of its shares to a \u2018public benefit fund\u2019",
+     "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+     "source": "TechCrunch",
+     "take": "Anthropic pledges 5% of its shares to a public benefit fund \u2014 a move Musk answered a day later with a SpaceX share pledge for kids."
+    },
+    {
+     "title": "AI researchers stranded Claude on a virtual desert island. It started to \u201cplay.\u201d",
+     "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+     "source": "MIT Tech Review",
+     "take": "Left alone for 30 hours with no task, AI agents started behaving like they were playing \u2014 a strange window into idle agent behavior."
+    },
+    {
+     "title": "Apple updates guidelines to ban nudify apps masquerading as regular apps to pass review",
+     "url": "https://techcrunch.com/2026/10/19/apple-updates-guidelines-to-ban-nudify-apps-masquerading-as-regular-apps-to-pass-review/",
+     "source": "TechCrunch",
+     "take": "Apple will now ban AI apps that don't moderate offensive content and are sneaking nudify tools through review."
+    }
+   ]
+  },
+  {
+   "name": "Marketing",
+   "stories": [
+    {
+     "title": "ADWEEK Reveals the 2026 Agency of the Year Shortlist",
+     "url": "https://www.adweek.com/agencies/adweek-reveals-the-2026-agency-of-the-year-shortlist/",
+     "source": "Adweek",
+     "take": "Adweek's 2026 Agency of the Year shortlist is out, with Gold, Silver and Bronze winners to come in each category."
+    },
+    {
+     "title": "Target Cautiously Considers Placing Digital Screens for Ads in Stores",
+     "url": "https://www.adweek.com/commerce/target-cautiously-considers-placing-digital-screens-for-ads-in-stores/",
+     "source": "Adweek",
+     "take": "Target is weighing in-store ad screens, but for now its ad leader says brands should reach guests through their phones."
+    },
+    {
+     "title": "How Marriott Bonvoy got scale, speed with global creator-led campaign",
+     "url": "https://www.marketingdive.com/news/how-marriott-bonvoy-got-scale-speed-global-creator-led-campaign/833318/",
+     "source": "Marketing Dive",
+     "take": "Marriott Bonvoy went from brief to delivered assets across 23 destinations in four weeks by going creator-led instead of traditional production."
+    },
+    {
+     "title": "How marketers can optimize their media mix as confidence takes a turn",
+     "url": "https://www.marketingdive.com/news/how-marketers-can-optimize-their-media-mix-as-confidence-takes-a-turn/833197/",
+     "source": "Marketing Dive",
+     "take": "Per Kantar, advertisers are shifting bets toward generative AI and creators as confidence in media strategy wobbles."
+    },
+    {
+     "title": "How Amazon turned its Thursday Night Football into a two-pronged pitch to capture ad dollars",
+     "url": "https://digiday.com/media-buying/how-amazon-turned-its-thursday-night-football-into-a-two-pronged-pitch-to-capture-ad-dollars/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+     "source": "Digiday",
+     "take": "Thursday Night Football is Amazon's lever for both endemic sports budgets and non-endemic advertisers on Prime Video."
+    },
+    {
+     "title": "The Kiwibank sheep went viral for all the wrong reasons, and there's something every brand can learn from it",
+     "url": "https://www.creativebloq.com/news/the-kiwibank-sheep-controversy-suggests-brands-should-give-up-trying-to-control-ai-mascots",
+     "source": "Creative Bloq",
+     "take": "An AI mascot brands can't fully control went viral the wrong way \u2014 a warning for every brand handing a character to AI."
+    }
+   ]
+  },
+  {
+   "name": "NBA",
+   "stories": [
+    {
+     "title": "NBA season preview: Rankings, predictions and what to know for all 30 teams",
+     "url": "https://www.espn.com/nba/story/_/id/49998634/2026-27-nba-season-preview-rankings-predictions",
+     "source": "ESPN NBA",
+     "take": "Everything to know for all 30 teams ahead of opening night \u2014 rankings, storylines and predictions in one place."
+    },
+    {
+     "title": "The NBA returns! Expert picks for the East, West and NBA champs",
+     "url": "https://www.espn.com/nba/story/_/id/50182600/nba-expert-picks-east-west-champs-mvp",
+     "source": "ESPN NBA",
+     "take": "ESPN's experts split on Spurs vs. Thunder in the West, with the Knicks tipped as a Finals threat in the East."
+    },
+    {
+     "title": "Thunder agree to 5-year, $139M extension with guard Wallace",
+     "url": "https://www.espn.com/nba/story/_/id/50215968/thunder-agree-five-year-139m-extension-cason-wallace",
+     "source": "ESPN NBA",
+     "take": "Oklahoma City locks up All-Defensive guard Cason Wallace for five years and $139M \u2014 and sets up fresh second-apron questions."
+    },
+    {
+     "title": "Kings guard Simmons has torn Achilles tendon, will undergo surgery",
+     "url": "https://www.espn.com/nba/story/_/id/50214131/kings-simmons-believed-achilles-tendon-tear",
+     "source": "ESPN NBA",
+     "take": "Ben Simmons' comeback is likely over before it started \u2014 a torn Achilles, surgery ahead, and probably the season gone."
+    },
+    {
+     "title": "Embiid adamant no one will 'take a back seat' on star-laden Sixers",
+     "url": "https://www.espn.com/nba/story/_/id/50199797/lebron-james-76ers-working-our-rhythm-opener-nears",
+     "source": "ESPN NBA",
+     "take": "With LeBron James and Jaylen Brown added, Embiid says no one takes a back seat on a loaded \u2014 and fragile \u2014 Sixers roster."
+    },
+    {
+     "title": "Warriors' Curry 'fine' after tweaking right ankle in practice",
+     "url": "https://www.espn.com/nba/story/_/id/50214211/stephen-curry-fine-tweaking-right-ankle-practice",
+     "source": "ESPN NBA",
+     "take": "Steve Kerr says Curry is fine after limping off practice with a right ankle tweak \u2014 a scare, not a setback, for now."
+    }
+   ]
+  },
+  {
+   "name": "MLB",
+   "stories": [
+    {
+     "title": "Brewers sweep Dodgers in NLCS, advance to 1st World Series in 44 years",
+     "url": "https://www.espn.com/mlb/story/_/id/50193819/brewers-sweep-dodgers-nlcs-advance-world-series",
+     "source": "ESPN MLB",
+     "take": "Milwaukee sweeps the Dodgers to end their three-peat bid and reach the World Series for the first time since 1982."
+    },
+    {
+     "title": "Rays on cusp of World Series after wild weekend",
+     "url": "https://www.espn.com/mlb/story/_/id/50214985/rays-beat-guardians-game-5-take-3-2-alcs-lead",
+     "source": "ESPN MLB",
+     "take": "Tampa Bay beat Cleveland 3-1 in Game 5 to lead the ALCS 3-2 \u2014 one win from the World Series, with Game 6 tonight at the Trop."
+    },
+    {
+     "title": "Facing elimination on road, Guardians back where 'this team thrives'",
+     "url": "https://www.espn.com/mlb/story/_/id/50216130/facing-elimination-road-again-guardians-keep-spirits-up",
+     "source": "ESPN MLB",
+     "take": "No travel day after a rainout, season on the line on the road \u2014 Cleveland says this is exactly where it thrives."
+    },
+    {
+     "title": "O's hire ex-Cubs exec. Banner as new general manager",
+     "url": "https://www.espn.com/mlb/story/_/id/50218251/orioles-name-ex-cubs-front-office-executive-banner-new-gm",
+     "source": "ESPN MLB",
+     "take": "Baltimore hires Jared Banner, formerly a Cubs assistant GM, to run player development, coaching and performance under Mike Elias."
+    },
+    {
+     "title": "NPB star Teruaki Sato to be posted to MLB: What to know about Triple Crown winner, plus possible landing spots",
+     "url": "https://www.cbssports.com/mlb/news/mlb-free-agency-teruaki-sato-posted-npb-landing-spots/",
+     "source": "CBS Sports MLB",
+     "take": "Japan's Triple Crown winner Teruaki Sato will be posted \u2014 a lefty slugger who could help contenders and rebuilders alike."
+    }
+   ]
+  },
+  {
+   "name": "National",
+   "stories": [
+    {
+     "title": "Majority of Americans think Donald Trump is using presidency to enrich himself, new poll finds \u2013 live",
+     "url": "https://www.theguardian.com/us-news/live/2026/oct/19/donald-trump-kansas-roger-marshall-golf-ukraine-midterms-latest-news-updates",
+     "source": "Guardian US",
+     "take": "A new Washington Post-ABC poll puts Trump's approval at a new low of 33%, with 66% saying he uses the presidency for monetary gain \u2014 including 34% of Republicans."
+    },
+    {
+     "title": "2026 midterms could be the most expensive on record. And, Macron condemns protests",
+     "url": "https://www.npr.org/2026/10/19/g-s1-148733/up-first-newsletter-ukraine-russia-campaign-finances-france-protests",
+     "source": "NPR News",
+     "take": "More than $15 billion has already been raised for this year's midterms, putting 2026 on track to be the most expensive on record."
+    },
+    {
+     "title": "WATCH LIVE: Trump heads to rally in Kansas as Republican voters' frustrations deepen",
+     "url": "https://www.pbs.org/newshour/politics/watch-live-trump-heads-to-rally-in-kansas-as-republican-voters-frustrations-deepen",
+     "source": "PBS NewsHour",
+     "take": "Trump rallies in Kansas today and Iowa later this week, trying to energize the base as economic strain fuels GOP voter frustration before the midterms."
+    },
+    {
+     "title": "The real reason it's going to take a while to know who won in some midterm races",
+     "url": "https://www.npr.org/2026/10/19/nx-s1-5982027/california-vote-counting-margins",
+     "source": "NPR News",
+     "take": "Slow calls won't just be California counting slowly \u2014 close margins and counting rules mean some midterm winners won't be known quickly."
+    },
+    {
+     "title": "Latino voters helped put Trump back in the White House. What's their next move?",
+     "url": "https://www.pbs.org/newshour/politics/latino-voters-helped-put-trump-back-in-the-white-house-whats-their-next-move",
+     "source": "PBS NewsHour",
+     "take": "The House majority runs through heavily Latino districts in Arizona, Colorado and Texas, where Democrats hope disaffected Trump voters swing back."
+    },
+    {
+     "title": "Maricopa County, Arizona, Is Again Ground Zero of Election Conspiracy Theories",
+     "url": "https://www.wired.com/story/maricopa-county-arizona-is-again-ground-zero-of-election-conspiracy-theories/",
+     "source": "Wired",
+     "take": "Six years after 2020, Trump and allies are reviving the 'rigged' playbook in Maricopa County ahead of the midterms."
+    }
+   ]
+  },
+  {
+   "name": "California",
+   "stories": [
+    {
+     "title": "California creates first tribal-led marine protected areas",
+     "url": "https://www.latimes.com/environment/story/2026-10-19/california-creates-first-tribal-led-marine-protected-areas",
+     "source": "LA Times California",
+     "take": "State regulators created California's first tribal-led marine protected areas \u2014 a win for Indigenous stewardship that fishers say will cost them."
+    },
+    {
+     "title": "They killed people with their big rigs, and California let them keep driving",
+     "url": "https://calmatters.org/investigation/2026/10/california-trucker-license-fatal-crashes/",
+     "source": "CalMatters",
+     "take": "CalMatters investigation: drivers involved in fatal big-rig crashes kept California licenses and kept driving."
+    },
+    {
+     "title": "Becerra's muted gubernatorial campaign comes to life in home stretch",
+     "url": "https://www.latimes.com/california/story/2026-10-19/becerra-ramps-up-public-campaign-in-governors-race",
+     "source": "LA Times California",
+     "take": "After months off the trail, Xavier Becerra is ramping up appearances and TV ads as mail ballots reach California voters."
+    },
+    {
+     "title": "Cooler temperatures, possible rain headed for Southern California",
+     "url": "https://www.latimes.com/california/story/2026-10-19/cooler-temperatures-possible-rain-headed-for-southern-california",
+     "source": "LA Times California",
+     "take": "Cooler temperatures and a chance of rain are on tap for Southern California, forecasters say."
+    },
+    {
+     "title": "Southern California fires ease as Santa Ana winds die down. But rain could bring new risks",
+     "url": "https://www.latimes.com/environment/story/2026-10-18/southern-california-fires-ease-as-santa-ana-winds-die-down-but-rain-could-bring-new-risks",
+     "source": "LA Times California",
+     "take": "Crews gained ground on the Norte, Bryson and Henderson fires as winds eased \u2014 incoming rain brings its own risks."
+    },
+    {
+     "title": "ICE agents broke US citizen\u2019s arm as they detained him in California, officials say",
+     "url": "https://www.theguardian.com/us-news/2026/oct/19/ice-broke-us-citizen-arm-california",
+     "source": "Guardian US",
+     "take": "Officials say ICE agents broke a US citizen's arm while detaining him in California."
+    }
+   ]
+  },
+  {
+   "name": "\ud83c\udf99\ufe0f Podcasts",
+   "stories": [
+    {
+     "title": "Will Gen Z Hand Democrats a \u2018Blue Wave\u2019 in the Midterms?",
+     "url": "https://podcasts.apple.com/us/podcast/will-gen-z-hand-democrats-a-blue-wave-in-the-midterms/id152016440?i=1000796927137&uo=4",
+     "source": "WSJ What's News",
+     "take": "Answer first: no definitive verdict \u2014 the episode explores the dynamics but the transcript cuts off before a bottom-line prediction. \u2022 Democrats are racing to build an authentic influencer ecosystem after 2024; Colorado's 8th District shows it: Democrat Manny Rutenel, 31, with 500k+ Instagram followers, vs. a Gen Z-staffed GOP campaign. \u2022 Housing affordability is Gen Z's top pressure; a July CNBC poll found more young voters positive on socialism than capitalism, driven by populist policy appeal, not labels. \u2022 Republicans hold far more cash (MAGA Inc. super PAC: hundreds of millions), but social outreach is cheap; the DSA could grow from 2 to ~7 House members."
+    }
+   ]
+  }
+ ]
+}

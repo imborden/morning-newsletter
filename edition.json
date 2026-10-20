@@ -5,40 +5,40 @@
    "name": "Tech & AI",
    "stories": [
     {
-     "title": "US bans use of China\u2019s DeepSeek AI tools by government agencies",
-     "url": "https://www.theguardian.com/us-news/2026/oct/20/us-bans-china-deepseek-ai-tools-government-agencies",
-     "source": "Guardian US",
-     "take": "The US ordered agencies to stop using DeepSeek, saying its tools may transfer sensitive data to China \u2014 the AI race is now a federal ban list."
+     "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
+     "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+     "source": "Ars Technica",
+     "take": "Sharing a Muse conversation can expose the personal and business details inside it \u2014 one query surfaces thousands of shared chats by title."
     },
     {
-     "title": "What if an AI bubble bursts \u2014 and that accelerates AI job losses?",
-     "url": "https://www.npr.org/sections/planet-money/2026/10/20/g-s1-148305/what-if-an-ai-bubble-bursts-and-that-accelerates-ai-job-losses",
-     "source": "NPR News",
-     "take": "Planet Money's warning: if an AI bubble bursts, past recessions suggest the downturn could accelerate automation \u2014 and job losses \u2014 instead of slowing it."
+     "title": "\u201cWe were looking at it wrong\u201d: The explosive claim that\u2019s upended the AI world",
+     "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+     "source": "MIT Tech Review",
+     "take": "A Goodfire researcher's claim about how neural networks really work is shaking up AI research \u2014 the field may have been looking at it wrong."
     },
     {
-     "title": "TikTok staff raised child safety alarms. Court records show executives failed to act",
-     "url": "https://www.npr.org/2026/10/20/nx-s1-6005809/tiktok-child-safety-money-laundering",
-     "source": "NPR News",
-     "take": "Unsealed court records show TikTok staff raised child-safety alarms for months and, one executive wrote, executives did not think the harms were severe enough to act."
+     "title": "US orders federal agencies to remove China\u2019s DeepSeek AI from their systems",
+     "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
+     "source": "TechCrunch",
+     "take": "Federal civilian agencies have been ordered to strip out DeepSeek and third-party services built on its tech, citing national security."
     },
     {
-     "title": "New AI tool can predict cancer survival by a single patient selfie, study suggests",
-     "url": "https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie",
-     "source": "Guardian US",
-     "take": "Doctors built an AI that estimates biological age and cancer survival from a single face photo \u2014 striking result, and exactly the kind that needs hard validation before clinic use."
+     "title": "An AI Agent Joined a Listserv of Top Internet Researchers. The Reply-All Chaos Is Still Unfolding",
+     "url": "https://www.wired.com/story/an-ai-agent-joined-a-listserv-of-top-internet-researchers-the-reply-all-chaos-is-still-unfolding/",
+     "source": "Wired",
+     "take": "An AI agent got into a 7,500-person listserv of top internet researchers, and the reply-all fallout shows how outdated the experts' privacy assumptions are."
     },
     {
-     "title": "US judge dismisses sexual abuse lawsuit from Sam Altman\u2019s sister",
-     "url": "https://www.theguardian.com/technology/2026/oct/20/judge-dismisses-sam-altman-sister-lawsuit",
-     "source": "Guardian US",
-     "take": "A judge dismissed Ann Altman's sexual-abuse lawsuit against her brother, OpenAI CEO Sam Altman, over allegations from more than two decades ago, which he has denied."
+     "title": "Disney found a way to buy Character.AI without buying its lawsuits",
+     "url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
+     "source": "Ars Technica",
+     "take": "Disney structured its Character.AI deal to take the tech without inheriting the lawsuits alleging its bots encouraged minors to self-harm."
     },
     {
-     "title": "Downtown datacenter? AI plan floated for boarded-up San Francisco mall",
-     "url": "https://www.theguardian.com/us-news/2026/oct/20/san-francisco-mall-ai-datacenter",
-     "source": "Guardian US",
-     "take": "Developers want to turn the boarded-up San Francisco Centre mall into a community-based AI exhibit, not a server farm \u2014 a softer pitch for downtown's AI makeover."
+     "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
+     "url": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
+     "source": "TechCrunch",
+     "take": "Dylan Field says MCP is not a perfect protocol, and Figma plans to support as many standards as possible without exposing all of its data."
     }
    ]
   },
@@ -46,40 +46,40 @@
    "name": "Marketing",
    "stories": [
     {
-     "title": "Michigan heckler the son of Republican adviser paid for \u2018influencer marketing\u2019 against El-Sayed",
-     "url": "https://www.theguardian.com/us-news/2026/oct/20/abdul-el-sayed-heckler",
-     "source": "Guardian US",
-     "take": "The heckler who ambushed Abdul El-Sayed was not organic: records show a Republican adviser's firm was paid $250,000 for 'influencer marketing' against him."
+     "title": "FTC Approves Publicis\u2019 $2.2 Billion LiveRamp Deal With \u2018Neutrality\u2019 Conditions",
+     "url": "https://www.adweek.com/agencies/ftc-approves-publicis-22-billion-liveramp-deal-with-neutrality-conditions/",
+     "source": "Adweek",
+     "take": "The FTC cleared Publicis' $2.2 billion LiveRamp deal with neutrality conditions \u2014 rules meant to keep the data platform open to rivals."
     },
     {
-     "title": "Hollywood AI-listers: is the technology ready to rival flesh-and-blood film stars?",
-     "url": "https://www.theguardian.com/film/2026/oct/20/ai-actors-val-kilmer-as-deep-as-the-grave-tilly-norwood",
-     "source": "Guardian US",
-     "take": "A young Val Kilmer facsimile and faux starlet Tilly Norwood test whether AI actors are ready for features \u2014 experts split between long way off and just around the corner."
+     "title": "Apple finally explains its Safari block, and identity companies are in its sights",
+     "url": "https://digiday.com/marketing/apples-growing-ads-business-puts-its-safari-blocklist-under-scrutiny/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+     "source": "Digiday",
+     "take": "Apple has spelled out its case for blocking identity companies in Safari, and its own growing ads business is now in the frame."
     },
     {
-     "title": "Vast Beatles museum, hailed as \u2018extraordinary\u2019 by Paul McCartney, to open in Liverpool in 2028",
-     "url": "https://www.theguardian.com/music/2026/oct/20/vast-beatles-museum-hailed-as-extraordinary-by-paul-mccartney-to-open-in-liverpool-in-2028",
-     "source": "Guardian US",
-     "take": "Liverpool's Beatles Story will move to a 100,000 sq ft home in 2028, in plans Paul McCartney called 'extraordinary,' with a Yellow Submarine makeover for the city's second-tallest building."
+     "title": "Forbes looks to Google AI pilot for insights as publishers seek value beyond the click",
+     "url": "https://digiday.com/media/forbes-looks-to-google-ai-pilot-for-insights-as-publishers-seek-value-beyond-the-click/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+     "source": "Digiday",
+     "take": "Forbes joined Google's paid News AI pilot, giving Google expanded rights to its content while publishers hunt for value beyond the click."
     },
     {
-     "title": "\u2018It\u2019s important that Michael\u2019s voice is heard\u2019: Jaafar Jackson says second biopic of his uncle will cover sexual abuse allegations",
-     "url": "https://www.theguardian.com/film/2026/oct/20/michael-jackson-jaafar-jackson-biopic-uncle-sexual-abuse-allegations",
-     "source": "Guardian US",
-     "take": "Jaafar Jackson says a second Michael Jackson biopic will cover the sexual-abuse allegations the hit first film largely avoided \u2014 and will let Michael's own voice be heard."
+     "title": "How marketers can optimize their media mix as confidence takes a turn",
+     "url": "https://www.marketingdive.com/news/how-marketers-can-optimize-their-media-mix-as-confidence-takes-a-turn/833197/",
+     "source": "Marketing Dive",
+     "take": "Kantar: as confidence wobbles, advertisers are putting more money into generative AI and creators and reworking their media strategies."
     },
     {
-     "title": "Arthur Jafa explores complexities of Black American life in new exhibition",
-     "url": "https://www.pbs.org/newshour/show/arthur-jafa-explores-complexities-of-black-american-life-in-new-exhibition",
-     "source": "PBS NewsHour",
-     "take": "Arthur Jafa's largest exhibition to date fills two floors of New York's New Museum, confronting Black American life head-on as other institutions face pressure to avoid race."
+     "title": "\"Is this what designers need to do to find work in 2026?\" a viral high-production video has sparked debate",
+     "url": "https://www.creativebloq.com/news/is-this-what-designers-need-to-do-to-get-work-in-2026-a-viral-high-production-video-has-sparked-debate",
+     "source": "Creative Bloq",
+     "take": "A designer's high-production job-hunt video went viral and split the industry: is personality-led storytelling now the price of getting hired?"
     },
     {
-     "title": "The CO2-absorbing building made of old sinks, windscreens and toilets: Ghent\u2019s \u00a317m design museum is a green marvel",
-     "url": "https://www.theguardian.com/artanddesign/2026/oct/20/ghent-design-museum-co2-absorbing-recycling",
-     "source": "Guardian US",
-     "take": "Ghent's new \u00a317m design museum absorbs CO2 and is built from old sinks, windscreens and toilets \u2014 82,000 bricks made from construction waste."
+     "title": "Netflix Announces New Ad Updates for Measurement and Capabilities",
+     "url": "https://www.adweek.com/convergent-tv/netflix-announces-new-ad-updates-for-measurement-and-capabilities/",
+     "source": "Adweek",
+     "take": "Netflix rolled out new ad measurement and capability updates, pitching advertisers better outcomes from its ad tier."
     }
    ]
   },

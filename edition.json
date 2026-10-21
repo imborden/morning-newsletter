@@ -1,45 +1,45 @@
 {
  "date": "2026-10-20",
- "updated_label": "AFTERNOON UPDATE \u00b7 4:54 PM PT",
+ "updated_label": "EVENING UPDATE \u00b7 8:18 PM PT",
  "sections": [
   {
    "name": "Tech & AI",
    "stories": [
     {
-     "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-     "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-     "source": "TechCrunch",
-     "take": "Anthropic's draft would let a model be blocked over mass-harm risk \u2014 but only with a judge's sign-off, so agencies can't pull one on their own."
+     "title": "Joel Kaplan leaves Meta",
+     "url": "https://www.platformer.news/meta-joel-kaplan-midterms-moderation/",
+     "source": "Platformer",
+     "take": "Meta's longtime policy chief is out \u2014 a late, major shake-up in who runs trust, safety and election policy at the company."
     },
     {
      "title": "SpaceX and Tesla boards form special committees to review merger",
      "url": "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/",
      "source": "TechCrunch",
-     "take": "Both boards set up independent-director committees to review a SpaceX-Tesla merger; Musk says he likes the idea but sits on neither committee."
+     "take": "Both boards have formed special committees to review a merger, and Musk is publicly backing the idea \u2014 the Tesla-SpaceX tie-up is now a formal process, not a rumor."
+    },
+    {
+     "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+     "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+     "source": "TechCrunch",
+     "take": "Anthropic is pitching a safety bill that could block a model release if it could plausibly kill 50 or more people \u2014 the lab is asking to be regulated on its own terms."
     },
     {
      "title": "OpenAI acquires startup Orchestra Bio\u2060 to beef up its biotech business",
      "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
      "source": "TechCrunch",
-     "take": "OpenAI is folding Orchestra Bio's team into Rosalind, its life-sciences model, to help researchers plan experiments and read results."
+     "take": "OpenAI bought Orchestra Bio to beef up its biotech business \u2014 the AI race keeps expanding from chatbots into the lab."
     },
     {
      "title": "Google is bringing a more personal version of its Gemini AI assistant to your car",
      "url": "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/",
      "source": "TechCrunch",
-     "take": "Gemini's Personal Intelligence heads to cars, pulling from Gmail, Calendar, Maps and YouTube to answer with your own context while you drive."
+     "take": "Google is bringing a more personal Gemini to cars, using what it knows about you to make the in-car assistant actually useful."
     },
     {
-     "title": "The Internet goes on high alert after discovery of 8 compromised TLS certs",
-     "url": "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/",
-     "source": "Ars Technica",
-     "take": "Eight compromised intermediate TLS certificates could let anyone mint credentials for any site \u2014 browsers and operators are scrambling to revoke them."
-    },
-    {
-     "title": "Meta\u2019s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
-     "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
+     "title": "US orders federal agencies to remove China\u2019s DeepSeek AI from their systems",
+     "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
      "source": "TechCrunch",
-     "take": "Muse passed 10 million US downloads in 40 days, a pace only 11 apps have hit, and it's holding users better than rival AI companions."
+     "take": "The US has ordered federal agencies to remove China's DeepSeek from their systems \u2014 the model is now formally treated as a security risk."
     }
    ]
   },
@@ -47,40 +47,40 @@
    "name": "Marketing",
    "stories": [
     {
-     "title": "Netflix Lowers Expected Ad Revenue After Slower Rollout of Capabilities",
-     "url": "https://www.adweek.com/convergent-tv/netflix-lowers-expected-ad-revenue-after-slower-rollout-of-capabilities/",
-     "source": "Adweek",
-     "take": "Netflix cut its ad target from $3B to $2.7B for the year after its new measurement and buying tools rolled out slower than planned."
-    },
-    {
      "title": "Salesforce to Buy Braze for $5.66 Billion",
      "url": "https://www.adweek.com/dealroom/salesforce-to-buy-braze-for-566-billion/",
      "source": "Adweek",
-     "take": "Salesforce is buying Braze for $5.66B to feed real-time customer-behavior signals into its marketing AI and content optimization."
+     "take": "Salesforce will buy Braze for $5.66 billion \u2014 customer engagement just became core CRM, and the martech consolidation wave rolls on."
     },
     {
-     "title": "Publicis agrees to preserve LiveRamp\u2019s neutrality. Will it matter?",
-     "url": "https://www.marketingdive.com/news/publicis-agrees-to-preserve-liveramps-neutrality-will-it-matter/833463/",
-     "source": "Marketing Dive",
-     "take": "The FTC deal lets Publicis buy LiveRamp for $2.2B only with nondiscriminatory access and firewalls \u2014 and some rivals are already pulling back anyway."
+     "title": "Netflix Lowers Expected Ad Revenue After Slower Rollout of Capabilities",
+     "url": "https://www.adweek.com/convergent-tv/netflix-lowers-expected-ad-revenue-after-slower-rollout-of-capabilities/",
+     "source": "Adweek",
+     "take": "Netflix lowered its expected ad revenue after a slower rollout of its ad capabilities \u2014 the streaming ad business is taking longer to mature than pitched."
     },
     {
-     "title": "Courvoisier\u2019s first global campaign in years embraces house party culture",
-     "url": "https://www.marketingdive.com/news/courvoisiers-first-global-campaign-in-years-embraces-house-party-culture/833481/",
-     "source": "Marketing Dive",
-     "take": "Courvoisier's first global push in years leans into house-party culture across social, TV, retail and OOH as cognac tries to recover from its COVID boom fade."
+     "title": "FTC Approves Publicis\u2019 $2.2 Billion LiveRamp Deal With \u2018Neutrality\u2019 Conditions",
+     "url": "https://www.adweek.com/agencies/ftc-approves-publicis-22-billion-liveramp-deal-with-neutrality-conditions/",
+     "source": "Adweek",
+     "take": "The FTC approved Publicis' $2.2 billion LiveRamp deal, but only with 'neutrality' conditions \u2014 data access is the price of closing."
     },
     {
      "title": "Apple finally explains its Safari block, and identity companies are in its sights",
      "url": "https://digiday.com/marketing/apples-growing-ads-business-puts-its-safari-blocklist-under-scrutiny/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
      "source": "Digiday",
-     "take": "Apple spelled out why it blocks identity companies in Safari \u2014 just as its own growing ads business puts that blocklist under new scrutiny."
+     "take": "Apple finally explained its Safari block, and identity companies are in its sights \u2014 another privacy move that also strengthens Apple's own ads business."
     },
     {
-     "title": "\"Is this what designers need to do to find work in 2026?\" a viral high-production video has sparked debate",
-     "url": "https://www.creativebloq.com/news/is-this-what-designers-need-to-do-to-get-work-in-2026-a-viral-high-production-video-has-sparked-debate",
-     "source": "Creative Bloq",
-     "take": "A designer's slick, high-production job-hunt video went viral and split the industry: personality and storytelling land, but should getting hired take a film shoot?"
+     "title": "Charli XCX Joins Absolut for \u2018Chaotic\u2019 Two-Year Partnership",
+     "url": "https://www.adweek.com/creativity/charli-xcx-joins-absolut-for-chaotic-two-year-partnership/",
+     "source": "Adweek",
+     "take": "Charli XCX joins Absolut for a 'chaotic' two-year partnership \u2014 the brand is buying Brat-era cultural energy outright."
+    },
+    {
+     "title": "Robert Downey Jr. Trades Tony Stark\u2019s Aviators for Snap\u2019s AR Specs",
+     "url": "https://www.adweek.com/brand-marketing/robert-downey-jr-trades-tony-starks-aviators-for-snaps-ar-specs/",
+     "source": "Adweek",
+     "take": "Robert Downey Jr. traded Tony Stark's aviators for Snap's AR Specs \u2014 Snap landed a Marvel-sized face for its glasses push."
     }
    ]
   },
@@ -88,40 +88,40 @@
    "name": "NBA",
    "stories": [
     {
-     "title": "Follow live: LeBron James makes 76ers debut against defending champion Knicks",
-     "url": "https://www.espn.com/nba/story/_/id/50220591/nba-opening-day-live-updates-highlights",
+     "title": "Sixers rally in LeBron's debut, spoiling Knicks' championship celebration",
+     "url": "https://www.espn.com/nba/story/_/id/50234172/76ers-knicks-lebron-james-debut-championship-night",
      "source": "ESPN NBA",
-     "take": "Opening Night headliner is live: LeBron debuts for Philadelphia at Madison Square Garden against the defending-champion Knicks."
+     "take": "Final: the Sixers rallied in LeBron's Philly debut to spoil the Knicks' championship celebration at MSG \u2014 opening night delivered."
     },
     {
-     "title": "George's 38 not enough as Pistons rally to defeat Celtics",
+     "title": "Pistons pull off 22-point comeback vs. Celtics, NBA's largest on first day of season",
+     "url": "https://www.espn.com/nba/story/_/id/50233539/pistons-open-season-22-point-comeback-vs-celtics",
+     "source": "ESPN NBA",
+     "take": "Final: Detroit erased a 22-point deficit to beat Boston, the NBA's largest opening-day comeback \u2014 the young Pistons announced themselves."
+    },
+    {
+     "title": "George's 38 most by Celtic in debut, but comes in loss: 'I'm not a moral victory guy'",
      "url": "https://www.espn.com/nba/story/_/id/50232192/paul-george-38-not-enough-pistons-rally-defeat-celtics",
      "source": "ESPN NBA",
-     "take": "Paul George scored 38 in his Celtics debut, but Detroit rallied late to beat Boston 121-113 in the season opener."
+     "take": "Paul George scored 38, the most by a Celtic in a debut, and Boston still lost \u2014 'I'm not a moral victory guy,' he said."
     },
     {
      "title": "Dybantsa debut delayed: No. 1 pick out opener due to ankle",
      "url": "https://www.espn.com/nba/story/_/id/50229436/wizards-aj-dybantsa-ankle-miss-season-opener",
      "source": "ESPN NBA",
-     "take": "No. 1 pick AJ Dybantsa will miss Washington's opener Wednesday with an ankle injury, delaying the most-watched debut of the class."
+     "take": "No. 1 pick AJ Dybantsa will miss Washington's opener with an ankle injury \u2014 the most anticipated debut of the season is on hold."
     },
     {
      "title": "Karl-Anthony Towns confirms he's willing to take less money from Knicks amid halted contract extension talks",
      "url": "https://www.cbssports.com/nba/news/karl-anthony-towns-knicks-contract-extension-talks/",
      "source": "CBS Sports NBA",
-     "take": "Towns says a max deal was 'nowhere' in his mind in talks with New York \u2014 he's willing to take less while extension talks sit halted."
+     "take": "KAT says he's willing to take less money from the Knicks as extension talks sit halted \u2014 a rare star discount offer, with the cap math still unresolved."
     },
     {
-     "title": "Timberwolves agree to 1-year, $40M extension with McDaniels",
-     "url": "https://www.espn.com/nba/story/_/id/50223341/timberwolves-agree-1-year-40m-extension-mcdaniels",
+     "title": "Warriors' Podziemski (back) surprise scratch vs. Lakers",
+     "url": "https://www.espn.com/nba/story/_/id/50233339/warriors-guard-podziemski-vs-lakers-back-soreness",
      "source": "ESPN NBA",
-     "take": "Minnesota locked in Jaden McDaniels on a one-year, $40M extension, keeping him under contract through 2029-30."
-    },
-    {
-     "title": "NBA Power Rankings: Spurs begin the season as No. 1 team, Knicks lead a reloaded East",
-     "url": "https://www.cbssports.com/nba/news/nba-power-rankings-spurs-knicks-oct-20/",
-     "source": "CBS Sports NBA",
-     "take": "CBS opens the year with San Antonio at No. 1 and the Knicks atop a reloaded East as the 2026-27 season tips off."
+     "take": "Brandin Podziemski was a surprise scratch against the Lakers with back soreness \u2014 Golden State started opening night already shorthanded."
     }
    ]
   },
@@ -129,40 +129,40 @@
    "name": "MLB",
    "stories": [
     {
+     "title": "Rays will face Brewers in World Series to produce a first-time champion",
+     "url": "https://www.npr.org/2026/10/20/nx-s1-6008836/rays-brewers-world-series",
+     "source": "NPR News",
+     "take": "It's set: Rays vs. Brewers in the World Series, which guarantees a first-time champion either way."
+    },
+    {
      "title": "The World Series matchup is set! How Rays, Brewers can win it all",
      "url": "https://www.espn.com/mlb/story/_/id/50214717/world-series-rays-brewers-first-look-preview",
      "source": "ESPN MLB",
-     "take": "It's Rays vs. Brewers for a first-ever title either way \u2014 Game 1 is Friday, and ESPN maps how each club can win it."
-    },
-    {
-     "title": "Caminero's unlikely blast, 38.7-second HR trot punctuate Rays' pennant-clinching win",
-     "url": "https://www.espn.com/mlb/story/_/id/50224233/rays-clinch-alcs-game-6-face-brewers-world-series",
-     "source": "ESPN MLB",
-     "take": "Junior Caminero's first postseason homer, off Cleveland closer Cade Smith, sealed Tampa Bay's pennant \u2014 and he took a 38.7-second trot to enjoy it."
+     "take": "First look at the Fall Classic: how Tampa Bay and Milwaukee each win it \u2014 small-market baseball owns October this year."
     },
     {
      "title": "'Fastball Freddy' Peralta named ALCS MVP after pitching Rays into World Series",
      "url": "https://www.espn.com/mlb/story/_/id/50224941/rays-pitcher-freddy-peralta-named-alcs-mvp",
      "source": "ESPN MLB",
-     "take": "Freddy Peralta rode his fastball to ALCS MVP, pitching the Rays past Cleveland and into the World Series."
-    },
-    {
-     "title": "Three X-factors that could shape the 2026 World Series: Infield defense, Bryan Baker's fastball and more",
-     "url": "https://www.cbssports.com/mlb/news/2026-world-series-brewers-rays-x-factors/",
-     "source": "CBS Sports MLB",
-     "take": "CBS picks the swing factors for Friday's opener in Milwaukee: infield defense, Bryan Baker's fastball, and the margins between two balanced clubs."
+     "take": "'Fastball Freddy' Peralta was named ALCS MVP after pitching the Rays into the World Series, including the Game 6 clincher."
     },
     {
      "title": "Boone returning as Yankees manager in 2027, source says",
      "url": "https://www.espn.com/mlb/story/_/id/50222033/aaron-boone-returning-new-york-yankees-manager",
      "source": "ESPN MLB",
-     "take": "Aaron Boone will return for a 10th season as Yankees manager in 2027, ending the annual will-they-move-on speculation early."
+     "take": "Aaron Boone will return as Yankees manager in 2027 \u2014 New York is sticking with its skipper for a 10th season despite another October exit."
     },
     {
      "title": "MLB qualifying offer for free agents rises to $23.15M, up 5.1% from 2025",
      "url": "https://www.espn.com/mlb/story/_/id/50219765/mlb-qualifying-offer-free-agents-rises-2315-million",
      "source": "ESPN MLB",
-     "take": "This winter's qualifying offer is $23.15M, up 5.1% from last year \u2014 the price tag that will shape the top of the free-agent market."
+     "take": "The MLB qualifying offer rises to $23.15 million, up 5.1% from 2025 \u2014 the price of draft-pick compensation keeps climbing."
+    },
+    {
+     "title": "Japanese slugger Sato, 27, seeking to join MLB team through posting system",
+     "url": "https://www.espn.com/mlb/story/_/id/50222458/japanese-slugger-teruaki-sato-27-seeking-move-mlb",
+     "source": "ESPN MLB",
+     "take": "Japanese slugger Teruaki Sato, 27, will seek an MLB move through the posting system \u2014 the next big international bat is officially on the market."
     }
    ]
   },
@@ -170,40 +170,40 @@
    "name": "National",
    "stories": [
     {
-     "title": "Florida kills 77-year-old man in state\u2019s 18th execution of year",
-     "url": "https://www.theguardian.com/us-news/2026/oct/20/florida-execution-18th",
-     "source": "Guardian US",
-     "take": "Florida executed 77-year-old Vietnam veteran William Reaves, its 18th execution this year, despite fellow veterans urging DeSantis to halt it."
-    },
-    {
      "title": "Michael Bloomberg spends $80m on Democrats as Trump moves $400m to Republican candidates",
      "url": "https://www.theguardian.com/us-news/2026/oct/20/michael-bloomberg-donation-democrats-midterms",
      "source": "Guardian US",
-     "take": "Bloomberg is putting $80M into House races to help Democrats retake the majority, while Trump says he'll spend $400M on Republicans, $300M already out."
+     "take": "Bloomberg is spending $80 million on Democrats while Trump moves $400 million to Republican candidates \u2014 the midterm money war is fully on."
     },
     {
-     "title": "US has resumed sharing intelligence with Ukraine about Russian strikes, says Zelenskyy",
-     "url": "https://www.theguardian.com/world/2026/oct/20/us-has-resumed-sharing-intelligence-with-ukraine-about-russian-strikes-says-zelenskyy",
+     "title": "DoJ\u2019s suspected non-citizens list includes \u2018high percentage\u2019 of those born in US, LA officials say",
+     "url": "https://www.theguardian.com/us-news/2026/oct/20/doj-non-citizens-la",
      "source": "Guardian US",
-     "take": "Zelenskyy says US warnings on Russian missile strikes are flowing again after a White House pause last week: 'Now it works. It's great.'"
-    },
-    {
-     "title": "Zelenskyy seeks to mend ties with Trump ahead of Witkoff-Putin meeting",
-     "url": "https://www.pbs.org/newshour/show/zelenskyy-seeks-to-mend-ties-with-trump-ahead-of-witkoff-putin-meeting",
-     "source": "PBS NewsHour",
-     "take": "Zelenskyy met envoy Steve Witkoff and European officials in Norway to ease tensions with Trump before Witkoff sits down with Putin."
+     "take": "LA officials say the DOJ's suspected non-citizen voter list includes a 'high percentage' of people born in the US \u2014 the list's accuracy is now the story."
     },
     {
      "title": "How the Kansas Senate race became surprisingly competitive",
      "url": "https://www.pbs.org/newshour/show/how-the-kansas-senate-race-became-surprisingly-competitive",
      "source": "PBS NewsHour",
-     "take": "Kansas hasn't elected a Democratic senator since 1932, but pastor Adam Hamilton has made Sen. Roger Marshall's race a genuine fight, and Trump campaigned there Monday."
+     "take": "How did Kansas become a competitive Senate race? A Democrat's 'fight like hell' pitch in a state that was supposed to be safe."
     },
     {
-     "title": "FAA approves Boeing's 737 Max 10 for passenger service",
-     "url": "https://www.pbs.org/newshour/nation/faa-approves-boeings-737-max-10-for-passenger-service",
+     "title": "WATCH: Trump doesn't commit to endorsing Vance for president in 2028 yet",
+     "url": "https://www.pbs.org/newshour/politics/watch-trump-doesnt-commit-to-endorsing-vance-for-president-in-2028-yet",
      "source": "PBS NewsHour",
-     "take": "The FAA cleared Boeing's 737 Max 10 for passenger service \u2014 a bigger, more fuel-efficient model airlines want with jet fuel costs high."
+     "take": "Trump declined to commit to endorsing Vance for president in 2028 yet \u2014 the succession question stays deliberately open."
+    },
+    {
+     "title": "Nigeria confirms Ebola case in its capital as woman who arrived from Uganda tests positive",
+     "url": "https://www.pbs.org/newshour/world/nigeria-confirms-ebola-case-in-its-capital-as-woman-who-arrived-from-uganda-tests-positive",
+     "source": "PBS NewsHour",
+     "take": "Nigeria confirmed an Ebola case in Abuja, in a woman who arrived from Uganda \u2014 the outbreak has now spread into western Africa."
+    },
+    {
+     "title": "Florida puts 77-year-old man to death, carrying out its 18th execution of the year",
+     "url": "https://www.pbs.org/newshour/nation/florida-puts-77-year-old-man-to-death-carrying-out-its-18th-execution-of-the-year",
+     "source": "PBS NewsHour",
+     "take": "Florida executed a 77-year-old man, its 18th execution of the year \u2014 the state's record pace continues."
     }
    ]
   },
@@ -211,40 +211,40 @@
    "name": "California",
    "stories": [
     {
+     "title": "\u2018Borders on the absurd.\u2019 California fights Trump lawsuit to set aside 20,000 ballots",
+     "url": "https://calmatters.org/politics/2026/10/california-noncitizen-voter-suit/",
+     "source": "CalMatters",
+     "take": "'Borders on the absurd': California is fighting a Trump lawsuit to set aside 20,000 ballots, in the state's central election fight of the fall."
+    },
+    {
      "title": "Storms descend on Southern California, raising risk of dangerous surf, flooding, debris flows",
      "url": "https://www.latimes.com/california/story/2026-10-20/rain-is-in-southern-california-forecast-with-flooding-concern",
      "source": "LA Times California",
-     "take": "Storms are hitting Southern California with a 30-40% thunderstorm chance and minor flooding and debris-flow risk across LA and Ventura counties."
-    },
-    {
-     "title": "Huge crack along PCH near Laguna Beach will take at least $4 million to fix, officials say",
-     "url": "https://www.latimes.com/california/story/2026-10-20/huge-crack-along-pch-near-laguna-beach-will-take-at-least-4-million-to-fix-officials-say",
-     "source": "LA Times California",
-     "take": "Caltrans secured emergency funding, at least $4M, to fix a huge crack in the slope below PCH near Crystal Cove's Moro Beach."
-    },
-    {
-     "title": "Thousands of California voters got duplicate vote-by-mail ballots. Here's what happened",
-     "url": "https://www.latimes.com/california/story/2026-10-20/thousands-of-california-voters-got-duplicate-vote-by-mail-ballots",
-     "source": "LA Times California",
-     "take": "Thousands of voters in a Central Valley town got two mail ballots; the registrar blames a printing error and says only one will count."
+     "take": "Storms have descended on Southern California, raising the risk of dangerous surf, flooding and debris flows \u2014 a wet, hazardous night ahead."
     },
     {
      "title": "Feds hold back an additional $1.2 billion in California Medicaid reimbursements",
      "url": "https://www.latimes.com/politics/story/2026-10-20/feds-hold-back-additional-1-2-billion-in-california-medicaid-reimbursements",
      "source": "LA Times California",
-     "take": "Washington deferred another $1.2B in California Medicaid money, on top of $1.3B held in May over hospice and in-home care concerns."
+     "take": "The feds are holding back another $1.2 billion in California Medicaid reimbursements \u2014 the state-federal funding fight keeps escalating."
     },
     {
      "title": "California state workers are about to strike. What that means for the DMV, EDD, parks and more",
      "url": "https://calmatters.org/economy/2026/10/state-worker-strike-dmv-edd-services/",
      "source": "CalMatters",
-     "take": "The state's largest state-worker union strikes this week, which could slow the DMV, EDD, parks and other everyday services."
+     "take": "California state workers are about to strike \u2014 here's what that means for the DMV, EDD, parks and other services residents actually use."
     },
     {
-     "title": "Rick Caruso has 'extreme concern' over Raman, but declines to endorse in mayor's race",
-     "url": "https://www.latimes.com/california/story/2026-10-20/rick-caruso-has-extreme-concern-over-raman-but-declines-to-endorse-in-mayors-race",
+     "title": "Thousands of California voters got duplicate vote-by-mail ballots. Here's what happened",
+     "url": "https://www.latimes.com/california/story/2026-10-20/thousands-of-california-voters-got-duplicate-vote-by-mail-ballots",
      "source": "LA Times California",
-     "take": "Caruso again declined to endorse Bass or Raman in the Nov. 3 LA mayoral runoff, but said he has 'extreme concern' over Raman's plan to remove the police chief."
+     "take": "Thousands of California voters got duplicate vote-by-mail ballots \u2014 election officials explained what happened and what voters should do."
+    },
+    {
+     "title": "After their 13-year-old died in an e-motorcycle collision, they're facing charges",
+     "url": "https://www.latimes.com/california/story/2026-10-20/parents-are-charged-13-year-old-sons-e-motorcycle-collision-death",
+     "source": "LA Times California",
+     "take": "After their 13-year-old died in an e-motorcycle collision, his parents are facing charges \u2014 a case that will test where parental liability begins."
     }
    ]
   },
@@ -252,65 +252,89 @@
    "name": "\ud83c\udf99\ufe0f Podcasts",
    "stories": [
     {
-     "title": "Blackstone Hauls in $8.7 Billion for Energy Transition Fund",
-     "url": "https://podcasts.apple.com/us/podcast/blackstone-hauls-in-%248-7-billion-for-energy-transition-fund/id326301337?i=1000797116106&uo=4",
-     "source": "Bloomberg Intelligence",
-     "take": "Blackstone raised $8.7B for an energy-transition fund focused on power and infrastructure \u2014 transmission, data centers and supplies, not just clean energy \u2022 Private-credit respondents rank power the top investment area, ahead of GPUs and real estate; Apollo puts the transition plus power opportunity at $60\u201380T \u2022 Buffett paused gifts to the Gates Foundation; his three children will now direct the $150B philanthropy, each with a distinct focus"
+     "title": "Are Americans\u2019 Finances Better or Worse Under Trump?",
+     "url": "https://podcasts.apple.com/us/podcast/are-americans-finances-better-or-worse-under-trump/id152016440?i=1000797243916&uo=4",
+     "source": "WSJ What's News",
+     "take": "The answer is mixed, category by category: groceries cost a family of four ~$15/week more, mortgage rates hit 7.4% and auto loans are up ~$3,000 \u2022 But the S&P 500 is up 30% since pre-inauguration and 401(k)/IRA balances are up ~18.3% \u2022 Holiday airfare is surging: Thanksgiving tickets +31% year over year, Christmas +23%"
     },
     {
-     "title": "JB Pritzker thinks AI could help us live to 100 \u2014 or threaten us like nukes",
-     "url": "https://podcasts.apple.com/us/podcast/jb-pritzker-thinks-ai-could-help-us-live-to-100-or/id1011668648?i=1000797044168&uo=4",
-     "source": "Decoder with Nilay Patel",
-     "take": "Pritzker's answer in one line: his kids, 21 and 24, will live to 100\u2013110 on AI-driven medical breakthroughs \u2014 and AI is also 'potentially existential,' like nukes, needing guardrails modeled on non-proliferation \u2022 He warns baseline unemployment could rise from 4% to 7\u201310% with gains concentrated in very few hands \u2022 Only Illinois, California and New York have passed AI safety acts; he calls the state-by-state patchwork the wrong way to do it"
+     "title": "Elon Musk Ordered Last Week\u2019s Starlink Slowdown",
+     "url": "https://www.wsj.com/podcasts/whats-news",
+     "source": "WSJ What's News",
+     "take": "WSJ reports Musk personally ordered a speed cap on Starlink in Ukraine that left offensive and interceptor drones virtually useless \u2022 Accounts conflict: Musk said speeds were 'up to Trump,' Trump said he didn't know, and a source says Musk consulted senior officials first \u2022 SpaceX earnings also landed: Q3 revenue more than doubled to $14.6B on AI growth"
     },
     {
-     "title": "The Kansas Senate race is looking like a toss up. Yes, really.",
-     "url": "https://podcasts.apple.com/us/podcast/the-kansas-senate-race-is-looking-like-a-toss-up-yes-really/id1057255460?i=1000797142340&uo=4",
-     "source": "NPR Politics Podcast",
-     "take": "Yes, really \u2014 a toss-up: Democrat Adam Hamilton, a Methodist pastor, is tied or slightly ahead of Republican Sen. Roger Marshall, and both parties are pouring in millions \u2022 Kansas has not elected a Democratic senator since 1932 and Trump won it by 16 points; Marshall underperformed Trump in 2020 \u2022 Hamilton out-raised Marshall $10M to under $1M last quarter; affordability, health care and farm/trade costs drive voters"
-    },
-    {
-     "title": "Why The Stock Market Is Booming \u2014 But Your Paycheck Isn't",
-     "url": "https://podcasts.apple.com/us/podcast/why-the-stock-market-is-booming-but-your-paycheck-isnt/id1744631325?i=1000797039880&uo=4",
-     "source": "Prof G Markets",
-     "take": "The answer: corporate earnings are up ~40% since 2017 while real wages fell 0.7% year-on-year for a sixth straight month \u2014 the boom bypasses paychecks \u2022 Wealth is K-shaped by age: households 75+ are up 37% since 2022, under-35s down 23%; the top 10% drive 50% of consumption \u2022 Meta cut 8,000 jobs to buy GPUs; the hosts' bottom line is automate equity investing and vote, because AI capex flows to asset owners, not workers"
-    },
-    {
-     "title": "Inside Putin\u2019s Plan to Cripple Ukraine This Winter",
-     "url": "https://podcasts.apple.com/us/podcast/inside-putins-plan-to-cripple-ukraine-this-winter/id1200361736?i=1000797051580&uo=4",
-     "source": "The Daily",
-     "take": "A captured Russian plan targets Kyiv, Kharkiv and Odesa to cut electricity by 90% and heating by up to 90% this winter, making civilian life unbearable to force surrender pressure \u2022 Ukraine's ballistic-missile interception rate has fallen from 30\u201340% to about 10% as Patriot supply was diverted, and new jet-powered drones fly ~370 mph \u2022 More than 100 civilians were killed in the first week of October; Kyiv reports throttled Starshield terminals and missed US satellite warnings, which Washington denies"
-    },
-    {
-     "title": "Why your favorite creator is building an app",
-     "url": "https://podcasts.apple.com/us/podcast/why-your-favorite-creator-is-building-an-app/id430333725?i=1000797147996&uo=4",
-     "source": "The Vergecast",
-     "take": "The answer: creators are vibe-coding apps with Claude Code \u2014 prompting AI to write, test, package and ship end-to-end while they act as project managers who cannot read the SwiftUI \u2022 Two types: free micro-tools built in ~2 hours (Leveler, Captioner, Transcriber, Coffee Finder) and CanDo, a $3 Kanban app that gates feedback and recoups ~$1k in token costs \u2022 AI also handles screenshots, release notes and TestFlight via App Store Connect and Cloudflare API keys"
-    },
-    {
-     "title": "Trump Eases Russia Sanctions, Midterm Campaign Money, Violent Protests In France",
-     "url": "https://podcasts.apple.com/us/podcast/trump-eases-russia-sanctions-midterm-campaign-money/id1222114325?i=1000797053513&uo=4",
+     "title": "Pushback On Trump's Russia Policy, Competitive Midterm Races, DOJ Noncitizen Voting",
+     "url": "https://podcasts.apple.com/us/podcast/pushback-on-trumps-russia-policy-competitive-midterm/id1222114325?i=1000797238275&uo=4",
      "source": "Up First",
-     "take": "Trump waived congressionally mandated Russia sanctions he had signed, as Ukraine hit St. Petersburg oil terminals in its largest drone attack since 2022 and Russian strikes killed at least 11 \u2022 The midterms are shaping up as the most expensive ever at over $15B raised; Democrats lead grassroots fundraising while Elon Musk gave $158M to the Senate Leadership Fund plus $89M to his own America PAC \u2022 France's student protests exploded into nationwide riots: ~2,300 arrested and nearly 1,000 police injured"
+     "take": "Trump lifted Russian diesel sanctions, paused a sanctions bill and paused intel sharing with Ukraine \u2014 and Ukraine lost Starlink connectivity for days \u2022 Zelenskyy briefed a bipartisan congressional group, saying he believes the US was behind the outage \u2022 Also: competitive midterm races tighten, and the DOJ's noncitizen voting push draws scrutiny"
     },
     {
-     "title": "Saudi Arabia Postpones \u2018Davos in the Desert\u2019 After Houthi Attacks",
-     "url": "https://podcasts.apple.com/us/podcast/saudi-arabia-postpones-davos-in-the-desert-after/id152016440?i=1000797150135&uo=4",
-     "source": "WSJ What's News",
-     "take": "Saudi Arabia postponed its Future Investment Initiative to next year after Houthi attacks on Riyadh airport; senior executives including Jamie Dimon and Jane Fraser were unwilling to fly in \u2022 The PIF event, chaired by Mohammed bin Salman, is the hallmark of his economic plan \u2014 its delay shows regional conflict jeopardizing that plan \u2022 Also: Musk pledged a SpaceX share to every US child (~73 million, ~$10B), and pharma's protein-degrader drugs move into asthma and Parkinson's trials"
+     "title": "Israelis have changed. Will they change their leader?",
+     "url": "https://podcasts.apple.com/us/podcast/israelis-have-changed-will-they-change-their-leader/id1222114325?i=1000796732225&uo=4",
+     "source": "Up First",
+     "take": "The answer: it's too close to call \u2014 polls put Eisenkot's camp slightly ahead, but neither he nor Netanyahu has a clear path to a majority \u2022 The race could hinge on a handful of votes or end in stalemate and a repeat election next spring \u2022 If Netanyahu loses, Eisenkot promises an Oct. 7 inquiry and a settler-violence crackdown, but no near-term Gaza or Lebanon withdrawal and no two-state support"
     },
     {
-     "title": "Violent Rioting Sweeps France",
-     "url": "https://podcasts.apple.com/us/podcast/violent-rioting-sweeps-france/id152016440?i=1000797056334&uo=4",
-     "source": "WSJ What's News",
-     "take": "School protests in poor Paris suburbs spread into nationwide rioting \u2014 looting, arson and a collapsed city-hall bell tower in Le Creusot \u2022 Macron cannot use cash handouts this time: deficits are over 5% and markets press for cuts, leaving a security crackdown with too few police \u2022 Marine Le Pen gains as 'France in decline' images spread; also, Putin floated a Trump-Xi summit on Ukraine that would exclude Kyiv, and Anthropic committed 5% of shares to a public-benefit fund ahead of a possible IPO"
+     "title": "Trump Midterm Campaigning, Rep. Omar Home Searched, Europe Pushes Back on Russia Deal",
+     "url": "https://podcasts.apple.com/us/podcast/trump-midterm-campaigning-rep-omar-home-searched-europe/id1222114325?i=1000796109657&uo=4",
+     "source": "Up First",
+     "take": "Trump's midterm rallies are vintage Trump: he tells crowds to 'pretend that I'm on the ballot' while the actual candidates barely speak \u2022 Protesters interrupted twice in Youngstown; one was roughed up before removal \u2022 Also covered: the search of Rep. Omar's home and Europe pushing back on the Russia deal"
+    },
+    {
+     "title": "James Talarico on the Rage Economy, Billionaires and Flipping Texas",
+     "url": "https://podcasts.apple.com/us/podcast/james-talarico-on-his-plan-to-turn-texas-blue/id1200361736?i=1000797238020&uo=4",
+     "source": "The Daily",
+     "take": "Democrat James Talarico leads Ken Paxton in Texas Senate polls in a state Trump won by 14 \u2014 Republicans have spent ~$200M on attack ads against him \u2022 His frame: politics is top vs. bottom (billionaires vs. working people), and a 'rage economy' profits from outrage \u2022 His agenda: suspend the federal gas tax, ban corporate PACs and congressional stock trading, raise the minimum wage and tax billionaires \u2022 NYT polling shows 9% of Republicans and 11% of Trump voters already favor him"
+    },
+    {
+     "title": "Elizabeth Holmes and Nathan Fielder Keep Us Guessing",
+     "url": "https://podcasts.apple.com/us/podcast/elizabeth-holmes-and-nathan-fielder-keep-us-guessing/id1200361736?i=1000796911199&uo=4",
+     "source": "The Daily",
+     "take": "Critics call Fielder and Oppenheim's Holmes documentary 'You Can See Everything' a bona-fide breakthrough, filmed over ~30 days before she reported to prison \u2022 The crew lived with Holmes, her partner and their kids \u2014 and the film keeps its subject deliberately unknowable \u2022 Sunday-edition conversation with critics Alyssa Wilkinson and Jason Zinoman"
+    },
+    {
+     "title": "AI is dividing the math world in two",
+     "url": "https://podcasts.apple.com/us/podcast/ai-is-dividing-the-math-world-in-two/id430333725?i=1000797304655&uo=4",
+     "source": "The Vergecast",
+     "take": "OpenAI's internal models solved long-standing open math problems, including Millennium Prize\u2013level work \u2014 mathematicians describe sleeplessness and career anxiety \u2022 OpenAI dumped ~400 results in 700+ preprints in one evening; three were retracted for sign errors \u2022 The clash: Silicon Valley speed vs. academic norms of credit and process \u2014 and OpenAI refused a requested pause on testing frontier models against open problems"
+    },
+    {
+     "title": "Why The Tech Selloff Just Reversed Course",
+     "url": "https://podcasts.apple.com/us/podcast/why-the-tech-selloff-just-reversed-course/id1744631325?i=1000797226863&uo=4",
+     "source": "Prof G Markets",
+     "take": "The answer: AI-exposed stocks were 'dead money' for six months with compressed multiples, so semiconductors and industrials became attractive entry points \u2022 Credit fears around CoreWeave and neo-cloud debt were overblown and largely priced in \u2014 hyperscalers can self-finance \u2022 The real bubble risk may be private markets (Anthropic, OpenAI), not public tech \u2022 Ahead: Anthropic IPO clarity is a key catalyst"
+    },
+    {
+     "title": "Why Dems see opportunity in Alaska",
+     "url": "https://podcasts.apple.com/us/podcast/why-dems-see-opportunity-in-alaska/id1057255460?i=1000797319201&uo=4",
+     "source": "NPR Politics Podcast",
+     "take": "The answer: Trump's popularity in Alaska has dropped sharply since 2024, leaving Republican incumbents exposed \u2022 Ranked-choice voting and open primaries force candidates to the center, helping Mary Peltola (Senate) and Jonathan 'JKT' Christ Tompkins (governor) \u2022 Three Republicans are splitting the governor's vote while affordability crises hammer off-road communities"
+    },
+    {
+     "title": "US Banks Post Mixed Earnings Results",
+     "url": "https://omny.fm/shows/the-tape/us-banks-post-mixed-earnings-results",
+     "source": "Bloomberg Intelligence",
+     "take": "The mixed verdict: equity trading carried the big banks while fixed-income slowed \u2014 except Citi, whose FICC revenue was its highest in at least a decade \u2022 JPMorgan raised next year's net interest income guidance above consensus on loan and deposit growth \u2022 Wells Fargo is regaining trading share now that the asset cap is gone, but commercial lending softened \u2022 Also: Domino's missed as lower-income customers cut back, and LVMH grew just 1% as China dragged"
+    },
+    {
+     "title": "Earnings Special: SpaceX Profit Beats Estimates on Big Jump in AI Revenue",
+     "url": "https://podcasts.apple.com/us/podcast/earnings-special-spacex-profit-beats-estimates-on-big/id326301337?i=1000797340466&uo=4",
+     "source": "Bloomberg Intelligence",
+     "take": "SpaceX crushed Q3: revenue $14.58B vs. $12.87B expected, net income $4.4B vs. $1.8B expected, EPS $0.35 vs. $0.15 \u2022 Starlink showed economies of scale as connectivity revenue grew \u2022 AI was the other profit driver, with capex of $19.6B in line with estimates"
+    },
+    {
+     "title": "GM Slides as CEO Barra Warns of \u2018Intensifying\u2019 Challenges",
+     "url": "https://podcasts.apple.com/us/podcast/gm-slides-as-ceo-barra-warns-of-intensifying-challenges/id326301337?i=1000797291233&uo=4",
+     "source": "Bloomberg Intelligence",
+     "take": "GM raised its full-year forecast and announced a $20B buyback, yet shares fell 5\u20136% after Barra warned of 'intensifying' headwinds \u2022 New-vehicle prices now average over $50,000, squeezing buyers and dealers \u2022 GM's EV-only strategy has lost share to Toyota and Hyundai, and losing the $7,500 tax credit hurts more \u2022 Also in the episode: Salesforce's ~$5.7B Braze deal signals a return to serial M&A"
     }
    ]
   }
  ],
  "markets": {
   "source": "Yahoo Finance",
-  "fetched_at": "2026-10-20T18:23:20.788146-07:00",
+  "fetched_at": "2026-10-20T20:22:58.935955-07:00",
   "dates": [
    "2025-10-21",
    "2025-10-22",

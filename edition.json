@@ -1,6 +1,6 @@
 {
  "date": "2026-10-20",
- "updated_label": "EVENING UPDATE \u00b7 8:18 PM PT",
+ "updated_label": "EVENING UPDATE \u00b7 8:39 PM PT",
  "sections": [
   {
    "name": "Tech & AI",
@@ -328,13 +328,19 @@
      "url": "https://podcasts.apple.com/us/podcast/gm-slides-as-ceo-barra-warns-of-intensifying-challenges/id326301337?i=1000797291233&uo=4",
      "source": "Bloomberg Intelligence",
      "take": "GM raised its full-year forecast and announced a $20B buyback, yet shares fell 5\u20136% after Barra warned of 'intensifying' headwinds \u2022 New-vehicle prices now average over $50,000, squeezing buyers and dealers \u2022 GM's EV-only strategy has lost share to Toyota and Hyundai, and losing the $7,500 tax credit hurts more \u2022 Also in the episode: Salesforce's ~$5.7B Braze deal signals a return to serial M&A"
+    },
+    {
+     "title": "Trumpism Is Backfiring",
+     "url": "https://podcasts.apple.com/us/podcast/trumpism-is-backfiring/id1548604447?i=1000797230116&uo=4",
+     "source": "The Ezra Klein Show",
+     "take": "Chrystia Freeland's thesis: Trump's tariff-and-coercion strategy is backfiring \u2014 allies are uniting against the US and drifting toward China and the EU \u2022 Canada flipped: 41% of Canadians now call the US an 'enemy country,' and more view China favorably than the US \u2022 Carney walked away from trade talks calculating submission was worse than retaliation, and became Canada's most popular PM \u2022 Freeland's warning: a US that demands tribute turns allies into a permanent containment coalition \u2014 and hands China the 'rules-based order' mantle"
     }
    ]
   }
  ],
  "markets": {
   "source": "Yahoo Finance",
-  "fetched_at": "2026-10-20T20:22:58.935955-07:00",
+  "fetched_at": "2026-10-20T20:39:30.750835-07:00",
   "dates": [
    "2025-10-21",
    "2025-10-22",
@@ -1397,7 +1403,7 @@
       768.66,
       768.7,
       768.57,
-      768.77,
+      768.76,
       768.89,
       769.41,
       769.57,
@@ -1427,10 +1433,10 @@
       768.13,
       768.51,
       768.01,
-      768.45,
+      768.46,
       768.56,
       768.62,
-      769.02,
+      769.01,
       769.05
      ]
     },

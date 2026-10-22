@@ -1,93 +1,93 @@
 {
  "date": "2026-10-21",
- "updated_label": "AFTERNOON UPDATE \u00b7 1:34 PM PT",
+ "updated_label": "EVENING UPDATE \u00b7 8:46 PM PT",
  "sections": [
   {
    "name": "Tech & AI",
    "stories": [
     {
-     "title": "Meta ordered to pay $25 billion in case related to Cambridge Analytica scandal",
-     "url": "https://techcrunch.com/2026/10/21/meta-ordered-to-pay-25-billion-in-case-related-to-cambridge-analytica-scandal/",
-     "source": "TechCrunch",
-     "take": "A New Mexico judge orders Meta to pay $25 billion in the Cambridge Analytica case \u2014 the biggest privacy penalty in its history lands in the afternoon."
-    },
-    {
-     "title": "GM is betting compute and AI will help it compete with Chinese automakers",
-     "url": "https://techcrunch.com/2026/10/21/gm-is-betting-compute-and-ai-will-help-it-compete-with-chinese-automakers/",
-     "source": "TechCrunch",
-     "take": "GM bets its next EV platform on a central computer and AI to catch Tesla, Rivian and Chinese rivals, starting with the 2028 Escalade IQ."
-    },
-    {
-     "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
-     "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
-     "source": "TechCrunch",
-     "take": "Amazon blocks shopping agents; Walmart welcomes them with spending controls \u2014 the agent-commerce split is now explicit."
-    },
-    {
-     "title": "PHP armageddon: OpenAI, Google\u2019s Wiz find ancient holes, panicking the internet",
-     "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
-     "source": "TechCrunch",
-     "take": "OpenAI and Google's Wiz surface ancient PHP holes \u2014 a flaw AI helped find, and a risk AI now amplifies."
-    },
-    {
-     "title": "The internet is having a very bad cybersecurity day",
-     "url": "https://techcrunch.com/2026/10/21/the-internet-is-having-a-very-bad-cybersecurity-day/",
-     "source": "TechCrunch",
-     "take": "PHP, Node.js and LiteLLM flaws stack up in one day \u2014 patch queues, not headlines, decide who gets hit."
-    },
-    {
-     "title": "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
-     "url": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
-     "source": "TechCrunch",
-     "take": "Legora raises $550M at an $8.8B valuation \u2014 legal AI keeps printing unicorns while firms rewrite how they bill."
-    },
-    {
-     "title": "GM is giving OnStar an AI makeover",
-     "url": "https://techcrunch.com/2026/10/21/gm-is-giving-onstar-an-ai-makeover/",
-     "source": "TechCrunch",
-     "take": "OnStar gets its biggest overhaul in 30 years, with AI at the center \u2014 GM wants the car to run your errands."
-    },
-    {
-     "title": "Waymo starts offering rides at the Las Vegas airport",
-     "url": "https://techcrunch.com/2026/10/21/waymo-starts-offering-rides-at-the-las-vegas-airport/",
-     "source": "TechCrunch",
-     "take": "Waymo starts airport rides in Las Vegas from dedicated zones at both terminals \u2014 robotaxis move into the hardest pickup market."
-    },
-    {
-     "title": "SpaceX to attempt Starship catch on next flight, with eye on rapid cadence increase",
-     "url": "https://arstechnica.com/space/2026/10/spacex-will-attempt-to-reach-weekly-starship-launches-by-early-2027/",
-     "source": "Ars Technica",
-     "take": "SpaceX plans a Starship catch on its next flight and talks weekly launches by early 2027 \u2014 cadence is the whole game."
-    },
-    {
-     "title": "This Startup Is All In on Recursive Self-Improvement. Its Latest Model Is Scary Good",
-     "url": "https://www.wired.com/story/recursive-self-improvement-flint-latest-model-scary-good/",
+     "title": "Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched",
+     "url": "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/",
      "source": "Wired",
-     "take": "Recursive goes all-in on AI building AI; Wired says its latest model is scary good \u2014 the risk argument arrives with the demo."
+     "take": "AWS logged PHP2Shell exploit attempts four days ago and Wired says the bugs are now broadly exploited \u2014 patch first, ask questions later."
     },
     {
-     "title": "The $15 billion ad-powered AI startup your doctor may already be using",
-     "url": "https://arstechnica.com/ai/2026/10/the-15-billion-ad-powered-ai-startup-your-doctor-may-already-be-using/",
+     "title": "Flaw in PHP computer language leads to shutdown of websites around world",
+     "url": "https://www.theguardian.com/technology/2026/oct/21/flaw-in-php-computer-language-leads-to-shutdown-of-websites-around-world",
+     "source": "Guardian US",
+     "take": "Governments in Belgium, the Netherlands, Finland, France and Germany took sites dark as a precaution \u2014 PHP runs almost 70% of the web."
+    },
+    {
+     "title": "Meta ordered to pay $25bn to New Mexico in Cambridge Analytica data-privacy case",
+     "url": "https://www.theguardian.com/technology/2026/oct/21/meta-fined-new-mexico-data-privacy-case",
+     "source": "Guardian US",
+     "take": "A New Mexico judge orders Meta to pay $25 billion after a jury found it misled consumers over the Cambridge Analytica data grab \u2014 its biggest privacy penalty ever."
+    },
+    {
+     "title": "Tesla profits drop 43% in Q3",
+     "url": "https://arstechnica.com/cars/2026/10/tesla-profits-drop-43-in-q3/",
      "source": "Ars Technica",
-     "take": "OpenEvidence hits $15B on ad-powered medical AI your doctor may already use \u2014 accuracy questions travel with the valuation."
+     "take": "Tesla profit falls 43% in Q3 and its once-booming energy storage business shrinks too \u2014 the earnings story is now cost and execution, not growth."
     },
     {
-     "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
-     "url": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
+     "title": "Tesla says it will start selling Cybercabs by end of year",
+     "url": "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/",
      "source": "TechCrunch",
-     "take": "Blacksmith hits a $1B valuation on a Sequoia-led $66M round for building and testing AI code faster."
+     "take": "Tesla says it will sell the steering-wheel-free Cybercab by year-end, even as federal regulators still investigate whether it meets safety standards."
+    },
+    {
+     "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
+     "url": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
+     "source": "TechCrunch",
+     "take": "Meta plans a new class of stock to fund its AI buildout \u2014 the infrastructure bill now gets its own financing instrument."
+    },
+    {
+     "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
+     "url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
+     "source": "TechCrunch",
+     "take": "Nine months after a $180M seed, Flapping Airplanes raises $1B at $6B to build models without ingesting half the internet."
+    },
+    {
+     "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+     "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+     "source": "TechCrunch",
+     "take": "Recursive releases Flint, a free laptop-sized coding model largely built by its own AI \u2014 an early public test of recursive self-improvement."
+    },
+    {
+     "title": "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
+     "url": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
+     "source": "Ars Technica",
+     "take": "Google Cloud gets GPT 6.1 Astra, Sol and Luna in coming weeks \u2014 OpenAI distribution now runs through its biggest rival's cloud."
+    },
+    {
+     "title": "Meta says Muse has over 10M users, with shopping a top activity",
+     "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+     "source": "TechCrunch",
+     "take": "Meta says Muse passes 10M users in Q3 earnings, with shopping and personal productivity as top uses."
     },
     {
      "title": "Joel Kaplan leaves Meta",
      "url": "https://www.platformer.news/meta-joel-kaplan-midterms-moderation/",
      "source": "Platformer",
-     "take": "Joel Kaplan leaves Meta \u2014 a senior policy exit lands the same day as the $25B privacy judgment."
+     "take": "Joel Kaplan, long the Republican voice inside Meta and a driver of its rightward moderation shift, leaves the company."
     },
     {
-     "title": "Tesla to report earnings after Elon Musk floats SpaceX merger plan",
-     "url": "https://www.theguardian.com/technology/2026/oct/21/elon-musk-tesla-spacex",
-     "source": "Guardian US",
-     "take": "Tesla reports earnings tonight with Musk floating a SpaceX merger that needs 50% shareholder approval \u2014 the call matters more than the quarter."
+     "title": "Mark Zuckerberg Agrees to Stay in California Despite Billionaires\u2019 Tax Ballot Measure",
+     "url": "https://www.wired.com/story/mark-zuckerberg-agrees-to-stay-in-california-despite-billionaires-tax-ballot-measure/",
+     "source": "Wired",
+     "take": "Zuckerberg agrees to stay in California despite the billionaires' tax ballot measure \u2014 the highest-profile exit threat of the cycle ends in a stay."
+    },
+    {
+     "title": "RIP BioWare: EA shuts down storied RPG studio after over three decades",
+     "url": "https://arstechnica.com/gaming/2026/10/rip-bioware-ea-shuts-down-storied-rpg-studio-after-over-three-decades/",
+     "source": "Ars Technica",
+     "take": "EA shuts BioWare after more than three decades \u2014 the studio behind Mass Effect and Dragon Age is gone."
+    },
+    {
+     "title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you already bought",
+     "url": "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/",
+     "source": "Ars Technica",
+     "take": "Xbox wants 24 to 40 cents an hour to stream games you already bought \u2014 ownership, now with an hourly meter."
     }
    ]
   },
@@ -95,10 +95,28 @@
    "name": "Marketing",
    "stories": [
     {
-     "title": "PepsiCo and AB InBev Vet Takes CMO Post at Troubled Diageo North America",
-     "url": "https://www.adweek.com/brand-marketing/pepsico-and-ab-inbev-vet-takes-cmo-post-at-troubled-diageo-north-america/",
+     "title": "Meta Beats Q3 Expectations With Strong Earnings",
+     "url": "https://www.adweek.com/media/meta-beats-q3-expectations-with-strong-earnings/",
      "source": "Adweek",
-     "take": "Diageo North America hires a PepsiCo and AB InBev veteran as CMO \u2014 a troubled spirits giant buys operator credibility."
+     "take": "Meta beats Q3 expectations on strong earnings \u2014 the ad business still funds the AI buildout, even on a day it took a $25B privacy hit."
+    },
+    {
+     "title": "Walmart Embraces AI Agents That Shop on Behalf of Customers",
+     "url": "https://www.adweek.com/commerce/walmart-embraces-ai-agents-that-shop-on-behalf-of-customers/",
+     "source": "Adweek",
+     "take": "Walmart welcomes AI agents that shop for customers while Amazon blocks them \u2014 retail's agent strategy split is now explicit."
+    },
+    {
+     "title": "Apple Music Rebrands With a Look Made by Sound",
+     "url": "https://www.adweek.com/creativity/apple-music-rebrands-with-a-look-made-by-sound/",
+     "source": "Adweek",
+     "take": "Apple Music rebrands with a human-crafted look made by sound \u2014 a deliberate anti-AI-slop identity move in an AI-saturated market."
+    },
+    {
+     "title": "Tilly Norwood Tells All",
+     "url": "https://www.adweek.com/media/tilly-norwood-tells-all/",
+     "source": "Adweek",
+     "take": "AI actor Tilly Norwood tells all \u2014 the synthetic performer story moves from novelty to a real casting and rights fight."
     },
     {
      "title": "Netflix lowers ad revenue forecast by 10%, continues to beef up ad suite",
@@ -107,58 +125,64 @@
      "take": "Netflix cuts its ad revenue forecast 10% while still building out the ad suite \u2014 growth story meets measurement reality."
     },
     {
-     "title": "Kohl\u2019s Brings Back Ellie Kemper for Holiday Ad Campaign",
-     "url": "https://www.adweek.com/commerce/kohls-brings-back-ellie-kemper-for-holiday-ad-campaign/",
+     "title": "Substack Brings Dynamic Ad Insertion to Podcasts",
+     "url": "https://www.adweek.com/media/substack-dynamic-podcast-ads/",
      "source": "Adweek",
-     "take": "Kohl's brings back Ellie Kemper for the holidays \u2014 familiar face, safe warmth, in a season of early discounting."
+     "take": "Substack brings dynamic ad insertion to podcasts \u2014 its creators get a real ad market without leaving the platform."
     },
     {
-     "title": "Domino\u2019s links with Minecraft to push personal pizza via gaming",
-     "url": "https://www.marketingdive.com/news/dominos-links-with-minecraft-to-push-personal-pizza-via-gaming/833357/",
-     "source": "Marketing Dive",
-     "take": "Domino's ties a personal pizza push to Minecraft \u2014 gaming is now the default youth media buy."
-    },
-    {
-     "title": "Creator mentors Colin and Samir want to turn their followers\u2019 ideas into productions",
-     "url": "https://digiday.com/media/creator-mentors-colin-and-samir-want-to-turn-their-followers-ideas-into-productions/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+     "title": "Indie agencies want The Trade Desk and Amazon DSP to acknowledge their buying power with negotiating leverage",
+     "url": "https://digiday.com/marketing/indie-agencies-want-the-trade-desk-and-amazon-dsp-to-acknowledge-their-buying-power-with-negotiating-leverage/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
      "source": "Digiday",
-     "take": "Colin and Samir want to turn followers' ideas into productions \u2014 creator mentors move from advice to ownership."
-    },
-    {
-     "title": "Future of TV Briefing: YouTube, Tubi top streamers\u2019 share of ad exposure time",
-     "url": "https://digiday.com/future-of-tv/future-of-tv-briefing-youtube-tubi-top-streamers-share-of-ad-exposure-time/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-     "source": "Digiday",
-     "take": "YouTube and Tubi top streamers' share of ad exposure time \u2014 free and creator-led beat premium in raw ad reach."
+     "take": "Indie agencies push The Trade Desk and Amazon DSP to recognize their collective buying power \u2014 leverage, not volume, is the ask."
     },
     {
      "title": "Nearly 30% of holiday budgets expected to be spent by the end of October",
      "url": "https://digiday.com/marketing/nearly-30-of-holiday-budgets-expected-to-be-spent-by-the-end-of-october/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
      "source": "Digiday",
-     "take": "Nearly 30% of holiday budgets will be spent by Oct. 31 \u2014 the season now starts before Halloween candy clears."
-    },
-    {
-     "title": "Autodesk reveals how The Cat in the Hat was made in the new Made to Make series",
-     "url": "https://www.creativebloq.com/news/autodesk-reveals-how-the-cat-in-the-hat-was-made-in-the-new-made-to-make-series-",
-     "source": "Creative Bloq",
-     "take": "Autodesk shows how The Cat in the Hat was made \u2014 tool marketing as behind-the-scenes film content."
+     "take": "Nearly 30% of holiday budgets will be spent by end of October \u2014 the holiday season now starts before Halloween costumes come off."
     },
     {
      "title": "GTA 6 unleashes saucy ads on the streets of Miami",
      "url": "https://www.creativebloq.com/news/gta-6-unleashes-saucy-ads-on-the-streets-of-miami",
      "source": "Creative Bloq",
-     "take": "GTA 6 puts saucy street ads in Miami \u2014 the game markets itself in the city it parodies."
+     "take": "GTA 6 puts saucy street ads up in Miami \u2014 Rockstar markets the game in the city that inspired it."
     },
     {
-     "title": "Apple Music Rebrands With a Look Made by Sound",
-     "url": "https://www.adweek.com/creativity/apple-music-rebrands-with-a-look-made-by-sound/",
+     "title": "Kohl\u2019s Brings Back Ellie Kemper for Holiday Ad Campaign",
+     "url": "https://www.adweek.com/commerce/kohls-brings-back-ellie-kemper-for-holiday-ad-campaign/",
      "source": "Adweek",
-     "take": "Apple Music rebrands with a look made by sound \u2014 design you can hear is the brief."
+     "take": "Kohl's brings back Ellie Kemper for its holiday campaign \u2014 a familiar face carries a retailer that needs a clean seasonal win."
     }
    ]
   },
   {
    "name": "NBA",
    "stories": [
+    {
+     "title": "LeBron moonlights at center, helps limit Towns in winning debut for Sixers",
+     "url": "https://www.espn.com/nba/story/_/id/50234172/76ers-knicks-lebron-james-debut-championship-night",
+     "source": "ESPN NBA",
+     "take": "LeBron moonlights at center, helps limit Towns, and wins his Sixers debut on the Knicks' championship night \u2014 Philly spoils the banner party."
+    },
+    {
+     "title": "Kawhi scores 23 points in Toronto return as Raptors rout Bulls",
+     "url": "https://www.espn.com/nba/story/_/id/50244547/kawhi-leonard-scores-23-points-toronto-return-raptors-rout-bulls-135-92",
+     "source": "ESPN NBA",
+     "take": "Kawhi scores 23 in his Toronto return as the Raptors rout the Bulls 135-92 \u2014 a homecoming that was all business."
+    },
+    {
+     "title": "Thunder have Holmgren's back -- in scuffle, and in wake of redemptive season opener",
+     "url": "https://www.espn.com/nba/story/_/id/50235276/thunder-win-chippy-opener-vs-spurs-back-chet-holmgren",
+     "source": "ESPN NBA",
+     "take": "OKC backs Holmgren in a scuffle and in a chippy opener win over the Spurs \u2014 the defending champs start redemptive and physical."
+    },
+    {
+     "title": "Wemby starts 0-for-12 in career-worst night: 'Might be overthinking it'",
+     "url": "https://www.espn.com/nba/story/_/id/50235327/spurs-victor-wembanyama-misses-first-12-shots-rough-season-opener-vs-thunder",
+     "source": "ESPN NBA",
+     "take": "Wembanyama starts 0-for-12 in a career-worst opener against OKC and says he might be overthinking it \u2014 night one, owned plainly."
+    },
     {
      "title": "Sources: Warriors exploring options to trade center Porzingis",
      "url": "https://www.espn.com/nba/story/_/id/50239169/sources-warriors-exploring-trade-options-kristaps-porzingis",
@@ -169,43 +193,19 @@
      "title": "Don\u010di\u0107, in full-page ad, says Lakers title run starts now, asks for fan support",
      "url": "https://www.espn.com/nba/story/_/id/50238836/luka-don\u010di\u0107-asks-lakers-fans-support-special-team",
      "source": "ESPN NBA",
-     "take": "Don\u010di\u0107 buys a full-page LA Times ad saying the Lakers' title run starts tonight \u2014 a star sets his own expectation in print."
-    },
-    {
-     "title": "Thunder have Holmgren's back -- in scuffle, and in wake of redemptive season opener",
-     "url": "https://www.espn.com/nba/story/_/id/50235276/thunder-win-chippy-opener-vs-spurs-back-chet-holmgren",
-     "source": "ESPN NBA",
-     "take": "OKC backs Holmgren in a scuffle and in a redemptive opener over the Spurs \u2014 the champs' chemistry showed up early."
-    },
-    {
-     "title": "Victor Wembanyama on his dismal opening night performance vs. OKC: 'This is not the sport I like right here'",
-     "url": "https://www.cbssports.com/nba/news/victor-wembanyama-opening-night-disappointment-spurs-thunder/",
-     "source": "CBS Sports NBA",
-     "take": "Wembanyama calls his 1-for-13 opener 'not the sport I like' and says he needs to think less \u2014 honesty after a career-worst night."
-    },
-    {
-     "title": "Embiid 'all over the place' in 3-block opener, targets All-Defensive season",
-     "url": "https://www.espn.com/nba/story/_/id/50234914/sixers-joel-embiid-3-blocks-season-opener-vs-knicks",
-     "source": "ESPN NBA",
-     "take": "Embiid posts 13, 11 and 3 blocks in the opener and targets an All-Defensive season \u2014 health permitting, the goal is clear."
-    },
-    {
-     "title": "LeBron at center?! Why the 76ers had to get creative on opening night",
-     "url": "https://www.espn.com/nba/story/_/id/50229896/lebron-knicks-76ers-thunder-spurs-celtics-pistons",
-     "source": "ESPN NBA",
-     "take": "Why Philly played LeBron at center on opening night \u2014 necessity, matchup, and a 24th-season twist explained."
+     "take": "Don\u010di\u0107 buys a full-page LA Times ad saying the Lakers' title run starts now \u2014 a star sets his own expectation in print."
     },
     {
      "title": "What will new-look Wolves look like? By trading for LaMelo Ball, Minnesota swapped 'moodiness for giddiness'",
      "url": "https://www.cbssports.com/nba/news/new-look-wolves-lamelo-ball-trade/",
      "source": "CBS Sports NBA",
-     "take": "Minnesota swapped moodiness for giddiness in the LaMelo trade \u2014 tonight's Heat test, with Giannis debuting in Miami, shows the new shape."
+     "take": "Minnesota's LaMelo Ball trade swaps moodiness for giddiness \u2014 the new-look Wolves debut against Giannis and Miami is the test."
     },
     {
-     "title": "Knicks celebrate NBA title as defense begins, add surprise Cup banner",
-     "url": "https://www.espn.com/nba/story/_/id/50232540/knicks-nba-cup-banner-championship-night",
+     "title": "Time to play the game: Haliburton rocks jacket with nod to Triple H in NBA return",
+     "url": "https://www.espn.com/nba/story/_/id/50242948/tyrese-haliburton-pacers-triple-h-return",
      "source": "ESPN NBA",
-     "take": "The Knicks raised two banners and got rings, then lost \u2014 the repeat starts with a reminder, not a celebration."
+     "take": "Haliburton marks his NBA return in a Triple H jacket \u2014 the entrance is theater, the return is the story."
     }
    ]
   },
@@ -213,52 +213,52 @@
    "name": "MLB",
    "stories": [
     {
+     "title": "Ohtani won't require surgery; Dodgers 'fully expect him to pitch next year'",
+     "url": "https://www.espn.com/mlb/story/_/id/50242196/dodgers-shohei-ohtani-not-require-surgery-expected-pitch-2027",
+     "source": "ESPN MLB",
+     "take": "Ohtani needs no surgery and the Dodgers fully expect him to pitch in 2027 \u2014 the best possible news on the two-way star."
+    },
+    {
      "title": "2026 World Series odds, prediction: Full preview for Brewers vs. Rays in Fall Classic",
      "url": "https://www.cbssports.com/betting/news/2026-world-series-odds-prediction-full-preview-for-brewers-vs-rays-in-fall-classic/",
      "source": "CBS Sports MLB",
      "take": "Full World Series preview: Brewers vs. Rays, two first-title hopefuls \u2014 odds, matchups and the pick in one place."
     },
     {
-     "title": "Suzuki out as Angels manager after 100-loss season",
+     "title": "Jacob Misiorowski gets World Series Game 1 start for Brewers as he looks to reclaim his ace stuff",
+     "url": "https://www.cbssports.com/mlb/news/world-series-game-1-jacob-misiorowski-brewers-start/",
+     "source": "CBS Sports MLB",
+     "take": "Misiorowski gets the Game 1 start for Milwaukee, tasked with reclaiming his ace stuff on the biggest stage."
+    },
+    {
+     "title": "Suzuki out as Angels manager; interim GM Mozeliak won't return in 2027",
      "url": "https://www.espn.com/mlb/story/_/id/50240270/kurt-suzuki-angels-manager-100-loss-season",
      "source": "ESPN MLB",
-     "take": "Kurt Suzuki is out after the Angels' first 100-loss season \u2014 the third managerial vacancy of the offseason."
+     "take": "Kurt Suzuki is out after the Angels' first 100-loss season and interim GM Mozeliak won't return \u2014 a full reset in Anaheim."
     },
     {
      "title": "Yankees, Cashman reach new contract; Steinbrenner puts blame on offense",
      "url": "https://www.espn.com/mlb/story/_/id/50238406/yankees-gm-brian-cashman-agree-new-contract",
      "source": "ESPN MLB",
-     "take": "Cashman signs on again in New York while Steinbrenner blames the offense for the early exit \u2014 Boone and Judge questions remain."
+     "take": "Cashman gets a new Yankees contract while Steinbrenner blames the offense \u2014 continuity at the top, accountability aimed at the lineup."
     },
     {
-     "title": "Uecker's family says he would be 'incredibly proud' of Brewers",
-     "url": "https://www.espn.com/mlb/story/_/id/50240296/uecker-family-says-incredibly-proud-brewers",
+     "title": "Boone spurns calls for culture change; Yankees clubhouse remains a 'strength'",
+     "url": "https://www.espn.com/mlb/story/_/id/50241532/boone-spurns-call-change-yankees-clubhouse-strength",
      "source": "ESPN MLB",
-     "take": "Bob Uecker's family says he would be incredibly proud of these Brewers \u2014 Milwaukee's World Series run gets its blessing."
+     "take": "Boone rejects calls for a culture change and calls the clubhouse a strength \u2014 the Yankees close ranks at season's end."
     },
     {
-     "title": "Jacob Misiorowski gets World Series Game 1 start for Brewers as he looks to reclaim his ace stuff",
-     "url": "https://www.cbssports.com/mlb/news/world-series-game-1-jacob-misiorowski-brewers-start/",
-     "source": "CBS Sports MLB",
-     "take": "Misiorowski gets the Game 1 start for Milwaukee, trying to reclaim ace stuff on the biggest stage."
-    },
-    {
-     "title": "The small-ball World Series? How the Brewers and Rays fit -- and don't fit -- the narrative",
-     "url": "https://www.espn.com/mlb/story/_/id/50228459/world-series-milwaukee-brewers-tampa-bay-rays-alike-different",
+     "title": "A's Fisher bets on youth with Smith hire: 'the world is run by 31-year-olds today'",
+     "url": "https://www.espn.com/mlb/story/_/id/50243662/athletics-bet-youth-31-year-old-taylor-smith-lead-baseball-operations",
      "source": "ESPN MLB",
-     "take": "Is this the small-ball World Series? How the Brewers and Rays fit \u2014 and break \u2014 that narrative."
+     "take": "The A's hand baseball operations to 31-year-old Taylor Smith \u2014 Fisher bets the franchise on youth, in his own words."
     },
     {
      "title": "Once long shots, Brewers, Rays carry sportsbook liability into World Series",
      "url": "https://www.espn.com/mlb/story/_/id/50228306/brewers-rays-carry-sportsbook-liability-world-series",
      "source": "ESPN MLB",
-     "take": "Both finalists started as long shots, so sportsbooks carry real liability into this World Series."
-    },
-    {
-     "title": "Brewers address $1,000 'Timeless Ticket' debacle as fans try to cash in for World Series",
-     "url": "https://www.cbssports.com/mlb/news/brewers-world-series-timeless-ticket/",
-     "source": "CBS Sports MLB",
-     "take": "Milwaukee tries to fix its $1,000 Timeless Ticket mess as fans cash a 2015 promise in for World Series seats."
+     "take": "Long-shot Brewers and Rays carry real sportsbook liability into the World Series \u2014 the books are rooting against both Cinderellas."
     }
    ]
   },
@@ -266,64 +266,82 @@
    "name": "National",
    "stories": [
     {
-     "title": "Top 2 Democrats on Intel say they're preparing for Trump to claim foreign meddling",
-     "url": "https://www.npr.org/2026/10/21/nx-s1-6011170/democrats-election-interference-preparations-president-trump",
-     "source": "NPR News",
-     "take": "Top Intel Democrats prepare for Trump to claim foreign meddling to justify election interference \u2014 the accusation is pre-butted before votes count."
+     "title": "Ilhan Omar says US agents seized 17 items in raid designed to \u2018freak\u2019 her out",
+     "url": "https://www.theguardian.com/us-news/2026/oct/21/ilhan-omar-congresswoman-raid-trump",
+     "source": "Guardian US",
+     "take": "Omar says federal agents seized 17 items in a raid designed to freak her out \u2014 the search of a sitting congresswoman escalates."
     },
     {
-     "title": "Trump\u2019s approval rating drops to 36% two weeks before midterms, poll finds",
-     "url": "https://www.theguardian.com/us-news/2026/oct/21/trump-approval-rating-midterms-poll",
+     "title": "\u2018Man, I loved that\u2019: Trump cheers South Carolina rally attender who hit protester",
+     "url": "https://www.theguardian.com/us-news/2026/oct/21/trump-south-carolina-rally-darline-graham",
      "source": "Guardian US",
-     "take": "Trump's approval drops to 36% two weeks before the midterms \u2014 bread-and-butter prices, not circuses, drive the slide."
+     "take": "Trump cheers a South Carolina rally attendee who hit a protester \u2014 'Man, I loved that' becomes the clip of the night."
+    },
+    {
+     "title": "American imprisoned by Russia released as Witkoff meets and praises Putin",
+     "url": "https://www.pbs.org/newshour/show/american-imprisoned-by-russia-released-as-witkoff-meets-and-praises-putin",
+     "source": "PBS NewsHour",
+     "take": "Putin orders the release of jailed American Stephen Hubbard as envoy Witkoff meets him for Ukraine talks \u2014 Vance defends Witkoff calling Putin a humanitarian."
+    },
+    {
+     "title": "Some US diplomats told to leave Saudi Arabia amid Houthi attacks",
+     "url": "https://www.theguardian.com/world/2026/oct/22/us-diplomats-told-to-leave-saudi-arabia-amid-houthi-attacks",
+     "source": "Guardian US",
+     "take": "Some US diplomats are told to leave Saudi Arabia amid Houthi attacks \u2014 the regional risk picture worsens overnight."
+    },
+    {
+     "title": "AIPAC halts endorsements and direct contributions to candidates",
+     "url": "https://www.npr.org/2026/10/21/nx-s1-6011531/aipac-campaign-contributions-israel-democrats",
+     "source": "NPR News",
+     "take": "AIPAC halts endorsements and direct contributions to candidates \u2014 a major pro-Israel force steps back from the midterm money game."
+    },
+    {
+     "title": "The Justice Department begins notifying counties where it wants to monitor elections",
+     "url": "https://www.npr.org/2026/10/21/nx-s1-6009896/justice-department-monitors",
+     "source": "NPR News",
+     "take": "DOJ begins notifying counties where it wants election monitors \u2014 the federal presence at polling places becomes a campaign issue itself."
+    },
+    {
+     "title": "Poll: Voters want Congress to be a check on Trump, trust Democrats more on issues",
+     "url": "https://www.npr.org/2026/10/21/nx-s1-6011179/poll-democrats-republicans-trump-approval",
+     "source": "NPR News",
+     "take": "A new poll says voters want Congress to check Trump and trust Democrats more on the issues, two weeks before the midterms."
+    },
+    {
+     "title": "Trump's political groups spend nearly $277 million in late midterm blitz on behalf of GOP candidates",
+     "url": "https://www.pbs.org/newshour/politics/trumps-political-groups-spend-nearly-277-million-in-late-midterm-blitz-on-behalf-of-gop-candidates",
+     "source": "PBS NewsHour",
+     "take": "Trump's political groups pour nearly $277 million into a late midterm blitz for GOP candidates \u2014 the money arrives as polls tighten."
     },
     {
      "title": "Supreme court blocks Trump\u2019s bid to restrict gender care for trans prisoners",
      "url": "https://www.theguardian.com/us-news/2026/oct/21/supreme-court-trump-gender-affirming-care-trans-prisoners",
      "source": "Guardian US",
-     "take": "The Supreme Court blocks Trump's bid to restrict gender care for trans prisoners \u2014 a rare loss for the administration at this court."
+     "take": "The Supreme Court blocks Trump's bid to restrict gender care for trans prisoners \u2014 the administration's policy is paused by the court."
     },
     {
      "title": "Chemical tank explosion in Toledo, Ohio, prompts mass evacuation",
      "url": "https://www.theguardian.com/us-news/2026/oct/21/toledo-ohio-tank-explosion-mass-evacuation",
      "source": "Guardian US",
-     "take": "A Toledo chemical tank explosion releases an airborne irritant and forces mass evacuations \u2014 a second blast remains the fear."
+     "take": "A chemical tank explosion in Toledo prompts a mass evacuation \u2014 the day's breaking domestic emergency."
+    },
+    {
+     "title": "Officials confirm flesh-eating New World screwworm parasite found in US wildlife",
+     "url": "https://www.theguardian.com/us-news/2026/oct/21/new-world-screwworm-texas",
+     "source": "Guardian US",
+     "take": "Officials confirm the flesh-eating New World screwworm parasite in US wildlife in Texas \u2014 a livestock nightmare returns to US soil."
+    },
+    {
+     "title": "Pope will not need further cancer treatment, doctors say",
+     "url": "https://www.theguardian.com/world/2026/oct/21/pope-leo-further-lung-cancer-treatment-doctors-vatican",
+     "source": "Guardian US",
+     "take": "Doctors say Pope Leo needs no further lung cancer treatment \u2014 the Vatican's health watch ends the day with good news."
     },
     {
      "title": "Epstein\u2019s attorney and accountant accused of \u2018facilitating and concealing\u2019 his crimes in lawsuit",
      "url": "https://www.theguardian.com/us-news/2026/oct/21/epstein-attorney-accountant-lawsuit",
      "source": "Guardian US",
-     "take": "New Mexico sues Epstein's attorney and accountant for facilitating and concealing his crimes at the ranch."
-    },
-    {
-     "title": "Putin orders release of jailed American as he meets Trump envoy for Ukraine talks",
-     "url": "https://www.theguardian.com/world/2026/oct/21/putin-witkoff-russia-ukraine-trump-stephen-hubbard-release",
-     "source": "Guardian US",
-     "take": "Putin frees American Stephen Hubbard as Witkoff praises him as a 'humanitarian' \u2014 Vance defends the envoy's words in Washington."
-    },
-    {
-     "title": "Controversial US-backed vaccine trial in African newborns halted",
-     "url": "https://www.theguardian.com/world/2026/oct/21/us-vaccine-trial-african-newborns-hepatitis-b",
-     "source": "Guardian US",
-     "take": "The US-backed hepatitis B trial in African newborns is halted after global backlash \u2014 it will not move forward."
-    },
-    {
-     "title": "US charges six people in alleged Massachusetts marriage fraud ring",
-     "url": "https://www.theguardian.com/us-news/2026/oct/21/massachusetts-marriage-fraud-ring-bust",
-     "source": "Guardian US",
-     "take": "Federal prosecutors charge six people over hundreds of alleged sham marriages run for green cards in Massachusetts."
-    },
-    {
-     "title": "Bush\u2019s brother crosses party lines to vote for James Talarico for Senate",
-     "url": "https://www.theguardian.com/us-news/2026/oct/21/neil-bush-votes-james-talarico",
-     "source": "Guardian US",
-     "take": "Republican Neil Bush crosses party lines for Democrat James Talarico in Texas, citing Paxton's conduct \u2014 a Bush name moves."
-    },
-    {
-     "title": "How Trump's attacks on voting system integrity might affect upcoming elections",
-     "url": "https://www.npr.org/2026/10/21/nx-s1-6010463/how-trumps-attacks-on-voting-system-integrity-might-affect-upcoming-elections",
-     "source": "NPR News",
-     "take": "Local officials are on edge as Trump's attacks on voting integrity build toward Election Day \u2014 NPR maps the pressure points."
+     "take": "New Mexico sues Epstein's attorney and accountant, accusing them of facilitating and concealing his crimes at the ranch."
     }
    ]
   },
@@ -331,52 +349,52 @@
    "name": "California",
    "stories": [
     {
-     "title": "Thousands of California public employees begin strike over contract",
-     "url": "https://www.theguardian.com/us-news/2026/oct/21/california-nurses-teachers-strike",
-     "source": "Guardian US",
-     "take": "Thousands of state workers \u2014 nurses, teachers and more \u2014 begin a one-day strike over pay, telework and health costs."
+     "title": "Thousands of California state workers walk off the job in contract dispute with Newsom",
+     "url": "https://calmatters.org/economy/2026/10/state-worker-strike-local-1000/",
+     "source": "CalMatters",
+     "take": "Thousands of state workers walk off in a contract dispute with Newsom over pay, telework and health costs \u2014 the strike day is settled, the contract is not."
     },
     {
-     "title": "A California immigrant and a Nevada group, joined by top Democrats, sue over federal election probes",
-     "url": "https://www.latimes.com/politics/story/2026-10-21/top-democrats-join-california-immigrant-nevada-group-to-sue-over-federal-election-probes",
+     "title": "Your guide to the California Congressional District 34 race: Gomez vs. Gonzales-Torres",
+     "url": "https://www.latimes.com/california/story/2026-10-21/2026-california-election-congressional-district-34-gomez-gonzales-torres-voter-guide",
      "source": "LA Times California",
-     "take": "A California immigrant, a Nevada group and top Democrats sue over federal election probes, calling the noncitizen lists shoddy and coercive."
+     "take": "CD34 voter guide: Gomez vs. Gonzales-Torres \u2014 the LA congressional race, explained for the ballot in hand."
     },
     {
-     "title": "Two teenage girls spent months plotting a mass shooting in Riverside County, officials say",
-     "url": "https://www.latimes.com/california/story/2026-10-21/two-teenage-girls-spent-months-plotting-mass-shooting-in-riverside-county-officials-say",
-     "source": "LA Times California",
-     "take": "Two teenage girls are arrested after months allegedly plotting a mass shooting at Corona High School in Riverside County."
+     "title": "\u2018Borders on the absurd.\u2019 California fights Trump lawsuit to set aside 20,000 ballots",
+     "url": "https://calmatters.org/politics/2026/10/california-noncitizen-voter-suit/",
+     "source": "CalMatters",
+     "take": "California fights the Trump lawsuit to set aside 20,000 ballots, calling the noncitizen list shoddy \u2014 the election-probe fight is now in court."
     },
     {
      "title": "New storm moves into Southern California: What to expect",
      "url": "https://www.latimes.com/california/story/2026-10-21/new-storm-moves-into-southern-california-what-to-expect",
      "source": "LA Times California",
-     "take": "A new storm moves into Southern California \u2014 timing, rain totals and flood-watch areas, in one explainer."
+     "take": "A new storm moves into Southern California with dangerous surf, flooding and debris-flow risk \u2014 the wet pattern is not done."
     },
     {
-     "title": "Why are California state workers so mad at Gavin Newsom? Spoiler alert: Pay cuts",
-     "url": "https://calmatters.org/economy/2026/10/why-are-state-workers-striking/",
-     "source": "CalMatters",
-     "take": "Why state workers are mad at Newsom, in short: pay cuts \u2014 the explainer behind today's strike."
+     "title": "Neighbor who allegedly fed coyote involved in Atwater Village attack could be charged",
+     "url": "https://www.latimes.com/california/story/2026-10-21/neighbor-who-allegedly-fed-atwater-village-coyote-could-be-charged",
+     "source": "LA Times California",
+     "take": "The neighbor who allegedly fed the coyote in the Atwater Village attack could be charged \u2014 feeding wildlife now carries legal risk."
     },
     {
-     "title": "California decision to pull Tahoe schools from Nevada athletics imperils more than trans athletes",
-     "url": "https://calmatters.org/commentary/2026/10/tahoe-truckee-cif-move-athletes/",
-     "source": "CalMatters",
-     "take": "California pulls Tahoe schools from Nevada athletics \u2014 a decision that reaches far beyond trans athletes."
+     "title": "Delivery worker found dead in trunk of Tesla. Suspect assumed aliases to evade police, officials say",
+     "url": "https://www.latimes.com/california/story/2026-10-21/delivery-worker-found-dead-in-trunk-of-tesla-suspect-assumed-aliases-as-officials-hunted",
+     "source": "LA Times California",
+     "take": "A delivery worker is found dead in a Tesla trunk and officials say the suspect used aliases to evade police \u2014 a grim LA case closes in on a suspect."
     },
     {
-     "title": "Vital Central Valley flood control levees are poorly maintained, state watchdog finds",
-     "url": "https://calmatters.org/environment/water/2026/10/central-valley-california-levee-maintenance/",
-     "source": "CalMatters",
-     "take": "Central Valley flood levees are poorly maintained, a state watchdog finds \u2014 risk sits where the water will go."
+     "title": "Two teenage girls spent months plotting a mass shooting in Riverside County, officials say",
+     "url": "https://www.latimes.com/california/story/2026-10-21/two-teenage-girls-spent-months-plotting-mass-shooting-in-riverside-county-officials-say",
+     "source": "LA Times California",
+     "take": "Officials say two teenage girls spent months plotting a mass shooting in Riverside County \u2014 a plot stopped before it started."
     },
     {
-     "title": "What to know about California\u2019s other tax-the-rich measure: Prop. 3",
-     "url": "https://calmatters.org/politics/elections/2026/10/prop-3-california/",
-     "source": "CalMatters",
-     "take": "Prop. 3 is California's other tax-the-rich measure \u2014 what it taxes, who pays, and how it differs from the headline one."
+     "title": "Lopez: Disney built the monorail in a year. LAX's people mover, almost 8, hasn't left the station",
+     "url": "https://www.latimes.com/california/story/2026-10-21/lopez-column-lax-skylink-people-mover-delays",
+     "source": "LA Times California",
+     "take": "Lopez: Disney built the monorail in a year; LAX's people mover, at almost eight years, still has not left the station."
     }
    ]
   },
@@ -384,47 +402,53 @@
    "name": "\ud83c\udf99\ufe0f Podcasts",
    "stories": [
     {
-     "title": "Can Trump deport Ilhan Omar?",
-     "url": "https://podcasts.apple.com/us/podcast/can-trump-deport-ilhan-omar/id1346207297?i=1000797483858&uo=4",
-     "source": "Today, Explained",
-     "take": "The answer: No \u2014 denaturalization over paperwork discrepancies is very uncommon and unlikely to succeed, and canceling her citizenship certificate would not strip citizenship, only the document proving it \u2022 Federal agents searched Omar's DC home over alleged birthdate and military-service misstatements on her father's naturalization paperwork \u2022 David Graham calls it Trump's playbook: declare guilt publicly, claim DOJ independence, lose in court \u2022 Obama broke silence to condemn the targeting as violating a basic principle of American democracy"
+     "title": "Why It\u2019s So Hard to Buy One of the Country\u2019s Top-Selling Cars Right Now",
+     "url": "https://podcasts.apple.com/us/podcast/why-its-so-hard-to-buy-one-of-the-countrys-top/id152016440?i=1000797502465&uo=4",
+     "source": "WSJ What's News",
+     "take": "The answer: the 2026 RAV4 is a new hybrid-only generation needing extensive factory retooling \u2014 Toyota delayed the changeover to keep building the 2025 model, so sales are down 30% on supply, not demand \u2022 Meta ordered to pay $25B by a New Mexico judge, then reported record Q3 revenue over $64B and a new stock class to fund up to $145B in AI capex \u2022 Critical PHP bug, found with AI help, has admins scrambling to patch ~70% of the web"
     },
     {
-     "title": "How AI Is Changing What Work Means",
-     "url": "https://podcasters.spotify.com/pod/show/nlw/episodes/How-AI-Is-Changing-What-Work-Means-e3qsa48",
-     "source": "The AI Daily Brief",
-     "take": "The answer: AI now lets non-experts do specialized work outside their field \u2014 Citrini Research used Claude and 300 subagents to design 318,000 scorpion anti-venom protein candidates in days for under $200K, with 17 confirmed binders \u2022 The bottleneck moved to the physical world: 64 hours of AI design vs. 39 days for lab results vs. 4\u20137 years to release \u2022 Anthropic's leaked financials show an $8.7B operating loss and $750B in compute commitments \u2022 OpenAI bought Orchestra Bio and Anthropic quietly built a wet lab \u2014 labs are becoming science companies, not just model providers"
-    },
-    {
-     "title": "How we really feel about the iPhone Duo | Livestream",
-     "url": "https://podcasts.apple.com/us/podcast/how-we-really-feel-about-the-iphone-duo-livestream/id430333725?i=1000797494211&uo=4",
-     "source": "The Vergecast",
-     "take": "The verdict: 'It's a really fun thing to play with. You should wait.' \u2014 none of the three hosts bought the $2,000 foldable \u2022 Impressive hinge and matte inner screen, but the outer screen is too small, battery life collapses when used open, and most apps are unoptimized 'vibe-coded' stretches \u2022 No telephoto camera and no Face ID; quality lands near iPhone 14/15 generation \u2022 Better buy per the hosts: an iPhone 16 Pro plus an iPad Mini for substantially less"
-    },
-    {
-     "title": "Texas: Democrats' eternal hope",
-     "url": "https://www.npr.org/2026/10/21/nx-s1-6010522/texas-democrats-eternal-hope",
-     "source": "NPR Politics Podcast",
-     "take": "Both Texas races sit within a few points \u2014 Abbott vs. Hosa for governor and Paxton vs. Talarico for Senate, in a state Democrats haven't won statewide since 1994 \u2022 Talarico has led nearly every poll, running on corruption against Paxton's impeachment and fraud baggage; billboards call him 'the most corrupt politician in America' \u2022 Over $500M in TV ads since the primaries, and Trump's Texas approval is 46% \u2022 The hosts' caution: it's 'Lucy and the football' \u2014 midterm turnout drops (young voters 43% to 21%) decide whether hope survives"
-    },
-    {
-     "title": "Witkoff praises Putin as 'a humanitarian'",
-     "url": "https://podcasts.apple.com/us/podcast/witkoff-praises-putin-as-a-humanitarian/id135067274?i=1000797469672&uo=4",
-     "source": "Global News Podcast",
-     "take": "Trump envoy Steve Witkoff praised Putin as 'a humanitarian' in St Petersburg after the release of detained US teacher Stephen Hubbard, floating a diesel deal and trilateral talks \u2022 Hungary's former central bank governor was arrested in an anti-corruption push against Orb\u00e1n-era officials \u2022 The UK approved the Jackdaw North Sea gas field \u2014 opponents say it supplies only 3% of UK gas and won't cut prices \u2022 ICE operations targeting ~350,000 Haitians after TPS ended are spreading panic in Ohio"
-    },
-    {
-     "title": "SpaceX, Tesla Boards Study Possible $3.5 Trillion Merger",
-     "url": "https://podcasts.apple.com/us/podcast/earnings-special-spacex-profit-beats-estimates-on-big/id326301337?i=1000797340466&uo=4",
+     "title": "Earnings Special: Meta Boosts Bet on AI With Spending Outlook, New Stock Class",
+     "url": "https://podcasts.apple.com/us/podcast/earnings-special-meta-boosts-bet-on-ai-with-spending/id326301337?i=1000797519038&uo=4",
      "source": "Bloomberg Intelligence",
-     "take": "Both boards formed special committees to study a merger Musk calls a 'super intelligence singularity' play \u2014 sources say it reads as 'when, not if,' but Tesla shareholders must approve \u2022 SpaceX beat estimates on Starlink and AI compute leasing \u2022 Netflix missed: revenue light, ad guidance cut ~10%, stock down ~5% and ~30% YTD, with a content leadership shake-up \u2022 United passed 72% of soaring fuel costs to fares, and the FAA certified Boeing's 737 MAX-10 with ~2,000 orders in backlog"
+     "take": "Meta guides Q4 revenue to $73\u201376B and narrows 2026 capex to $135\u2013145B, with total expenses raised to $175\u2013179B including a $9.9B legal charge \u2022 Q3 revenue $64.2B, up 26% \u2014 its highest quarter ever; non-GAAP EPS $7.40 excluding the charge \u2022 New non-voting Class C stock (Jan 2027, effectively 2-for-1) gives Meta equity currency for AI talent and M&A without diluting Zuckerberg's control \u2022 Reality Labs losses projected at $18\u201319B for 2026; ad strength is pricing-driven, with AI improving targeting"
+    },
+    {
+     "title": "Small town economics clash with Big Tech agendas",
+     "url": "https://podcasts.apple.com/us/podcast/small-town-economics-clash-with-big-tech-agendas/id201853034?i=1000797518231&uo=4",
+     "source": "Marketplace",
+     "take": "Prineville, Oregon: Meta and Apple data centers ($8B combined) cut unemployment from near 20% to 6% \u2014 but paid $178K and $169K in property tax versus ~$31M without their breaks; Meta's first exemption expires next year and its bill jumps to ~$4M \u2022 Abbott spins off its nutrition business (Similac, Ensure), possibly offloading preterm-formula litigation \u2022 SpaceX\u2013Tesla merger talk framed as full vertical integration, with a governance catch for Tesla shareholders \u2022 Global series wrap: demographics is the slow tidal wave the world economy has not prepared for"
+    },
+    {
+     "title": "At The Money: Can Dividend Investing Give You Yield AND Growth?",
+     "url": "https://podcasts.apple.com/us/podcast/at-the-money-can-dividend-investing-give-you-yield/id730188152?i=1000797503348&uo=4",
+     "source": "Masters in Business",
+     "take": "The answer: Yes \u2014 dividend growth investing, not high-yield chasing, delivers both rising income and appreciation \u2022 Buy when a stock's yield is above its own long-term average and sell when price compresses it too far (Walmart sold at 1.5% vs. a 3.5% norm; Broadcom at 1% after a 16\u00d7 gain) \u2022 Portfolio: 30\u201335 names, reinvest payouts, ~0.6 beta \u2014 income has beaten inflation every calendar year \u2022 Warning signs of a cut: borrowing to pay the dividend and payout ratios over 90%"
+    },
+    {
+     "title": "Meet Sunil Malhotra, the new voice of Apu on \u2018The Simpsons\u2019",
+     "url": "https://podcasts.apple.com/us/podcast/meet-sunil-malhotra-the-new-voice-of-apu-on-the-simpsons/id807752117?i=1000797518126&uo=4",
+     "source": "Press Play with Madeleine Brand",
+     "take": "Sunil Malhotra is the new voice of Apu after Hank Azaria stepped away and the character was silent for 9 years \u2022 He negotiated creative input before accepting: jokes must center Apu's humanity \u2014 overworked dad of eight, rekindled marriage \u2014 not caricature, or he would walk \u2022 Janina Gavankar takes over as Manjula \u2022 The return episode's monologue about the empty house and abandoned Kwik-E-Mart reads, for Malhotra, as a metaphor for South Asian erasure: being there but not being seen"
+    },
+    {
+     "title": "Eaton fire whistleblower sues LACO over retaliation, CA voter fraud, Porto's Bakery coming to IE\u2014 Afternoon Edition",
+     "url": "https://podcasts.apple.com/us/podcast/eaton-fire-whistleblower-sues-laco-over-retaliation/id1508035189?i=1000797496049&uo=4",
+     "source": "The LA Report",
+     "take": "OEM associate director Nicholas Vicaro sues LA County, alleging retaliation after he raised Eaton Fire response concerns through whistleblower channels \u2022 He alleges OEM understaffed the response and alerts, and committed fraud to obtain FEMA reimbursement \u2022 Prior reporting: a retired employee with a history of sleeping on the job was put in charge of overnight evacuation-alert staffing on the fire's first night \u2014 the county denies he slept or caused West Altadena delays \u2022 The county declined to comment and will answer in court"
+    },
+    {
+     "title": "Parents of e-bike death charged, Long Beach protest after ICE altercation,  Angels manager fired\u2014 Evening Edition",
+     "url": "https://podcasts.apple.com/us/podcast/parents-of-e-bike-death-charged-long-beach-protest/id1508035189?i=1000797527876&uo=4",
+     "source": "The LA Report",
+     "take": "Parents of 13-year-old Benson Wen, killed riding an e-motorcycle over 40 mph, are charged with child endangerment \u2014 at least 10 other OC parents face similar charges; arraignment Nov 12 \u2022 Dozens protest in Long Beach after ICE agents allegedly broke a US citizen former city worker's arm; the mayor filed a complaint demanding an independent investigation \u2022 OC county workers pause their strike for mediation, with a special supervisors session Friday \u2022 Angels fire Kurt Suzuki after the franchise's first 100-loss season (62\u2013100)"
     }
    ]
   }
  ],
  "markets": {
   "source": "Yahoo Finance",
-  "fetched_at": "2026-10-21T13:34:30.255998-07:00",
+  "fetched_at": "2026-10-21T20:47:03.597500-07:00",
   "dates": [
    "2025-10-22",
    "2025-10-23",
@@ -1524,7 +1548,7 @@
       773.09
      ]
     },
-    "dayHigh": 774.43,
+    "dayHigh": 774.44,
     "dayLow": 768.4,
     "hi52": 781.62,
     "lo52": 629.28
@@ -1950,7 +1974,7 @@
      ]
     },
     "dayHigh": 727.95,
-    "dayLow": 719.72,
+    "dayLow": 719.71,
     "hi52": 762.86,
     "lo52": 555.6
    },
@@ -2374,7 +2398,7 @@
       343.99
      ]
     },
-    "dayHigh": 345.22,
+    "dayHigh": 345.25,
     "dayLow": 338.83,
     "hi52": 348.15,
     "lo52": 243.42

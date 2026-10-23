@@ -1,6 +1,6 @@
 {
  "date": "2026-10-22",
- "updated_label": "EVENING UPDATE \u00b7 8:25 PM PT",
+ "updated_label": "EVENING UPDATE \u00b7 8:54 PM PT",
  "sections": [
   {
    "name": "Tech & AI",
@@ -358,13 +358,49 @@
      "url": "https://podcasts.apple.com/us/podcast/ai-fears-rise-again-on-wall-street/id152016440?i=1000797678379&uo=4",
      "source": "WSJ What's News",
      "take": "A tech rout hit Wall Street while Treasury yields posted their biggest drop since 2023, and Brent crude rose 4% to over $113 \u2014 its highest since May \u2014 on disruption risk even as physical supplies grow \u2022 Trump called Musk to lift Starlink speed caps in Ukraine (throttled at ~100 mph, blinding drones); the system is working more normally but not fully restored, and Trump denies ordering the throttle \u2022 The Justice Department is reviewing allegations Corey Lewandowski profited from his DHS role by seeking foreign contracts \u2014 the first known DOJ scrutiny of a Trump ally this term \u2022 Heating with natural gas should be cheaper this winter: more supply, flat demand"
+    },
+    {
+     "title": "Why Tesla needs its cars to fly",
+     "url": "https://podcasts.apple.com/us/podcast/why-tesla-needs-its-cars-to-fly/id430333725?i=1000797671143&uo=4",
+     "source": "The Vergecast",
+     "take": "The 'flying' Roadster demo is not for customers: the Rocket trim is invite-only, not road-legal, and Tesla's terms explicitly don't guarantee delivery of any version \u2022 The real purposes: a SpaceX\u2013Tesla synergy narrative, recruiting engineers drifting to AI and robotics, $50k\u2013$250k deposits held as interest-free loans, and distraction from a stagnating lineup \u2022 The Gen 2 Roadster was promised in 2017 for 2020 with 600-mile range; the base car is now ~300 miles, and the demo used cold-gas thrusters and fan downforce to drive up a ramp and hold upside down \u2014 'falling with style'"
+    },
+    {
+     "title": "The AI vs AI Battle for the Internet",
+     "url": "https://podcasters.spotify.com/pod/show/nlw/episodes/The-AI-vs-AI-Battle-for-the-Internet-e3qu3ad",
+     "source": "The AI Daily Brief",
+     "take": "Cybersecurity is now AI vs AI: a GPT-5.6-found PHP flaw affects ~70% of websites, exploit attempts scaled from thousands to millions within hours of a leak, and governed defensive agent fleets now race cheap offensive swarms \u2022 Anthropic launched Claude Duet, a proactive agent for professionals with explicit-permission safeguards \u2022 Walmart opened its platform to third-party shopping agents \u2014 its Sparky users show 40% higher order values \u2014 while Amazon and big banks block agents \u2022 KPMG/UT Austin: top performers are 'AI amplifiers' who guide and refine AI output, yet only 12% of companies use AI for business value"
+    },
+    {
+     "title": "High risk, high rates \u2014 where's the reward?",
+     "url": "https://podcasts.apple.com/us/podcast/high-risk-high-rates-wheres-the-reward/id201853034?i=1000797693164&uo=4",
+     "source": "Marketplace",
+     "take": "The reward is disappearing: triple-C junk yields spiked, but so did default risk, and investors are pulling back from issuers like PetSmart, Michaels and Guitar Center \u2014 a warning, not a buy signal \u2022 Hormuz shipping costs jumped from $2\u20133 to $35\u201340 a barrel, and a Joliet refinery outage pushes Midwest gasoline toward $5 a gallon \u2022 P&G's 'innovation-based pricing' \u2014 new product forms at higher prices \u2014 is now a Fortune 500 playbook; over 20% run dedicated pricing teams \u2022 Hershey swapped cocoa butter for vegetable oils in Reese's, now labeled 'chocolate candy,' not chocolate"
+    },
+    {
+     "title": "Why is LAX\u2019s People Mover such a boondoggle?",
+     "url": "https://podcasts.apple.com/us/podcast/why-is-laxs-people-mover-such-a-boondoggle/id807752117?i=1000797692820&uo=4",
+     "source": "Press Play with Madeleine Brand",
+     "take": "The answer: the LAX People Mover is years behind schedule (2023, now targeting Jan 2027) and over $1 billion over budget ($1.9B \u2192 $3.3B); contractor Linxs and the airport blame each other, and a grand jury report largely faulted the contractor \u2022 It is 99% built and in testing \u2014 experts think it likely opens before the 2028 Olympics, but the December 2026 deadline is tight \u2022 Also: Councilmember and mayoral candidate Nithya Raman defends her DSA membership; DSA endorsed her with a 66% chapter vote"
+    },
+    {
+     "title": "Contagious bird flu strain back in CA, LA Angels fire manager, Netflix content woes\u2014 Afternoon Edition",
+     "url": "https://podcasts.apple.com/us/podcast/contagious-bird-flu-strain-back-in-ca-la-angels-fire/id1508035189?i=1000797669321&uo=4",
+     "source": "The LA Report",
+     "take": "A highly contagious bird flu strain, declared eradicated in April, resurfaced twice in October \u2014 a Sacramento County backyard flock of 40 birds, and Jackie, Big Bear's famed bald eagle \u2022 The Angels declined manager Kurt Suzuki's 2027 option after the franchise's first 100-loss season; the search for a seventh manager in nine seasons begins under new ownership \u2022 Netflix announced layoffs and big changes to reverse audience declines"
+    },
+    {
+     "title": "Homeless spending fraud, Rebuilding post-fire struggles, Feds healthcare fraud arrest \u2014 Evening Edition",
+     "url": "https://podcasts.apple.com/us/podcast/homeless-spending-fraud-rebuilding-post-fire-struggles/id1508035189?i=1000797702173&uo=4",
+     "source": "The LA Report",
+     "take": "A Culver City nonprofit founder pleaded not guilty to wire fraud: prosecutors allege $1 million in public homeless-housing funds went to a nightclub; he faces up to 20 years, trial Dec 7 \u2022 Nearly two years after the Eaton and Palisades fires, only 1% of displaced homeowners have returned; the typical rebuild shortfall beyond insurance is $500,000, and 28% have no temporary-housing money left \u2022 The SoCal healthcare fraud sweep charged 15 people in schemes totaling nearly $2 billion"
     }
    ]
   }
  ],
  "markets": {
   "source": "Yahoo Finance",
-  "fetched_at": "2026-10-22T20:25:53.727036-07:00",
+  "fetched_at": "2026-10-22T20:54:41.188642-07:00",
   "dates": [
    "2025-10-23",
    "2025-10-24",

@@ -1,6 +1,6 @@
 {
  "date": "2026-10-23",
- "updated_label": "EVENING UPDATE \u00b7 8:19 PM PT",
+ "updated_label": "EVENING UPDATE \u00b7 8:56 PM PT",
  "sections": [
   {
    "name": "Tech & AI",
@@ -286,13 +286,37 @@
      "url": "https://podcasts.apple.com/us/podcast/midterm-campaigning-enters-home-stretch/id1057255460?i=1000797834441&uo=4",
      "source": "NPR Politics Podcast",
      "take": "22 million ballots already cast, and Trump is campaigning in deep-red states to turn out his base \u2014 at ~35% approval he motivates both sides, not persuades \u2022 Five toss-up Senate races sit in states Trump won by an average of 13 points in 2024, while Democrats have overperformed in special elections by ~13 points \u2022 A fabricated 'Wedgwood Polling' Michigan poll helped push a candidate out \u2014 fake polls also surfaced in Wisconsin and LA \u2022 Ohio's governor race turned ugly: a Ramaswamy ad featuring his opponent's estranged mother was condemned even by fellow Republicans"
+    },
+    {
+     "title": "Google\u2019s Potential, AI Money Spigot Shutting?, PHP Bug & Cybersecurity\u2019s \u201cBlack October\u201d",
+     "url": "https://podcasts.apple.com/us/podcast/googles-potential-ai-money-spigot-shutting-php-bug/id1522960417?i=1000797853151&uo=4",
+     "source": "Big Technology Podcast",
+     "take": "The answer: the AI money spigot is tightening, not shut \u2014 investor fatigue, higher cost of capital and huge capex (Meta $825B, OpenAI cut to a $1.25T valuation) are making fundraising harder, and the bottleneck may shift from compute to capital \u2022 Sundar Pichai goes 'frontier or bust' on models and pitches one unified agent across Google's products \u2022 Cloud race: GCP $24.8B (+82% YoY) could pass Azure in 1\u20132 years if compute were not diverted to frontier AI"
+    },
+    {
+     "title": "Embracing the Bond Market: Masters in Business with Robin Wigglesworth",
+     "url": "https://podcasts.apple.com/us/podcast/at-the-money-can-dividend-investing-give-you-yield/id730188152?i=1000797503348&uo=4",
+     "source": "Masters in Business",
+     "take": "FT Alphaville editor Robin Wigglesworth on his bond-market history 'A Fabulous Debt': bonds are bigger than stocks and banking combined, and primary issuance funds the real economy daily \u2022 From Venice's forced war loans in 1171 to Hamilton's Treasury market and Jay Cooke's mass-marketed Civil War bonds \u2022 Most giant financial blow-ups \u2014 the GFC, LTCM, 1987 \u2014 were rooted in bonds, not equities"
+    },
+    {
+     "title": "Bass creates crisis call center, ICE documentation, Pershing Square station renamed \u2014 Evening Edition",
+     "url": "https://podcasts.apple.com/us/podcast/bass-creates-crisis-call-center-ice-documentation-pershing/id1508035189?i=1000797868455&uo=4",
+     "source": "The LA Report",
+     "take": "Mayor Bass created LA's first unified Crisis Call Center \u2014 unarmed civilian teams take non-violent 911 calls; investment has tripled and 125,000+ calls were diverted in three years \u2022 Volunteers recorded the highest ICE detention counts yet in Huntington Park, Downey and South Gate \u2022 Metro renamed Pershing Square Station for Biddy Mason, formerly enslaved and one of LA's first Black landowners"
+    },
+    {
+     "title": "Uber and Lyft drivers work less with Waymos, OC book fair returns, The lumpia smashburger taking over Grand Central Market\u2014 Afternoon Edition",
+     "url": "https://podcasts.apple.com/us/podcast/uber-and-lyft-drivers-work-less-with-waymos-oc-book/id1508035189?i=1000797837090&uo=4",
+     "source": "The LA Report",
+     "take": "Gridwise data: LA's Uber and Lyft drivers work and earn less per quarter since Waymo arrived (~900 Waymos, second-most of any metro), even as pay per trip rose \u2022 OC Book Fair returns Nov. 14 in Old Town Tustin with 19 indie bookstores \u2022 The lumpia smashburger at Grand Central Market is in its final pop-up weekend"
     }
    ]
   }
  ],
  "markets": {
   "source": "Yahoo Finance",
-  "fetched_at": "2026-10-23T20:19:51.396886-07:00",
+  "fetched_at": "2026-10-23T20:57:01.134948-07:00",
   "dates": [
    "2025-10-24",
    "2025-10-27",

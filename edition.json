@@ -1,57 +1,57 @@
 {
  "date": "2026-10-23",
- "updated_label": "AFTERNOON UPDATE \u00b7 1:40 PM PT",
+ "updated_label": "EVENING UPDATE \u00b7 8:19 PM PT",
  "sections": [
   {
    "name": "Tech & AI",
    "stories": [
     {
-     "title": "\u2018Black October\u2019: cybersecurity experts sound the alarm over new era of AI-enabled hacking",
-     "url": "https://www.theguardian.com/technology/2026/oct/23/cybersecurity-ai-hacking-php-vulnerability",
-     "source": "Guardian US",
-     "take": "Security experts call it 'Black October': AI-enabled hacking is exploiting a PHP flaw that touches a huge share of the web \u2014 the era of cheap, automated attacks is here."
+     "title": "OpenAI says it will no longer train its AI models on the live internet, citing \u201csignificant risks\u201d",
+     "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+     "source": "TechCrunch",
+     "take": "A sharp reversal \u2014 OpenAI will cut frontier models off from the live web weeks after its own engineer said that fix would not work."
+    },
+    {
+     "title": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
+     "url": "https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/",
+     "source": "Ars Technica",
+     "take": "NASA settled the lander plan and closed out the Orion problem that has dogged the Moon program \u2014 the return timeline gets firmer."
+    },
+    {
+     "title": "Updated Google privacy policy says your Gmail might be used for advertising",
+     "url": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/",
+     "source": "Ars Technica",
+     "take": "Google's new policy language opens the door to Gmail informing ads \u2014 read the fine print before you accept it."
+    },
+    {
+     "title": "Lab testing giant Quest Diagnostics confirms patients\u2019 personal and health data was compromised during breach",
+     "url": "https://techcrunch.com/2026/10/23/lab-testing-giant-quest-diagnostics-confirms-patients-personal-and-health-data-was-compromised-during-breach/",
+     "source": "TechCrunch",
+     "take": "Quest confirms patient personal and health data was taken \u2014 the latest in a run of healthcare breaches this year."
+    },
+    {
+     "title": "Hegseth warns prediction market bets warp military judgment, endanger troops",
+     "url": "https://arstechnica.com/tech-policy/2026/10/pentagon-memo-on-prediction-markets-says-insider-bets-put-troops-lives-at-risk/",
+     "source": "Ars Technica",
+     "take": "The Pentagon memo says insider bets on prediction markets put troops at risk \u2014 prediction markets now have a national-security problem."
+    },
+    {
+     "title": "Elon Musk Just Dumped Another $76 Million Into the Midterms",
+     "url": "https://www.wired.com/story/elon-musk-just-dumped-another-dollar76-million-into-the-midterms/",
+     "source": "Wired",
+     "take": "That pushes Musk past $445 million to Republican groups this cycle, as Democrats vow to investigate him."
     },
     {
      "title": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
      "url": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/",
      "source": "Ars Technica",
-     "take": "Intel won a waiver after Washington's fuzzy ban on foreign-made robots threatened to snag the gear its own fabs depend on."
+     "take": "Intel got a waiver so a vague ban on foreign-made robots does not stall its own chip fabs."
     },
     {
-     "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who\u2019s who of angels",
-     "url": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
+     "title": "Commonwealth Fusion Systems gets $85M to build better fusion-ready semiconductors",
+     "url": "https://techcrunch.com/2026/10/23/commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready-semiconductors/",
      "source": "TechCrunch",
-     "take": "Agent cloud startup Daytona just hit a $1B valuation \u2014 investors are betting the infrastructure layer for AI agents is its own gold rush."
-    },
-    {
-     "title": "What some of Anthropic\u2019s backers are reportedly worth before its IPO",
-     "url": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
-     "source": "TechCrunch",
-     "take": "A look at what Anthropic's early backers stand to make before its IPO shows just how concentrated the AI windfall already is."
-    },
-    {
-     "title": "Experts cast doubt on Anthropic report detailing how AI has altered work at the company",
-     "url": "https://www.theguardian.com/technology/2026/oct/23/anthropic-report-ai-workplace-shifts",
-     "source": "Guardian US",
-     "take": "Outside experts are poking holes in Anthropic's report on how AI has changed work inside Anthropic \u2014 treat company-authored AI research accordingly."
-    },
-    {
-     "title": "How Many Billions Would It Take to Hold Meta Accountable?",
-     "url": "https://www.wired.com/story/how-many-billions-would-it-take-to-hold-meta-accountable/",
-     "source": "Wired",
-     "take": "After New Mexico's $25B fine, Wired asks the obvious follow-up: is there any number big enough to actually change Meta's behavior?"
-    },
-    {
-     "title": "RFK Jr.\u2019s vaccine injury clinic could damage NIH hospital, board warns",
-     "url": "https://arstechnica.com/health/2026/10/rfk-jr-s-vaccine-injury-clinic-could-damage-nih-hospital-board-warns/",
-     "source": "Ars Technica",
-     "take": "The NIH hospital's own board warns RFK Jr.'s planned vaccine injury clinic could damage the institution \u2014 a rare public rebuke from inside."
-    },
-    {
-     "title": "Introducing Machine Gods",
-     "url": "https://www.platformer.news/machine-gods-manifesto-ai-realism/",
-     "source": "Platformer",
-     "take": "Platformer's Casey Newton launches Machine Gods, a manifesto for AI realism \u2014 neither doomer nor booster, and worth your coffee read."
+     "take": "An $85 million federal award for fusion conductors \u2014 the government is funding the supply chain, not just the reactor."
     }
    ]
   },
@@ -59,46 +59,46 @@
    "name": "Marketing",
    "stories": [
     {
-     "title": "Inside Coca-Cola\u2019s marketing transformation amid agency roster shake-up",
-     "url": "https://www.marketingdive.com/news/inside-coca-colas-marketing-transformation-amid-agency-roster-shakeup/833809/",
+     "title": "Omnicom-IPG deal \u2018substantially completed\u2019 as group wins Coke\u2019s NA media",
+     "url": "https://www.marketingdive.com/news/omnicom-ipg-deal-substantially-completed-as-group-wins-cokes-na-media/833837/",
      "source": "Marketing Dive",
-     "take": "The follow-up to Coke's agency shake-up: a full marketing transformation is underway as Omnicom takes North America and WPP keeps the global remit."
+     "take": "The mega-merger is essentially done, Coke's North America media is the prize, and $900 million in cost savings is on track."
     },
     {
-     "title": "Future of Marketing Briefing: Advertisers have more ways than ever to choose a holdco, and free holdcos to choose from",
-     "url": "https://digiday.com/marketing/future-of-marketing-briefing-advertisers-have-more-ways-than-ever-to-choose-a-holdco-and-free-holdcos-to-choose-from/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-     "source": "Digiday",
-     "take": "Digiday's briefing: advertisers now have more ways than ever to pick a holding company \u2014 and more newly-free holdcos to pick from after the Omnicom-IPG close."
-    },
-    {
-     "title": "AI boosts discovery but reviews still seal the deal, new research shows",
-     "url": "https://digiday.com/marketing/ai-boosts-discovery-but-reviews-still-seal-the-deal-new-research-shows/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-     "source": "Digiday",
-     "take": "New research: AI is winning the discovery moment, but human reviews still close the sale \u2014 brands need to feed both machines and people."
-    },
-    {
-     "title": "Creators say it\u2019s difficult to make money from news \u2014 with platform rules and brand guidelines",
-     "url": "https://digiday.com/media/creators-say-its-difficult-to-make-money-from-news-with-platform-rules-and-brand-guidelines/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-     "source": "Digiday",
-     "take": "News creators say platform rules and brand-safety guidelines make their work nearly impossible to monetize \u2014 a structural problem, not a hustle problem."
-    },
-    {
-     "title": "Polymarket\u2019s Reported CMO Firing is the Latest in a Long String of Controversies",
-     "url": "https://www.adweek.com/brand-marketing/polymarkets-reported-cmo-firing-is-the-latest-in-a-long-string-of-controversies/",
+     "title": "Omnicom\u2019s $900M Cost Cutting Drive Continues in Q3 as Revenues Stay Flat",
+     "url": "https://www.adweek.com/agencies/omnicoms-900m-cost-cutting-drive-continues-in-q3-as-revenues-stay-flat/",
      "source": "Adweek",
-     "take": "Polymarket's reported CMO exit is the latest controversy in a long string \u2014 the prediction market's brand risk keeps compounding."
+     "take": "Flat revenue, deep cuts \u2014 Omnicom's Q3 shows the holdco model shrinking its way to growth."
+    },
+    {
+     "title": "McDonald\u2019s Ends 32-Year FIFA World Cup Sponsorship Amid Marketing Overhaul",
+     "url": "https://www.adweek.com/brand-marketing/mcdonalds-ends-32-year-fifa-world-cup-sponsorship-amid-marketing-overhaul/",
+     "source": "Adweek",
+     "take": "After 32 years, McDonald's walks away from the World Cup \u2014 a landmark sponsorship ends in its marketing overhaul."
+    },
+    {
+     "title": "Elon Musk Reportedly Invests $1 Billion Into Skydance After WBD Merger",
+     "url": "https://www.adweek.com/dealroom/elon-musk-reportedly-invests-1-billion-into-skydance-after-wbd-merger/",
+     "source": "Adweek",
+     "take": "A reported $1 billion Musk bet on Skydance after the WBD merger \u2014 his media footprint keeps growing."
+    },
+    {
+     "title": "The ambitious EA Sports rebrand looks great from every angle",
+     "url": "https://www.creativebloq.com/news/the-ambitious-ea-sports-rebrand-looks-great-from-every-angle",
+     "source": "Creative Bloq",
+     "take": "DixonBaxi's EAFC27 rebrand blends iconic sports branding with gaming culture \u2014 and it holds up from every angle."
+    },
+    {
+     "title": "Olivia Rodrigo just showed creatives how to deal with false design allegations in style",
+     "url": "https://www.creativebloq.com/news/olivia-rodrigo-just-showed-creatives-how-to-deal-with-false-design-allegations-in-style",
+     "source": "Creative Bloq",
+     "take": "Accused of using AI, Rodrigo's team answered with process, not denial \u2014 a template for creatives facing the same charge."
     },
     {
      "title": "How Amazon Made a Stronger Partnership Play in Thursday Night Football in Year 5",
      "url": "https://www.adweek.com/convergent-tv/how-amazon-made-a-stronger-partnership-play-in-thursday-night-football-in-year-5/",
      "source": "Adweek",
-     "take": "Five years into Thursday Night Football, Amazon is making a stronger partnership play \u2014 the ad product is maturing past the novelty phase."
-    },
-    {
-     "title": "New Wildwood video reveals the painstaking beauty of Laika's handcrafted animation",
-     "url": "https://www.creativebloq.com/news/new-wildwood-video-reveals-the-painstaking-beauty-of-laikas-handcrafted-animation",
-     "source": "Creative Bloq",
-     "take": "Laika's new Wildwood video is a quiet flex: painstaking handcrafted stop-motion as the anti-AI creative statement."
+     "take": "Year 5 of Thursday Night Football is less about streaming rights and more about partner integrations."
     }
    ]
   },
@@ -106,40 +106,40 @@
    "name": "NBA",
    "stories": [
     {
-     "title": "Report: Knicks delayed coaching rings, tempted staffers with phishing offer",
+     "title": "Mavs' Flagg exits with sore shoulder after hard foul by Pacers' Nesmith",
+     "url": "https://www.espn.com/nba/story/_/id/50262142/mavericks-cooper-flagg-exits-vs-pacers-left-shoulder-soreness",
+     "source": "ESPN NBA",
+     "take": "Cooper Flagg left Friday's game at Indiana with left shoulder soreness after a hard foul \u2014 Dallas holds its breath."
+    },
+    {
+     "title": "Co-defendant denies Billups gave him info, pleads guilty in NBA gambling case",
+     "url": "https://www.espn.com/nba/story/_/id/50252916/co-defendant-denies-billups-gave-info-nba-gambling-case",
+     "source": "ESPN NBA",
+     "take": "Eric Earnest pleaded guilty to wire-fraud conspiracy but denied Chauncey Billups fed him inside information."
+    },
+    {
+     "title": "LeBron responds to Trump's criticism, calls it 'slow news day in office'",
+     "url": "https://www.espn.com/nba/story/_/id/50251603/president-trump-criticizes-lebron-james-anthem-actions",
+     "source": "ESPN NBA",
+     "take": "LeBron brushed off Trump's anthem criticism as a slow news day \u2014 the feud stays cold, for now."
+    },
+    {
+     "title": "Phishing email to Knicks employees an 'unfortunate mistake,' MSG says",
      "url": "https://www.espn.com/nba/story/_/id/50258240/report-knicks-coaches-get-empty-ring-boxes-staff-phished",
      "source": "ESPN NBA",
-     "take": "Only the Knicks: the team delayed real coaching rings, sent staffers empty boxes, and tempted employees with a fake ring offer that was actually a phishing test."
+     "take": "MSG admitted fault: staff got a fake championship-ring claim email while coaches got empty ring boxes on opening night."
     },
     {
-     "title": "Ex-Laker Knecht goes coast-to-coast, joins Knicks on two-way",
-     "url": "https://www.espn.com/nba/story/_/id/50258464/ex-laker-dalton-knecht-joins-knicks-two-way-contract",
+     "title": "Why Warriors-Lakers was the quiet end of an incredible NBA era",
+     "url": "https://www.espn.com/nba/story/_/id/50246805/warriors-lakers-lebron-james-luka-doncic",
      "source": "ESPN NBA",
-     "take": "Dalton Knecht goes coast to coast \u2014 the ex-Lakers first-rounder lands with the Knicks on a two-way deal and gets a fresh start in New York."
+     "take": "The LeBron\u2013Curry rivalry that defined a decade is over \u2014 both teams are now in full transformation."
     },
     {
-     "title": "Opening week intel: A new trend in contract talks; another pricey decision in OKC",
-     "url": "https://www.espn.com/nba/story/_/id/50241622/contract-talks-thunder-payroll-opening-week",
-     "source": "ESPN NBA",
-     "take": "ESPN's opening-week intel: a new trend is reshaping contract talks, and Oklahoma City has another very pricey decision coming."
-    },
-    {
-     "title": "What worked -- and what didn't -- in 12 NBA season debuts",
-     "url": "https://www.espn.com/nba/story/_/id/50241906/lebron-lamelo-kawhi-newcomer-season-debuts",
-     "source": "ESPN NBA",
-     "take": "Twelve season debuts, graded: what actually worked and what flopped for LeBron, LaMelo, Kawhi and the other headliners."
-    },
-    {
-     "title": "Jaylen Brown calls 'cap' on Jayson Tatum's recollection of stunning Celtics-76ers trade",
-     "url": "https://www.cbssports.com/nba/news/jaylen-brown-jayson-tatum-celtics-76ers-trade/",
+     "title": "NBA Sure Things: Three days into the new season, these nine things feel like guarantees",
+     "url": "https://www.cbssports.com/nba/news/nba-sure-things-2026-27-season-tyrese-maxey-ja-morant-chet-holmgren-luka-doncic-lamelo-ball/",
      "source": "CBS Sports NBA",
-     "take": "Jaylen Brown calls 'cap' on Jayson Tatum's version of the stunning Celtics-76ers trade story \u2014 the two stars remember it very differently."
-    },
-    {
-     "title": "Shai Gilgeous-Alexander's 20-point streak is over, and it's a record that may never be broken",
-     "url": "https://www.cbssports.com/nba/news/shai-gilgeous-alexander-20-point-streak-record-may-never-be-broken/",
-     "source": "CBS Sports NBA",
-     "take": "The book closes on SGA's 20-point streak: CBS argues it's a record that may never be broken, which tells you how absurd the run was."
+     "take": "Three days in, the safe bets are already clear \u2014 from Maxey pacing the 76ers to Don\u010di\u0107 resting in LA."
     }
    ]
   },
@@ -147,40 +147,40 @@
    "name": "MLB",
    "stories": [
     {
+     "title": "Follow live: Brewers extend lead on Chourio's RBI single, look to close out Game 1",
+     "url": "https://www.espn.com/mlb/story/_/id/50240295/world-series-game-1-rays-brewers-live-updates-takeaways",
+     "source": "ESPN MLB",
+     "take": "Milwaukee led Game 1 late on Jackson Chourio's RBI single \u2014 the small-ball Fall Classic opened in the Brewers' favor."
+    },
+    {
+     "title": "Brewers' Misiorowski throws 103.5 mph pitch to set World Series record",
+     "url": "https://www.espn.com/mlb/story/_/id/50261786/brewers-jacob-misiorowski-sets-world-series-velocity-record-first-pitch",
+     "source": "ESPN MLB",
+     "take": "Jacob Misiorowski set the World Series velocity record with his very first pitch of the Series \u2014 103.5 mph."
+    },
+    {
+     "title": "Manfred: Small-market World Series good for game, but cap still needed",
+     "url": "https://www.espn.com/mlb/story/_/id/50261784/mlb-rob-manfred-rays-brewers-world-series-good-game",
+     "source": "ESPN MLB",
+     "take": "Manfred praised a Rays-Brewers Series while still arguing small markets need a salary cap to compete regularly."
+    },
+    {
      "title": "Brewers' Woodruff, out since July, added to World Series roster",
      "url": "https://www.espn.com/mlb/story/_/id/50258616/brewers-add-pitcher-brandon-woodruff-world-series-roster",
      "source": "ESPN MLB",
-     "take": "Brandon Woodruff is on the Brewers' World Series roster \u2014 their longest-tenured player, out since July, back just in time for Game 1 tonight."
+     "take": "Brandon Woodruff, out since July 4 with a shoulder injury, made the World Series roster in place of Chad Patrick."
     },
     {
-     "title": "Three biggest questions for World Series Game 1 as Brewers and Rays kick off 2026 Fall Classic",
-     "url": "https://www.cbssports.com/mlb/news/world-series-game-1-brewers-rays-biggest-questions/",
-     "source": "CBS Sports MLB",
-     "take": "Game 1, three big questions: the small-ball Fall Classic between the Rays and Brewers gets underway tonight."
-    },
-    {
-     "title": "Bold predictions for the 2026 World Series: Jackson Chourio makes history, a no-hitter, an ABS ending and more",
-     "url": "https://www.cbssports.com/mlb/news/2026-world-series-bold-predictions-brewers-rays/",
-     "source": "CBS Sports MLB",
-     "take": "Bold World Series predictions are in: Jackson Chourio making history, a no-hitter, and an ABS ending are all on the bingo card."
-    },
-    {
-     "title": "The unbelievable tales and talent of Jacob Misiorowski",
-     "url": "https://www.espn.com/mlb/story/_/id/50255002/jacob-misiorowski-miz-brewers-world-series",
+     "title": "Rays opt for Martinez to start World Series over ace Rasmussen",
+     "url": "https://www.espn.com/mlb/story/_/id/50252981/rays-opt-nick-martinez-open-world-series-vs-brewers",
      "source": "ESPN MLB",
-     "take": "Meet Jacob Misiorowski properly before first pitch: the Brewers' Game 1 starter comes with tales as outsized as his fastball."
+     "take": "Tampa Bay's curveball: Nick Martinez, not ace Drew Rasmussen, started Game 1."
     },
     {
-     "title": "Fall classic or roofball classic? A guide to an all-dome World Series",
-     "url": "https://www.espn.com/mlb/story/_/id/50252562/mlb-world-series-brewers-rays-roofball",
+     "title": "Ohtani won't require surgery; Dodgers 'fully expect him to pitch next year'",
+     "url": "https://www.espn.com/mlb/story/_/id/50242196/dodgers-shohei-ohtani-not-require-surgery-expected-pitch-2027",
      "source": "ESPN MLB",
-     "take": "It's an all-dome World Series \u2014 ESPN's guide to roofball, and why the Rays-Brewers matchup breaks a century of Fall Classic habits."
-    },
-    {
-     "title": "Hideki Matsui hired as manager of Japan's Yomiuri Giants",
-     "url": "https://www.espn.com/mlb/story/_/id/50256430/hideki-matsui-hired-manager-japan-yomiuri-giants",
-     "source": "ESPN MLB",
-     "take": "Hideki Matsui is going home: the former Yankees slugger takes over as manager of Japan's Yomiuri Giants, his original club."
+     "take": "No surgery for Ohtani, and the Dodgers fully expect him to pitch in 2027 \u2014 the best news of LA's winter so far."
     }
    ]
   },
@@ -188,52 +188,52 @@
    "name": "National",
    "stories": [
     {
-     "title": "Trump says he ordered DoJ to file lawsuit to block Alaska Senate results certification",
-     "url": "https://www.theguardian.com/us-news/2026/oct/23/trump-doj-lawsuit-alaska-senate-dan-sullivan",
-     "source": "Guardian US",
-     "take": "Trump says he personally ordered the Justice Department to sue to block certification of Alaska's Senate results \u2014 the morning's lawsuit story, escalated by the president himself."
-    },
-    {
-     "title": "Severe flooding in US west triggers rooftop rescues and evacuation orders",
-     "url": "https://www.theguardian.com/us-news/2026/oct/23/severe-flooding-west-triggers-rescues-evacuations",
-     "source": "Guardian US",
-     "take": "Severe flooding across the US West has triggered rooftop rescues and evacuation orders \u2014 the storm system is still moving."
-    },
-    {
-     "title": "Trump administration stopped sharing evidence in Good and Pretti killings, Minnesota officials say",
-     "url": "https://www.pbs.org/newshour/nation/trump-administration-stopped-sharing-evidence-in-good-and-pretti-killings-minnesota-officials-say",
+     "title": "Trump says he ordered suit to block Alaska Senate results if GOP loses",
+     "url": "https://www.pbs.org/newshour/show/trump-says-he-ordered-suit-to-block-alaska-senate-results-if-gop-loses",
      "source": "PBS NewsHour",
-     "take": "Minnesota officials say the Trump administration stopped sharing evidence in the Good and Pretti killings \u2014 the state-federal fight over the ICE shooting investigations deepens."
+     "take": "Trump said it plainly \u2014 he ordered the lawsuit to block Alaska certification if the Republican loses, with Senate control in the balance."
+    },
+    {
+     "title": "Severe flooding hits Four Corners region, more expected through the weekend",
+     "url": "https://www.npr.org/2026/10/23/nx-s1-6014742/flooding-weather-four-corners",
+     "source": "NPR News",
+     "take": "Rooftop rescues and evacuations in the Four Corners, with more rain coming through the weekend."
+    },
+    {
+     "title": "Ex-FBI employees charged with lying to Congress over Hunter Biden inquiries",
+     "url": "https://www.npr.org/2026/10/23/g-s1-149534/justice-fbi-charged-hunter-biden-laptop",
+     "source": "NPR News",
+     "take": "Two ex-FBI employees are charged with lying to Congress over the Hunter Biden laptop inquiries."
+    },
+    {
+     "title": "'There's babies in there': Oregon father describes stopping school shooter",
+     "url": "https://www.pbs.org/newshour/show/theres-babies-in-there-oregon-father-describes-stopping-school-shooter",
+     "source": "PBS NewsHour",
+     "take": "The Bend father who stopped the shooter describes the moment \u2014 and says he regrets the children he could not save."
+    },
+    {
+     "title": "Medicare Advantage cuts leave millions scrambling to find coverage",
+     "url": "https://www.pbs.org/newshour/show/medicare-advantage-cuts-leave-millions-scrambling-to-find-coverage",
+     "source": "PBS NewsHour",
+     "take": "Insurers are pulling Medicare Advantage plans from markets, leaving millions hunting for new coverage."
+    },
+    {
+     "title": "Aaron Rodgers says NFL\u2019s Paris game is safe despite PSG cancellation amid unrest",
+     "url": "https://www.theguardian.com/sport/2026/oct/23/aaron-rodgers-nfl-paris-game-protests-steelers-saints",
+     "source": "Guardian US",
+     "take": "PSG cancelled amid Paris unrest, but Rodgers says the Steelers-Saints NFL debut in Paris on Sunday is safe to play."
     },
     {
      "title": "Ohio could decide control of the Senate. Its rural voters might decide the winner",
      "url": "https://www.npr.org/2026/10/23/nx-s1-6012809/ohio-senate-governor-election-rural-voters",
      "source": "NPR News",
-     "take": "Ohio could decide the Senate, and its rural voters could decide Ohio \u2014 NPR goes to the counties both parties are quietly obsessing over."
+     "take": "Reliably red Ohio is competitive this year \u2014 and rural voters who backed Republicans may decide the Senate."
     },
     {
-     "title": "Immigrants seeking U.S. citizenship targeted in Trump administration's illegal voting crackdown",
-     "url": "https://www.pbs.org/newshour/politics/immigrants-seeking-u-s-citizenship-targeted-in-trump-administrations-illegal-voting-crackdown",
+     "title": "Seeking to help Collins in Maine, Trump exempts some Canadian imports from his 50% tariffs",
+     "url": "https://www.pbs.org/newshour/politics/seeking-to-help-collins-in-maine-trump-exempts-some-canadian-imports-from-his-50-tariffs",
      "source": "PBS NewsHour",
-     "take": "Immigrants in the citizenship process are being targeted in the administration's illegal-voting crackdown, NewsHour reports \u2014 people following the legal path, swept up anyway."
-    },
-    {
-     "title": "Israel launches collective punishment campaign in Hebron after two soldiers killed",
-     "url": "https://www.theguardian.com/world/2026/oct/23/netanyahu-orders-very-extensive-operation-west-bank-two-israeli-soldiers-killed",
-     "source": "Guardian US",
-     "take": "Israel has launched a sweeping campaign in Hebron after two soldiers were killed, and European and Middle Eastern ministers are warning the US and Israel against fresh strikes on Iran."
-    },
-    {
-     "title": "France to deploy 70,000 police on Saturday to prevent civil unrest",
-     "url": "https://www.theguardian.com/world/2026/oct/23/france-police-demonstrations-civil-unrest",
-     "source": "Guardian US",
-     "take": "France will deploy 70,000 police on Saturday to head off civil unrest, as Macron condemns racism after a fatal shooting near Paris."
-    },
-    {
-     "title": "The Pentagon's guidelines for \"responsible AI\" aren't always followed, report shows",
-     "url": "https://www.npr.org/2026/10/23/nx-s1-6012296/ai-department-of-defense-war",
-     "source": "NPR News",
-     "take": "A new report finds the Pentagon's own 'responsible AI' guidelines aren't always followed \u2014 the gap between AI policy and AI practice, documented."
+     "take": "A tariff carve-out aimed squarely at Susan Collins' tight Maine race \u2014 trade policy as campaign help."
     }
    ]
   },
@@ -241,40 +241,40 @@
    "name": "California",
    "stories": [
     {
+     "title": "'This is not normal': Feds demand California counties set aside 'likely' noncitizen ballots",
+     "url": "https://www.latimes.com/california/story/2026-10-23/trump-administration-election-letters-california-counties",
+     "source": "LA Times California",
+     "take": "The Justice Department told every California county to segregate ballots from voters it believes are noncitizens \u2014 election officials call it unprecedented."
+    },
+    {
+     "title": "9th Circuit blocks path for Trump to again deploy National Guard without state approval",
+     "url": "https://www.latimes.com/california/story/2026-10-23/9th-circuit-trump-california-national-guard-deployment-ruling",
+     "source": "LA Times California",
+     "take": "The 9th Circuit ruled last year's Guard deployment unlawful and blocked Trump from federalizing California troops over the state's objection again."
+    },
+    {
+     "title": "San Bernardino County owes $51 million to mother of mentally-ill man killed by deputies, jury says",
+     "url": "https://www.latimes.com/california/story/2026-10-23/garza-shooting-verdict-federal-trial-award",
+     "source": "LA Times California",
+     "take": "A federal jury awarded more than $51 million to the mother of a man killed by San Bernardino deputies."
+    },
+    {
+     "title": "The millions spent by California billionaires against Prop. 40 is about 0.07% of their wealth",
+     "url": "https://www.latimes.com/politics/story/2026-10-23/these-californians-spent-0-07-of-their-billions-to-oppose-prop-40",
+     "source": "LA Times California",
+     "take": "$293 million spent against the billionaire-tax measure sounds huge \u2014 it is 0.07% of the opponents' combined wealth."
+    },
+    {
      "title": "Mayor Karen Bass outpaces challenger Nithya Raman in fundraising for the Nov. 3 runoff",
      "url": "https://www.latimes.com/california/story/2026-10-23/karen-bass-leads-nithya-raman-in-fundraising",
      "source": "LA Times California",
-     "take": "Mayor Karen Bass is outpacing challenger Nithya Raman in fundraising for the Nov. 3 runoff \u2014 the money race says the incumbent still holds the establishment lane."
+     "take": "Bass raised more, but Raman banked more for the final push \u2014 the LA mayor's runoff is a cash race too."
     },
     {
-     "title": "ICE agents tackle and injure U.S. citizen student with disabilities, local officials say",
-     "url": "https://www.latimes.com/politics/story/2026-10-23/santa-maria-high-school-student-u-s-citizen-is-injured-as-ice-detains-him",
+     "title": "Metrolink suspends iconic coastal route due to high tides",
+     "url": "https://www.latimes.com/california/story/2026-10-23/metrolink-suspends-iconic-coastal-route-due-to-high-tides",
      "source": "LA Times California",
-     "take": "Santa Maria officials say ICE agents tackled and injured a U.S. citizen student with disabilities while detaining him \u2014 expect this one to escalate politically."
-    },
-    {
-     "title": "A \u2018battle of the ages\u2019 in a California House race: Matsui, 82, faces a 41-year-old challenger",
-     "url": "https://calmatters.org/politics/2026/10/california-congress-7th-district-race/",
-     "source": "CalMatters",
-     "take": "A battle of the ages in a California House race: Rep. Matsui, 82, faces a 41-year-old challenger arguing it's time for a generational handoff."
-    },
-    {
-     "title": "California\u2019s carbon market changed this year, and the next governor will inherit the fallout",
-     "url": "https://calmatters.org/environment/climate-change/2026/10/california-next-governor-carbon-market/",
-     "source": "CalMatters",
-     "take": "California's carbon market changed this year, and whoever wins the governor's race inherits the fallout \u2014 CalMatters maps what Becerra and Hilton would each do on climate."
-    },
-    {
-     "title": "After decades of false starts, the 1914 Hotel Clark finally reopens in downtown L.A.",
-     "url": "https://www.latimes.com/travel/story/2026-10-23/hotel-clark-dtla-reopening",
-     "source": "LA Times California",
-     "take": "After decades of false starts, downtown L.A.'s 1914 Hotel Clark has finally reopened \u2014 a century-old landmark back from the dead."
-    },
-    {
-     "title": "How a clash between Inglewood leaders and SoFi Stadium operators hit the ballot",
-     "url": "https://www.latimes.com/sports/story/2026-10-23/clash-between-inglewood-sofi-stadium-operators-hits-ballot",
-     "source": "LA Times California",
-     "take": "The clash between Inglewood's leaders and SoFi Stadium's operators has landed on the ballot \u2014 voters get the final say in a very local power fight."
+     "take": "High tides shut the Pacific Surfliner through South Orange County \u2014 the coastal route's climate problem in miniature."
     }
    ]
   },
@@ -282,41 +282,17 @@
    "name": "\ud83c\udf99\ufe0f Podcasts",
    "stories": [
     {
-     "title": "Apple\u2019s $2,000 iPhone Duon Debuts With Limited Supply",
-     "url": "https://podcasts.apple.com/us/podcast/apples-%242-000-iphone-duon-debuts-with-limited-supply/id326301337?i=1000797815791&uo=4",
-     "source": "Bloomberg Intelligence",
-     "take": "Foldable Duo outlook: 10\u201314M units in year one (~7% of Apple's iPhone base), Pro/Pro Max buyers trading up, demand at the top of the range but supply limited \u2022 Apple is the anti-AI safe haven (+27% YTD, all-time high) under a design-focused new CEO \u2022 The AI trade is 'in shambles' on economics: ~50\u00a2 of compute per $1 of revenue at the frontier labs \u2022 Amex's premium engine is intact (10% revenue, 15% EPS growth, 99% Platinum retention) while Infosys cut guidance as AI crowds out IT budgets"
-    },
-    {
-     "title": "The Most Concerning AI Bubble Signals",
-     "url": "https://podcasts.apple.com/us/podcast/the-most-concerning-ai-bubble-signals/id1680633614?i=1000797829869&uo=4",
-     "source": "The AI Daily Brief",
-     "take": "The signals: NASDAQ down 3% Thursday and hedge funds sold tech at the fastest pace in a decade \u2022 The 30-year Treasury yield fell to 5.38%, a one-month low, in a flight to safety away from the AI trade \u2022 Gartner's bear case: 80% of neo-clouds bankrupt by 2030, against $3.5T of AI infrastructure spending"
-    },
-    {
-     "title": "What Hundreds of Focus Groups With Trump Voters Revealed",
-     "url": "https://podcasts.apple.com/us/podcast/what-hundreds-of-focus-groups-with-trump-voters-revealed/id1548604447?i=1000797750094&uo=4",
-     "source": "The Ezra Klein Show",
-     "take": "The reveal: Trump's approval fell from over 50% to 37.5% because voters say he broke his core promise \u2014 lower prices \u2014 with sweeping tariffs and a widening Iran war they blame on him directly \u2022 'America First' meant 'take care of us at home'; voters judge outcomes (ground beef, gas, rent), not rhetoric \u2022 MAGA is splitting over Iran, and the Epstein files non-release broke the transparent-outsider story for younger men \u2022 Data centers have emerged as a cross-partisan issue, and focus-group dynamics point to midterm wave territory"
-    },
-    {
-     "title": "Mass Effect Universe: What Could Have Been - Kinda Funny Games Daily 10.23.26",
-     "url": "https://podcasts.apple.com/us/podcast/mass-effect-universe-what-could-have-been-kinda-funny/id1247343210?i=1000797836236&uo=4",
-     "source": "Kinda Funny Games Daily",
-     "take": "The canceled Mass Effect Universe, per the leak: set 600+ years after the Reaper War, you play a customizable N7 agent in a three-faction galactic cold war, built by a ~50-person skeleton crew 'for BioWare fans' \u2022 BioWare has been shuttered after EA's $55B sale to Saudi PIF, Silver Lake and Affinity Partners \u2014 400 jobs lost, the Mass Effect 5 team cut \u2022 A Valve designer said 'HLX' out loud at Game Sound Con; insiders claim Half-Life 3 has been playable start-to-finish since summer 2025 \u2022 Ex-BioWare studio Archetype's Exodus launches April 7, 2027"
-    },
-    {
-     "title": "RFK Jr. and the chocolate factory",
-     "url": "https://podcasts.apple.com/us/podcast/rfk-jr-and-the-chocolate-factory/id1346207297?i=1000797825960&uo=4",
-     "source": "Today, Explained",
-     "take": "Mars spent millions retooling (~300 machinery types) to swap synthetic Blue 1 for spirulina \u2014 and the result was an online-only naturally dyed M&M line with no blue M&M; the originals stay on shelves and, per reporter Jesse Newman, the health impact is negligible \u2022 Every dye change so far is voluntary; food companies say they want federal mandates so competitors can't undercut them \u2022 The White House has stalled RFK Jr.'s agenda, including an 'ultra-processed' definition, over grocery-price fears before the midterms \u2022 Bottom line after a year-plus: no regulatory agenda has advanced and MAHA progress is 'pretty slow'"
+     "title": "Midterm campaigning enters home stretch",
+     "url": "https://podcasts.apple.com/us/podcast/midterm-campaigning-enters-home-stretch/id1057255460?i=1000797834441&uo=4",
+     "source": "NPR Politics Podcast",
+     "take": "22 million ballots already cast, and Trump is campaigning in deep-red states to turn out his base \u2014 at ~35% approval he motivates both sides, not persuades \u2022 Five toss-up Senate races sit in states Trump won by an average of 13 points in 2024, while Democrats have overperformed in special elections by ~13 points \u2022 A fabricated 'Wedgwood Polling' Michigan poll helped push a candidate out \u2014 fake polls also surfaced in Wisconsin and LA \u2022 Ohio's governor race turned ugly: a Ramaswamy ad featuring his opponent's estranged mother was condemned even by fellow Republicans"
     }
    ]
   }
  ],
  "markets": {
   "source": "Yahoo Finance",
-  "fetched_at": "2026-10-23T13:40:14.336841-07:00",
+  "fetched_at": "2026-10-23T20:19:51.396886-07:00",
   "dates": [
    "2025-10-24",
    "2025-10-27",

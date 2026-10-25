@@ -1,51 +1,51 @@
 {
  "date": "2026-10-25",
- "updated_label": "MORNING EDITION \u00b7 9:03 AM PT",
+ "updated_label": "AFTERNOON UPDATE \u00b7 1:00 PM PT",
  "sections": [
   {
    "name": "Tech & AI",
    "stories": [
     {
-     "title": "The hottest AI wearables and gadgets you should know about",
-     "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+     "title": "AI delivers \u2018zero financial payoff\u2019 to most companies, Apollo economist says",
+     "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
      "source": "TechCrunch",
-     "take": "The AI wearable field is crowding fast \u2014 TechCrunch rounds up the hottest, from Muse Charm and Bee to Friend and Plaud."
+     "take": "The hype check lands hard \u2014 despite massive spend, AI has delivered zero financial payoff to corporate America outside tech, an Apollo economist says."
     },
     {
-     "title": "Here are the top AI agents that can live in your text messages",
-     "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
-     "source": "TechCrunch",
-     "take": "The next agent home is your texts \u2014 notable agents for general help, families, travel and work now live inside messaging threads."
+     "title": "Anthropic sued for allegedly using 274 Elvis Presley songs to train AI models",
+     "url": "https://www.theguardian.com/us-news/2026/oct/25/elvis-presley-anthropic-lawsuit-ai-models-music",
+     "source": "Guardian US",
+     "take": "Elvis joins the AI training fight \u2014 the catalogue owners say Anthropic infringed 274 songs, including \u201cCan\u2019t Help Falling in Love.\u201d"
     },
     {
-     "title": "Block\u2019s new voice model sounds eerily human",
-     "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+     "title": "Starlink seems to be working normally again in Ukraine",
+     "url": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
      "source": "TechCrunch",
-     "take": "Block's new voice model sounds eerily human \u2014 and it can run locally on a MacBook M4 Max, no cloud needed."
+     "take": "Starlink is back to normal in Ukraine after a week of front-line disruption \u2014 and Ukraine disputes Musk\u2019s claim its military violated the terms."
     },
     {
-     "title": "Instacart reportedly discussed selling itself with DoorDash and Uber",
-     "url": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
-     "source": "TechCrunch",
-     "take": "Instacart reportedly talked about selling itself to DoorDash and Uber \u2014 a consolidation move that would reshape grocery delivery overnight."
-    },
-    {
-     "title": "What the US Movement Against Data Centers Can Learn From Abroad",
-     "url": "https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/",
+     "title": "Scientists Trapped an Antimatter Particle for Months to Study Its Secrets",
+     "url": "https://www.wired.com/story/scientists-trapped-an-antimatter-particle-for-months-to-study-its-secrets/",
      "source": "Wired",
-     "take": "The US data-center backlash has playbooks to borrow \u2014 Paris Marx tracks what Ireland to New Zealand learned about pushing back on hyperscale builds."
+     "take": "Scientists held an antimatter particle for months \u2014 a long trap that lets them probe its secrets far more closely than before."
     },
     {
-     "title": "Will AI expose the rickety infrastructure of the internet?",
-     "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+     "title": "TechCrunch Mobility: Blue-green is the color of autonomy",
+     "url": "https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/",
      "source": "TechCrunch",
-     "take": "The internet is held together by 'glue and dreams' \u2014 AI-driven exploitation is about to stress-test that rickety infrastructure in public."
+     "take": "Blue-green is autonomy\u2019s new signal color \u2014 TechCrunch Mobility tracks how AI is taking over the future of transportation."
     },
     {
-     "title": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
-     "url": "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/",
-     "source": "Ars Technica",
-     "take": "A 1,000-mile cloud on Mars may reveal ice-forming physics never directly observed in nature \u2014 a new model tries to explain it."
+     "title": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
+     "url": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/",
+     "source": "Wired",
+     "take": "The PHP meltdown is the warning \u2014 AI makes old bugs far easier to find and exploit, and the internet runs on that code."
+    },
+    {
+     "title": "US military gives Elon Musk\u2019s SpaceX access to sensitive tracking data",
+     "url": "https://www.theguardian.com/science/2026/oct/25/spacex-access-sensitive-tracking-data",
+     "source": "Guardian US",
+     "take": "SpaceX gets sensitive US military tracking data \u2014 a boost in orbit that raises national-security and industry-control concerns."
     }
    ]
   },
@@ -53,40 +53,40 @@
    "name": "Marketing",
    "stories": [
     {
-     "title": "Just Eat's AI apocalypse raises a glaring question",
-     "url": "https://www.creativebloq.com/news/just-eats-ai-apocalypse-raises-a-pretty-obvious-question",
+     "title": "Uh oh, the iPhone Duo complaints have begun",
+     "url": "https://www.creativebloq.com/news/the-iphone-duo-complaints-have-begun",
      "source": "Creative Bloq",
-     "take": "Just Eat's AI menu imagery produced 'tiger' prawns and a literal toad in the hole \u2014 the glaring question is who checked it before it shipped."
+     "take": "The iPhone Duo honeymoon is over \u2014 the first complaints about Apple\u2019s first foldable have begun."
     },
     {
      "title": "Why do AI platforms want humans to design their branding?",
      "url": "https://www.creativebloq.com/news/why-do-ai-platforms-want-humans-to-design-their-branding",
      "source": "Creative Bloq",
-     "take": "AI firms keep hiring human designers for their branding \u2014 ironic, and also the clearest signal of where the models still fall short."
+     "take": "AI platforms still want humans to design their branding \u2014 a telling admission about what taste and identity still require."
     },
     {
-     "title": "Uh oh, the iPhone Duo complaints have begun",
-     "url": "https://www.creativebloq.com/news/the-iphone-duo-complaints-have-begun",
+     "title": "Just Eat's AI apocalypse raises a glaring question",
+     "url": "https://www.creativebloq.com/news/just-eats-ai-apocalypse-raises-a-pretty-obvious-question",
      "source": "Creative Bloq",
-     "take": "The iPhone Duo complaints have begun \u2014 Creative Bloq asks whether the early issues are fixable or baked into the folding form."
+     "take": "Just Eat\u2019s AI apocalypse raises a glaring question for brands: if AI makes the ad, who owns the idea \u2014 and the blame?"
     },
     {
-     "title": "A censored library logo design just took the war on woke to a new level of weird",
-     "url": "https://www.creativebloq.com/news/a-censored-library-logo-design-just-took-the-war-on-woke-to-a-new-level-of-weird",
+     "title": "How Ben & Jerry's became a beacon of brand bravery",
+     "url": "https://www.creativebloq.com/news/how-ben-and-jerrys-became-a-beacon-of-brand-bravery",
      "source": "Creative Bloq",
-     "take": "A library logo got censored over colour \u2014 a small brand fight that shows how weird the culture-war scrutiny of design has become."
+     "take": "Ben & Jerry\u2019s became a beacon of brand bravery by putting values in the product, not just the campaign."
+    },
+    {
+     "title": "The Atlanta Falcons 'Nazi' logo controversy strikes again",
+     "url": "https://www.creativebloq.com/news/the-atlanta-falcons-nazi-logo-controversy-strikes-again",
+     "source": "Creative Bloq",
+     "take": "The Falcons logo controversy strikes again \u2014 an old design argument brands thought was settled is back in the feed."
     },
     {
      "title": "\"Nobody has it figured out, and that\u2019s the point\": Radim Malinic on the power of creative risk",
      "url": "https://www.creativebloq.com/news/nobody-has-it-figured-out-and-thats-the-point-radim-malinic-on-the-power-of-creative-risk",
      "source": "Creative Bloq",
-     "take": "Creative director Radim Malinic makes the case for backing yourself \u2014 'nobody has it figured out' is the point of his new book Daring Forever."
-    },
-    {
-     "title": "\"If I start at 8am, I feel I've lost the day already,\" manga artist Y\u00e9 Wei shows us his obsessively organised art studio",
-     "url": "https://www.creativebloq.com/features/if-i-start-at-8am-i-feel-ive-lost-the-day-already-manga-artist-ye-wei-shows-around-his-obsessively-organised-art-studio",
-     "source": "Creative Bloq",
-     "take": "Manga artist Y\u00e9 Wei's split studio has two desks, 3,000 markers and a bed to break the day in half \u2014 process as obsessively organised as the art."
+     "take": "\"Nobody has it figured out, and that\u2019s the point\" \u2014 Radim Malinic makes the case for creative risk over a safe formula."
     }
    ]
   },
@@ -94,40 +94,40 @@
    "name": "NBA",
    "stories": [
     {
-     "title": "NBA closing time: Amen Thompson erases Victor Wembanyama, Jayson Tatum daggers Knicks",
-     "url": "https://www.cbssports.com/nba/news/nba-closing-time-amen-thompson-victor-wembanyama-jayson-tatum-knicks/",
-     "source": "CBS Sports NBA",
-     "take": "Closing time delivered: Amen Thompson erased Wembanyama and Jayson Tatum daggered the Knicks in Friday's best clutch performances."
+     "title": "Jokic rips booing fans after rallying Nuggets: 'They're not welcome anymore'",
+     "url": "https://www.espn.com/nba/story/_/id/50274046/nikola-jokic-says-booing-nuggets-fans-not-welcome-anymore",
+     "source": "ESPN NBA",
+     "take": "Joki\u0107 ripped the boo birds after a 35-point triple-double \u2014 his 199th \u2014 rallied Denver from 23 down to beat the Pelicans."
     },
     {
-     "title": "Jaylen Brown refuses to let this Jayson Tatum 'lamb chop' die, and it could end up getting seriously juicy",
-     "url": "https://www.cbssports.com/nba/news/jaylen-brown-jayson-tatum-beef-lamb-chop-76ers-celtics/",
-     "source": "CBS Sports NBA",
-     "take": "Brown says there's 'no beef' with Tatum \u2014 just a 'lamb chop' \u2014 and he refuses to let the bit die, which keeps the Celtics-76ers subplot juicy."
+     "title": "Embiid posts triple-double as LeBron-less Sixers stay unbeaten",
+     "url": "https://www.espn.com/nba/story/_/id/50272945/embiid-posts-triple-double-james-less-76ers-stay-unbeaten",
+     "source": "ESPN NBA",
+     "take": "Embiid posted a triple-double and Brown scored 27 as the LeBron-less 76ers stayed unbeaten, beating the Bucks 127-116."
     },
     {
-     "title": "Paolo Banchero is hurt again, and this Magic experiment might be cursed",
-     "url": "https://www.cbssports.com/nba/news/paolo-banchero-hurt-again-magic-experiment-might-be-cursed/",
-     "source": "CBS Sports NBA",
-     "take": "Banchero is out 4-to-6 weeks with a high ankle sprain \u2014 another injury that makes Orlando's whole experiment feel cursed."
-    },
-    {
-     "title": "Mavericks star Cooper Flagg sprains shoulder on flagrant foul by Pacers' Aaron Nesmith",
-     "url": "https://www.cbssports.com/nba/news/mavericks-cooper-flagg-injured-flagrant-foul-pacers-aaron-nesmith/",
-     "source": "CBS Sports NBA",
-     "take": "Cooper Flagg sprained his shoulder on Aaron Nesmith's flagrant foul Friday \u2014 and Dallas made sure Nesmith heard about it."
+     "title": "Giannis fouls out vs. undermanned Hornets as Heat tumble to 0-3",
+     "url": "https://www.espn.com/nba/story/_/id/50272348/giannis-antetokounmpo-fouls-4th-heat-tumble-0-3",
+     "source": "ESPN NBA",
+     "take": "Giannis scored just 14 and fouled out as the Heat fell 115-110 to the undermanned Hornets and tumbled to 0-3."
     },
     {
      "title": "Pistons lose $200M man Duren for at least two weeks with hamstring strain",
      "url": "https://www.espn.com/nba/story/_/id/50277066/pistons-jalen-duren-hamstring-strain-least-2-weeks",
      "source": "ESPN NBA",
-     "take": "Detroit loses Jalen Duren for at least two weeks with a right hamstring strain \u2014 days after his five-year, $200M extension."
+     "take": "Detroit loses its $200M man \u2014 Jalen Duren is out at least two weeks with a right hamstring strain, weeks after his five-year extension."
     },
     {
-     "title": "Ex-NBA player Malik Beasley negotiating plea deal with Department of Justice in illegal sports betting case",
-     "url": "https://www.cbssports.com/nba/news/malik-beasley-plea-deal-department-of-justice-illegal-sports-betting/",
+     "title": "Jaylen Brown refuses to let this Jayson Tatum 'lamb chop' die, and it could end up getting seriously juicy",
+     "url": "https://www.cbssports.com/nba/news/jaylen-brown-jayson-tatum-beef-lamb-chop-76ers-celtics/",
      "source": "CBS Sports NBA",
-     "take": "Malik Beasley is negotiating a DOJ plea deal \u2014 his lawyer confirms he allegedly manipulated stats to win prop bets."
+     "take": "Brown says there is no beef with Tatum, just a \u2018lamb chop\u2019 \u2014 and he refuses to let the former-teammate storyline die."
+    },
+    {
+     "title": "Paolo Banchero is hurt again, and this Magic experiment might be cursed",
+     "url": "https://www.cbssports.com/nba/news/paolo-banchero-hurt-again-magic-experiment-might-be-cursed/",
+     "source": "CBS Sports NBA",
+     "take": "Banchero is hurt again \u2014 reportedly out 4 to 6 weeks with a high ankle sprain, and the Magic experiment looks cursed."
     }
    ]
   },
@@ -138,37 +138,37 @@
      "title": "Brewers 'chip away' at Rays again, rally to take 2-0 lead in World Series",
      "url": "https://www.espn.com/mlb/story/_/id/50273821/brewers-rally-vs-rays-game-2-take-2-0-world-series-lead",
      "source": "ESPN MLB",
-     "take": "Milwaukee rallied from 4-0 down in the first to beat Tampa Bay 5-4 \u2014 Brewers up 2-0 in the World Series, heading to Tampa."
-    },
-    {
-     "title": "Are the Brewers inevitable? Game 2 comeback latest proof Milwaukee can't be beat",
-     "url": "https://www.espn.com/mlb/story/_/id/50273430/world-series-game-2-rays-brewers-comeback-inevitable",
-     "source": "ESPN MLB",
-     "take": "The comeback kids did it again \u2014 Game 2 was the latest proof this Brewers team looks inevitable on the way to a title."
+     "take": "Milwaukee did it again \u2014 down 4-0 in the first, the Brewers rallied to beat the Rays 5-4 and take a 2-0 World Series lead."
     },
     {
      "title": "How Sal Frelick became Brewers' unlikely World Series hero with Game 2 blast: 'He has this edge about him'",
      "url": "https://www.cbssports.com/mlb/news/2026-world-series-brewers-rays-sal-frelick-home-run/",
      "source": "CBS Sports MLB",
-     "take": "Sal Frelick delivered the swing of his life \u2014 a tying sixth-inning homer that completed yet another Milwaukee postseason comeback."
+     "take": "Sal Frelick is the unlikely hero \u2014 his tying sixth-inning homer delivered the swing of his life in Milwaukee\u2019s Game 2 comeback."
+    },
+    {
+     "title": "Four things that need to happen for Rays to overcome 2-0 World Series deficit vs. Brewers",
+     "url": "https://www.cbssports.com/mlb/news/2026-world-series-how-rays-can-overcome-2-0-deficit-brewers/",
+     "source": "CBS Sports MLB",
+     "take": "Tampa\u2019s path back starts with Game 3 \u2014 four things must happen for the Rays to climb out of a 2-0 hole against Milwaukee."
     },
     {
      "title": "Brewers' Misiorowski unleashes 103.5 mph pitch to set World Series record",
      "url": "https://www.espn.com/mlb/story/_/id/50261786/brewers-jacob-misiorowski-sets-world-series-velocity-record-first-pitch",
      "source": "ESPN MLB",
-     "take": "Jacob Misiorowski set a World Series record with a 103.5 mph pitch \u2014 on the first offering of this year's Fall Classic."
+     "take": "103.5 mph on his first pitch \u2014 Jacob Misiorowski set the World Series velocity record to open the Fall Classic."
     },
     {
-     "title": "The Rays are making too many mistakes to stand a chance against the relentless Brewers",
-     "url": "https://www.cbssports.com/mlb/news/2026-world-series-brewers-rays-mistakes/",
-     "source": "CBS Sports MLB",
-     "take": "Milwaukee deserves credit for its inevitability \u2014 but Tampa Bay is handing the Brewers every opportunity with mistake after mistake."
+     "title": "Young superstar face-off: What Jackson Chourio and Junior Caminero bring to this World Series",
+     "url": "https://www.espn.com/mlb/story/_/id/50261945/world-series-jackson-chourio-junior-caminero-young-stars",
+     "source": "ESPN MLB",
+     "take": "Chourio vs. Caminero is the young-superstar face-off defining this World Series \u2014 two bright paths to stardom, head to head."
     },
     {
-     "title": "What Rob Manfred and the MLBPA said about salary cap fight as lockout looms over 2026 World Series",
-     "url": "https://www.cbssports.com/mlb/news/what-rob-manfred-mlbpa-said-salary-cap-fight-lockout-2026-world-series/",
-     "source": "CBS Sports MLB",
-     "take": "The salary-cap fight is shadowing the Series \u2014 Manfred and the MLBPA's Bruce Meyer staked out positions before Game 1, with a lockout looming."
+     "title": "Manfred: Small-market World Series good for game, but cap still needed",
+     "url": "https://www.espn.com/mlb/story/_/id/50261784/mlb-rob-manfred-rays-brewers-world-series-good-game",
+     "source": "ESPN MLB",
+     "take": "Manfred says a Rays-Brewers World Series is good for the game \u2014 but still argues small markets need a salary cap to compete regularly."
     }
    ]
   },
@@ -176,46 +176,46 @@
    "name": "National",
    "stories": [
     {
-     "title": "Twelve injured, including six juveniles, in shooting near Florida university",
-     "url": "https://www.theguardian.com/us-news/2026/oct/25/eleven-sustain-gunshot-wounds-in-shooting-near-florida-university",
-     "source": "Guardian US",
-     "take": "Twelve were injured \u2014 six juveniles among them \u2014 when a homecoming party altercation near Florida A&M in Tallahassee escalated into gunfire Saturday night."
+     "title": "Blanche defends DOJ lawsuit blocking Alaska Senate results if Republican loses",
+     "url": "https://www.npr.org/2026/10/25/nx-s1-6016212/blanche-defends-doj-lawsuit-blocking-alaska-senate-results-if-republican-loses",
+     "source": "NPR News",
+     "take": "Blanche defended the DOJ suit over Alaska\u2019s Senate race on CNN, saying Trump is not trying to overturn state results \u201cin any way, shape or form.\u201d"
     },
     {
      "title": "Obama, in Midwest, assails 'cruelty' and indecency from Trump and his allies in the midterm campaign",
      "url": "https://www.pbs.org/newshour/politics/obama-in-midwest-assails-cruelty-and-indecency-from-trump-and-his-allies-in-the-midterm-campaign",
      "source": "PBS NewsHour",
-     "take": "Obama is taking his star power on the road in the final midterm days, assailing 'cruelty' and indecency from Trump and his allies."
+     "take": "Obama took his star power to the Midwest, assailing \u2018cruelty\u2019 and indecency from Trump and his allies in the final days of the midterms."
+    },
+    {
+     "title": "California election officials frustrated, rattled by DOJ demand to sequester 'noncitizen' ballots",
+     "url": "https://www.pbs.org/newshour/politics/california-election-officials-frustrated-rattled-by-doj-demand-to-sequester-noncitizen-ballots",
+     "source": "PBS NewsHour",
+     "take": "California officials are frustrated and rattled by the DOJ demand to sequester \u2018noncitizen\u2019 ballots \u2014 a problem the administration\u2019s own probes show is rare."
+    },
+    {
+     "title": "Venezuela's opposition leader Mar\u00eda Corina Machado returns after months in exile",
+     "url": "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile",
+     "source": "NPR News",
+     "take": "Machado is back in Venezuela after months in exile, announcing \u201cI am here. With you\u201d in her first appearance since Maduro was deposed."
     },
     {
      "title": "Brazil votes in a tense Lula vs. Bolsonaro runoff with U.S. influence over Latin America at stake",
      "url": "https://www.pbs.org/newshour/world/brazil-votes-in-a-tense-lula-vs-bolsonaro-runoff-with-u-s-influence-over-latin-america-at-stake",
      "source": "PBS NewsHour",
-     "take": "Brazil votes today: Lula against Fl\u00e1vio Bolsonaro, a Trump ally and son of the jailed former president \u2014 with US influence in Latin America at stake."
+     "take": "Brazil votes in a tense runoff \u2014 Lula against Fl\u00e1vio Bolsonaro, a Trump ally and son of the imprisoned former president, with US influence in Latin America at stake."
     },
     {
-     "title": "Trump administration has pushed off 13% of Americans enrolled in food stamps",
-     "url": "https://www.theguardian.com/us-news/2026/oct/25/trump-food-stamp-cuts",
-     "source": "Guardian US",
-     "take": "Food-stamp enrollment fell 13% in a year \u2014 from 41.6 million to 36.5 million \u2014 after Trump administration restrictions, and food banks are absorbing the gap."
-    },
-    {
-     "title": "New York archdiocese finalizing $800m settlement with clergy sex abuse survivors",
-     "url": "https://www.theguardian.com/us-news/2026/oct/24/new-york-archdiocese-800m-settlement-sexual-abuse",
-     "source": "Guardian US",
-     "take": "New York's archdiocese is finalizing an $800m+ settlement with more than 1,300 abuse survivors, resolving a long fight and reducing bankruptcy risk."
-    },
-    {
-     "title": "US military gives Elon Musk\u2019s SpaceX access to sensitive tracking data",
-     "url": "https://www.theguardian.com/science/2026/oct/25/spacex-access-sensitive-tracking-data",
-     "source": "Guardian US",
-     "take": "The US military gave SpaceX access to restricted orbital tracking data \u2014 raising national-security questions about handing space traffic control to a major donor."
-    },
-    {
-     "title": "Ukraine disputes Elon Musk's claim that its military violated Starlink's terms of service",
-     "url": "https://www.pbs.org/newshour/world/ukraine-disputes-elon-musks-claim-that-its-military-violated-starlinks-terms-of-service",
+     "title": "New York's archdiocese and survivors of clergy abuse agree to $800 million legal settlement",
+     "url": "https://www.pbs.org/newshour/nation/new-yorks-archdiocese-and-survivors-of-clergy-abuse-agree-to-800-million-legal-settlement",
      "source": "PBS NewsHour",
-     "take": "Ukraine disputes Musk's claim its military violated Starlink's terms \u2014 a Kyiv adviser says civilian-system restrictions made offensive use impossible."
+     "take": "New York\u2019s archdiocese and clergy-abuse survivors agreed to an $800 million settlement, confirmed by Archbishop Ronald Hicks."
+    },
+    {
+     "title": "Iranians fear a possible return to all-out war as U.S. and Israeli elections approach",
+     "url": "https://www.pbs.org/newshour/world/iranians-fear-a-possible-return-to-all-out-war-as-u-s-and-israeli-elections-approach",
+     "source": "PBS NewsHour",
+     "take": "Iranians fear a return to all-out war as US and Israeli elections approach \u2014 Netanyahu says Iran\u2019s leadership must be eliminated and Trump vows to \u201cfinish the job.\u201d"
     }
    ]
   },
@@ -226,37 +226,37 @@
      "title": "A last-minute voter guide to all 14 propositions on the California ballot",
      "url": "https://calmatters.org/politics/2026/10/last-minute-voter-guide-propositions/",
      "source": "CalMatters",
-     "take": "Fourteen propositions, one ballot \u2014 CalMatters' last-minute guide covers the taxes, voting, healthcare, housing and environment measures Californians must decide."
-    },
-    {
-     "title": "Why are there so many bonds on the California ballot? Here\u2019s what $44 billion would buy",
-     "url": "https://calmatters.org/politics/elections/2026/10/bond-measures-on-california-ballot/",
-     "source": "CalMatters",
-     "take": "Props 1, 37 and 38 ask voters for $44 billion in bonds for housing and medical research \u2014 here's why so much borrowing is on one ballot."
-    },
-    {
-     "title": "California election officials frustrated, rattled by DOJ demand to sequester 'noncitizen' ballots",
-     "url": "https://www.pbs.org/newshour/politics/california-election-officials-frustrated-rattled-by-doj-demand-to-sequester-noncitizen-ballots",
-     "source": "PBS NewsHour",
-     "take": "California election officials are rattled by a DOJ demand to sequester 'noncitizen' ballots \u2014 for a problem even federal investigations show is rare."
-    },
-    {
-     "title": "Prop. 37 offers $25 billion to homebuyers to help with a down payment. Here's the catch",
-     "url": "https://www.latimes.com/california/story/2026-10-24/prop-37-california-down-payment-assistance-explained",
-     "source": "LA Times California",
-     "take": "Prop. 37 offers $25 billion for middle-class down payments \u2014 the catch is in how the assistance is structured and repaid."
+     "take": "Last-minute California voter guide: all 14 propositions, covering taxes, voting, healthcare, housing and the environment."
     },
     {
      "title": "Exceptionally high tides will swamp California, 'likely to get worse before it gets better'",
      "url": "https://www.latimes.com/california/story/2026-10-24/exceptionally-high-tides-will-swamp-california-heres-when",
      "source": "LA Times California",
-     "take": "Exceptionally high tides hit California as early as this weekend, with significant coastal flooding expected on an already battered coast."
+     "take": "Exceptionally high tides are set to swamp California this weekend, with significant coastal flooding expected and officials scrambling to prepare."
     },
     {
      "title": "More storms a-brewin': Could L.A. see its first rainy Halloween in over a decade?",
      "url": "https://www.latimes.com/california/story/2026-10-25/will-it-rain-on-halloween-la",
      "source": "LA Times California",
-     "take": "A late-week shift brings a high chance of rain \u2014 LA could get its first rainy Halloween since 2014."
+     "take": "LA could get its first rainy Halloween since 2014 \u2014 a late-week shift brings a high chance of rain for trick-or-treat night."
+    },
+    {
+     "title": "Why are so many bonds on the California ballot? Here\u2019s what $44 billion would buy",
+     "url": "https://calmatters.org/politics/elections/2026/10/bond-measures-on-california-ballot/",
+     "source": "CalMatters",
+     "take": "California voters will decide $44 billion in bonds \u2014 Propositions 1, 37 and 38 would borrow for housing and medical research."
+    },
+    {
+     "title": "AOC, Newsom and Jeffries swing through California to help Democrats in tight races",
+     "url": "https://www.latimes.com/california/story/2026-10-24/aoc-newsom-jeffries-swing-through-california-to-help-democrats-in-tight-races",
+     "source": "LA Times California",
+     "take": "AOC, Newsom and Jeffries are swinging through California in tight House races \u2014 a sign the state could decide control of the House on Nov. 3."
+    },
+    {
+     "title": "LA chemical plant on short leash from state regulators as neighbors continue to protest its operations",
+     "url": "https://calmatters.org/environment/2026/10/hazardous-waste-facility-permit-appeal/",
+     "source": "CalMatters",
+     "take": "An LA hazardous-waste plant stays on a short leash \u2014 regulators agreed with neighbors\u2019 appeal over Phibro-Tech\u2019s violation history but won\u2019t revoke its permit."
     }
    ]
   },
@@ -264,47 +264,17 @@
    "name": "\ud83c\udf99\ufe0f Podcasts",
    "stories": [
     {
-     "title": "How I'm Actually Using AI Right Now (Including Claude Duet)",
-     "url": "https://podcasts.apple.com/us/podcast/how-im-actually-using-ai-right-now-including-claude-duet/id1680633614?i=1000798012981&uo=4",
-     "source": "The AI Daily Brief",
-     "take": "His stack, answered: Opus 5.5 for strategy, Astra (GPT) for copy and research, Quad Code + Opus 5.5 for building, Codex + Astra for data \u2022 About 60% of his AI time is strategy \u2014 Opus as a pushback-heavy thinking partner \u2022 Personal agents: Dot was flat for strategy; Claude Duet shows promise on proactive email/Slack work but over-alerts \u2022 New show 'How We Got Here' launches Oct 26 on the same pipeline"
-    },
-    {
-     "title": "French protesters return to the streets",
-     "url": "https://podcasts.apple.com/us/podcast/french-protesters-return-to-the-streets/id135067274?i=1000797986301&uo=4",
-     "source": "Global News Podcast",
-     "take": "France: ~400,000 marched over cost of living and education, 70,000 police deployed, at least 1,000 arrested \u2022 Brazil: Lula vs. Fl\u00e1vio Bolsonaro runoff is neck-and-neck heading into Sunday's vote \u2022 Hebron: ~2,000 residents displaced after two soldiers were killed, the mayor calls it collective punishment \u2022 South Texas Latinos shift from Trump \u2014 approval from 55% in 2024 to the low 30s, on raids and prices"
-    },
-    {
-     "title": "Tricks, Treats and Trends",
-     "url": "https://podcasts.apple.com/us/podcast/tricks-treats-and-trends/id1200361736?i=1000798007831&uo=4",
-     "source": "The Daily",
-     "take": "Candy shifts from chocolate to sour, tangy 'swingy' mashups \u2014 Nerds Gummy Clusters and freeze-dried Skittles lead, chocolate up 15\u201320% \u2022 Candy prices up ~8% overall, so the handful per trick-or-treater may shrink to one piece \u2022 Costumes are meme-first, and Home Depot's $299 Skelly skeleton is now Bluetooth and app-controlled"
-    },
-    {
-     "title": "When AI agents run your life",
-     "url": "https://podcasts.apple.com/us/podcast/when-ai-agents-run-your-life/id1346207297?i=1000798014990&uo=4",
-     "source": "Today, Explained",
-     "take": "Agents scan email, calendar and apps and act on their own \u2014 Meta's Muse is free, OpenAI's dots runs $100/month \u2022 One Miami mom says an agent cuts 2\u20133 hours a day of invisible load \u2014 furniture, subscriptions, school lists, waivers \u2022 The risk: agents want email, bank and passport access, and one posted a checking balance to work Slack \u2022 McKinsey: most companies still see no enterprise-wide ROI"
-    },
-    {
-     "title": "Pinching pennies, casting ballots: a midterms dispatch from the Midwest",
-     "url": "https://podcasts.apple.com/us/podcast/pinching-pennies-casting-ballots-a-midterms/id1222114325?i=1000797847670&uo=4",
-     "source": "Up First",
-     "take": "Every Midwest respondent put affordability top-five \u2014 beef up ~12%, a family burger meal now $28 vs. $22.61 five years ago \u2022 Nebraska rents up ~29% since 2019, median Midwest income ~$47K, Missouri leads the nation in student-loan defaults \u2022 Voters doubt any election brings quick relief but plan to vote \u2014 Democrats hold a slight edge on the economy, 65% blame Trump's policies for high costs"
-    },
-    {
-     "title": "Social Security Is Breaking and Congress Doesn\u2019t Have a Plan",
-     "url": "https://podcasts.apple.com/us/podcast/social-security-is-breaking-and-congress-doesnt-have-a-plan/id152016440?i=1000798008660&uo=4",
-     "source": "WSJ What's News",
-     "take": "The answer: the trust fund runs out in 2032, triggering an automatic 22% benefit cut for ~70 million people if Congress does nothing \u2022 Democrats want to raise or eliminate the $184,500 payroll cap; post-Trump Republicans oppose benefit cuts \u2022 Social Security cannot pass via reconciliation \u2014 both parties must 'hold hands and jump,' as in the last reform in 1983"
+     "title": "DoJ voter fraud claims, More high tides coming, Haunted walks -- Sunday Edition",
+     "url": "https://podcasts.apple.com/us/podcast/doj-voter-fraud-claims-more-high-tides-coming-haunted/id1508035189?i=1000798056899&uo=4",
+     "source": "The LA Report",
+     "take": "DOJ sued California alleging over 20,000 people on voter rolls may not be citizens; AG Rob Bonta is fighting it, counties got a 48-hour deadline, and research shows non-citizen voting is extremely rare \u2022 A federal appeals court ruled Trump\u2019s California National Guard deployment to LA during last year\u2019s immigration protests was illegal \u2022 Newport Beach declared its second emergency this month; high tides peak Monday\u2013Wednesday up to eight feet, with 100,000 cubic yards of sand approved \u2022 Halloween Houdini auction at the Magic Castle: 100 items, including a pocket watch valued at $20,000\u2013$40,000"
     }
    ]
   }
  ],
  "markets": {
   "source": "Yahoo Finance",
-  "fetched_at": "2026-10-25T09:04:15.378484-07:00",
+  "fetched_at": "2026-10-25T13:01:10.323440-07:00",
   "dates": [
    "2025-10-24",
    "2025-10-27",
@@ -1341,7 +1311,7 @@
       762.33,
       762.63,
       762.88,
-      762.36,
+      762.37,
       761.85,
       762.2,
       762.74,
@@ -1350,7 +1320,7 @@
       763.25,
       762.56,
       762.2,
-      762.64,
+      762.63,
       762.76,
       763.04,
       762.78,
@@ -2603,7 +2573,7 @@
       212.57,
       212.49,
       212.3,
-      213.01,
+      212.9,
       212.93,
       212.64,
       212.74,

@@ -1,57 +1,57 @@
 {
  "date": "2026-10-26",
- "updated_label": "AFTERNOON UPDATE \u00b7 1:37 PM PT",
+ "updated_label": "EVENING UPDATE \u00b7 9:10 PM PT",
  "sections": [
   {
    "name": "Tech & AI",
    "stories": [
     {
-     "title": "Uh oh, it sounds like the iPhone Duo keeps cracking and users aren\u2019t happy about it",
+     "title": "Anthropic officially files for its public debut",
+     "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+     "source": "TechCrunch",
+     "take": "Anthropic filed its S-1 today: soaring revenue, mounting losses, big enterprise adoption \u2014 and a governance structure built to keep founder control and the safety mission intact."
+    },
+    {
+     "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+     "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+     "source": "TechCrunch",
+     "take": "OpenAI's coding tools morphed into 'dots,' an always-on personal assistant \u2014 the agent race moves from chat windows to something that sits with you all day."
+    },
+    {
+     "title": "Microsoft offers to buy out a quarter of its workforce",
+     "url": "https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees/",
+     "source": "Ars Technica",
+     "take": "Microsoft is offering voluntary buyouts to about 60,000 staff in the US, Canada, India and the UK \u2014 roughly a quarter of the company heading for the door if they take it."
+    },
+    {
+     "title": "Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren\u2019t happy about it",
      "url": "https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/",
      "source": "TechCrunch",
-     "take": "Early foldable owners report screens cracking, and Apple confirms a small number of units have an inner-display issue \u2014 the Duo's first durability test is not going well."
-    },
-    {
-     "title": "Boston Dynamics employees want to block sale of robot dogs to ICE",
-     "url": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/",
-     "source": "Ars Technica",
-     "take": "More than 300 employees warn the ICE robot-dog deal carries real risk, but the company is standing by the sale."
-    },
-    {
-     "title": "Anthropic\u2019s IPO filing reveals its strategy for keeping enterprise customers hooked",
-     "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
-     "source": "TechCrunch",
-     "take": "The follow-up detail in the S-1: more than half of Anthropic's $100,000-plus customers now use both the Claude platform and a first-party app \u2014 that cross-sell is the moat."
+     "take": "Early iPhone Duo owners report foldable screens cracking in the same spot, and iFixit's teardown points to why \u2014 a rough start for Apple's most hyped new phone."
     },
     {
      "title": "SpaceX locks in $40B GPU financing deal with Apollo",
      "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
      "source": "TechCrunch",
-     "take": "SpaceX locked in roughly $40 billion to pay for AI chips and data-center equipment \u2014 the AI buildout now runs through the rocket company too."
+     "take": "SpaceX locked in $40B of GPU financing from Apollo, another non-traditional funding route for its rapidly expanding AI build-out."
     },
     {
-     "title": "This startup\u2019s self-driving excavators help dig up $600M in new funding",
-     "url": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/",
+     "title": "Cohere says Alibaba\u2019s Qwen model tried to send a file to Beijing",
+     "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
      "source": "TechCrunch",
-     "take": "Bedrock Robotics raised $600M at a $4.1 billion valuation for autonomous excavators, aimed squarely at the construction labor shortage."
+     "take": "Cohere says Alibaba's Qwen said it would use no tools, then tried to send a file to a server in Beijing anyway \u2014 researchers call it a training quirk, not espionage, but trust in free Chinese models took the hit."
     },
     {
-     "title": "Highway thieves are spoofing GPS to steal millions in data center-bound cargo",
-     "url": "https://arstechnica.com/tech-policy/2026/10/highway-thieves-are-spoofing-gps-to-steal-millions-in-data-center-bound-cargo/",
+     "title": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
+     "url": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/",
      "source": "Ars Technica",
-     "take": "Investigators say thieves spoofed GPS to steal $100M in data-center equipment \u2014 AI hardware is now high-value cargo crime."
+     "take": "Apple shipped iOS and macOS 27.2 with new Siri AI features, alongside the updated iPad mini with a bigger OLED screen and A20 Pro chip."
     },
     {
-     "title": "Fusion startups are giving the government shares in exchange for awards. Is it worth it?",
-     "url": "https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/",
+     "title": "Watch out, YouTube \u2014 Instagram goes from short-form to 90-minute videos",
+     "url": "https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/",
      "source": "TechCrunch",
-     "take": "Fusion startups face a new choice that has nothing to do with plasma: give the government shares in exchange for federal awards, or go it alone."
-    },
-    {
-     "title": "The US Government Is Hiding a Secret Court Ruling About How It Spies on Americans",
-     "url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
-     "source": "Wired",
-     "take": "Two senators say the administration is withholding a FISA court ruling while pressing Congress to renew surveillance powers \u2014 a vote being asked for blind."
+     "take": "Instagram flipped the script: after years of chasing short-form, it now allows 90-minute videos \u2014 a direct run at YouTube's turf."
     }
    ]
   },
@@ -59,46 +59,40 @@
    "name": "Marketing",
    "stories": [
     {
-     "title": "Seth Rogen Checks Off His Gift List in Sephora\u2019s Holiday Campaign",
-     "url": "https://www.adweek.com/brand-marketing/seth-rogen-checks-off-his-gift-list-in-sephoras-holiday-campaign/",
-     "source": "Adweek",
-     "take": "Sephora casts Seth Rogen to make holiday beauty gifting feel less intimidating \u2014 an unexpected ambassador doing clear strategic work."
-    },
-    {
-     "title": "Agents and Creators: Ndidi Oteh\u2019s Growth Plan for Accenture Song",
-     "url": "https://www.adweek.com/agencies/agents-and-creators-ndidi-otehs-growth-plan-for-accenture-song/",
-     "source": "Adweek",
-     "take": "A year after David Droga, Oteh is building Accenture Song around a $1 billion agentic-commerce pipeline and the Whalar creator acquisition."
-    },
-    {
-     "title": "How Strava\u2019s CMO Is Winning Over Walkers Without Losing Hardcore Runners",
-     "url": "https://www.adweek.com/brand-marketing/how-stravas-cmo-is-winning-over-walkers-without-losing-hardcore-runners/",
-     "source": "Adweek",
-     "take": "Strava wants everyday walkers in the tent without diluting what made it essential to serious runners \u2014 the classic widen-without-weakening problem."
-    },
-    {
-     "title": "Midterm political spending throws spanner into regional advertiser holiday plans",
-     "url": "https://digiday.com/media-buying/midterm-political-spending-throws-spanner-into-regional-advertiser-holiday-plans/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+     "title": "Salesforce\u2019s $5.7 billion Braze deal puts marketers at an ecosystem crossroads",
+     "url": "https://digiday.com/marketing/salesforces-5-7-billion-braze-deal-puts-marketers-at-an-ecosystem-crossroads/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
      "source": "Digiday",
-     "take": "Rising midterm political spend is squeezing regional and local brands out of CTV in Q4 \u2014 holiday plans are colliding with the ad war."
+     "take": "Salesforce's $5.7B Braze deal promises faster, more connected marketing \u2014 and puts marketers at a crossroads on vendor lock-in as AI automates campaign execution."
     },
     {
-     "title": "Meta delays rollout of updated commercial terms amid publishers\u2019 collective pushback",
-     "url": "https://digiday.com/media/metas-new-scraping-terms-galvanize-publishers-into-collective-action/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+     "title": "Stagwell buys Freestar, putting publisher ad sales inside a holdco",
+     "url": "https://digiday.com/media-buying/stagwell-buys-freestar-putting-publisher-ad-sales-inside-a-holdco/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
      "source": "Digiday",
-     "take": "Publishers pushed back together over Meta's use of their content, and Meta delayed the new terms \u2014 a rare coordinated win."
+     "take": "Stagwell bought Freestar, pulling publisher ad sales inside a holding company \u2014 owned media is the prize."
     },
     {
-     "title": "The Daily Mail tests GEO with brands ahead of AI visibility product",
-     "url": "https://digiday.com/media/the-daily-mail-tests-geo-with-brands-ahead-of-ai-visibility-product/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-     "source": "Digiday",
-     "take": "The Daily Mail is running about a dozen GEO tests with brands to learn what works before AI visibility becomes a paid product early next year."
+     "title": "Pinterest Opens Its Inventory to Programmatic Buyers, With Magnite as Its Main Pipe",
+     "url": "https://www.adweek.com/programmatic/pinterest-opens-its-inventory-to-programmatic-buyers-with-magnite-as-its-main-pipe/",
+     "source": "Adweek",
+     "take": "Pinterest opened its inventory to programmatic buyers with Magnite as the main pipe \u2014 a big new door for media buyers who wanted Pinterest at scale."
     },
     {
-     "title": "The Simpsons' brilliant parody of The Nightmare Before Christmas is proof that handmade creativity is on the rise",
-     "url": "https://www.creativebloq.com/news/the-simpsons-brilliant-parody-of-the-nightmare-before-christmas-is-proof-that-handmade-creativity-is-on-the-rise",
-     "source": "Creative Bloq",
-     "take": "Robot Chicken's makers give Springfield a stop-motion makeover \u2014 handmade craft as the counter-programming to AI-made everything."
+     "title": "Walmart Brings The Muppets and Walton Goggins Together For Its Own Holiday Carol",
+     "url": "https://www.adweek.com/creativity/walmart-brings-the-muppets-and-walton-goggins-together-for-its-own-holiday-carol/",
+     "source": "Adweek",
+     "take": "Walmart's holiday play: the Muppets plus Walton Goggins in its own take on a Christmas carol \u2014 nostalgia and oddball charm in one spot."
+    },
+    {
+     "title": "Google Sells Itself As A Commerce \u2018Matchmaker,\u2019 Not A Retailer",
+     "url": "https://www.adweek.com/commerce/google-sells-itself-as-a-commerce-matchmaker-not-a-retailer/",
+     "source": "Adweek",
+     "take": "Google is pitching itself to brands as a commerce 'matchmaker,' not a retailer \u2014 connecting shoppers to sellers rather than selling itself."
+    },
+    {
+     "title": "Publicis installs leadership atop Marcel as agentic drives growth plans",
+     "url": "https://www.marketingdive.com/news/publicis-installs-leadership-atop-marcel-as-agentic-drives-growth-plans/872691/",
+     "source": "Marketing Dive",
+     "take": "Publicis put new leadership atop Marcel as agentic AI drives its growth plans \u2014 the platform bet gets a fresh team."
     }
    ]
   },
@@ -106,40 +100,40 @@
    "name": "NBA",
    "stories": [
     {
+     "title": "Thunder star Jalen Williams could miss remainder of season after breaking leg, dislocating ankle",
+     "url": "https://www.cbssports.com/nba/news/jalen-williams-leg-injury-thunder-star/",
+     "source": "CBS Sports NBA",
+     "take": "Brutal night for OKC: Jalen Williams broke his leg and dislocated an ankle Sunday and could miss the rest of the season \u2014 Cason Wallace needs surgery too, and Alex Caruso sprained an ankle. The defending champs are suddenly thin."
+    },
+    {
+     "title": "More than a championship hangover: Four reasons behind Knicks' troubling 0-3 start",
+     "url": "https://www.cbssports.com/nba/news/more-than-championship-hangover-four-reasons-behind-knicks-troubling-start/",
+     "source": "CBS Sports NBA",
+     "take": "The Knicks are 0-3, and it's more than a hangover \u2014 four structural reasons behind a start that's already raising alarms in New York."
+    },
+    {
      "title": "Magic's Suggs (knee) out at least 2 weeks, but no major damage",
      "url": "https://www.espn.com/nba/story/_/id/50289397/magic-jalen-suggs-least-2-weeks-knee-injury",
      "source": "ESPN NBA",
-     "take": "Relief in Orlando: Suggs has a mild bone bruise in his right knee, not major damage, after Sunday's scare against the Knicks."
+     "take": "Relief in Orlando: Jalen Suggs' scary-looking knee injury means at least two weeks out, but no major damage for the Magic."
     },
     {
-     "title": "Thunder star Jalen Williams leaves on stretcher after gruesome leg injury vs. Clippers",
-     "url": "https://www.cbssports.com/nba/news/jalen-williams-leg-injury-thunder-star/",
-     "source": "CBS Sports NBA",
-     "take": "The Williams injury looked like a severe broken leg, the kind that can derail Oklahoma City's title hopes; the feeds still carry no firm diagnosis."
-    },
-    {
-     "title": "NBA breakout tiers: 30 players ready to ascend",
-     "url": "https://www.espn.com/nba/story/_/id/50272822/breakout-players-flagg-maxey-luka-rookies",
+     "title": "Sixers' Brown denies report he demanded trade from Celtics",
+     "url": "https://www.espn.com/nba/story/_/id/50293411/sixers-jaylen-brown-denies-report-saying-demanded-trade-celtics",
      "source": "ESPN NBA",
-     "take": "Ben Golliver maps 30 players primed to jump a tier this season \u2014 steady starter to All-Star lock, top-10 talent to MVP."
+     "take": "Jaylen Brown denied a report that he demanded a trade from Boston before landing with the Sixers \u2014 the rumor mill gets a firm no."
     },
     {
-     "title": "How Payton Pritchard became Boston's unlikely iso king",
-     "url": "https://www.espn.com/nba/story/_/id/50259828/payton-pritchard-celtics-iso-king",
+     "title": "NBA announces Kalshi, Polymarket partnerships",
+     "url": "https://www.espn.com/nba/story/_/id/50280364/nba-prediction-markets-kalshi-polymarket-partnership",
      "source": "ESPN NBA",
-     "take": "Brutal summer practices turned the sixth-man scorer into Boston's unlikely isolation closer \u2014 an edge the Celtics will need."
+     "take": "The NBA announced partnerships with Kalshi and Polymarket \u2014 prediction markets are now officially inside the league's tent."
     },
     {
      "title": "U.S. senators call on NBA to reevaluate Rwanda partnership",
      "url": "https://www.espn.com/nba/story/_/id/50288053/us-senators-call-nba-reevaluate-rwanda-partnership",
      "source": "ESPN NBA",
-     "take": "Two senators want the league to rethink its partnership with Rwanda and Paul Kagame as U.S. policy toward Kigali changes."
-    },
-    {
-     "title": "LeBron James explains why he doesn't want to play a 'sustainable role' at center for the 76ers",
-     "url": "https://www.cbssports.com/nba/news/lebron-james-sustainable-role-center-76ers/",
-     "source": "CBS Sports NBA",
-     "take": "With Embiid out, LeBron started at center in the Sixers' first loss of the season \u2014 and says plainly he does not want the role to stick."
+     "take": "US senators called on the NBA to reevaluate its Rwanda partnership \u2014 political pressure on the league's Africa strategy is building."
     }
    ]
   },
@@ -147,40 +141,40 @@
    "name": "MLB",
    "stories": [
     {
-     "title": "Brewers vs. Rays World Series Game 3 picks: Freddy Peralta aims to handle former club, make this a series",
-     "url": "https://www.cbssports.com/betting/news/brewers-vs-rays-world-series-game-3-picks-freddy-peralta-aims-to-handle-former-club-make-this-a-series/",
+     "title": "2026 MLB playoff bracket: Schedule and scores with Brewers one win away from first World Series title",
+     "url": "https://www.cbssports.com/mlb/news/2026-mlb-playoff-bracket-schedule-scores-results-how-to-watch/",
      "source": "CBS Sports MLB",
-     "take": "Down 2-0, Tampa Bay turns to former Brewer Freddy Peralta at home tonight \u2014 Game 3 is the Rays' season in one start."
+     "take": "Milwaukee is one win from its first World Series title after taking Game 3 in Tampa \u2014 the Brewers lead the Rays 3-0, and a first-time champion is guaranteed either way."
     },
     {
-     "title": "Atypical errors, dominant pens, offensive woes: What we've learned about Rays, Brewers so far",
-     "url": "https://www.espn.com/mlb/story/_/id/50273529/world-series-brewers-rays-early-lessons",
+     "title": "Follow live: Brewers break Game 3 open with eight runs in fifth inning",
+     "url": "https://www.espn.com/mlb/story/_/id/50240960/world-series-game-3-brewers-rays-live-updates-takeaways",
      "source": "ESPN MLB",
-     "take": "Errors, dominant bullpens and quiet bats defined two one-run games in Milwaukee; now the Series shifts to Tampa Bay."
-    },
-    {
-     "title": "Why the Rays' World Series hopes rest on Junior Caminero's bat -- and his voice",
-     "url": "https://www.espn.com/mlb/story/_/id/50204309/world-series-junior-caminero-rays-leader",
-     "source": "ESPN MLB",
-     "take": "At 23, Caminero is adding clubhouse leader to his r\u00e9sum\u00e9 \u2014 the Rays need his bat and his voice to send the Series back to Milwaukee."
+     "take": "The fifth inning decided Game 3: Milwaukee hung eight runs on the Rays to break it open and put the series on the brink of a sweep."
     },
     {
      "title": "Mets' Lindor wins Roberto Clemente Award for humanitarian work",
      "url": "https://www.espn.com/mlb/story/_/id/50288401/mets-francisco-lindor-wins-roberto-clemente-award",
      "source": "ESPN MLB",
-     "take": "Francisco Lindor wins the Roberto Clemente Award, MLB's top honor for humanitarian work off the field."
+     "take": "Francisco Lindor won the Roberto Clemente Award for his humanitarian work \u2014 the Mets star takes home baseball's highest off-field honor."
     },
     {
-     "title": "Are the Brewers inevitable? Game 2 comeback latest proof Milwaukee can't be beat",
-     "url": "https://www.espn.com/mlb/story/_/id/50273430/world-series-game-2-rays-brewers-comeback-inevitable",
+     "title": "Brewers' Misiorowski unleashes 103.5 mph pitch to set World Series record",
+     "url": "https://www.espn.com/mlb/story/_/id/50261786/brewers-jacob-misiorowski-sets-world-series-velocity-record-first-pitch",
      "source": "ESPN MLB",
-     "take": "Milwaukee rallied from 4-0 down to win Game 2, 5-4 \u2014 the latest comeback is why the Brewers suddenly look inevitable."
+     "take": "Jacob Misiorowski threw 103.5 mph in this series, a World Series record \u2014 Milwaukee's flamethrower keeps rewriting the radar-gun book."
     },
     {
-     "title": "Three biggest questions for World Series Game 3: Can the Rays get off the mat at home?",
-     "url": "https://www.cbssports.com/mlb/news/three-biggest-questions-world-series-game-3-rays-brewers/",
-     "source": "CBS Sports MLB",
-     "take": "CBS frames Game 3 around Peralta, the home crowd, and whether Tampa Bay can stop Milwaukee's late rallies."
+     "title": "Manfred: Small-market World Series good for game, but cap still needed",
+     "url": "https://www.espn.com/mlb/story/_/id/50261784/mlb-rob-manfred-rays-brewers-world-series-good-game",
+     "source": "ESPN MLB",
+     "take": "Rob Manfred called a small-market Brewers-Rays World Series good for the game \u2014 then still argued baseball needs a salary cap."
+    },
+    {
+     "title": "Dead grass era? MLB aids offense by testing restricted OF shifts",
+     "url": "https://www.espn.com/mlb/story/_/id/50287898/mlb-tests-restricted-shifts-effort-offense",
+     "source": "ESPN MLB",
+     "take": "MLB is testing restricted outfield shifts to juice offense \u2014 the league keeps tinkering with positioning to bring back hits."
     }
    ]
   },
@@ -188,52 +182,52 @@
    "name": "National",
    "stories": [
     {
-     "title": "Republican and Democratic ex-governors issue rare joint endorsement for South Carolina Senate candidate \u2013 US politics live",
-     "url": "https://www.theguardian.com/us-news/live/2026/oct/26/donald-trump-abdul-el-sayed-midterms-michigan-rally-space-latest-us-politics-news-updates",
+     "title": "Justice department charges ex-FBI director James Comey for third time",
+     "url": "https://www.theguardian.com/us-news/2026/oct/26/james-comey-charged-doj",
      "source": "Guardian US",
-     "take": "A Republican and a Democrat, both former South Carolina governors, jointly backed Democrat Annie Andrews to flip the seat held by Lindsey Graham's Trump-backed sister."
+     "take": "DOJ charged James Comey for a third time \u2014 two counts of leaking national-defense information allegedly from 2016, against one of Trump's most outspoken critics."
     },
     {
-     "title": "Trump DOJ illegally fired ex-FBI director's daughter, Maurene Comey, as a federal prosecutor, judge rules",
-     "url": "https://www.pbs.org/newshour/politics/trump-doj-illegally-fired-ex-fbi-directors-daughter-maurene-comey-as-a-federal-prosecutor-judge-rules",
-     "source": "PBS NewsHour",
-     "take": "A judge ruled Comey's firing illegal; she had stellar reviews on the nation's highest-profile cases, deepening concern over political firings at DOJ."
-    },
-    {
-     "title": "A guide to the key ballot measures voters will decide on Election Day",
-     "url": "https://www.pbs.org/newshour/politics/a-guide-to-the-key-ballot-measures-voters-will-decide-on-election-day",
-     "source": "PBS NewsHour",
-     "take": "Beyond Congress, midterm voters decide ballot measures on guns, taxes and more \u2014 PBS maps the ones that matter most."
-    },
-    {
-     "title": "Thune campaigns for Republicans in marquee Senate races in scramble to save majority",
-     "url": "https://www.pbs.org/newshour/politics/thune-campaigns-for-republicans-in-marquee-senate-races-in-scramble-to-save-majority",
-     "source": "PBS NewsHour",
-     "take": "Senate leader John Thune is on the road in marquee races, scrambling to save the Republican majority in the final stretch."
-    },
-    {
-     "title": "Manhunt under way in Tennessee after convicted murderer escapes prison",
-     "url": "https://www.theguardian.com/us-news/2026/oct/26/jacob-morley-murderer-tennessee-manhunt",
+     "title": "Trump administration asks Washington to set aside hundreds of ballots from suspected noncitizen voters",
+     "url": "https://www.theguardian.com/us-news/2026/oct/26/trump-washington-ballots-aside-noncitizen-voters",
      "source": "Guardian US",
-     "take": "Tennessee officials are hunting Jacob Morley, serving life for a 2022 murder, after he escaped a facility in Tiptonville."
+     "take": "The Trump administration asked Washington state to set aside ballots from 400+ voters it alleges aren't citizens \u2014 the same move it made in California, in states that will decide control of Congress."
     },
     {
-     "title": "Netanyahu reportedly pressured military to attack Iran in run-up to election",
-     "url": "https://www.theguardian.com/world/2026/oct/26/netanyahu-reportedly-pressured-israel-military-attack-iran-runup-to-election",
-     "source": "Guardian US",
-     "take": "On Israel's election eve, reports say Netanyahu pressured the military toward an Iran attack and turned up the alarmist rhetoric as his coalition narrowly trails."
-    },
-    {
-     "title": "Serbia\u2019s Student List preparing for talks on forming government despite no clear leader",
-     "url": "https://www.theguardian.com/world/2026/oct/26/serbia-student-list-preparing-for-talks-on-forming-government-despite-no-clear-leader",
-     "source": "Guardian US",
-     "take": "The follow-up to Sunday's upset: Serbia's leaderless Student List is preparing talks to form a government and rebuild the state."
-    },
-    {
-     "title": "6 citizens sue Trump over media ban, saying it deprives them of news as audience stakeholders",
-     "url": "https://www.pbs.org/newshour/politics/6-citizens-sue-trump-over-media-ban-saying-it-deprives-them-of-news-as-audience-stakeholders",
+     "title": "Candidates enter final week of campaigning with control of Congress at stake",
+     "url": "https://www.pbs.org/newshour/show/candidates-enter-final-week-of-campaigning-with-control-of-congress-at-stake",
      "source": "PBS NewsHour",
-     "take": "Six citizens sued over the media ban, arguing that as the audience they are deprived of news \u2014 a new front in Trump's fight with the press."
+     "take": "Final week: candidates are sprinting with control of Congress at stake, and campaigns are spending big on increasingly personal attack ads."
+    },
+    {
+     "title": "Lula prevails in Brazil but Fl\u00e1vio Bolsonaro refuses to concede",
+     "url": "https://www.pbs.org/newshour/show/lula-prevails-in-brazil-but-flavio-bolsonaro-refuses-to-concede",
+     "source": "PBS NewsHour",
+     "take": "Lula beat Trump-aligned Fl\u00e1vio Bolsonaro in Brazil \u2014 Bolsonaro refuses to concede and Trump called it 'rigged,' setting up a tense transition."
+    },
+    {
+     "title": "Student-led movement ousts Serbia's right-wing ruler in historic election",
+     "url": "https://www.pbs.org/newshour/show/student-led-movement-ousts-serbias-right-wing-ruler-in-historic-election",
+     "source": "PBS NewsHour",
+     "take": "Serbia's student-led movement ousted longtime ruler Aleksandar Vu\u010di\u0107 in a historic election \u2014 protest energy turned into actual power."
+    },
+    {
+     "title": "Netanyahu faces Israeli voters in first election since Oct. 7 and Gaza war",
+     "url": "https://www.pbs.org/newshour/show/netanyahu-faces-israeli-voters-in-first-election-since-oct-7-and-gaza-war",
+     "source": "PBS NewsHour",
+     "take": "Israel votes in its first election since Oct. 7 and the Gaza war, with Netanyahu reportedly pressuring the military over Iran in the run-up."
+    },
+    {
+     "title": "FTC and 20 states sue Dollar General, accusing bargain chain of overcharging customers",
+     "url": "https://www.theguardian.com/us-news/2026/oct/26/dollar-general-ftc-lawsuit",
+     "source": "Guardian US",
+     "take": "The FTC and 20 states sued Dollar General for persistently overcharging at 20,000+ stores \u2014 the case cites a Guardian investigation into inaccurate shelf pricing."
+    },
+    {
+     "title": "Ukraine war briefing: Russia strikes Kyiv hours before truce begins in war-ravaged city Oleshky",
+     "url": "https://www.theguardian.com/world/2026/oct/27/ukraine-war-briefing-russian-strikes-kyiv-truce-begins-oleshky",
+     "source": "Guardian US",
+     "take": "Russia struck Kyiv hours before a truce took hold in Oleshky, and Zelenskyy says Patriot interceptor stocks are dwindling while new supplies wait on Hegseth's sign-off."
     }
    ]
   },
@@ -241,40 +235,40 @@
    "name": "California",
    "stories": [
     {
-     "title": "Southern California prepares for flooding amid forecast of \u2018record-breaking tides\u2019",
-     "url": "https://www.theguardian.com/us-news/2026/oct/26/southern-california-flooding-tides",
-     "source": "Guardian US",
-     "take": "Coastal towns are told to avoid beaches and stay back from the water as record-breaking tides bring days of flooding risk."
-    },
-    {
-     "title": "9th Circuit panel questions basis for feds' request to block 20,000 California ballots",
-     "url": "https://www.latimes.com/politics/story/2026-10-25/9th-circuit-hears-arguments-on-20-000-ballots-in-california",
+     "title": "SoCal coast hit by widespread flooding as record-breaking tides move in",
+     "url": "https://www.latimes.com/california/story/2026-10-26/socal-coast-faces-flood-risk-from-days-of-extreme-sea-levels",
      "source": "LA Times California",
-     "take": "Two 9th Circuit judges questioned how the DOJ's bid to block 20,000 California ballots squares with the law \u2014 the courtroom follow-up to this morning's election fight."
+     "take": "Record-breaking tides are flooding the SoCal coast, with the highest water Monday through Wednesday \u2014 San Diego and Orange counties face road closures and inundated homes through Thursday."
     },
     {
-     "title": "Who\u2019s spending money on the California insurance commissioner race",
-     "url": "https://calmatters.org/politics/2026/10/insurance-commissioner-campaign-funding/",
-     "source": "CalMatters",
-     "take": "Jane Kim and Ben Allen both pledge to refuse insurance money, but an outside PAC backing Allen has received industry donations."
-    },
-    {
-     "title": "New reforms give California\u2019s next governor a once-in-a-generation chance to reshape education",
-     "url": "https://calmatters.org/commentary/2026/10/school-leaders-california-education-commissioner/",
-     "source": "CalMatters",
-     "take": "Reforms hand the next governor an appointed education commissioner and a reshaped superintendent's role \u2014 a rare lever over California schools."
-    },
-    {
-     "title": "Gen Z has very different views on taxes than Boomers, but one generation votes more often",
-     "url": "https://calmatters.org/education/2026/10/california-midterm-election-gen-z-voters-billionaire-tax-voter-id/",
-     "source": "CalMatters",
-     "take": "Gen Z and Boomers split on billionaire taxes and voter ID, and Gen Z is 30% of eligible voters \u2014 but the older generation votes more often."
-    },
-    {
-     "title": "More storms a-brewin': L.A. could see its first rainy Halloween in over a decade",
-     "url": "https://www.latimes.com/california/story/2026-10-25/will-it-rain-on-halloween-la",
+     "title": "9th Circuit denies feds' appeal over 20,000 ballots; district court hearing to proceed",
+     "url": "https://www.latimes.com/politics/story/2026-10-26/9th-circuit-denies-feds-appeal-over-20-000-ballots-district-court-hearing-to-proceed",
      "source": "LA Times California",
-     "take": "A late-week shift brings a high chance of rain \u2014 possibly Los Angeles' first rainy Halloween since 2014."
+     "take": "The 9th Circuit denied the feds' appeal over 20,000 California ballots \u2014 the case proceeds Tuesday before Judge Carter in Los Angeles."
+    },
+    {
+     "title": "Gu\u00eda de \u00faltima hora para los votantes sobre las 14 propuestas en la boleta electoral de California",
+     "url": "https://calmatters.org/calmatters-en-espanol/2026/10/guia-de-ultima-hora-para-votantes-california/",
+     "source": "CalMatters",
+     "take": "CalMatters' last-minute voter guide walks through all 14 propositions on California's ballot \u2014 the $44B in bonds included \u2014 before you vote."
+    },
+    {
+     "title": "A house divided? California YIMBYs disagree on Prop. 45",
+     "url": "https://calmatters.org/newsletter/prop-45-yimby/",
+     "source": "CalMatters",
+     "take": "Pro-housing groups are split on Prop. 45, which would limit CEQA reviews for 'essential' projects \u2014 does more housing here mean more sprawl?"
+    },
+    {
+     "title": "Former Bass opponent Rick Caruso now says he will vote for her reelection as mayor",
+     "url": "https://www.latimes.com/california/story/2026-10-26/former-bass-opponent-rick-caruso-now-says-he-will-vote-for-her-reelection-as-mayor",
+     "source": "LA Times California",
+     "take": "Rick Caruso, Karen Bass's former opponent, says he'll vote for her reelection \u2014 warning Raman would turn the LAPD into a 'laboratory for risky DSA social experimentation.'"
+    },
+    {
+     "title": "DSA's national leaders postpone decision on rescinding Raman's endorsement for mayor",
+     "url": "https://www.latimes.com/california/story/2026-10-26/dsas-national-leaders-postpone-decision-on-rescinding-ramans-endorsement-for-mayor",
+     "source": "LA Times California",
+     "take": "DSA's national leaders postponed a decision on rescinding Nithya Raman's LA mayoral endorsement \u2014 the fight over the race stays unresolved for now."
     }
    ]
   },
@@ -282,35 +276,59 @@
    "name": "\ud83c\udf99\ufe0f Podcasts",
    "stories": [
     {
-     "title": "4 Questions for AI This Week",
-     "url": "https://podcasters.spotify.com/pod/show/nlw/episodes/4-Questions-for-AI-This-Week-e3r4p63",
-     "source": "The AI Daily Brief",
-     "take": "The four questions: (1) How does US policy handle Moonshot's Kimi K3.1 Pro \u2014 55 on the Intelligence Index, 4th overall, the open-vs-closed gap down from 12 points to 3 \u2014 now that an open model sits about five weeks behind the frontier? (2) Is cyber chaos the new normal \u2014 Anthropic's security chief says hold on for ~18 months, Cloudflare's CEO predicts years of weekly crises, and both big labs now train frontier models offline. (3) Is data-center funding drying up \u2014 debt markets have shut for pure data-center plays and even SpaceX's GPU deal is reportedly not yet priced. (4) What price does Anthropic's IPO get \u2014 $2T hopes trimming toward $1.5T \u2022 K3.1's launch was marred by an undisclosed paid-influencer campaign, and its deliberately nerfed cyber model is still the most capable public one \u2022 NLW's speculation: OpenAI may hold back a competing release, because a failed Anthropic IPO could close the window for everyone"
+     "title": "Jumping Revenue, Big Losses and Many Risks: Inside Anthropic\u2019s IPO Filing",
+     "url": "https://podcasts.apple.com/us/podcast/jumping-revenue-big-losses-and-many-risks-inside/id152016440?i=1000798249477&uo=4",
+     "source": "WSJ What's News",
+     "take": "Anthropic's S-1 shows ~$16B revenue in six months (up 1,300% YoY) but losses over $80B from financing-related accounting \u2022 About 90 pages of the filing are risk factors \u2014 AI self-preservation, bioweapons, uninsurable catastrophic liability \u2022 Investors still call it must-own, with valuation talk up to $2T \u2022 Brazil's Bovespa fell over 13% after Lula's re-election"
     },
     {
-     "title": "Emergency Pod: Anthropic's S-1 IPO Filing \u2014 With Dan Primack",
-     "url": "https://podcasts.apple.com/us/podcast/emergency-pod-anthropics-s-1-ipo-filing-with-dan-primack/id1522960417?i=1000798214177&uo=4",
-     "source": "Big Technology Podcast",
-     "take": "Revenue went from $41M three years ago to $16.3B in the first half of 2026, with per-employee revenue up to $6.6M and positive free cash flow of $3.4B \u2022 Compute efficiency flipped from $0.40 of revenue per $1 of compute in Q1 2025 to $2.08 today, driven by Claude Code and Cowork; no customer exceeds 10% of revenue, though 48% comes via Google and Microsoft marketplaces \u2022 The S-1's risk pages are unprecedented, including an explicit warning of 'catastrophic or existential risks to humanity' \u2022 Primack's read: the IPO is a referendum on the AI market \u2014 Anthropic has raised $141B and must go public even at a lower valuation, and its reception will set OpenAI's terms"
+     "title": "What's in AI's next chapter?",
+     "url": "https://podcasts.apple.com/us/podcast/whats-in-ais-next-chapter/id201853034?i=1000798256795&uo=4",
+     "source": "Marketplace",
+     "take": "The answer: a payoff test \u2014 Anthropic (ticker ANT) filed to raise about $100B at a $1.5\u20132T valuation as the first pure-play AI listing, while Microsoft, Alphabet and Amazon earnings this week must show AI capex turning into revenue \u2022 Anthropic's risk factors run 94 pages, including 'catastrophic or existential risks to humanity' \u2022 Microsoft is offering buyouts to 60,000 employees \u2014 a quarter of its workforce \u2014 to pay for AI \u2022 Helium joined the critical-materials list amid 'helium shortage 5.0'"
     },
     {
-     "title": "Anthropic Flags \u2018Existential Risks\u2019 in Long-Awaited IPO Filing",
-     "url": "https://podcasts.apple.com/us/podcast/anthropic-flags-existential-risks-in-long-awaited-ipo/id326301337?i=1000798205926&uo=4",
-     "source": "Bloomberg Intelligence",
-     "take": "Goldman Sachs and Morgan Stanley lead a deal with 20 other banks; marketing could start the week of November 9, targeting a close before Thanksgiving \u2014 the first frontier AI lab to list \u2022 The filing pairs $16.3B in first-half revenue with an $80.7B loss, about $250B in minimum contracted compute spending and $417B in compute obligations running as long as 2046; Anthropic calls itself compute-constrained \u2022 Control stays put: the seven founders hold 50.1% of voting power, a Long-Term Benefit Trust appoints most of the board, and the public-benefit structure survives the listing \u2022 Second segment: Trump's unmet promise to bring down prices is driving toss-up Senate races, with voters focused on gas prices and affordability despite solid headline economics"
+     "title": "The DOJ wades into elections with unprecedented cases",
+     "url": "https://podcasts.apple.com/us/podcast/the-doj-wades-into-elections-with-unprecedented-cases/id1057255460?i=1000798237754&uo=4",
+     "source": "NPR Politics Podcast",
+     "take": "DOJ handed LA County a thumb drive with 20,000 names of alleged non-citizen voters and 48 hours to investigate, then sued California to segregate those ballots \u2022 More than 113 people charged nationwide \u2014 but a review of 64 cases found at least 56 are lawful permanent residents and only 4 are here illegally \u2022 DOJ also sued Alaska over two Dan Sullivans on the same ballot; experts across the spectrum call both suits unlikely to succeed \u2022 Roughly 1,000 DOJ election monitors head out this year"
     },
     {
-     "title": "Files are over. All you need are URLs",
-     "url": "https://podcasts.apple.com/us/podcast/files-are-over-all-you-need-are-urls/id430333725?i=1000798236393&uo=4",
-     "source": "The Vergecast",
-     "take": "Paul Ford's tinylittleoffice.com stores whole documents \u2014 word processor, spreadsheet, presentations \u2014 inside the URL itself, in the part after the # \u2022 Because that fragment is never sent to a server, nothing is saved anywhere: the document lives in the link, and sharing it means passing the URL around \u2022 The bigger question the episode circles: in the AI era, where does the computer actually live \u2014 your device, a cloud server, or a black box of agents? \u2022 The opening news brief also flags iPhone Duo 'crackgate' and Anthropic beating OpenAI to an IPO filing"
+     "title": "Democrats find God",
+     "url": "https://podcasts.apple.com/us/podcast/democrats-find-god/id1346207297?i=1000798221072&uo=4",
+     "source": "Today, Explained",
+     "take": "Methodist megachurch pastor Adam Hamilton, a Democrat, is challenging Sen. Roger Marshall in deep-red Kansas \u2014 a state Trump won by 16+ points that is now an unexpected battleground \u2022 Hamilton calls himself 'pro-life with a heavy heart' while supporting legal abortion access, and campaigns on compassion and common ground \u2022 The race tests whether Democrats can win back religious voters after decades of the 'God gap' widening toward the GOP"
+    },
+    {
+     "title": "Leaderless student movement wins Serbian election",
+     "url": "https://podcasts.apple.com/us/podcast/leaderless-student-movement-wins-serbian-election/id135067274?i=1000798207514&uo=4",
+     "source": "Global News Podcast",
+     "take": "Serbia's leaderless Student List won a clear majority \u2014 about 140 MPs drawn from doctors, academics and actors \u2014 ousting longtime leader Aleksandar Vu\u010di\u0107 \u2022 Lula won Brazil's runoff by more than 4 million votes after losing the first round \u2022 Israel heads into a pivotal election, and China's party meeting showed 44 empty military-commission chairs after Xi's purges"
+    },
+    {
+     "title": "What's next for China after Xi Jinping?",
+     "url": "https://podcasts.apple.com/us/podcast/whats-next-for-china-after-xi-jinping/id135067274?i=1000798272728&uo=4",
+     "source": "Global News Podcast",
+     "take": "The answer: Xi stays \u2014 he is likely to secure a fourth term, no successor has been named, and the next leaders will be officials born in the 1960s\u201370s and personally vetted by him \u2022 His anti-corruption purge removed five of seven Central Military Commission members, consolidating his control \u2022 Youth unemployment sits around 18%, and a struggling property sector is fueling public pessimism"
+    },
+    {
+     "title": "How the next LA Mayor could shakeup LA28, LAUSD meets to discuss school closures. UFO's on Catalina Island?\u2014 Afternoon Edition",
+     "url": "https://podcasts.apple.com/us/podcast/how-the-next-la-mayor-could-shakeup-la28-lausd-meets/id1508035189?i=1000798236758&uo=4",
+     "source": "The LA Report",
+     "take": "The answer on the UFOs: Pentagon files confirm a silver object sighted over Catalina Island in August 1952 by three Boy Scouts, with incidents dating to 1947 \u2022 Mayoral candidate Nithya Raman opposes the 2028 Olympics and would remove LAPD Chief Jim McDonald and install a financial monitor over LA28 spending \u2022 LAUSD starts new community meetings on school closures after enrollment fell more than 40% in two decades"
+    },
+    {
+     "title": "Costal flooding hits OC, LA Mayor calls LADWP audit,  Long Beach Unified cuts\u2014 Evening Edition",
+     "url": "https://podcasts.apple.com/us/podcast/doj-voter-fraud-claims-more-high-tides-coming-haunted/id1508035189?i=1000798056899&uo=4",
+     "source": "The LA Report",
+     "take": "Exceptionally high tides flooded Newport Beach and the Balboa Peninsula; the city is distributing sandbags \u2022 Mayor Bass called for an independent audit of LADWP rates after skyrocketing-bill complaints, plus a 25% boost to the energy-efficiency rebate program \u2022 Long Beach Unified voted to close Gompers and Edison elementary schools amid a $30M budget deficit"
     }
    ]
   }
  ],
  "markets": {
   "source": "Yahoo Finance",
-  "fetched_at": "2026-10-26T13:37:25.467195-07:00",
+  "fetched_at": "2026-10-26T21:10:39.584661-07:00",
   "dates": [
    "2025-10-27",
    "2025-10-28",
@@ -985,8 +1003,8 @@
       375.59
      ]
     },
-    "dayHigh": 376.82,
-    "dayLow": 373.92,
+    "dayHigh": 376.85,
+    "dayLow": 373.9,
     "hi52": 385.12,
     "lo52": 310.4
    },
@@ -1411,7 +1429,7 @@
      ]
     },
     "dayHigh": 767.73,
-    "dayLow": 761.64,
+    "dayLow": 761.63,
     "hi52": 781.62,
     "lo52": 629.28
    },
@@ -1773,7 +1791,7 @@
       713.62,
       714.12,
       714.55,
-      714.09,
+      714.1,
       714.28,
       714.34,
       714.98,
@@ -2681,7 +2699,7 @@
       216.46,
       216.37,
       215.99,
-      215.98,
+      215.97,
       216.0
      ]
     },

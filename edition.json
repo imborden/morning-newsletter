@@ -286,13 +286,25 @@
      "url": "https://podcasts.apple.com/us/podcast/answering-your-questions-before-election-day/id1057255460?i=1000798951670&uo=4",
      "source": "NPR Politics Podcast",
      "take": "Can polls be trusted? National polls are \u201cpretty darn good,\u201d state polls are \u201ca mess\u201d \u2014 use long-track-record pollsters, read direction not precision (a 3-point margin of error is a 6-point range) \u2022 If Democrats take a chamber: expect oversight and investigations, not big bills \u2014 Trump would likely keep governing by executive action, and hosts urge caution on impeachment \u2022 Debates aren't dead: four Senate debates in Maine alone, and a record number predicted for the 2028 primaries \u2022 2028 signals to watch: Ossoff's margin in Georgia, what Pritzker, Shapiro and Moore say on election night, and how fast Republicans create daylight from Trump if the night goes badly"
+    },
+    {
+     "title": "Instant Reaction: Wall Street Gets AI Wake-Up Call with Deep Tech Selloff",
+     "url": "https://podcasts.apple.com/us/podcast/instant-reaction-wall-street-gets-ai-wake-up-call-with/id326301337?i=1000798964657&uo=4",
+     "source": "Bloomberg Intelligence",
+     "take": "A broad tech selloff capped the week: S&P 500 \u22121.8%, Nasdaq \u22122.9%, Dow just over \u22121%, with volatility spiking to the mid-20s before settling near 19 \u2022 Analysts see no single catalyst \u2014 many small factors adding up, and earnings scrutiny has shifted to cash flow and whether AI capex can be justified \u2022 Also: Apple's premium hardware push, including $2,000 foldables, in a K-shaped economy, and a look inside SpaceX's hiring culture"
+    },
+    {
+     "title": "Welcome to the Prediction-Market Election",
+     "url": "https://podcasts.apple.com/us/podcast/welcome-to-the-prediction-market-election/id152016440?i=1000798964800&uo=4",
+     "source": "WSJ What's News",
+     "take": "Prediction markets are a mainstream election source for the first time: Kalshi and Polymarket drew ~2.1 billion election page views and ~750 million searches, passing Gallup and Quinnipiac in brand awareness \u2022 The signal: Polymarket showed ~95 House seats flipping with a ~67% chance Democrats reach 52+ Senate seats, and NYT/Siena now publishes Kalshi odds alongside its polls; election-market volume is running ~$1B a week \u2022 Caveats: bettors skew younger, male and crypto-native, and thin markets can be moved \u2014 even a top Polymarket trader's $1.5M profit is likely mostly luck"
     }
    ]
   }
  ],
  "markets": {
   "source": "Yahoo Finance",
-  "fetched_at": "2026-10-30T20:20:26.084974-07:00",
+  "fetched_at": "2026-10-30T20:39:23.482113-07:00",
   "dates": [
    "2025-10-31",
    "2025-11-03",
@@ -1739,7 +1751,7 @@
       694.72,
       697.29,
       695.91,
-      696.1,
+      696.11,
       697.16,
       698.18,
       697.54,
@@ -1786,7 +1798,7 @@
       689.59,
       688.63,
       688.72,
-      689.11,
+      689.1,
       688.35,
       687.46,
       687.34,
@@ -2238,7 +2250,7 @@
       344.16,
       344.48,
       344.57,
-      344.8,
+      344.79,
       344.63
      ]
     },

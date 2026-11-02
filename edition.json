@@ -1,92 +1,92 @@
 {
  "date": "2026-11-01",
- "updated_label": "AFTERNOON UPDATE \u00b7 1:03 PM PT",
+ "updated_label": "EVENING UPDATE \u00b7 8:16 PM PT",
  "sections": [
   {
    "name": "Tech & AI",
    "stories": [
     {
-     "title": "FBI says North Korea was behind $6.3 billion Binance heist, the biggest crypto hack in history",
-     "url": "https://www.pbs.org/newshour/world/fbi-says-north-korea-was-behind-6-3-billion-binance-heist-the-biggest-crypto-hack-in-history",
-     "source": "PBS NewsHour",
-     "take": "The FBI ties the record $6.3B Binance theft to North Korea's TraderTraitor crew \u2014 the same actors behind last year's $1.5B Bybit hack."
+     "title": "Binance resumes withdrawals following $6.3 billion breach",
+     "url": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/",
+     "source": "TechCrunch",
+     "take": "The evening turn in the record hack: Binance has resumed withdrawals and says it has now covered 95% of the stolen assets."
     },
     {
-     "title": "Investors pull billions in funds from Binance after record $6.3bn hack",
-     "url": "https://www.theguardian.com/business/2026/nov/01/investors-take-out-36bn-from-binance-after-record-hack-that-stole-billions",
+     "title": "OpenAI might rebrand its data centers as \u2018AI compute campuses\u2019",
+     "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+     "source": "TechCrunch",
+     "take": "Data centers are deeply unpopular, so OpenAI is reportedly trying a friendlier name \u2014 \u2018AI compute campuses\u2019 \u2014 for the same massive builds."
+    },
+    {
+     "title": "Parents of woman who died of seizure after ChatGPT misguidance sue OpenAI",
+     "url": "https://www.theguardian.com/us-news/2026/nov/01/chatgpt-woman-seizure-lawsuit-openai",
      "source": "Guardian US",
-     "take": "The fallout is now a run: investors have pulled $3.6B from Binance even as withdrawals resume after the record hack."
+     "take": "A woman died from a seizure after ChatGPT gave her a schedule to taper her anti-seizure medication; her parents are now suing OpenAI."
     },
     {
-     "title": "AI can make tech CEOs\u2019 lives easier. What about everyone else?",
-     "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+     "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+     "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
      "source": "TechCrunch",
-     "take": "TechCrunch's Equity asks why CEO talk about AI gains sounds so tone-deaf to everyone whose job is on the other side of it."
+     "take": "A judge let the NAACP's Clean Air Act suit against xAI over its data center pollution proceed \u2014 another legal front for the AI buildout."
     },
     {
-     "title": "TechCrunch Mobility: A new, bigger AV boom is here",
-     "url": "https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/",
+     "title": "Apple CEO says the company doesn\u2019t \u2018want to ship AI for AI\u2019s sake\u2019",
+     "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
      "source": "TechCrunch",
-     "take": "A second, bigger autonomous-vehicle boom is underway \u2014 and this time AI is driving the expansion, not just the cars."
+     "take": "Apple's new CEO defended its slower AI pace with a clear line: the company doesn't want to ship AI just for AI's sake."
     },
     {
-     "title": "Pixel 11 Pro Fold: Sturdy rectangle in a wide wide world",
-     "url": "https://techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world/",
+     "title": "Data centers are now a midterm issue, even in Brooklyn",
+     "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
      "source": "TechCrunch",
-     "take": "Google's Pixel 11 Pro Fold is sturdy and well-built, but the foldable field around it is getting crowded fast."
+     "take": "Five days before Election Day, every conversation at a Brooklyn midterm gathering kept circling back to AI and data centers \u2014 the issue is now retail politics."
     },
     {
-     "title": "What Democrats Can Learn From New York\u2019s Data Center Moratorium",
-     "url": "https://www.wired.com/story/what-democrats-can-learn-new-york-data-center-moratorium/",
-     "source": "Wired",
-     "take": "With anti-data-center candidates poised to win Tuesday, New York's moratorium shows the tension between blocking AI infrastructure and governing it."
+     "title": "How a small Wisconsin city scuttled a secretive $1.6bn datacenter project",
+     "url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/01/wisconsin-city-menomie-meta-datacenter",
+     "source": "Guardian US",
+     "take": "A small Wisconsin city quietly killed a secretive $1.6B datacenter project \u2014 a template other towns fighting undisclosed builds are studying."
     },
     {
-     "title": "Spooky New Infostealer Malware Uses AI to \u2018Autodox\u2019 Victims",
-     "url": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
+     "title": "Chatbots Are Leading Hikers Astray, With Dangerous Consequences",
+     "url": "https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/",
      "source": "Wired",
-     "take": "New 'Volta-Autodoxer' malware uses AI to harvest victims' credentials, card numbers and sessions \u2014 and profile them automatically."
-    },
-    {
-     "title": "An AI Agent Injected Drugs Into a Live Mouse\u2019s Brain",
-     "url": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/",
-     "source": "Wired",
-     "take": "A biotech startup let an AI agent pick a gene therapy and inject it into a live mouse's brain \u2014 a startling preview of automated labs."
+     "take": "Wired warns that outsourcing trip planning to AI chatbots is sending hikers into the backcountry with bad information \u2014 and potentially deadly results."
     }
    ]
   },
   {
-   "name": "Marketing",
+   "name": "Marketing & creative industry",
    "stories": [
     {
-     "title": "\"Use their tools against them\": why AI isn't the death of production design",
-     "url": "https://www.creativebloq.com/features/use-their-tools-against-them-why-ai-isnt-the-death-of-production-design",
+     "title": "If smart glasses take off, I predict a new golden age for the billboard",
+     "url": "https://www.creativebloq.com/news/if-smart-glasses-take-off-i-predict-a-new-golden-age-for-the-billboard",
      "source": "Creative Bloq",
-     "take": "Production designer Christopher Glass tells the next generation to use AI's own tools against it \u2014 craft, not panic, is his survival plan."
+     "take": "If smart glasses lift our gaze off our phones, Creative Bloq predicts a new golden age for the billboard \u2014 outdoor becomes the screen people actually look up at."
     },
     {
-     "title": "How a s\u00e9ance shaped this beautiful psychic platform rebrand",
-     "url": "https://www.creativebloq.com/features/how-a-seance-shaped-this-beautiful-psychic-app-rebrand",
+     "title": "From Pepsi Man to WendyQuest, why are brands making video games again?",
+     "url": "https://www.creativebloq.com/news/from-pepsi-man-to-wendyquest-why-are-brands-making-video-games-again",
      "source": "Creative Bloq",
-     "take": "Mother Design literally held a s\u00e9ance to shape a psychic platform's rebrand \u2014 unconventional process, beautiful result."
-    },
-    {
-     "title": "Are you team Apple or Samsung in the folding phone era?",
-     "url": "https://www.creativebloq.com/news/are-you-team-apple-or-samsung-in-the-folding-phone-era",
-     "source": "Creative Bloq",
-     "take": "As the iPhone Duo shows cracks in the facade, Creative Bloq asks whether Samsung's Galaxy Z Fold is still the foldable to beat."
+     "take": "Brands are making games again, from Pepsi Man nostalgia to Wendy's pixel-art RPG WendyQuest \u2014 playable worlds are back in the media mix."
     },
     {
      "title": "\"I\u2019ve ignored most advice and learned by fire\": 5 Questions with Christopher Glass",
      "url": "https://www.creativebloq.com/features/ive-ignored-most-advice-and-learned-by-fire-5-questions-with-christopher-glass",
      "source": "Creative Bloq",
-     "take": "Award-winning production designer Christopher Glass on pet peeves, imposter syndrome, and learning by fire instead of advice."
+     "take": "Production designer Christopher Glass on ignoring most advice, learning by fire, and living with imposter syndrome."
     },
     {
-     "title": "This brilliant budget 3D printer is the one I'd buy if I were getting into the hobby",
-     "url": "https://www.creativebloq.com/deals/this-brilliant-budget-3d-printer-is-the-one-i-would-buy-if-i-were-getting-into-the-hobby",
+     "title": "Are you team Apple or Samsung in the folding phone era?",
+     "url": "https://www.creativebloq.com/news/are-you-team-apple-or-samsung-in-the-folding-phone-era",
      "source": "Creative Bloq",
-     "take": "Elegoo's Centauri Carbon 2 makes four-colour 3D printing affordable \u2014 the budget pick if you're starting the hobby."
+     "take": "As Apple's iPhone Duo shows cracks in the facade, Creative Bloq asks whether Samsung's Galaxy Z Fold is still the foldable to beat."
+    },
+    {
+     "title": "How to animate your drawings in Procreate the easy way",
+     "url": "https://www.creativebloq.com/how-to/how-to-animate-your-drawings-in-procreate-the-easy-way",
+     "source": "Creative Bloq",
+     "take": "A quick, practical Procreate walkthrough that brings a drawing to life in seconds \u2014 useful craft, no AI shortcut."
     }
    ]
   },
@@ -94,16 +94,10 @@
    "name": "NBA",
    "stories": [
     {
-     "title": "\ud83c\udfc0 Inside the stunning 72-hour Lakers sale and the uncertainty that still looms",
-     "url": "https://www.espn.com/nba/story/_/id/50287529/los-angeles-lakers-sale-mark-walter-iger-kushner-luka",
+     "title": "Curry's ankle-breaker on Luka highlights Warriors' stunning 25-point comeback",
+     "url": "https://www.espn.com/nba/story/_/id/50333810/stephen-curry-leads-warriors-25-point-comeback-lakers",
      "source": "ESPN NBA",
-     "take": "Three days of secret talks flipped the Lakers to Mark Walter at a $12.5B valuation \u2014 and reignited the Buss siblings' fight, with plenty of uncertainty still looming."
-    },
-    {
-     "title": "An exclusive with Kevin Durant: On his time in OKC, his legacy and the Thunder's 2025 title",
-     "url": "https://www.espn.com/nba/story/_/id/50308763/kevin-durant-oklahoma-city-thunder-reflection",
-     "source": "ESPN NBA",
-     "take": "Durant opens up on Oklahoma City years after the league's most acrimonious exit, saying he appreciates the place far more than the narrative suggests."
+     "take": "Final: Warriors 112, Lakers 95. Curry's theatrical 31 points \u2014 capped by an ankle-breaker on Luka \u2014 powered a stunning 25-point comeback win."
     },
     {
      "title": "Wemby scores season-best 43 points on career-high 34 shots",
@@ -112,22 +106,34 @@
      "take": "Wembanyama launched a career-high 34 shots for a season-best 43 points as the Spurs beat the Timberwolves 121\u2013111."
     },
     {
-     "title": "How can Thunder survive Chet Holmgren's absence? Rookie Aday Mara becomes vital as trade rumors swirl",
-     "url": "https://www.cbssports.com/nba/news/chet-holmgren-injury-how-can-thunder-survive-trade-rumors/",
-     "source": "CBS Sports NBA",
-     "take": "With Holmgren out 8\u201310 weeks as OKC's third star sidelined, rookie Aday Mara suddenly matters \u2014 and trade rumors are swirling."
-    },
-    {
-     "title": "Luka Don\u010di\u0107 teaches Yaxel Lendeborg a lesson, but Warriors bail their rookie out in comeback win over Lakers",
-     "url": "https://www.cbssports.com/nba/news/luka-doncic-yaxel-lendeborg-warriors-comeback-win-lakers/",
-     "source": "CBS Sports NBA",
-     "take": "Lendeborg's Luka talk backfired in his worst game yet, but Golden State's comeback bailed the rookie out against the Lakers."
-    },
-    {
-     "title": "NBA Cup 2026: Schedule, format, groups, updates and more",
-     "url": "https://www.espn.com/nba/story/_/id/49577473/2026-nba-season-tournament-cup-format-highlights-updates",
+     "title": "Holmgren (knee) out 8-10 weeks; Thunder reconsider Agbaji, sources say",
+     "url": "https://www.espn.com/nba/story/_/id/50332283/thunder-say-chet-holmgren-8-10-weeks-due-knee",
      "source": "ESPN NBA",
-     "take": "The fourth NBA Cup is set \u2014 schedule, groups and format for the in-season tournament, all in one place."
+     "take": "Chet Holmgren is out 8\u201310 weeks with a knee injury, the third major Thunder loss this week after Jalen Williams and Cason Wallace."
+    },
+    {
+     "title": "Jeanie Buss accuses siblings of 'cloak and dagger' tactics in Lakers' family saga",
+     "url": "https://www.espn.com/nba/story/_/id/50337158/lakers-jeanie-buss-accuses-siblings-cloak-dagger-tactics",
+     "source": "ESPN NBA",
+     "take": "Jeanie Buss accused her siblings of a 'cloak and dagger' campaign against her in court filings, as the fight over their Lakers shares drags on after the $12.5B sale."
+    },
+    {
+     "title": "OKC declines option for oft-injured ex-lottery pick Topic",
+     "url": "https://www.espn.com/nba/story/_/id/50354448/thunder-decline-option-ex-lottery-pick-nikola-topic",
+     "source": "ESPN NBA",
+     "take": "OKC declined Nikola Topic's option for next season, making the oft-injured former lottery pick a free agent next summer."
+    },
+    {
+     "title": "Hawks' Flemings suspended one game for elbowing Pelicans' McGowens in head",
+     "url": "https://www.espn.com/nba/story/_/id/50354476/hawks-flemings-suspended-elbow-head-pelicans-mcgowens",
+     "source": "ESPN NBA",
+     "take": "The NBA suspended Hawks guard Kingston Flemings one game for intentionally elbowing Pelicans guard Bryce McGowens in the head."
+    },
+    {
+     "title": "Thunder's $500 million problem: Execs on what they could -- and should -- do",
+     "url": "https://www.espn.com/nba/story/_/id/50322550/thunder-trade-jalen-williams-cason-wallace",
+     "source": "ESPN NBA",
+     "take": "With two season-altering injuries, Windhorst and MacMahon take the league's pulse on what OKC could \u2014 and should \u2014 do about its $500M problem."
     }
    ]
   },
@@ -135,46 +141,40 @@
    "name": "MLB",
    "stories": [
     {
+     "title": "2026 MLB Gold Glove winners: Pete Crow-Armstrong wins second honor, Red Sox and D-backs lead with three each",
+     "url": "https://www.cbssports.com/mlb/news/2026-mlb-gold-glove-winners-pete-crow-armstrong/",
+     "source": "CBS Sports MLB",
+     "take": "Gold Gloves are settled: Pete Crow-Armstrong won his second, and the Red Sox and Diamondbacks led with three winners each on Sunday night."
+    },
+    {
+     "title": "Astros' Walker, Braves' Olson win 4th Gold Gloves; Red Sox's Abreu gets his 3rd",
+     "url": "https://www.espn.com/mlb/story/_/id/50354739/2026-gold-glove-award-winners",
+     "source": "ESPN MLB",
+     "take": "First basemen Christian Walker and Matt Olson each won a fourth Gold Glove, while Boston's Wilyer Abreu took the fielding honor for a third straight year."
+    },
+    {
+     "title": "Padres decline options on Pivetta, Giolito, Canning; exercise option on Hart",
+     "url": "https://www.espn.com/mlb/story/_/id/50355073/padres-option-pivetta-giolito-canning-hart-andujar",
+     "source": "ESPN MLB",
+     "take": "Option day in San Diego: the Padres declined Nick Pivetta, Lucas Giolito and Griffin Canning, and exercised their option on Kyle Hart."
+    },
+    {
+     "title": "After 7-2 season, Whitlock's $8.25 million option exercised by Red Sox",
+     "url": "https://www.espn.com/mlb/story/_/id/50354714/garrett-whitlock-825-million-option-exercised-red-sox",
+     "source": "ESPN MLB",
+     "take": "Boston exercised Garrett Whitlock's $8.25M option for 2027 after his 7\u20132 season with a 1.72 ERA, keeping him out of free agency."
+    },
+    {
+     "title": "Astros turn to Cardinals exec Flores as new GM",
+     "url": "https://www.espn.com/mlb/story/_/id/50332157/astros-hire-randy-flores-new-general-manager",
+     "source": "ESPN MLB",
+     "take": "Houston hired Cardinals executive Randy Flores as its new general manager."
+    },
+    {
      "title": "Mets legend Jerry Koosman dies at 83: Pitcher helped New York win 1969 World Series",
      "url": "https://www.cbssports.com/mlb/news/mets-legend-jerry-koosman-dies-at-83/",
      "source": "CBS Sports MLB",
-     "take": "Jerry Koosman, the lefty who helped the 1969 Miracle Mets win it all, has died at 83; his No. 36 was retired in 2021."
-    },
-    {
-     "title": "MLB rumors: Padres decline option on key rotation piece, Korean star to be posted",
-     "url": "https://www.cbssports.com/mlb/news/mlb-rumors-padres-decline-option-korean-star-nov-1/",
-     "source": "CBS Sports MLB",
-     "take": "Hot stove eve: San Diego declines a key starter's option and a Korean star is set to be posted as free agency opens."
-    },
-    {
-     "title": "Rays pick up $20M option for 2027 on ace pitcher Rasmussen",
-     "url": "https://www.espn.com/mlb/story/_/id/50342824/rays-pick-20m-option-ace-pitcher-drew-rasmussen",
-     "source": "ESPN MLB",
-     "take": "Tampa Bay exercises Drew Rasmussen's $20M option for 2027, keeping its ace off the market."
-    },
-    {
-     "title": "Japanese RHP Taira to be posted by Seibu Lions, move to MLB",
-     "url": "https://www.espn.com/mlb/story/_/id/50335110/japanese-rhp-kaima-taira-posted-seibu-lions-move-mlb",
-     "source": "ESPN MLB",
-     "take": "Seibu will post right-hander Kaima Taira, adding another Japanese arm to this winter's MLB market."
-    },
-    {
-     "title": "Orioles decline OF Robert's $20M club option for 2027",
-     "url": "https://www.espn.com/mlb/story/_/id/50341690/orioles-decline-luis-robert-20m-club-option-2027",
-     "source": "ESPN MLB",
-     "take": "Baltimore declines Luis Robert Jr.'s $20M option for 2027, sending the outfielder toward free agency."
-    },
-    {
-     "title": "Closer Pagan declines $10M player option with Reds",
-     "url": "https://www.espn.com/mlb/story/_/id/50340677/emilio-pagan-declines-10m-player-option-2027-reds",
-     "source": "ESPN MLB",
-     "take": "Reds closer Emilio Pag\u00e1n turns down his $10M player option and becomes a free agent."
-    },
-    {
-     "title": "A closed-door meeting, the belief of an entire state and a World Series title at last",
-     "url": "https://www.espn.com/mlb/story/_/id/50294395/world-series-brewers-champions-franchise-first-title",
-     "source": "ESPN MLB",
-     "take": "How a closed-door meeting and a state's belief carried the Brewers to their first World Series title \u2014 the inside story."
+     "take": "Jerry Koosman, the lefty who helped the 1969 Miracle Mets win the World Series, has died at 83; the Mets retired his No. 36 in 2021."
     }
    ]
   },
@@ -182,52 +182,52 @@
    "name": "National",
    "stories": [
     {
+     "title": "Spain train crash: US, Japan and Canada citizens among dead, authorities say",
+     "url": "https://www.theguardian.com/world/2026/nov/02/spain-train-crash-us-citizens-japan-canada-dead",
+     "source": "Guardian US",
+     "take": "Spain's high-speed train collision killed 69 people, including four U.S. citizens and others from Canada, Japan, Argentina, Mexico, Tunisia and the Czech Republic \u2014 one of Europe's deadliest rail disasters this century."
+    },
+    {
+     "title": "All 9 people aboard a jet that crashed in Florida have died, transportation secretary says",
+     "url": "https://www.pbs.org/newshour/nation/all-9-people-aboard-a-jet-that-crashed-in-florida-have-died-transportation-secretary-says",
+     "source": "PBS NewsHour",
+     "take": "All nine people aboard the business jet that crashed in Florida have died, the transportation secretary confirmed."
+    },
+    {
      "title": "Democrat Haley Stevens endorses Abdul El-Sayed\u2019s Republican rival Mike Rogers",
      "url": "https://www.theguardian.com/us-news/2026/nov/01/abdul-el-sayed-haley-stevens-michigan-senate",
      "source": "Guardian US",
-     "take": "In an extraordinary eve-of-election rebuke, Rep. Haley Stevens \u2014 who lost the Michigan Democratic Senate primary to Abdul El-Sayed \u2014 endorsed his Republican rival Mike Rogers, drawing party backlash over a 'betrayal.'"
+     "take": "On the eve of the midterms, Rep. Haley Stevens \u2014 who lost the Michigan Democratic Senate primary to Abdul El-Sayed \u2014 endorsed his Republican rival Mike Rogers, drawing party backlash over a 'betrayal.'"
     },
     {
      "title": "Judge dismisses Trump attempt to block Alaska Senate race results if Republican loses",
      "url": "https://www.theguardian.com/us-news/2026/nov/01/alaska-senate-race-republican-dan-sullivan",
      "source": "Guardian US",
-     "take": "A judge tossed the Trump-backed suit to block Alaska Senate certification if Dan Sullivan loses; Sullivan himself says he'll accept the results."
+     "take": "A judge tossed the Trump-backed suit to block Alaska Senate certification if Dan Sullivan loses; Sullivan himself says he will accept the results."
     },
     {
      "title": "Connecticut senator Chris Murphy hospitalized after stroke",
      "url": "https://www.theguardian.com/us-news/2026/nov/01/chris-murphy-stroke-hospitalized",
      "source": "Guardian US",
-     "take": "Sen. Chris Murphy was hospitalized after a stroke at his son's hockey game; his office says he's responding well and expected to make a full recovery."
+     "take": "Sen. Chris Murphy was hospitalized after a stroke at his son's hockey game; his office says he is responding well and expected to make a full recovery."
     },
     {
-     "title": "Ukraine defies Trump to resume attacks on Russian oil refineries",
-     "url": "https://www.theguardian.com/world/2026/nov/01/ukraine-defies-trump-resumes-attacks-russian-oil",
-     "source": "Guardian US",
-     "take": "Kyiv resumed strikes on Russian oil refineries days before the midterms, defying U.S. pressure \u2014 the Kremlin says Ukraine is 'simply ignoring' Washington's wishes."
+     "title": "Justice Department urges sanctions for database analysis critical of its noncitizen voting claims",
+     "url": "https://www.pbs.org/newshour/politics/justice-department-urges-sanctions-for-database-analysis-critical-of-its-noncitizen-voting-claims",
+     "source": "PBS NewsHour",
+     "take": "The Justice Department is urging sanctions over a database analysis that undercut its noncitizen voting claims \u2014 more than 40% of the names on its list were not on California's voter rolls."
     },
     {
-     "title": "Negotiators \u2018braced for worst\u2019 over US-Iran talks to reopen strait of Hormuz",
-     "url": "https://www.theguardian.com/world/2026/nov/01/negotiators-braced-for-worst-over-us-iran-talks-to-reopen-strait-of-hormuz",
-     "source": "Guardian US",
-     "take": "On day three of indirect U.S.\u2013Iran talks, Gulf officials are braced for the worst as Qatar tries to free $6B in Iranian assets to reopen the Strait of Hormuz."
-    },
-    {
-     "title": "WATCH LIVE: Trump rallies in Iowa as part of final push before Election Day",
+     "title": "WATCH: Trump rallies in Iowa as part of final push before Election Day",
      "url": "https://www.pbs.org/newshour/politics/watch-live-trump-rallies-in-iowa-as-part-of-final-push-before-election-day",
      "source": "PBS NewsHour",
-     "take": "Trump's final push starts in Dubuque, Iowa, where Republicans are fighting to hold a critical Senate seat and the governor's office."
+     "take": "Trump rallied in Iowa in the final push before Election Day, as early voting totals headed toward 50 million nationwide."
     },
     {
-     "title": "Dozens injured, at least 6 dead in Halloween weekend gun violence at nightlife districts across U.S.",
+     "title": "Shootings over Halloween weekend leave at least 6 dead and dozens injured across U.S.",
      "url": "https://www.pbs.org/newshour/nation/dozens-injured-at-least-6-dead-in-halloween-weekend-gun-violence-at-nightlife-districts-across-u-s",
      "source": "PBS NewsHour",
-     "take": "Halloween weekend gun violence left at least six dead and dozens injured in nightlife districts nationwide; Dallas was deadliest, with four dead and 15 injured in Deep Ellum."
-    },
-    {
-     "title": "New York City Marathon: Andreas Almgren wins on debut as Sheila Chepkirui reclaims crown",
-     "url": "https://www.theguardian.com/sport/2026/nov/01/new-york-city-marathon-andreas-almgren-wins-on-debut-as-sheila-chepkirui-reclaims-crown",
-     "source": "Guardian US",
-     "take": "Sweden's Andreas Almgren won the NYC Marathon on debut and Kenya's Sheila Chepkirui reclaimed the women's crown as 60,000 runners took part."
+     "take": "Halloween weekend gun violence left at least six dead and dozens injured across U.S. nightlife districts, including four dead and 15 injured in Dallas alone."
     }
    ]
   },
@@ -235,10 +235,16 @@
    "name": "California",
    "stories": [
     {
+     "title": "Mayoral candidates Bass and Raman crisscross L.A. on final weekend before the election",
+     "url": "https://www.latimes.com/california/story/2026-11-01/mayoral-candidates-bass-raman-crisscross-la-on-final-weekend-before-election",
+     "source": "LA Times California",
+     "take": "Bass and Raman crisscrossed L.A. on the final weekend, trading veiled shots at church and campaign stops in a mayoral race now in a dead heat."
+    },
+    {
      "title": "From an LGBTQ+ rally to Trunk or Treat, Becerra and Hilton barnstorm California hoping to be next governor",
      "url": "https://www.latimes.com/california/story/2026-11-01/from-lgbtq-rally-to-trunk-or-treat-governor-candidates-barnstorm-ca",
      "source": "LA Times California",
-     "take": "With Tuesday's election barreling in, Becerra and Hilton are barnstorming California trading barbs in a governor's race that stayed sedate until the end."
+     "take": "With Tuesday's election barreling in, Becerra and Hilton barnstormed California from an LGBTQ+ rally to Trunk or Treat in a governor's race that stayed sedate until the end."
     },
     {
      "title": "Woman killed by LAPD patrol car responding to Halloween party call",
@@ -247,46 +253,29 @@
      "take": "A woman was killed late Saturday by an LAPD patrol car responding to a backup call at a large Halloween party in the San Fernando Valley."
     },
     {
-     "title": "An embattled Karen Bass is fighting tooth and nail to keep her mayorship in LA. It might be too late",
-     "url": "https://www.theguardian.com/us-news/2026/nov/01/karen-bass-los-angeles-mayoral-race",
-     "source": "Guardian US",
-     "take": "An embattled Mayor Karen Bass is fighting to hold off her democratic socialist challenger as affordability dominates LA's mayoral race \u2014 and it might be too late."
-    },
-    {
-     "title": "Dana Point landmark Ritz-Carlton, Laguna Niguel resort sells for $600 million",
-     "url": "https://www.latimes.com/california/story/2026-10-31/dana-point-ritz-carlton-laguna-niguel-resort-sells-for-600-million",
+     "title": "Massive sewage main break prompts closure of all coastal waters off Long Beach",
+     "url": "https://www.latimes.com/california/story/2026-10-31/sewage-main-break-prompts-closure-of-all-coastal-waters-off-long-beach",
      "source": "LA Times California",
-     "take": "The Ritz-Carlton, Laguna Niguel \u2014 a Dana Point landmark \u2014 sold for an estimated $600M as California's top-end hotel market keeps thriving."
+     "take": "A sewage main break spilling thousands of gallons closed all open coastal swimming areas, bays and lagoons off Long Beach."
     },
     {
      "title": "3 days trapped in a drain pipe -- officers rescue man in Riverside",
      "url": "https://www.latimes.com/environment/story/2026-10-31/3-days-trapped-in-drain-pipe-officers-rescue-man-in-riverside",
      "source": "LA Times California",
-     "take": "Officers rescued a man who spent three days trapped in an 18-inch drain pipe in Riverside."
+     "take": "Officers rescued a man who had been trapped for three days in an 18-inch drain pipe in Riverside."
     },
     {
-     "title": "Your last-minute guide to the L.A. County sheriff's race: Luna vs. Villanueva",
-     "url": "https://www.latimes.com/california/story/2026-10-31/2026-california-election-los-angeles-county-sheriff-luna-villanueva-last-minute-voter-guide",
+     "title": "California Botox doctor used $45 million in Medicare money to fund her lavish lifestyle, feds say",
+     "url": "https://www.latimes.com/california/story/2026-10-31/california-botox-doctor-bilked-45-million-from-medicare-feds-say",
      "source": "LA Times California",
-     "take": "The rematch is on: Luna vs. Villanueva for LA County sheriff \u2014 what to know before Tuesday."
-    }
-   ]
-  },
-  {
-   "name": "\ud83c\udf99\ufe0f Podcasts",
-   "stories": [
-    {
-     "title": "UCLA disputes DoJ voter claims, LBC sewage spill, LA Karaoke league -- Sunday Edition",
-     "url": "https://podcasts.apple.com/us/podcast/judge-halts-doj-elex-threats-coastal-flooding-outlook/id1508035189?i=1000799105360&uo=4",
-     "source": "The LA Report",
-     "take": "UCLA's Voting Rights Project found errors in the DoJ's list of 20,000 alleged non-citizen voters \u2014 over 40% aren't on California's rolls and at least 22 are U.S. citizens \u2022 All 15 Long Beach beaches stay closed after a 29,000-gallon sewage spill, 14,000 gallons reaching the ocean \u2022 A woman was killed by an LAPD patrol car in Van Nuys, and USC upset No. 2 Ohio State 30\u201318 in the rain \u2022 Inside North Hollywood's karaoke league, a creative outlet for actors in the Hollywood slowdown"
+     "take": "A California doctor convicted of billing for Botox injections never provided used $45M in Medicare money to fund a lavish lifestyle, federal prosecutors say."
     }
    ]
   }
  ],
  "markets": {
   "source": "Yahoo Finance",
-  "fetched_at": "2026-11-01T13:03:22.511286-08:00",
+  "fetched_at": "2026-11-01T20:16:31.356275-08:00",
   "dates": [
    "2025-10-31",
    "2025-11-03",
@@ -1733,7 +1722,7 @@
       694.72,
       697.29,
       695.91,
-      696.1,
+      696.11,
       697.16,
       698.18,
       697.54,
@@ -1780,7 +1769,7 @@
       689.59,
       688.63,
       688.72,
-      689.11,
+      689.1,
       688.35,
       687.46,
       687.34,
@@ -2232,7 +2221,7 @@
       344.16,
       344.48,
       344.57,
-      344.8,
+      344.79,
       344.63
      ]
     },

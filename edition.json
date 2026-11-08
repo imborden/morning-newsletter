@@ -1,51 +1,51 @@
 {
  "date": "2026-11-07",
- "updated_label": "AFTERNOON UPDATE \u00b7 1:02 PM PT",
+ "updated_label": "EVENING UPDATE \u00b7 8:16 PM PT",
  "sections": [
   {
    "name": "Tech & AI",
    "stories": [
     {
+     "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+     "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+     "source": "TechCrunch",
+     "take": "A US intelligence memo reportedly says China's Ministry of State Security recruited a Megaspeed executive to spy on Nvidia's CEO \u2014 the chip war now has a human-intelligence front."
+    },
+    {
+     "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+     "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+     "source": "TechCrunch",
+     "take": "The midterms turned hostile for data centers and for Elon Musk \u2014 TechCrunch's Equity team unpacks why the political ground under Big Tech's building boom just shifted."
+    },
+    {
+     "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+     "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+     "source": "TechCrunch",
+     "take": "OpenAI has reportedly raised another $11 billion in a round that has not closed yet, at a $1.25 trillion valuation \u2014 the AI money machine is not slowing down."
+    },
+    {
      "title": "Binance CFO is leaving to \u2018pursue a new venture\u2019 after $6.3 billion hack",
      "url": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
      "source": "TechCrunch",
-     "take": "Barely a week after hackers stole $6.3 billion from users, Binance's CFO is out to 'pursue a new venture' \u2014 the timing says more than the statement."
+     "take": "Barely a week after hackers stole $6.3 billion from users, Binance's CFO is leaving to 'pursue a new venture' \u2014 the timing says more than the statement."
+    },
+    {
+     "title": "Three men charged in US with using AI to impersonate CEOs and steal millions",
+     "url": "https://www.theguardian.com/us-news/2026/nov/06/ai-ceo-impersonation-theft",
+     "source": "Guardian US",
+     "take": "Three men were charged in the US with using AI to impersonate CEOs and attorneys and steal over $100 million \u2014 the deepfake fraud era is here."
     },
     {
      "title": "The Fridge-Hacking Spree Is an Internet-of-Things Wake-Up Call",
      "url": "https://www.wired.com/story/kernel-panic-refrigeration-hacks-internet-of-things/",
      "source": "Wired",
-     "take": "Hacks hitting blood labs and grocery stores trace back to basic lapses on internet-connected fridges \u2014 critical infrastructure, consumer-grade security."
+     "take": "Hacks hitting blood labs and grocery stores trace back to basic security lapses on internet-connected fridges \u2014 critical infrastructure, consumer-grade security."
     },
     {
-     "title": "Parents want safer phones for kids. These companies are answering the call.",
-     "url": "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
-     "source": "TechCrunch",
-     "take": "Parents are done with unrestricted smartphones, and a wave of companies is building limited, minimalist phones for kids instead."
-    },
-    {
-     "title": "Sequoia shutting down its Scouts program marks the end of an era",
-     "url": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
-     "source": "TechCrunch",
-     "take": "Sequoia pioneered the scout model and the whole industry copied it \u2014 shutting it down marks the consensus that the model has hit its limits."
-    },
-    {
-     "title": "He Ran on Fighting Data Centers. Now, He\u2019s Going to Congress",
-     "url": "https://www.wired.com/story/he-ran-on-fighting-data-centers-now-hes-going-to-congress/",
+     "title": "Free Chinese AI Models Are Getting Scary Good at Hacking",
+     "url": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
      "source": "Wired",
-     "take": "Will Lawrence beat better-funded rivals in Michigan by running against data centers \u2014 now he's headed to Congress pushing a federal moratorium."
-    },
-    {
-     "title": "Amazon\u2019s new basic Kindle proves you don\u2019t need all the bells and whistles",
-     "url": "https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/",
-     "source": "TechCrunch",
-     "take": "The redesigned basic Kindle costs more, but a lighter build and better display make the case for skipping the pricier models."
-    },
-    {
-     "title": "AI Companies Really, Really Want to Buy Your Work Files and Emails",
-     "url": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/",
-     "source": "Wired",
-     "take": "Data brokers are buying internal corporate files and emails to train AI models \u2014 and not everyone inside those companies is thrilled."
+     "take": "In tests where AI models were asked to break into simulated networks, DeepSeek and GLM were not far behind OpenAI's most advanced cyber model \u2014 free models are now serious hacking tools."
     }
    ]
   },
@@ -53,40 +53,40 @@
    "name": "Marketing",
    "stories": [
     {
+     "title": "Pastor Talarico, 3 Billion Views, and $56 Million on Broadcast: How James Talarico\u2019s Team Flipped Texas",
+     "url": "https://www.adweek.com/media/pastor-talarico-3-billion-views-and-56-million-on-broadcast-how-james-talaricos-team-flipped-texas/",
+     "source": "Adweek",
+     "take": "Senator-elect James Talarico's creative director and paid media strategist explain the flip of Texas: 3 billion views and $56 million on broadcast \u2014 viral clips, deliberately converted into paid reach."
+    },
+    {
      "title": "The world's biggest library of scanned 3D assets is now free \u2013 and it seems that this time it's for good",
      "url": "https://www.creativebloq.com/news/the-worlds-biggest-library-of-scanned-assets-for-3d-artists-is-now-free-and-it-seems-that-this-time-its-for-good",
      "source": "Creative Bloq",
-     "take": "Epic's Quixel Megascans \u2014 thousands of scanned 3D models, decals and materials \u2014 is free again, and this time it looks permanent. A real gift for 3D artists."
+     "take": "Epic's Quixel Megascans \u2014 thousands of scanned 3D models, decals and materials, the world's biggest library of its kind \u2014 is free again, and this time it looks permanent."
     },
     {
      "title": "Maxon aims to make 3D creation feel more natural with ZBrush and Cinema4D for the PROLED XDR MacBook and Apple Vision pro",
      "url": "https://www.creativebloq.com/news/maxon-aims-to-make-3d-creation-feel-more-natural-with-zbrush-and-cinema4d-for-the-proled-xdr-macbook-and-apple-vision-pro",
      "source": "Creative Bloq",
-     "take": "Maxon is bringing touch and Spatial Preview to ZBrush and Cinema 4D for the new MacBook Pro and Vision Pro \u2014 3D work you can sculpt and walk around."
+     "take": "Maxon is bringing touch support and Spatial Preview to ZBrush and Cinema 4D for the PROLED XDR MacBook and Apple Vision Pro \u2014 3D creation gets more hands-on."
     },
     {
-     "title": "The new MacBook Pro's touchscreen isn't even it's best feature",
-     "url": "https://www.creativebloq.com/news/lets-stop-obsessing-over-the-new-macbook-pros-touchscreen-it-isnt-even-the-best-new-feature",
+     "title": "Martine Rose appointed creative director at Balenciaga",
+     "url": "https://www.theguardian.com/fashion/2026/nov/06/martine-rose-appointed-creative-director-balenciaga-fashion-house",
+     "source": "Guardian US",
+     "take": "Balenciaga named Martine Rose creative director \u2014 the first woman to lead the house in its 109-year history, a breakthrough in a white, male-dominated industry."
+    },
+    {
+     "title": "#AskNewser: CNN, NBC News and NewsNation Executives Reflect on Their Election Night Coverage",
+     "url": "https://www.adweek.com/tvnewser/asknewser-cnn-nbc-news-and-newsnation-executives-reflect-on-their-election-night-coverage/",
+     "source": "Adweek",
+     "take": "CNN, NBC News and NewsNation executives look back at election night \u2014 and say they were surprised by how early some of the races could be called."
+    },
+    {
+     "title": "The Cybertruck is dead \u2013 what went wrong?",
+     "url": "https://www.creativebloq.com/news/its-over-babe-the-cybertruck-era-is-dead",
      "source": "Creative Bloq",
-     "take": "Stop obsessing over the touchscreen, Creative Bloq says \u2014 the new MacBook Pro's real upgrade is its PROLED XDR display."
-    },
-    {
-     "title": "Apple sit down, Sony just won the wired headphone trend",
-     "url": "https://www.creativebloq.com/news/apple-sit-down-sony-just-won-the-wired-headphone-trend",
-     "source": "Creative Bloq",
-     "take": "Wired headphones are fashion again, and Sony \u2014 Walkman heritage and all \u2014 just won the trend Apple tried to own."
-    },
-    {
-     "title": "How Lands\u2019 End\u2019s holiday pop-up feeds an always-on marketing strategy",
-     "url": "https://www.marketingdive.com/news/how-lands-ends-holiday-pop-up-feeds-an-always-on-marketing-strategy/873792/",
-     "source": "Marketing Dive",
-     "take": "Lands' End's Holiday Tree Farm pop-up isn't a one-off stunt \u2014 new CMO Sarah Sylvester is using it to feed an always-on marketing strategy."
-    },
-    {
-     "title": "Campaign Trail: Wet Ones puts \u2018hand butts\u2019 on the streets",
-     "url": "https://www.marketingdive.com/news/campaign-trail-wet-ones-puts-hand-butts-on-the-streets/873564/",
-     "source": "Marketing Dive",
-     "take": "Wet Ones and BBH USA put 'hand butts' on out-of-home ads hoping for a double take \u2014 gross, memorable, and very shareable."
+     "take": "Elon Musk is winding down the Cybertruck \u2014 Creative Bloq's postmortem asks what went wrong with the most hyped design miss of the EV era."
     }
    ]
   },
@@ -94,40 +94,46 @@
    "name": "NBA",
    "stories": [
     {
-     "title": "The numbers behind Luka Don\u010di\u0107's historic start are entering the realm of ridiculous",
-     "url": "https://www.cbssports.com/nba/news/luka-doncic-lakers-mvp-numbers-historic-start/",
-     "source": "CBS Sports NBA",
-     "take": "Don\u010di\u0107's 53 against Portland pushed his scoring average past 40 \u2014 CBS runs the numbers, and they put him in the runaway early MVP lead."
-    },
-    {
      "title": "Doncic's 53-point explosion pushes scoring average past 40 as Lakers roll",
      "url": "https://www.espn.com/nba/story/_/id/50406079/luka-doncic-stays-hot-scores-53-lead-lakers-blazers",
      "source": "ESPN NBA",
-     "take": "The Lakers rolled behind Don\u010di\u0107's 53 \u2014 the headline act of a start that already looks historic."
+     "take": "Luka Don\u010di\u0107 poured in a season-high 53 points as the Lakers beat Portland 124-118, pushing his scoring average to 40.1 per game \u2014 an MVP pace that looks unsustainable and keeps happening."
     },
     {
-     "title": "Man arrested on stalking charges at LeBron's home in Los Angeles",
-     "url": "https://www.espn.com/nba/story/_/id/50410292/man-arrested-stalking-charges-lebron-james-home-la",
+     "title": "In Cleveland return, James finishes with just eight points in 76ers' loss",
+     "url": "https://www.espn.com/nba/story/_/id/50405401/lebron-james-find-good-rhythm-cleveland-return",
      "source": "ESPN NBA",
-     "take": "A man was arrested Friday night at LeBron James' Brentwood home on stalking charges, LAPD confirmed to ESPN on Saturday."
-    },
-    {
-     "title": "Young snags double-double in 'cool' return to Atlanta, but Wiz lose",
-     "url": "https://www.espn.com/nba/story/_/id/50405029/wizards-trae-young-returns-atlanta-vs-hawks-says-experience-was-different",
-     "source": "ESPN NBA",
-     "take": "Trae Young got a double-double in his first game back in Atlanta with the Wizards \u2014 and called the return 'cool' \u2014 but Washington still lost."
+     "take": "LeBron's Cleveland return was a dud: eight points on 3-for-12 shooting with six turnovers as Philadelphia lost the NBA Cup game to the Cavaliers 119-96."
     },
     {
      "title": "LeBron's fit, Maxey's heroics and Philly's 8-1 start",
      "url": "https://www.espn.com/nba/story/_/id/50371973/lebron-76ers-embiid-maxey-ty-jerome-grizzlies",
      "source": "ESPN NBA",
-     "take": "Windhorst and MacMahon canvass the league: how LeBron fits in Philly, Tyrese Maxey's heroics, and the 76ers' 8-1 start."
+     "take": "Windhorst and MacMahon canvass the early superteam intel \u2014 how LeBron fits in Philadelphia, and why Tyrese Maxey's heroics have powered the 76ers' hot start."
     },
     {
      "title": "Warriors' Porzingis to 'step away' from NBA to prioritize his health",
      "url": "https://www.espn.com/nba/story/_/id/50402041/warriors-kristaps-porzingis-step-away-prioritize-health",
      "source": "ESPN NBA",
-     "take": "Kristaps Porzi\u0146\u0123is is stepping away from the Warriors to prioritize his health \u2014 a major hole for Golden State and a worrying career turn."
+     "take": "Kristaps Porzi\u0146\u0123is will 'step away' from the NBA to prioritize his health \u2014 he has not played a minute for Golden State this season."
+    },
+    {
+     "title": "Young snags double-double in 'cool' return to Atlanta, but Wiz lose",
+     "url": "https://www.espn.com/nba/story/_/id/50405029/wizards-trae-young-returns-atlanta-vs-hawks-says-experience-was-different",
+     "source": "ESPN NBA",
+     "take": "Trae Young got his double-double in a 'cool' but strange return to Atlanta \u2014 his first game there as a Wizard \u2014 but Washington still lost."
+    },
+    {
+     "title": "Rivers: Giannis was playing games when trying to leave Bucks",
+     "url": "https://www.espn.com/nba/story/_/id/50399276/doc-rivers-giannis-antetokounmpo-bucks-exit-coaching-star",
+     "source": "ESPN NBA",
+     "take": "Doc Rivers says Giannis Antetokounmpo 'didn't want to be the bad guy' while trying to force his way out of Milwaukee last season \u2014 and calls the whole dance a game."
+    },
+    {
+     "title": "Warriors rookie Yaxel Lendeborg fulfills 'lifelong goal' with new home for his mom",
+     "url": "https://www.espn.com/nba/story/_/id/50412162/yaxel-lendeborg-warriors-gifts-mom-home",
+     "source": "ESPN NBA",
+     "take": "Warriors rookie Yaxel Lendeborg bought his mom a new home \u2014 a 'lifelong goal' for a player who credits her with saving his life."
     }
    ]
   },
@@ -135,40 +141,40 @@
    "name": "MLB",
    "stories": [
     {
+     "title": "Your guide to MLB free agency: Rankings and contract projections for the top 50 free agents",
+     "url": "https://www.espn.com/mlb/story/_/id/50359247/rankings-contract-projections-top-mlb-free-agents",
+     "source": "ESPN MLB",
+     "take": "Kiley McDaniel ranks the top 50 free agents with contract projections \u2014 your map for what this winter's biggest names will actually get paid."
+    },
+    {
+     "title": "MLB free agency: Six international players to know for the 2026-27 offseason",
+     "url": "https://www.cbssports.com/mlb/news/mlb-free-agency-international-players-to-know-2026-27-offseason/",
+     "source": "CBS Sports MLB",
+     "take": "No Ohtani-level prize this winter, but six international players are worth knowing \u2014 the overseas talent pipeline still runs deep."
+    },
+    {
+     "title": "MLB rumors: Max Scherzer mulling another season, Ty France drawing interest, top Taiwanese reliever posted",
+     "url": "https://www.cbssports.com/mlb/news/mlb-rumors-free-agency-max-scherzer-ty-france/",
+     "source": "CBS Sports MLB",
+     "take": "Saturday hot stove: Max Scherzer is mulling one more season, Ty France is drawing interest, and a top Taiwanese reliever has been posted."
+    },
+    {
      "title": "Witness: Clase 'inside' pitch info dried up amid Mizuhara case fallout",
      "url": "https://www.espn.com/mlb/story/_/id/50402459/emmanuel-clase-luis-ortiz-information-trial-testimony-bettor",
      "source": "ESPN MLB",
-     "take": "A witness in the Clase/Ortiz pitch-rigging trial says the inside info dried up once scrutiny from the Mizuhara scandal hit \u2014 the fallout reached Cleveland's bullpen."
+     "take": "A witness in the Clase-Ortiz case says the inside pitch information he bet on dried up as scrutiny from the Mizuhara scandal grew \u2014 the two betting cases are now explicitly linked."
     },
     {
      "title": "Blue Jays: Santander's anti-Muslim posts don't represent team",
      "url": "https://www.espn.com/mlb/story/_/id/50399679/anthony-santander-anti-muslim-posts-represent-team",
      "source": "ESPN MLB",
-     "take": "Toronto says Anthony Santander's anti-Muslim social posts do not represent the team's values \u2014 a distancing statement that leaves his status open."
+     "take": "Toronto says Anthony Santander's anti-Muslim social media posts do not represent the Blue Jays' values and beliefs \u2014 the team is distancing itself, fast."
     },
     {
-     "title": "Varland, Pages, Latz among Super 2s eligible for salary arbitration",
-     "url": "https://www.espn.com/mlb/story/_/id/50391735/louis-varland-andy-pages-super-2-arbitration-eligibles",
+     "title": "D-backs' Carroll has elbow surgery, expected to be ready for spring training",
+     "url": "https://www.espn.com/mlb/story/_/id/50403554/diamondbacks-corbin-carroll-surgery-right-elbow",
      "source": "ESPN MLB",
-     "take": "28 players hit Super 2 arbitration eligibility, including Dodgers outfielder Andy Pages and Blue Jays closer Louis Varland \u2014 earlier paydays, earlier leverage."
-    },
-    {
-     "title": "Your guide to MLB free agency: Rankings and contract projections for the top 50 free agents",
-     "url": "https://www.espn.com/mlb/story/_/id/50359247/rankings-contract-projections-top-mlb-free-agents",
-     "source": "ESPN MLB",
-     "take": "ESPN ranks the top 50 free agents with contract projections \u2014 the winter's price list, from the biggest stars down."
-    },
-    {
-     "title": "Five under-the-radar MLB free agents who could make a big impact next season",
-     "url": "https://www.cbssports.com/mlb/news/mlb-free-agency-2026-27-under-the-radar-players/",
-     "source": "CBS Sports MLB",
-     "take": "This isn't a great free-agent class, CBS says, but dozens of quality players are hiding in it \u2014 if you know where to look."
-    },
-    {
-     "title": "Pujols to interview for Astros' managerial opening, sources say",
-     "url": "https://www.espn.com/mlb/story/_/id/50381841/sources-albert-pujols-interview-astros-managerial-job",
-     "source": "ESPN MLB",
-     "take": "Albert Pujols is expected to interview for Houston's manager job this week \u2014 a future Hall of Famer testing the dugout path."
+     "take": "Corbin Carroll had surgery on his right elbow this week and Arizona expects him ready for spring training in February \u2014 a scare, not a season threat."
     }
    ]
   },
@@ -176,46 +182,46 @@
    "name": "National",
    "stories": [
     {
-     "title": "Krak\u00f3w shooting latest updates: six killed and more than a dozen injured, police say",
-     "url": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates",
+     "title": "Six dead after gunman opens fire in Krak\u00f3w market square, with three more victims found at suspect\u2019s home",
+     "url": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman",
      "source": "Guardian US",
-     "take": "Update: six killed \u2014 four women and two men \u2014 and more than a dozen injured in Krak\u00f3w's Main Market Square; PM Donald Tusk is heading to the city and the injured perpetrator was detained."
+     "take": "The Krak\u00f3w toll grew Saturday: six people killed in the market square attack and three more victims found at the suspect's home, with 16 wounded \u2014 Polish officials say the gunman held ultra-nationalistic views."
     },
     {
      "title": "Stephen Miller, Trump\u2019s incoming chief of staff, pledges \u2018total devotion\u2019 to the president",
      "url": "https://www.theguardian.com/us-news/2026/nov/07/stephen-miller-trump-loyalty",
      "source": "Guardian US",
-     "take": "Miller pledged 'total devotion' to Trump in his first remarks as incoming chief of staff, starting Monday \u2014 a signal the White House will double down on its hardline immigration agenda."
+     "take": "Stephen Miller, Trump's incoming chief of staff, pledged 'total devotion' to the president \u2014 a signal the White House will double down on the hardline immigration agenda after the midterm losses."
     },
     {
-     "title": "Israel's president taps opposition candidate Eisenkot to form a government, in setback for Netanyahu",
-     "url": "https://www.pbs.org/newshour/world/israels-president-taps-opposition-candidate-eisenkot-to-form-a-government-in-setback-for-netanyahu",
+     "title": "Trump says he's asked UFC's Dana White to be his press secretary",
+     "url": "https://www.pbs.org/newshour/politics/trump-says-hes-asked-ufcs-dana-white-to-be-his-press-secretary",
      "source": "PBS NewsHour",
-     "take": "Israel's president picked opposition leader Gadi Eisenkot to form a government \u2014 a direct setback for Netanyahu."
-    },
-    {
-     "title": "FAA announces first US digital air traffic control towers in Florida and Alaska",
-     "url": "https://www.theguardian.com/us-news/2026/nov/07/faa-digital-air-traffic-control-tower-technology",
-     "source": "Guardian US",
-     "take": "The first US digital control towers are now live at smaller airports in Florida and Alaska, with 360-degree views \u2014 and five more regional airports slated."
+     "take": "Trump says he has asked UFC chief Dana White to be his press secretary \u2014 the post-midterm White House shakeup reaches the podium."
     },
     {
      "title": "\u2018People are active, they are fed up\u2019: young voters fueled the Democratic wave",
      "url": "https://www.theguardian.com/us-news/2026/nov/07/youth-vote-turnout-midterm-elections",
      "source": "Guardian US",
-     "take": "Young voters swung decisively back to Democrats after helping Trump in 2024 \u2014 Circle estimates the second-highest midterm youth turnout in 30 years."
+     "take": "Young voters swung decisively toward Democrats after helping Trump win in 2024 \u2014 Tufts data says the youth vote fueled the midterm wave."
     },
     {
-     "title": "Black voter turnout surges in US south despite Republican redistricting drive: \u2018They could not stop the momentum\u2019",
-     "url": "https://www.theguardian.com/us-news/2026/nov/07/black-voter-turnout-gerrymandering",
+     "title": "Israel\u2019s president picks Yashar leader Gadi Eisenkot to form government",
+     "url": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government",
      "source": "Guardian US",
-     "take": "Black turnout surged across the South despite Republican redistricting, helping Democrats flip or hold seats in Alabama, Texas and Florida."
+     "take": "Israel's president picked Gadi Eisenkot, Benjamin Netanyahu's strongest rival, to try to form a government after a deadlocked Knesset left Netanyahu without a majority."
     },
     {
-     "title": "Judge wants former U.S. attorney to investigate whether the government misled her in Trump golf case",
-     "url": "https://www.pbs.org/newshour/politics/judge-wants-former-u-s-attorney-to-investigate-whether-the-government-misled-her-in-trump-golf-case",
-     "source": "PBS NewsHour",
-     "take": "A judge wants a former US attorney to probe whether the government misled her in the case over closing DC's East Potomac Golf Course for a Trump championship course."
+     "title": "Homelessness in the U.S. saw its largest drop in more than a decade last year",
+     "url": "https://www.npr.org/2026/11/07/nx-s1-6033491/homelessness-in-the-u-s-saw-its-largest-drop-in-more-than-a-decade-last-year",
+     "source": "NPR News",
+     "take": "US homelessness saw its largest drop in more than a decade last year, though nearly 700,000 people remain unhoused \u2014 the administration and advocates credit entirely different reasons."
+    },
+    {
+     "title": "Wisconsin state patrol trooper detained by ICE released from custody",
+     "url": "https://www.theguardian.com/us-news/2026/nov/07/wisconsin-state-trooper-ice-released",
+     "source": "Guardian US",
+     "take": "The Wisconsin state patrol trooper detained by ICE at an airport on Thursday has been released \u2014 he immigrated at 14 and has waited seven years for his asylum case to be heard."
     }
    ]
   },
@@ -223,58 +229,47 @@
    "name": "California",
    "stories": [
     {
+     "title": "Newsom appoints former aide convicted in domestic violence case to state commission",
+     "url": "https://www.latimes.com/california/story/2026-11-07/newsom-appoints-former-aide-convicted-in-domestic-violence-case-to-state-commission",
+     "source": "LA Times California",
+     "take": "Newsom appointed his former communications director Nathan Ballard \u2014 who pleaded no contest in a domestic violence case \u2014 to a state commission, and the criticism started immediately."
+    },
+    {
+     "title": "Raman, L.A. leaders join in condemnation after ICE officers reportedly detain two near Boyle Heights hospital",
+     "url": "https://www.latimes.com/entertainment-arts/story/2026-11-07/two-detained-during-anti-ice-protest-at-boyle-heights-hospital",
+     "source": "LA Times California",
+     "take": "Mayor-Elect Nithya Raman and LA leaders condemned ICE after officers reportedly detained two people near a Boyle Heights hospital, calling the actions 'an affront.'"
+    },
+    {
      "title": "Santa Anas and hotter fall temperatures sustain SoCal critical fire risks",
      "url": "https://www.latimes.com/california/story/2026-11-07/socal-weather-forecast-santa-ana-winds-high-heat-rain-chances-ahead",
      "source": "LA Times California",
-     "take": "Santa Ana winds peak Saturday, but above-normal heat and critical fire risk stick around through next week across SoCal."
+     "take": "Santa Ana winds peaked Saturday, but above-normal temperatures and elevated fire risk will remain in Southern California through next week."
     },
     {
-     "title": "Vincent Thomas Bridge closes for 16 months on Saturday. Here's what you need to know",
-     "url": "https://www.latimes.com/california/story/2026-11-06/vincent-thomas-bridge-closes-for-16-months-on-saturday-heres-what-you-need-to-know",
+     "title": "Great America, the Bay Area's premier theme park, is closing for good. Here's when",
+     "url": "https://www.latimes.com/california/story/2026-11-07/californias-great-america-theme-park-is-closing-for-good",
      "source": "LA Times California",
-     "take": "'Harborgeddon' is here: the Vincent Thomas Bridge closed today for 16 months \u2014 the LA Times maps the detours and timeline."
+     "take": "California's Great America will close for good after one more season \u2014 the Bay Area park generations grew up with is down to its farewell run."
+    },
+    {
+     "title": "Feds move to dismiss case over 20,000 California ballots after Supreme Court denied appeal",
+     "url": "https://www.latimes.com/politics/story/2026-11-06/feds-move-to-dismiss-case-over-20-000-california-ballots-after-supreme-court-denied-appeal",
+     "source": "LA Times California",
+     "take": "Federal prosecutors moved to dismiss the case over 20,000 California ballots after the Supreme Court denied the appeal to set them aside \u2014 the ballot fight is over."
     },
     {
      "title": "\u2018Soul-hurting pain\u2019: Victims\u2019 families enraged at Newsom\u2019s death row decision",
      "url": "https://calmatters.org/justice/2026/11/death-penalty-commutations-families/",
      "source": "CalMatters",
-     "take": "'Soul-hurting pain': families of people killed by death-row inmates react with fury to Newsom commuting 548 death sentences to life without parole."
-    },
-    {
-     "title": "As Stephen Miller rises, California hopes it can blunt his force with Democratic gains",
-     "url": "https://www.latimes.com/california/story/2026-11-07/stephen-miller-chief-of-staff-immigration-california",
-     "source": "LA Times California",
-     "take": "Miller's rise to chief of staff alarms California immigrant advocates \u2014 the state is betting its Democratic gains can blunt his immigration crackdown."
-    },
-    {
-     "title": "Lopez: L.A. mayors have long promised to end homelessness. Can Raman break the cycle of failure?",
-     "url": "https://www.latimes.com/california/story/2026-11-07/can-raman-break-la-mayors-cycle-of-failure-on-homelessness",
-     "source": "LA Times California",
-     "take": "Mayor-elect Raman promises to cut LA homelessness in half by 2028 and end it by 2030 \u2014 Steve Lopez asks whether she can break a long cycle of mayoral failure."
-    },
-    {
-     "title": "LA\u2019s newer, bluer wave: Nithya Raman leads way as city\u2019s progressives make their mark",
-     "url": "https://www.theguardian.com/us-news/2026/nov/07/los-angeles-mayor-nithya-raman-progressives-dsa",
-     "source": "Guardian US",
-     "take": "LA's progressives are remaking city politics, with Raman leading a newer, bluer wave that just swept the city."
-    }
-   ]
-  },
-  {
-   "name": "\ud83c\udf99\ufe0f Podcasts",
-   "stories": [
-    {
-     "title": "'Harborgeddon,' Newsom commutations, LAUSD wedding cake \u2014 Saturday Edition",
-     "url": "https://podcasts.apple.com/us/podcast/the-la-report/id1508035189?uo=4",
-     "source": "The LA Report",
-     "take": "Vincent Thomas Bridge closed today for at least 16 months for a $750M deck and seismic project \u2014 detours via Harry Bridges Blvd and the 710/110, done Feb 2028 \u2022 Newsom commuted 548 death sentences to life without parole; a Seal Beach victim's family member backed him while Riverside's DA vowed a court fight \u2022 Tesla winds down Cybertruck next year for the CyberCab \u2014 sales fell to ~20,000 last year, half of 2024 \u2022 Red flag warnings, gusts to 45 mph and 90-degree heat, plus a bride who made LAUSD cafeteria coffee cake her wedding cake and Altadena Library's centennial"
+     "take": "Victims' families reacted with 'soul-hurting pain' to Newsom commuting death row sentences to life in prison \u2014 the clemency backlash is now the story in California."
     }
    ]
   }
  ],
  "markets": {
   "source": "Yahoo Finance",
-  "fetched_at": "2026-11-07T13:02:44.209524-08:00",
+  "fetched_at": "2026-11-07T20:16:50.619987-08:00",
   "dates": [
    "2025-11-07",
    "2025-11-10",

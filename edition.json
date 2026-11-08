@@ -1,51 +1,45 @@
 {
  "date": "2026-11-08",
- "updated_label": "MORNING EDITION \u00b7 9:04 AM PT",
+ "updated_label": "AFTERNOON UPDATE \u00b7 1:04 PM PT",
  "sections": [
   {
    "name": "Tech & AI",
    "stories": [
     {
-     "title": "World Models Will Soon Be Inescapable. Here\u2019s What You Need to Know",
-     "url": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/",
-     "source": "Wired",
-     "take": "World models are moving from research curiosity to the next AI platform bet \u2014 worth understanding before every vendor rebrands around them."
-    },
-    {
-     "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-     "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+     "title": "Coordinated disturbances haunt grids worldwide. Here\u2019s how researchers solved the mystery.",
+     "url": "https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/",
      "source": "TechCrunch",
-     "take": "A US intelligence memo alleges a Megaspeed exec was recruited to spy on Nvidia's CEO \u2014 chip geopolitics getting personal."
+     "take": "Researchers in Germany solved the mystery of coordinated power drops haunting grids worldwide \u2014 a grid-security puzzle with a found culprit."
     },
     {
-     "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
-     "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+     "title": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
+     "url": "https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/",
      "source": "TechCrunch",
-     "take": "Midterm results cloud Musk's and data centers' political runway \u2014 local opposition is now a national factor."
+     "take": "Sequoia partners were reportedly blindsided when former steward Roelof Botha joined SpaceX's board \u2014 fallout that is undoing his legacy at the firm."
     },
     {
-     "title": "The Fridge-Hacking Spree Is an Internet-of-Things Wake-Up Call",
-     "url": "https://www.wired.com/story/kernel-panic-refrigeration-hacks-internet-of-things/",
-     "source": "Wired",
-     "take": "A fridge-hacking spree is the latest IoT wake-up call: cheap connected devices, expensive attack surface."
+     "title": "He arrested a hacker, then spent 18 months clearing his own name. Now he\u2019s a cybersecurity VC.",
+     "url": "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
+     "source": "TechCrunch",
+     "take": "He arrested a hacker, spent 18 months clearing his own name, and is now raising a second ~$250M cybersecurity fund at Brightmind Partners."
     },
     {
-     "title": "He Ran on Fighting Data Centers. Now, He\u2019s Going to Congress",
-     "url": "https://www.wired.com/story/he-ran-on-fighting-data-centers-now-hes-going-to-congress/",
-     "source": "Wired",
-     "take": "He ran against data centers and won a House seat \u2014 the backlash now has a vote in Congress."
+     "title": "TechCrunch Mobility: The Cybertruck experiment is over",
+     "url": "https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/",
+     "source": "TechCrunch",
+     "take": "TechCrunch Mobility declares the Cybertruck experiment over \u2014 and tracks how AI is now reshaping transportation."
     },
     {
-     "title": "US datacenter demand spurs increased fossil fuel pipeline projects as rules are discarded",
-     "url": "https://www.theguardian.com/us-news/2026/nov/08/datacenters-fossil-fuel-pipelines-regulations",
-     "source": "Guardian US",
-     "take": "Datacenter demand is reviving fossil-fuel pipelines as rules get discarded \u2014 AI growth vs. climate math, in plain sight."
+     "title": "Physicists listened to electrical noise to crack a superconductor mystery",
+     "url": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/",
+     "source": "Ars Technica",
+     "take": "Physicists cracked a superconductor mystery by listening to electrical noise \u2014 the signal reveals whether electrons have paired up."
     },
     {
-     "title": "I Used NYT Cooking\u2019s New AI-Powered Recipe Modifier, and It\u2019s Actually Pretty Good",
-     "url": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
-     "source": "Wired",
-     "take": "NYT Cooking's AI recipe modifier actually works in Wired's test \u2014 a small, useful model for consumer AI that helps instead of gimmicks."
+     "title": "Parents want safer phones for kids. These companies are answering the call.",
+     "url": "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
+     "source": "TechCrunch",
+     "take": "Parents want safer phones for kids, and a growing crop of companies is building feature-limited and minimalist phones to answer."
     }
    ]
   },
@@ -53,34 +47,34 @@
    "name": "Marketing",
    "stories": [
     {
+     "title": "After a $2 Billion Exit, Poppi\u2019s Founders Take Aim at Hydration Drinks",
+     "url": "https://www.adweek.com/brand-marketing/after-a-2-billion-exit-poppis-founders-take-aim-at-hydration-drinks/",
+     "source": "Adweek",
+     "take": "After a $2 billion Poppi exit, its founders take aim at hydration with Jetty, billed as the first hydration drink 'for the normal human.'"
+    },
+    {
      "title": "The cleverest GTA VI adverts don't even show the game",
      "url": "https://www.creativebloq.com/news/the-cleverest-gta-vi-adverts-dont-even-show-the-game",
      "source": "Creative Bloq",
-     "take": "The cleverest GTA VI ads don't show the game at all \u2014 confidence marketing that lets culture do the selling."
+     "take": "The cleverest GTA VI adverts don't show the game at all \u2014 its parody brands have taken over Miami, and culture does the selling."
     },
     {
-     "title": "The world's biggest library of scanned 3D assets is now free \u2013 and it seems that this time it's for good",
-     "url": "https://www.creativebloq.com/news/the-worlds-biggest-library-of-scanned-assets-for-3d-artists-is-now-free-and-it-seems-that-this-time-its-for-good",
+     "title": "The optical illusion of the year proves that our eyes can deceive us",
+     "url": "https://www.creativebloq.com/news/the-optical-illusion-of-the-year-proves-that-our-eyes-can-deceive-us",
      "source": "Creative Bloq",
-     "take": "The biggest library of scanned 3D assets is now free \u2014 a real workflow gift for designers and 3D artists."
+     "take": "The optical illusion of the year proves our eyes can deceive us \u2014 a Platform 9\u00be that exists, sort of."
     },
     {
-     "title": "2026 is the year of the majestic movie title card",
-     "url": "https://www.creativebloq.com/features/2026-is-the-year-of-the-majestic-movie-title-card",
+     "title": "Apple\u2019s plan to scrap the Action Button makes me anxious",
+     "url": "https://www.creativebloq.com/news/apples-plan-to-scrap-the-action-button-makes-me-anxious",
      "source": "Creative Bloq",
-     "take": "2026 is the year of the majestic movie title card \u2014 title design is having a craft moment again."
+     "take": "Apple's plan to scrap the iPhone Action Button has Creative Bloq anxious \u2014 it means making peace with Camera Control."
     },
     {
-     "title": "The \"ruined\" GTA VI advert controversy is pretty ironic",
-     "url": "https://www.creativebloq.com/news/the-tagged-gta-vi-advert-controversy-is-pretty-ironic",
+     "title": "Apple sit down, Sony just won the wired headphone trend",
+     "url": "https://www.creativebloq.com/news/apple-sit-down-sony-just-won-the-wired-headphone-trend",
      "source": "Creative Bloq",
-     "take": "The 'ruined' GTA VI advert controversy is ironic \u2014 street-level tagging became free media for the launch."
-    },
-    {
-     "title": "How to make a detailed 3D landscape using Photoshop, Cinema 4D and ZBrush",
-     "url": "https://www.creativebloq.com/how-to/how-to-make-a-detailed-3d-landscape-using-photoshop-with-cinema-4d-and-zbrush",
-     "source": "Creative Bloq",
-     "take": "A step-by-step 3D landscape build in Photoshop, Cinema 4D and ZBrush \u2014 useful technique, not just inspiration."
+     "take": "Sony just won the wired headphone trend \u2014 grab your Walkman, the '80s audio revival is a brand win Apple didn't take."
     }
    ]
   },
@@ -88,40 +82,40 @@
    "name": "NBA",
    "stories": [
     {
-     "title": "Doncic's 53-point explosion pushes scoring average past 40 as Lakers roll",
-     "url": "https://www.espn.com/nba/story/_/id/50406079/luka-doncic-stays-hot-scores-53-lead-lakers-blazers",
+     "title": "Luka scratched vs. Pistons due to lower back tightness",
+     "url": "https://www.espn.com/nba/story/_/id/50422499/luka-doncic-ruled-vs-pistons-back-tightness",
      "source": "ESPN NBA",
-     "take": "Luka Don\u010di\u0107 dropped 53 and pushed his scoring average past 40 as the Lakers rolled \u2014 an MVP pace that is getting historic."
+     "take": "A day after his 53-point explosion, Luka Don\u010di\u0107 was scratched against the Pistons with lower back tightness \u2014 the Lakers' historic pace hits a health watch."
+    },
+    {
+     "title": "Sources: Injury-ravaged OKC gets Clifford, '25 first-rounder, from Kings",
+     "url": "https://www.espn.com/nba/story/_/id/50422647/thunder-get-nique-clifford-trade-kings-sources-say",
+     "source": "ESPN NBA",
+     "take": "Injury-ravaged Oklahoma City landed promising wing Nique Clifford, a 2025 first-rounder, from the rebuilding Kings."
     },
     {
      "title": "'Remarkable' Curry passes LeBron with 16th late-career 40-piece",
      "url": "https://www.espn.com/nba/story/_/id/50417316/remarkable-curry-latest-history-making-night-keeps-warriors-rolling",
      "source": "ESPN NBA",
-     "take": "Curry passed LeBron with his 16th late-career 40-point game \u2014 'remarkable' is underselling the longevity."
+     "take": "'Remarkable' Curry passed LeBron with his 16th late-career 40-point game, keeping the Warriors rolling."
     },
     {
-     "title": "LeBron's fit, Maxey's heroics and Philly's great start",
-     "url": "https://www.espn.com/nba/story/_/id/50371973/lebron-76ers-embiid-maxey-ty-jerome-grizzlies",
-     "source": "ESPN NBA",
-     "take": "LeBron's fit, Maxey's heroics and Philly's hot start \u2014 the Sixers are the early East story to watch."
-    },
-    {
-     "title": "The numbers behind Luka Don\u010di\u0107's historic start are entering the realm of ridiculous",
-     "url": "https://www.cbssports.com/nba/news/luka-doncic-lakers-mvp-numbers-historic-start/",
+     "title": "Cavaliers coach Kenny Atkinson explains infamous 'analytically' quote during playoffs loss to Knicks",
+     "url": "https://www.cbssports.com/nba/news/cavaliers-kenny-atkinson-analytically-won-knicks-playoffs/",
      "source": "CBS Sports NBA",
-     "take": "The numbers behind Luka's historic start are entering ridiculous territory, per CBS \u2014 efficiency to match the volume."
+     "take": "Cavaliers coach Kenny Atkinson explains his infamous 'analytically' quote from the playoff loss to the Knicks."
     },
     {
      "title": "Warriors' Porzingis to 'step away' from NBA to prioritize his health",
      "url": "https://www.espn.com/nba/story/_/id/50402041/warriors-kristaps-porzingis-step-away-prioritize-health",
      "source": "ESPN NBA",
-     "take": "Warriors' Kristaps Porzi\u0146\u0123is will step away to prioritize his health \u2014 a significant frontcourt loss and a human one."
+     "take": "Warriors' Kristaps Porzi\u0146\u0123is will step away from the NBA to prioritize his health \u2014 a significant frontcourt loss."
     },
     {
-     "title": "Jaylen Brown vs. advanced stats: Making sense of his previous on-court impact with Celts",
-     "url": "https://www.espn.com/nba/story/_/id/50401786/nba-data-jaylen-brown-celtics-76ers",
+     "title": "LeBron's fit, Maxey's heroics and Philly's great start",
+     "url": "https://www.espn.com/nba/story/_/id/50371973/lebron-76ers-embiid-maxey-ty-jerome-grizzlies",
      "source": "ESPN NBA",
-     "take": "Jaylen Brown vs. advanced stats: making sense of his real on-court impact for the Celtics beyond the box score."
+     "take": "LeBron's fit, Maxey's heroics and Philly's great start \u2014 the Sixers remain the early East story to watch."
     }
    ]
   },
@@ -129,40 +123,40 @@
    "name": "MLB",
    "stories": [
     {
+     "title": "MLB rumors: Why the Dodgers could be Tarik Skubal or bust; Red Sox looking for pitching depth",
+     "url": "https://www.cbssports.com/mlb/news/mlb-rumors-dodgers-tarik-skubal-contract-red-sox-pitching-depth/",
+     "source": "CBS Sports MLB",
+     "take": "Sunday rumors: the Dodgers could be Tarik Skubal or bust, while the Red Sox hunt for pitching depth."
+    },
+    {
      "title": "Pedro Martinez appeals to MLB, players: 'Get something done' to avoid lockout",
      "url": "https://www.espn.com/mlb/story/_/id/50420169/pedro-martinez-tells-mlb-players-find-solution-fans",
      "source": "ESPN MLB",
-     "take": "Pedro Mart\u00ednez appeals to MLB and players to 'get something done' and avoid a lockout \u2014 a Hall voice on a looming fight."
+     "take": "Pedro Mart\u00ednez appeals to MLB and the players to 'get something done' and avoid a lockout for the fans."
     },
     {
      "title": "Guide to MLB's labor battle: Will there be a lockout? A salary cap?",
      "url": "https://www.espn.com/mlb/story/_/id/50370123/lockout-salary-cap-cba-labor-battle-faq",
      "source": "ESPN MLB",
-     "take": "Your guide to MLB's labor battle: will there be a lockout, a salary cap, and what breaks first?"
+     "take": "Your guide to MLB's labor battle as the Dec. 1 deadline nears: will there be a lockout, a salary cap, and what breaks first?"
+    },
+    {
+     "title": "Tseng, 25-year-old right-hander, to enter MLB's posting system",
+     "url": "https://www.espn.com/mlb/story/_/id/50413012/reliever-jyun-yue-tseng-25-enters-mlb-posting-system",
+     "source": "ESPN MLB",
+     "take": "Taiwanese reliever Jyun-Yue Tseng, 25 and coming off 25 saves, enters MLB's posting system and will be available to sign."
+    },
+    {
+     "title": "Witness: Clase 'inside' pitch info dried up amid Mizuhara case fallout",
+     "url": "https://www.espn.com/mlb/story/_/id/50402459/emmanuel-clase-luis-ortiz-information-trial-testimony-bettor",
+     "source": "ESPN MLB",
+     "take": "A witness says the inside pitch info used to bet on Emmanuel Clase dried up amid fallout from the Mizuhara scandal."
     },
     {
      "title": "Your guide to MLB free agency: Rankings and contract projections for the top 50 free agents",
      "url": "https://www.espn.com/mlb/story/_/id/50359247/rankings-contract-projections-top-mlb-free-agents",
      "source": "ESPN MLB",
      "take": "Free agency guide: rankings and contract projections for the top 50 \u2014 the offseason market in one place."
-    },
-    {
-     "title": "Skubal in Queens? A brand new bullpen in the Bronx? How Yankees, Mets can meet their 2027 goals",
-     "url": "https://www.espn.com/mlb/story/_/id/50391071/yankees-mets-offseason-free-agency-trades-2027",
-     "source": "ESPN MLB",
-     "take": "Skubal in Queens? A new bullpen in the Bronx? How the Yankees and Mets can actually hit their 2027 goals."
-    },
-    {
-     "title": "MLB rumors: Max Scherzer mulling another season, Ty France drawing interest, top Taiwanese reliever posted",
-     "url": "https://www.cbssports.com/mlb/news/mlb-rumors-free-agency-max-scherzer-ty-france/",
-     "source": "CBS Sports MLB",
-     "take": "Rumors: Scherzer mulling another season, Ty France drawing interest, and top Taiwanese reliever Tseng posted."
-    },
-    {
-     "title": "D-backs' Carroll has elbow surgery, expected to be ready for spring training",
-     "url": "https://www.espn.com/mlb/story/_/id/50403554/diamondbacks-corbin-carroll-surgery-right-elbow",
-     "source": "ESPN MLB",
-     "take": "D-backs' Corbin Carroll had elbow surgery and is expected back for spring training \u2014 timeline matters for Arizona's winter."
     }
    ]
   },
@@ -170,40 +164,40 @@
    "name": "National",
    "stories": [
     {
-     "title": "Healthcare, tariffs \u2013 but not Trump impeachment: Democrats chart next two years of power",
-     "url": "https://www.theguardian.com/us-news/2026/nov/08/democrats-congress-trump-midterms",
+     "title": "Trump set to lurch further right, claiming US took \u2018giant step back\u2019 in elections",
+     "url": "https://www.theguardian.com/us-news/2026/nov/08/trump-midterm-elections-loss-democrats-immigration",
      "source": "Guardian US",
-     "take": "Democrats chart the next two years: healthcare and tariffs first, no Trump impeachment push \u2014 governing, not vengeance, is the pitch."
+     "take": "Trump is set to lurch further right after the midterms, claiming the US took a 'giant step back' \u2014 doubling down on immigration instead of recalibrating."
     },
     {
-     "title": "How Gen Z voters helped fuel a blue wave for Democrats",
-     "url": "https://www.npr.org/2026/11/08/nx-s1-6032829/gen-z-voters-midterm-elections",
+     "title": "Europe to join U.S.-brokered Ukraine talks in Abu Dhabi, defying Kremlin objections",
+     "url": "https://www.npr.org/2026/11/08/nx-s1-6034014/europe-join-us-brokered-ukraine-talks-abu-dhabi-russia",
      "source": "NPR News",
-     "take": "Gen Z voters helped fuel the blue wave \u2014 youth turnout was a decisive, not decorative, factor in the midterms."
+     "take": "Europe will join US-brokered Ukraine talks in Abu Dhabi, defying Kremlin objections to its seat at the table."
     },
     {
-     "title": "Trump\u2019s shattered \u2018mirror world\u2019: American voters roundly reject president\u2019s alternate reality",
-     "url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/08/trump-midterms-voters-mirror-world",
-     "source": "Guardian US",
-     "take": "Trump's 'mirror world' shattered: voters roundly rejected the president's alternate reality in the midterms."
-    },
-    {
-     "title": "Homelessness in the U.S. saw its largest drop in more than a decade last year",
-     "url": "https://www.npr.org/2026/11/07/nx-s1-6033491/homelessness-in-the-u-s-saw-its-largest-drop-in-more-than-a-decade-last-year",
-     "source": "NPR News",
-     "take": "US homelessness saw its largest drop in more than a decade last year \u2014 a rare good-news data point worth understanding."
-    },
-    {
-     "title": "Trump says he's asked UFC's Dana White to be his press secretary",
-     "url": "https://www.pbs.org/newshour/politics/trump-says-hes-asked-ufcs-dana-white-to-be-his-press-secretary",
+     "title": "AP sources: Staff at U.S. center for AI safety are reporting to the White House, raising independence concerns",
+     "url": "https://www.pbs.org/newshour/politics/staff-at-u-s-center-for-ai-safety-are-reporting-to-the-white-house-raising-independence-concerns",
      "source": "PBS NewsHour",
-     "take": "Trump says he asked UFC boss Dana White to be press secretary \u2014 White meets Trump Monday and hasn't ruled it out."
+     "take": "Staff at the US center for AI safety are now reporting to the White House, AP sources say \u2014 raising independence concerns for the watchdog."
     },
     {
-     "title": "Stimulant overdoses on the rise as opioid deaths decline, but treatment is complex",
-     "url": "https://www.theguardian.com/us-news/2026/nov/08/stimulant-overdoses-rise",
+     "title": "Cruise ship pianist rescued after nine hours treading water miles from shore",
+     "url": "https://www.theguardian.com/us-news/2026/nov/08/royal-caribbean-cruise-ship-pianist-rescue",
      "source": "Guardian US",
-     "take": "Stimulant overdoses rise as opioid deaths decline \u2014 treatment is more complex and the system is not built for it."
+     "take": "A Royal Caribbean cruise ship pianist was rescued after nine hours treading water miles from shore and is expected to survive."
+    },
+    {
+     "title": "Collision between 2 trains in Egypt kills 7 and injures at least 125",
+     "url": "https://www.pbs.org/newshour/world/collision-between-2-trains-in-egypt-kills-7-and-injures-more-than-100",
+     "source": "PBS NewsHour",
+     "take": "A collision between two trains in Egypt killed 7 people and injured at least 125."
+    },
+    {
+     "title": "Floods bring rare relief to U.S. Southwest reservoirs as Lake Powell rises 20 feet",
+     "url": "https://www.pbs.org/newshour/nation/floods-bring-rare-relief-to-u-s-southwest-reservoirs-as-lake-powell-rises-20-feet",
+     "source": "PBS NewsHour",
+     "take": "Floods brought rare relief to Southwest reservoirs, with Lake Powell rising 20 feet."
     }
    ]
   },
@@ -211,40 +205,40 @@
    "name": "California",
    "stories": [
     {
+     "title": "Woman accused of starting brush fire in Angeles National Forest during red flag warning",
+     "url": "https://www.latimes.com/california/story/2026-11-08/woman-accused-of-starting-brush-fire-in-angeles-national-forest-during-red-flag-warning",
+     "source": "LA Times California",
+     "take": "A woman was arrested for allegedly starting a brush fire in Angeles National Forest during a red flag warning of critical fire weather."
+    },
+    {
+     "title": "Bass ran on her strong relationship skills. So why did pivotal allies turn on her?",
+     "url": "https://www.latimes.com/california/story/2026-11-08/bass-said-she-worked-well-with-others-but-key-allies-became-her-political-enemies",
+     "source": "LA Times California",
+     "take": "Bass ran on her relationship skills, yet pivotal allies turned on her \u2014 the moments where crucial relationships crumbled decided her fate."
+    },
+    {
+     "title": "Barabak: This sheriff crossed a line pandering to Trump. He should pay, from his own pocket",
+     "url": "https://www.latimes.com/politics/story/2026-11-08/chad-bianco-confiscated-ballots-riverside-county-pay-out-of-pocket",
+     "source": "LA Times California",
+     "take": "Barabak: Riverside sheriff Chad Bianco crossed a line seizing ballots to court Trump \u2014 he should pay his legal bills from his own pocket."
+    },
+    {
      "title": "Inside Nithya Raman's improbable campaign for L.A. mayor",
      "url": "https://www.latimes.com/california/story/2026-11-08/inside-nithya-ramans-improbable-campaign-for-la-mayor",
      "source": "LA Times California",
-     "take": "Inside Nithya Raman's improbable campaign for LA mayor \u2014 the race that is reshaping the city's politics."
-    },
-    {
-     "title": "Great America, the Bay Area's premier theme park, is closing for good. Here's when",
-     "url": "https://www.latimes.com/california/story/2026-11-07/californias-great-america-theme-park-is-closing-for-good",
-     "source": "LA Times California",
-     "take": "Great America, the Bay Area's premier theme park, is closing for good \u2014 here's when the last rides happen."
+     "take": "Inside Nithya Raman's improbable L.A. mayor campaign: started on the last possible day, in her backyard, and ousted an incumbent backed by the establishment."
     },
     {
      "title": "Santa Anas and hotter fall temperatures sustain SoCal critical fire risks",
      "url": "https://www.latimes.com/california/story/2026-11-07/socal-weather-forecast-santa-ana-winds-high-heat-rain-chances-ahead",
      "source": "LA Times California",
-     "take": "Santa Anas and hotter fall temps keep SoCal fire risk critical \u2014 the November pattern Jeff lives with, not a summer-only problem."
+     "take": "Santa Ana winds peaked Saturday, but above-normal heat and elevated SoCal fire risk stay through next week."
     },
     {
-     "title": "\u2018Soul-hurting pain\u2019: Victims\u2019 families enraged at Newsom\u2019s death row decision",
-     "url": "https://calmatters.org/justice/2026/11/death-penalty-commutations-families/",
-     "source": "CalMatters",
-     "take": "Victims' families are enraged at Newsom's death row commutations, calling it 'soul-hurting pain' \u2014 CalMatters on the fallout."
-    },
-    {
-     "title": "Newsom appoints former aide convicted in domestic violence case to state commission",
-     "url": "https://www.latimes.com/california/story/2026-11-07/newsom-appoints-former-aide-convicted-in-domestic-violence-case-to-state-commission",
+     "title": "Great America, the Bay Area's premier theme park, is closing for good. Here's when",
+     "url": "https://www.latimes.com/california/story/2026-11-07/californias-great-america-theme-park-is-closing-for-good",
      "source": "LA Times California",
-     "take": "Newsom appointed a former aide convicted in a domestic violence case to a state commission \u2014 a vetting story that will not go quiet."
-    },
-    {
-     "title": "Small plane overturns on the runway at John Wayne Airport",
-     "url": "https://www.latimes.com/california/story/2026-11-07/small-plane-overturns-on-runway-at-john-wayne-airport",
-     "source": "LA Times California",
-     "take": "A small plane overturned on the runway at John Wayne Airport \u2014 no word yet in the headline on injuries; check before travel through SNA."
+     "take": "California's Great America will close for good after one more season \u2014 the Bay Area park's final run of coasters and funnel cakes."
     }
    ]
   },
@@ -252,47 +246,17 @@
    "name": "\ud83c\udf99\ufe0f Podcasts",
    "stories": [
     {
-     "title": "Keisha Lance Bottoms on What Democrats Have to Do to Not Squander the Win",
-     "url": "https://www.nytimes.com/the-daily",
-     "source": "The Daily",
-     "take": "Bottoms' prescription: keep listening and delivering, be upfront about what Democrats can and can't do \u2014 'if we don't listen and if we don't deliver, then shame on us' \u2022 Day-one Georgia plan: prep Medicaid expansion, eliminate the grocery tax, fully fund schools and pre-K, work across the aisle in a divided legislature \u2022 First Black woman elected governor of any US state, first Democrat to win Georgia's governorship in 25+ years, despite being heavily outspent"
-    },
-    {
-     "title": "Where will America go from here?",
-     "url": "https://www.npr.org/2026/11/08/nx-s1-6032739/where-will-america-go-from-here",
-     "source": "Up First",
-     "take": "Answer: both parties face an identity reckoning to 2028 \u2014 Republicans lose Trump's kingmaker grip in a wide-open field (Vance, Rubio, Cruz, DeSantis), Democrats must hold a big tent, deliver on affordability, and aim oversight at pocketbook issues, not vengeance \u2022 No Trump impeachment push expected \u2014 no 67-vote removal path; talk centers on Hegseth \u2022 Young voters went Democratic by 48 points, beating Obama's 2008 youth margin; only 1 redrawn GOP district actually flipped Republican"
-    },
-    {
-     "title": "Democrats Promised to Fix the Economy. Can They?",
-     "url": "https://www.wsj.com/podcasts/whats-news",
-     "source": "WSJ What's News",
-     "take": "Answer: only narrowly \u2014 Democrats can plausibly push to end the Iran war (needs 4-5 GOP senators on defense funding), roll back Trump tariffs on Canada first, and restore ACA subsidies, possibly in a deal with Trump \u2022 Lasting trade reform, Medicare for All and broad safety-net expansion likely wait for the next administration \u2022 Congress cannot directly control prices or give everyone a raise \u2014 that limit shapes everything"
-    },
-    {
-     "title": "Agentic Video Is Real and Here\u2019s What You Should Try",
-     "url": "https://podcasters.spotify.com/pod/show/nlw/episodes/Agentic-Video-Is-Real-and-Heres-What-You-Should-Try-e3s0li5",
-     "source": "The AI Daily Brief",
-     "take": "Answer \u2014 try three levels: (1) AI-edit something you recorded, like a meeting highlight reel; (2) make what you couldn't before, like animated charts from spreadsheets or a concept video from a prototype; (3) build a self-updating weekly video pipeline \u2022 Opus 5.5 is the step change, letting non-editors produce graphics-rich video in Codex/Claude Code \u2022 Best uses: concept videos, 2-4 min meeting cuts, customer-insight reels, narrated dashboards and personalized proposal videos"
-    },
-    {
-     "title": "Is intelligence overrated?",
-     "url": "https://podcasts.apple.com/us/podcast/is-intelligence-overrated/id1346207297?i=1000800561674&uo=4",
-     "source": "Today, Explained",
-     "take": "Answer: yes, for IQ-style processing power \u2014 high IQ doesn't prevent dumb decisions (engine without steering, brakes or GPS), slow reflective thinkers decide better, and intelligence is malleable at any age \u2022 Northeastern's advice: don't think about your IQ at all, focus on brain health and well-being \u2022 Five weeks of executive-function training closed the IQ gap between kindergarteners and same-age schoolchildren in one study"
-    },
-    {
-     "title": "Poland in shock as six killed in shooting",
-     "url": "http://www.bbc.co.uk/programmes/p0plw73g",
+     "title": "The Global Story: They fled Russia. The US sent them back",
+     "url": "https://podcasts.apple.com/us/podcast/the-global-story-they-fled-russia-the-us-sent-them-back/id135067274?i=1000800610536&uo=4",
      "source": "Global News Podcast",
-     "take": "Krak\u00f3w: a gunman drove into the main market square and killed 6, injured 15-16 including 2 officers; PM Tusk called it terrorism, two days of mourning declared \u2022 Israel's president gave opposition leader Gadi Eisenkot up to six weeks to form a government after a deadlocked election \u2022 Gaza tents flooded with sewage-mixed rain as 80%+ of structures are damaged; Spain's housing protests and Paraguay's bank-collapse charges also covered"
+     "take": "US removals of Russians rose from 222 in 2023 to more than 1,200 in 2025, as asylum seekers who fled the Ukraine war are deported back to FSB interrogations on arrival \u2022 Katya, an opposition activist, lives under surveillance back in Russia; Artyom, a deserter wanted at home, was detained on return and escaped again via Belarus \u2022 A deported anti-war activist got six years in a penal colony, and exiled campaigners now advise fleeing Russians not to go to the EU either"
     }
    ]
   }
  ],
  "markets": {
   "source": "Yahoo Finance",
-  "fetched_at": "2026-11-08T09:01:54.190609-08:00",
+  "fetched_at": "2026-11-08T13:04:51.057380-08:00",
   "dates": [
    "2025-11-07",
    "2025-11-10",
@@ -1805,8 +1769,8 @@
       658.7,
       660.15,
       659.35,
-      658.39,
-      658.8,
+      658.4,
+      658.78,
       659.01,
       658.83,
       658.27,

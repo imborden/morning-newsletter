@@ -1,51 +1,51 @@
 {
  "date": "2026-11-09",
- "updated_label": "AFTERNOON UPDATE \u00b7 1:19 PM PT",
+ "updated_label": "EVENING UPDATE \u00b7 8:39 PM PT",
  "sections": [
   {
    "name": "Tech & AI",
    "stories": [
     {
+     "title": "Anthropic reportedly plans to move forward with IPO plans",
+     "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+     "source": "TechCrunch",
+     "take": "Anthropic is moving ahead with IPO plans and is expected to set its valuation range this week \u2014 the AI lab race is about to hit public markets."
+    },
+    {
+     "title": "Jensen Huang\u2019s Troubles Leave the AI Industry Reeling",
+     "url": "https://www.wired.com/story/jensen-huangs-troubles-leaves-the-ai-industry-reeling/",
+     "source": "Wired",
+     "take": "Wired's evening read: the affair scandal around Nvidia's CEO now risks the chip access and political capital the whole AI industry runs on."
+    },
+    {
+     "title": "The race is on to sue Nvidia",
+     "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+     "source": "TechCrunch",
+     "take": "Nvidia stock slid more than 4% after its board opened an investigation, and securities lawyers are circling the company's earlier 'all normal' reassurances."
+    },
+    {
+     "title": "Waymo robotaxis kept illegally passing school buses after software fix, feds say",
+     "url": "https://techcrunch.com/2026/11/09/waymo-robotaxis-kept-illegally-passing-school-buses-after-software-fix-feds-say/",
+     "source": "TechCrunch",
+     "take": "Federal regulators say Waymo cars kept illegally passing school buses nearly a year after a software fix that was supposed to stop it."
+    },
+    {
+     "title": "Hotel giant Wyndham exposed customer data after app security lapse",
+     "url": "https://techcrunch.com/2026/11/09/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse/",
+     "source": "TechCrunch",
+     "take": "Wyndham left a hardcoded credential in its customer app, exposing customer data \u2014 and won't say whether it can even check for past unauthorized access."
+    },
+    {
      "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
      "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
      "source": "TechCrunch",
-     "take": "Anthropic says the new models improve coding, reasoning and vision \u2014 and land in the middle of the recursive self-improvement debate."
+     "take": "Anthropic shipped new Mythos and Fable models the same day its IPO plans surfaced, even as recursive self-improvement concerns hang over the release."
     },
     {
-     "title": "Fervo now has $12B in orders for its geothermal power tech",
-     "url": "https://techcrunch.com/2026/11/09/fervo-now-has-12b-in-orders-for-its-geothermal-power-tech/",
+     "title": "YouTube streaming data returns to Billboard charts, ending major disagreement",
+     "url": "https://techcrunch.com/2026/11/09/youtube-streaming-data-returns-to-billboard-charts-ending-major-disagreement/",
      "source": "TechCrunch",
-     "take": "$12B in orders at its 8.4 GW Utah resource \u2014 geothermal is now pitching itself as a direct rival to natural gas."
-    },
-    {
-     "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
-     "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
-     "source": "TechCrunch",
-     "take": "Huang also skipped an Anthropic event \u2014 the alleged-spy affair story is now costing Nvidia its CEO's public schedule."
-    },
-    {
-     "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
-     "url": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/",
-     "source": "Ars Technica",
-     "take": "The '*sshole' flaw is being exploited in the wild \u2014 patch Linux devices that accept SSH connections."
-    },
-    {
-     "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
-     "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
-     "source": "TechCrunch",
-     "take": "At 10 cents per million input tokens, Ember undercuts Haiku-class rivals for cheap agent work."
-    },
-    {
-     "title": "Claude Code is accidentally exposing secrets all over GitHub",
-     "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
-     "source": "Ars Technica",
-     "take": "A 'do not ask again' prompt path has led users to share passwords and API keys publicly \u2014 check your repos."
-    },
-    {
-     "title": "The backlash about data centers might really just be about electricity",
-     "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
-     "source": "MIT Tech Review",
-     "take": "MIT Tech Review's read: voter anger at data centers tracks power bills more than AI itself."
+     "take": "YouTube will share streaming data with Billboard again in 2027, ending a long chart standoff after the formula gave more weight to free streams."
     }
    ]
   },
@@ -53,34 +53,40 @@
    "name": "Marketing & creative industry",
    "stories": [
     {
-     "title": "Why publishers must act now to protect content from AI scrapers",
-     "url": "https://digiday.com/sponsored/why-publishers-must-act-now-to-protect-content-from-ai-scrapers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-     "source": "Digiday",
-     "take": "Digiday's argument: each tech wave promised publishers reach, then took the leverage \u2014 scraping defenses are the fight this time."
-    },
-    {
-     "title": "Disney's AI deal with Adobe is raising eyebrows",
-     "url": "https://www.creativebloq.com/news/disneys-ai-deal-with-adobe-is-raising-eyebrows",
-     "source": "Creative Bloq",
-     "take": "Creative Bloq asks whether Disney's Adobe AI deal is a problem or actually the cleanest rights solution either company has."
-    },
-    {
-     "title": "OpenAI's Monetization Chief to Ad Partners: User Trust Means Some Things 'We Just Can't' Do",
-     "url": "https://www.adweek.com/media/openais-monetization-chief-to-ad-partners-user-trust-means-some-things-we-just-cant-do/",
+     "title": "The Trade Desk Clears Wall Street\u2019s Low Expectations as Revenue Stalls",
+     "url": "https://www.adweek.com/programmatic/the-trade-desk-clears-wall-streets-low-expectations-as-revenue-stalls/",
      "source": "Adweek",
-     "take": "OpenAI tells ad partners privacy rules will block some requests \u2014 and won't own the reported $100 billion ad target."
+     "take": "The Trade Desk beat low expectations by about $85 million on record political spending, but the headline is stalled revenue growth."
+    },
+    {
+     "title": "SiriusXM Taps Tubi\u2019s Anjali Sud as CEO to Replace Jennifer Witz",
+     "url": "https://www.adweek.com/convergent-tv/siriusxm-taps-tubis-anjali-sud-as-ceo-to-replace-jennifer-witz/",
+     "source": "Adweek",
+     "take": "SiriusXM poached Tubi's Anjali Sud as CEO, replacing Jennifer Witz even as revenue rises and churn sits at record lows."
     },
     {
      "title": "Ogilvy and CAA launch partnership to clone celebrity talent for AI ads",
      "url": "https://digiday.com/marketing/ogilvy-and-caa-launch-partnership-to-clone-celebrity-talent-for-ai-ads/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
      "source": "Digiday",
-     "take": "Terry Crews and other big names could appear in AI-generated ads \u2014 licensed, and marked as AI."
+     "take": "Ogilvy and CAA will clone celebrity talent for AI ads \u2014 likeness rights are becoming a line item, not a legal afterthought."
     },
     {
-     "title": "The AI-or-Not Debate Is Advertising's Most Pointless Argument",
-     "url": "https://www.adweek.com/brand-marketing/the-ai-or-not-debate-is-advertisings-most-pointless-argument/",
-     "source": "Adweek",
-     "take": "Adweek's take: almost nothing you watch or read is AI-free anymore, so the binary debate is already over."
+     "title": "ChatGPT is about to show brands their mention count",
+     "url": "https://digiday.com/marketing/chatgpt-is-about-to-show-brands-their-mention-count/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+     "source": "Digiday",
+     "take": "ChatGPT is testing an analytics dashboard that counts brand mentions in its answers \u2014 AI visibility is about to become a reported metric."
+    },
+    {
+     "title": "Disney's AI deal with Adobe is raising eyebrows",
+     "url": "https://www.creativebloq.com/news/disneys-ai-deal-with-adobe-is-raising-eyebrows",
+     "source": "Creative Bloq",
+     "take": "Disney's AI deal with Adobe is raising eyebrows across the creative industry over who controls, and who gets paid for, AI-made work."
+    },
+    {
+     "title": "Pepsi\u2019s holiday push includes bigger retail presence, soda for Santa",
+     "url": "https://www.marketingdive.com/news/pepsis-holiday-push-includes-bigger-retail-presence-soda-for-santa/874072/",
+     "source": "Marketing Dive",
+     "take": "Pepsi's holiday push pairs a bigger retail footprint and soda-for-Santa creative with more football-season weight behind 'Food Deserves Pepsi.'"
     }
    ]
   },
@@ -88,34 +94,34 @@
    "name": "NBA",
    "stories": [
     {
-     "title": "Miami Heat to host 2028 NBA All-Star Weekend, first time since 1990, per report",
-     "url": "https://www.cbssports.com/nba/news/nba-all-star-weekend-2028-miami-heat/",
-     "source": "CBS Sports NBA",
-     "take": "Miami gets All-Star Weekend for only the second time in franchise history."
+     "title": "Doncic returns in Lakers' win vs. Hawks with Reaves, Grimes out",
+     "url": "https://www.espn.com/nba/story/_/id/50436573/lakers-luka-doncic-returns-vs-hawks-austin-reaves-quentin-grimes-out",
+     "source": "ESPN NBA",
+     "take": "Luka Don\u010di\u0107 returned and the Lakers won in Atlanta even with Austin Reaves (illness) and Quentin Grimes (sprained finger) out."
     },
     {
-     "title": "Reaves steps into Luka's shoes, drops 43 in win vs. Pistons",
-     "url": "https://www.espn.com/nba/story/_/id/50429321/reaves-scores-43-doncic-absence-lead-lakers-pistons",
+     "title": "Sources: NBA finalizing Miami as host of 2028 All-Star Weekend",
+     "url": "https://www.espn.com/nba/story/_/id/50434463/nba-finalizing-miami-2028-all-star-weekend-host",
      "source": "ESPN NBA",
-     "take": "With Luka resting, Austin Reaves scored 43 in the 121\u2013116 win \u2014 the Lakers' depth keeps producing headline nights."
+     "take": "Miami is set to host 2028 NBA All-Star Weekend, its first since 1990, per Shams Charania."
     },
     {
-     "title": "Giannis on Doc criticism: I won't be thwarted by 'bitterness or pettiness'",
-     "url": "https://www.espn.com/nba/story/_/id/50432359/giannis-antetokounmpo-speechless-doc-rivers-criticism",
+     "title": "Ex-coach Rivers says he apologized to Giannis while clarifying critiques",
+     "url": "https://www.espn.com/nba/story/_/id/50436679/doc-rivers-apologized-antetokounmpo-clarifies-critiques",
      "source": "ESPN NBA",
-     "take": "Giannis says he was 'speechless' at Doc Rivers calling out his basketball IQ \u2014 the feud is now public."
+     "take": "Doc Rivers says he apologized to Giannis Antetokounmpo for questioning his basketball IQ, walking the criticism back to 'feel' versus force."
+    },
+    {
+     "title": "Warriors lose guard Richard with torn ligament in left thumb",
+     "url": "https://www.espn.com/nba/story/_/id/50429468/warriors-guard-richard-torn-ligament-thumb",
+     "source": "ESPN NBA",
+     "take": "Warriors guard Will Richard, a starter-and-reserve regular, is out an undetermined stretch with a torn ligament in his left thumb."
     },
     {
      "title": "NBA's biggest winners and losers of the week: Luka's Lakers look amazing, are Hornets regretting LaMelo trade?",
      "url": "https://www.cbssports.com/nba/news/nba-biggest-winners-and-losers-week-luka-doncic-lakers-lamelo-ball-nov-9/",
      "source": "CBS Sports NBA",
-     "take": "CBS's weekly ledger: Lakers up, and Charlotte already second-guessing the LaMelo deal."
-    },
-    {
-     "title": "Nuggets' starters all questionable vs. Rockets after delays leaving Mexico",
-     "url": "https://www.espn.com/nba/story/_/id/50426497/nuggets-starters-questionable-vs-rockets-plane-delays",
-     "source": "ESPN NBA",
-     "take": "Plane delays out of Mexico City leave Denver's entire starting five questionable for Monday in Houston."
+     "take": "The week's winners-and-losers ledger leads with Luka's Lakers looking amazing \u2014 and asks whether Charlotte already regrets the LaMelo trade."
     }
    ]
   },
@@ -123,28 +129,34 @@
    "name": "MLB",
    "stories": [
     {
-     "title": "MLB rumors: Why the Cubs may already be out on Tarik Skubal, plus latest on Phillies, Cardinals, more",
-     "url": "https://www.cbssports.com/mlb/news/mlb-rumors-gm-meetings-trades-cubs-tarik-skubal/",
-     "source": "CBS Sports MLB",
-     "take": "GM meetings could heat up the hot stove \u2014 but Chicago may already be priced out of the Skubal sweepstakes."
+     "title": "Tigers SS Kevin McGonigle, Reds 1B Sal Stewart win MLB's rookie of year awards",
+     "url": "https://www.espn.com/mlb/story/_/id/50437506/tigers-mcgonigle-reds-stewart-win-rookie-year-awards",
+     "source": "ESPN MLB",
+     "take": "Awards Week opened with both Rookie of the Year picks at age 22: Detroit shortstop Kevin McGonigle in the AL and Cincinnati's Sal Stewart in the NL."
     },
     {
-     "title": "Your guide to MLB free agency: Rankings and contract projections for the top 50 free agents",
-     "url": "https://www.espn.com/mlb/story/_/id/50359247/rankings-contract-projections-top-mlb-free-agents",
-     "source": "ESPN MLB",
-     "take": "Kiley McDaniel prices the top 50 free agents \u2014 the winter's spending map in one list."
+     "title": "Predicting 2027 MLB Rookie of the Year candidates: Josue De Paula, Kade Anderson, Jes\u00fas Made and more",
+     "url": "https://www.cbssports.com/mlb/news/2027-mlb-rookie-of-the-year-candidates-josue-de-paula-kade-anderson-jesus-made/",
+     "source": "CBS Sports MLB",
+     "take": "Next year's rookie race is already taking shape, with Josue De Paula, Kade Anderson and Jes\u00fas Made leading the early candidate list."
+    },
+    {
+     "title": "Tarik Skubal contract predictions: Ace's new deal could break multiple MLB records for a pitcher",
+     "url": "https://www.cbssports.com/mlb/news/tarik-skubal-contract-predictions-mlb-free-agency/",
+     "source": "CBS Sports MLB",
+     "take": "Skubal's next deal could break pitcher records \u2014 the current marks are Yamamoto's $325 million total and a $43.33 million AAV tie."
     },
     {
      "title": "Pedro Martinez appeals to MLB, players: 'Get something done' to avoid lockout",
      "url": "https://www.espn.com/mlb/story/_/id/50420169/pedro-martinez-tells-mlb-players-find-solution-fans",
      "source": "ESPN MLB",
-     "take": "Pedro's plea to both sides: settle the CBA and don't lock out the fans."
+     "take": "Pedro Mart\u00ednez is publicly urging MLB and the players to 'get something done' before a lockout eats into the sport's momentum."
     },
     {
-     "title": "MLB Awards Week: Predictions and everything you need to know about MVP, Cy Young and more",
-     "url": "https://www.espn.com/mlb/story/_/id/50391276/2026-season-awards-mvp-cy-young-al-nl",
+     "title": "Your guide to MLB free agency: Rankings and contract projections for the top 50 free agents",
+     "url": "https://www.espn.com/mlb/story/_/id/50359247/rankings-contract-projections-top-mlb-free-agents",
      "source": "ESPN MLB",
-     "take": "Awards Week starts tonight with the Rookies of the Year \u2014 MVP and Cy Young follow."
+     "take": "ESPN ranks the top 50 free agents with contract projections \u2014 the reference sheet for the whole offseason market."
     }
    ]
   },
@@ -152,40 +164,46 @@
    "name": "National",
    "stories": [
     {
+     "title": "Trump says US war in Iran \u2018effectively over\u2019 as he plays down escalation concerns",
+     "url": "https://www.theguardian.com/us-news/2026/nov/09/trump-iran-war",
+     "source": "Guardian US",
+     "take": "Trump said the Iran war is 'effectively over' after talks with Qatar's PM, downplaying escalation now that the midterms are behind him."
+    },
+    {
+     "title": "Senate advances bill to speed up projects from gas pipelines to clean energy",
+     "url": "https://www.theguardian.com/us-news/2026/nov/09/senate-energy-infrastructure-bill-vote",
+     "source": "Guardian US",
+     "take": "The Senate advanced the bipartisan Baaja permitting bill \u2014 pipelines to clean-energy transmission \u2014 as its first major act since the election rebuke, over environmental groups' objections."
+    },
+    {
+     "title": "Supreme Court says border wall construction can continue in west Texas",
+     "url": "https://www.npr.org/2026/11/09/nx-s1-6019424/border-wall-big-bend-texas-trump",
+     "source": "NPR News",
+     "take": "The Supreme Court cleared border wall construction to continue in Texas's Big Bend while the lawsuit over the plan moves forward."
+    },
+    {
      "title": "Thomas Massie files articles of impeachment against Defense Secretary Pete Hegseth",
      "url": "https://www.npr.org/2026/11/09/nx-s1-6034483/thomas-massie-impeachment-pete-hegseth",
      "source": "NPR News",
-     "take": "A Republican congressman accuses Hegseth of waging war on Iran in violation of the War Powers Resolution \u2014 a forced vote looms."
+     "take": "Republican Thomas Massie filed articles of impeachment against Defense Secretary Pete Hegseth as Congress returned to Washington."
     },
     {
-     "title": "Russell Brand is sentenced to more than 10 years in prison for rape and sexual assault",
-     "url": "https://www.npr.org/2026/11/09/nx-s1-6034335/british-comedian-russell-brand-sentenced",
+     "title": "Congress is back after GOP's midterm defeat. And, Trump appoints new chief of staff",
+     "url": "https://www.npr.org/2026/11/09/g-s1-152627/up-first-newsletter-stephen-miller-trump-congress-nvidia-cop31",
      "source": "NPR News",
-     "take": "Brand was found guilty of attacking four of six accusers, in cases dating back to 2004."
-    },
-    {
-     "title": "Senate votes on bill to speed up projects from gas pipelines to clean energy",
-     "url": "https://www.theguardian.com/us-news/2026/nov/09/senate-energy-infrastructure-bill-vote",
-     "source": "Guardian US",
-     "take": "The permitting bill would speed everything from pipelines to clean energy \u2014 and environmentalists are split on the trade."
-    },
-    {
-     "title": "Boosting healthcare and ending the Iran war are top of the to-do list for House Democrats once they have majority",
-     "url": "https://www.pbs.org/newshour/politics/boosting-healthcare-and-ending-the-iran-war-are-top-of-the-to-do-list-for-house-democrats-once-they-have-majority",
-     "source": "PBS NewsHour",
-     "take": "Incoming House Democrats put healthcare and ending the Iran war first \u2014 the post-midterm agenda is taking shape."
-    },
-    {
-     "title": "Trump admits deportation policy was 'too tough' despite promotion of Stephen Miller",
-     "url": "https://www.theguardian.com/us-news/2026/nov/09/trump-tells-60-minutes-deportation-policy-too-tough-ice-immigration",
-     "source": "Guardian US",
-     "take": "A rare admission from Trump that a signature policy became a political liability \u2014 even as Miller starts as chief of staff."
+     "take": "Republicans have weeks of control left, and Trump naming Stephen Miller chief of staff signals confrontation, not conciliation, ahead."
     },
     {
      "title": "Boeing to cut about 5% of its commercial plane workforce",
      "url": "https://www.theguardian.com/business/2026/nov/09/boeing-to-cut-commercial-plane-workforce",
      "source": "Guardian US",
-     "take": "Layoffs and attrition as Boeing slows its production ramp \u2014 about 5% of the commercial workforce goes."
+     "take": "Boeing will cut about 5% of its commercial airplane workforce, another retrenchment for the planemaker."
+    },
+    {
+     "title": "Ukraine war briefing: battlefield gains bolstering Kyiv\u2019s hand in US-led peace talks, Zelenskyy says",
+     "url": "https://www.theguardian.com/world/2026/nov/10/ukraine-war-briefing-battlefield-gains-bolstering-kyivs-hand-in-us-led-peace-talks-zelenskyy-says",
+     "source": "Guardian US",
+     "take": "Zelenskyy says battlefield gains and mounting Russian losses strengthen Kyiv's hand ahead of Tuesday's US-led trilateral talks in Abu Dhabi."
     }
    ]
   },
@@ -193,40 +211,46 @@
    "name": "California",
    "stories": [
     {
-     "title": "Gavin Newsom busca vaciar el corredor de la muerte y conmuta las sentencias de cientos de presos",
-     "url": "https://calmatters.org/calmatters-en-espanol/2026/11/gavin-newsom-pena-de-muerte/",
+     "title": "California voters reject Prop. 40 billionaire tax",
+     "url": "https://calmatters.org/politics/elections/2026/11/prop-40-billionaire-tax-defeated/",
      "source": "CalMatters",
-     "take": "Newsom commuted the death sentences of 548 state prisoners, saying state-sanctioned killing conflicts with California's values \u2014 victims' families are furious."
+     "take": "Prop. 40's billionaire tax went down after opponents spent $378 million against it, exposing a deep rift among California Democrats over taxing the rich."
+    },
+    {
+     "title": "Voters approve Prop. 38 medical research bond measure",
+     "url": "https://www.latimes.com/california/story/2026-11-09/voters-approve-prop-38-medical-research-bond-measure",
+     "source": "LA Times California",
+     "take": "Voters passed Prop. 38, authorizing $8.4 billion in bonds for immunology and immunotherapy research on chronic diseases."
+    },
+    {
+     "title": "Rep. Calvert declared winner in contested Southern California congressional race",
+     "url": "https://www.latimes.com/california/story/2026-11-09/rep-calvert-declared-winner-in-contested-southern-california-congressional-race",
+     "source": "LA Times California",
+     "take": "Ken Calvert was declared the winner over fellow Republican Young Kim in the fierce race for a newly drawn Southern California district."
+    },
+    {
+     "title": "Police launch probe after Santa Barbara half-marathon runners with 'unusual symptoms' seek medical care",
+     "url": "https://www.latimes.com/california/story/2026-11-09/police-launch-probe-after-santa-barbara-half-marathon-runners-with-unusual-symptoms-seek-medical-care",
+     "source": "LA Times California",
+     "take": "Santa Barbara police are investigating after more than two dozen half-marathon runners went to hospitals with 'unusual symptoms' following Sunday's race."
+    },
+    {
+     "title": "L.A. County Supervisor Horvath first to file papers to run for elected county executive job",
+     "url": "https://www.latimes.com/california/story/2026-11-09/la-me-horvath",
+     "source": "LA Times California",
+     "take": "L.A. County Supervisor Lindsey Horvath is the first to file for the new elected county executive job \u2014 a post she helped create."
+    },
+    {
+     "title": "Cruise ship employee rescued after spending nine hours in the ocean off Catalina",
+     "url": "https://www.latimes.com/california/story/2026-11-09/cruise-ship-employee-rescued-after-spending-nine-hours-in-ocean-off-catalina",
+     "source": "LA Times California",
+     "take": "A fishing vessel rescued a cruise ship employee who spent nine hours in the ocean off Santa Catalina Island."
     },
     {
      "title": "High surf and strong rip current in SoCal raise risk of flooding and hazardous swim conditions",
      "url": "https://www.latimes.com/california/story/2026-11-09/high-surf-strong-rip-current-in-socal-raise-risk-of-flooding-hazardous-swim-conditions",
      "source": "LA Times California",
-     "take": "High surf and rip currents raise flood and swim risks through midweek \u2014 rain and high tides return this weekend."
-    },
-    {
-     "title": "Beating of Danish tourist near Venice Boardwalk captured on video, one suspect arrested",
-     "url": "https://www.latimes.com/california/story/2026-11-09/la-me-lapd-arrest-venice-boardwalk-danish-tourist",
-     "source": "LA Times California",
-     "take": "One suspect in the Venice Boardwalk beating has turned himself in; police are still searching for the second attacker."
-    },
-    {
-     "title": "Naples Boat Parade canceled as El Ni\u00f1o season threatens dangerously high tides over Christmas week",
-     "url": "https://www.latimes.com/california/story/2026-11-09/naples-boat-parade-canceled-as-el-nino-season-threatens-dangerously-high-tides-over-christmas-week",
-     "source": "LA Times California",
-     "take": "Long Beach's Naples Island parade is off \u2014 expected Christmas-week tides and surf made it unsafe."
-    },
-    {
-     "title": "After Silicon Valley spending spree, more moderate Democrats are heading to the Capitol",
-     "url": "https://calmatters.org/politics/2026/11/california-tech-money-2026-legislature/",
-     "source": "CalMatters",
-     "take": "Tech-backed super PACs spent tens of millions boosting centrist Democrats \u2014 and almost all of their picks won."
-    },
-    {
-     "title": "More than a dozen runners fall ill at Santa Barbara half-marathon",
-     "url": "https://www.latimes.com/california/story/2026-11-08/more-than-dozen-runners-fall-ill-santa-barbara-half-marathon",
-     "source": "LA Times California",
-     "take": "At least 19 runners were hospitalized Sunday; organizers blame heat exhaustion, medics aren't fully convinced."
+     "take": "High surf and strong rip currents keep hazardous swim and flooding risk up along the SoCal coast."
     }
    ]
   },
@@ -234,35 +258,53 @@
    "name": "\ud83c\udf99\ufe0f Podcasts",
    "stories": [
     {
-     "title": "Nvidia CEO Admits Affair With Suspected Chinese Spy",
-     "url": "https://podcasts.apple.com/us/podcast/nvidia-ceo-admits-affair-with-suspected-chinese-spy/id1680633614?i=1000800835301&uo=4",
-     "source": "The AI Daily Brief",
-     "take": "Huang admitted the affair in a company-wide email Sunday night; the other party is Alice Huang of Megaspeed, the Singapore cloud firm that gave Chinese labs remote access to export-controlled Nvidia GPUs \u2022 A memo circulated at the White House last spring identified Alice as a suspected Chinese Ministry of State Security spy; Nvidia's board has opened an independent investigation and says it has no reason to believe secrets were compromised \u2022 Trump is standing by Huang and China calls the spy claims groundless slander"
+     "title": "Mayor-elect Raman on the Olympics, In-N-Out CEO addresses rumors, Citadel Outlets rings in holiday season\u2014 Afternoon Edition",
+     "url": "https://podcasts.apple.com/us/podcast/mayor-elect-raman-on-the-olympics-in-n-out-ceo/id1508035189?i=1000800848707&uo=4",
+     "source": "The LA Report",
+     "take": "Mayor-elect Raman once opposed LA hosting the Olympics and voted against the LA 28 reimbursement deal as too risky \u2014 now she will run the 2028 Games, pledging to cut street encampments 50% by summer 2028, plant 100,000 trees and add 600 bus shelters \u2022 She still plans to replace Police Chief McDonald, with no timeline, and takes over as chair of the Metro board \u2022 In-N-Out's CEO says the chain is staying in California despite its new Tennessee headquarters, and the Citadel Outlets lit its 115-foot tree for the 25th straight year"
     },
     {
-     "title": "Jensen and The Honeypot",
-     "url": "https://podcasts.apple.com/us/podcast/jensen-and-the-honeypot/id1522960417?i=1000800810951&uo=4",
-     "source": "Big Technology Podcast",
-     "take": "Kantrowitz frames it as a classic honeypot: a secret affair made the CEO of America's most important AI company compromisable \u2014 'not a marriage issue\u2026 a corporate security issue, a national security issue' \u2022 Key-man risk is extreme: about 60 direct reports, no successor, and his credibility arguing against China export controls is likely gone \u2022 His bet: Huang survives and stays CEO \u2014 'NVIDIA needs him. He needs NVIDIA' \u2014 while Dario Amodei and Google gain"
+     "title": "LA County's first CEO candidate, El Ni\u00f1o mosquito season, DC Studios leadership change\u2014 Evening Edition",
+     "url": "https://podcasts.apple.com/us/podcast/la-countys-first-ceo-candidate-el-ni%C3%B1o-mosquito/id1508035189?i=1000800900823&uo=4",
+     "source": "The LA Report",
+     "take": "Lindsey Horvath is the first candidate for LA County's new elected CEO job, the post she helped create with Measure G, which also expands the Board of Supervisors from five to nine after 2030 \u2022 West Nile infections topped 300 this year, the most in nearly a decade, and health officials warn El Ni\u00f1o could make next mosquito season worse \u2022 DC Studios heads James Gunn and Peter Safran are stepping down, replaced by Marvel veteran Jeremy Latcham, and the commercial Dungeness crab season is delayed to January 7 for a seventh straight year over whale entanglements"
     },
     {
-     "title": "\"Impeach Hegseth\"",
-     "url": "https://podcasts.apple.com/us/podcast/impeach-hegseth/id1346207297?i=1000800835419&uo=4",
-     "source": "Today, Explained",
-     "take": "WaPo's Dan Lamothe: the eight-month Iran war and war-driven gas prices were a major reason Republicans lost the midterms; a Massie-led vote to impeach Hegseth is likely this week and may pass the House \u2022 Grounds taking shape: waging war past its legal duration without authorization, the Caribbean boat strikes, and the firing of generals \u2022 Second half: Trump wants to phase out the ~$4B-a-year aid package to Israel \u2014 Haaretz's Ben Samuels says that's Netanyahu's own plan to shift support into Pentagon contracts; December 11 is the date to watch"
+     "title": "Former LA mayor Antonio Villaraigosa\u2019s advice to Nithya Raman",
+     "url": "https://podcasts.apple.com/us/podcast/former-la-mayor-antonio-villaraigosas-advice-to-nithya/id807752117?i=1000800889713&uo=4",
+     "source": "Press Play with Madeleine Brand",
+     "take": "Villaraigosa's advice to mayor-elect Raman: back the anti-ICE pushback, own the call to replace Chief McDonald, and make the tough budget calls \u2014 'If you want to be loved, get a dog' \u2022 The city fixes ~71,000 potholes a year now versus ~300,000 in his era, a gap he blames on deferred maintenance and union-friendly budgets \u2022 Also in the episode: the National Popular Vote compact sits at 222 electoral votes, and five new Democratic trifectas could push it past the 270 that would sideline the Electoral College"
     },
     {
-     "title": "Nvidia Probe Into CEO Affair Raises Thorny Questions for AI",
-     "url": "https://podcasts.apple.com/us/podcast/nvidia-probe-into-ceo-affair-raises-thorny-questions-for-ai/id326301337?i=1000800820905&uo=4",
-     "source": "Bloomberg Intelligence",
-     "take": "Analyst view: ousting Huang is 'almost unthinkable' absent something egregious \u2014 no succession plan, a 3.4% stake and 60 direct reports; watch Nvidia earnings November 17 and the November 18 congressional hearing \u2022 Founder-fund manager Monahan backs Jensen for now, but if he goes, 'our process is to sell the stock' \u2022 Also covered: Berkshire's ~$357B cash pile and $9.6B of buybacks, and CVS's pharmacy spinoff, which S&P put on review for a possible two-notch upgrade"
+     "title": "Trump confronts his lame duck era",
+     "url": "https://podcasts.apple.com/us/podcast/trump-confronts-his-lame-duck-era/id1057255460?i=1000800847925&uo=4",
+     "source": "NPR Politics Podcast",
+     "take": "Trump is back to casting doubt on the midterms on Truth Social, blaming machines and early-vote dumps \u2014 the panel calls it noise that will not change certification \u2022 The real tell is personnel: Stephen Miller replaces Susie Wiles as chief of staff, signaling combat over compromise for two years of divided government \u2022 Watch the December 11 funding deadline, the Democrats' 'lawyer up' investigations, and whether congressional Republicans start breaking with a lame-duck president"
+    },
+    {
+     "title": "The cost of executive blunders",
+     "url": "https://podcasts.apple.com/us/podcast/the-cost-of-executive-blunders/id201853034?i=1000800873527&uo=4",
+     "source": "Marketplace",
+     "take": "Celebrity-CEO risk is the theme: Nvidia's board probe into Jensen Huang shows how a company fused to one face has no easy succession story \u2022 The 30-year mortgage eased to 7.18%, a recent low, but forecasters see ~7\u20137.25% ahead and no housing surge, with builder sentiment at its lowest since 2012 \u2022 A 23-year Massachusetts candy-shop owner sold up after fuel and packaging costs spiked, and 'Made in China' is quietly becoming a quality label \u2014 Viltrox lenses now rival the premium brands"
+    },
+    {
+     "title": "Broad Market Rally Leaves Nvidia Decline an Outlier",
+     "url": "https://www.wsj.com/podcasts/whats-news",
+     "source": "WSJ What's News",
+     "take": "Nvidia fell more than 4% (over $232B erased) on the Huang investigation while the Dow jumped 1,100 points and AMD rose 13% \u2014 investors are betting on tighter China chip controls and diversification \u2022 Massie's Hegseth impeachment articles are in, with a vote possible by Wednesday, and France and the US blame Iran for the supermarket-freezer cyberattack \u2022 ER 'boarding' hit a five-hour median wait for a hospital bed, up 25% year over year, and US regulators are adding a blindness-risk warning to GLP-1 drugs like Ozempic"
+    },
+    {
+     "title": "Zelda: Ocarina of Time Getting DLC?! - Kinda Funny Games Daily 11.09.26",
+     "url": "https://podcasts.apple.com/us/podcast/zelda-ocarina-of-time-getting-dlc-kinda-funny-games/id1247343210?i=1000800860688&uo=4",
+     "source": "Kinda Funny Games Daily",
+     "take": "The answer: a datamine of the Switch 2 remake's files found Master Quest and DLC-ownership references, so the harder remixed-dungeon mode looks set to arrive as DLC \u2014 the hosts say it should ride with Switch Online + Expansion Pack, not a standalone charge \u2022 PlayStation announced a Japan Portal Player with built-in storage and a month of PS Plus Premium \u2022 Nvidia shares plunged on the Jensen Huang headlines, Bit Reactor laid off staff, Sega leaked newsletter emails, and Rockstar is staging a GTA VI music festival in Miami with Travis Scott, Kodak Black and Cardi B"
     }
    ]
   }
  ],
  "markets": {
   "source": "Yahoo Finance",
-  "fetched_at": "2026-11-09T13:19:16.519782-08:00",
+  "fetched_at": "2026-11-09T20:40:11.159389-08:00",
   "dates": [
    "2025-11-10",
    "2025-11-11",
@@ -937,8 +979,8 @@
       370.9
      ]
     },
-    "dayHigh": 372.27,
-    "dayLow": 364.95,
+    "dayHigh": 372.28,
+    "dayLow": 364.92,
     "hi52": 385.12,
     "lo52": 310.4
    },
@@ -1299,7 +1341,7 @@
       750.25,
       750.94,
       751.69,
-      750.69,
+      750.71,
       750.54,
       749.98,
       750.21,
@@ -1356,14 +1398,14 @@
       754.58,
       754.5,
       753.95,
-      754.23,
-      753.26,
+      754.24,
+      753.24,
       752.61,
       752.69
      ]
     },
     "dayHigh": 755.42,
-    "dayLow": 741.09,
+    "dayLow": 741.03,
     "hi52": 781.62,
     "lo52": 629.28
    },
@@ -1764,7 +1806,7 @@
       677.65,
       677.52,
       677.18,
-      677.25,
+      677.24,
       676.86,
       677.42,
       680.26,
@@ -1787,7 +1829,7 @@
       679.35
      ]
     },
-    "dayHigh": 681.7,
+    "dayHigh": 682.48,
     "dayLow": 662.02,
     "hi52": 762.86,
     "lo52": 555.6
@@ -2212,7 +2254,7 @@
       350.69
      ]
     },
-    "dayHigh": 352.28,
+    "dayHigh": 352.33,
     "dayLow": 344.78,
     "hi52": 355.38,
     "lo52": 243.42
@@ -2637,7 +2679,7 @@
       178.67
      ]
     },
-    "dayHigh": 179.91,
+    "dayHigh": 179.92,
     "dayLow": 170.24,
     "hi52": 243.37,
     "lo52": 164.27

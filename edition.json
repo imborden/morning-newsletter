@@ -1,6 +1,6 @@
 {
  "date": "2026-11-13",
- "updated_label": "AFTERNOON UPDATE \u00b7 1:07 PM PT",
+ "updated_label": "AFTERNOON UPDATE \u00b7 1:31 PM PT",
  "sections": [
   {
    "name": "Tech & AI",
@@ -270,10 +270,28 @@
      "take": "Van Hollen is challenging Schumer for Senate leader \u2014 voters 'have not yet hired Democrats,' he argues, and trust can't be earned with old leadership; Schumer says he has the votes \u2022 Lutnick fights for his job in the Huang fallout ahead of Dec 3 Senate Banking testimony, even as Commerce advances chip-shipment restrictions for seven countries \u2022 Ramp data: AI spending growth slowed to single digits \u2014 a price war, not falling demand; the top 1% of firms drive 80% of OpenAI and Anthropic revenue"
     },
     {
+     "title": "What's really at stake in the Jensen Huang saga",
+     "url": "https://podcasts.apple.com/us/podcast/whats-really-at-stake-in-the-jensen-huang-saga/id430333725?i=1000801705022&uo=4",
+     "source": "The Vergecast",
+     "take": "The answer: this is the beginning, not the end \u2014 at stake is whether up to 20% of Nvidia's chip revenue came from illegal China-linked sales via Megaspeed, whether the circular-financing house of cards holds, and whether the US enforces its export controls after a Rubio-overseen memo flagged Alice Huang as a spy and Lutnick stalled the Commerce probe \u2022 Huang owns only ~3% with no dual-class shares, so no Altman-style comeback; interim CEO Kress may be the long-term pick because Huang's real job was financial engineering \u2022 Also: every streamer now wants a vertical-video feed (Disney Plus's 'Verts'), the Ocarina of Time remake's huge opening days, and the DC Films shakeup after Gunn and Safran's early exit"
+    },
+    {
+     "title": "Anthropic\u2019s IPO Is Said to Be About Six Times Oversubscribed",
+     "url": "https://podcasts.apple.com/us/podcast/anthropics-ipo-is-said-to-be-about-six-times-oversubscribed/id326301337?i=1000801773831&uo=4",
+     "source": "Bloomberg Intelligence",
+     "take": "Anthropic's IPO is about 6x oversubscribed on day four of the roadshow \u2014 range $70\u201378, pricing Nov 18 \u2014 strong for a ~$1 trillion deal and ahead of SpaceX's pace; mainland China and Hong Kong institutions are barred from ordering \u2022 Nvidia's legal exposure, mapped: export-control penalties up to 2x the transaction value (theoretical double-digit billions) plus shareholder class actions that require proving knowing deception \u2022 Cisco is a growth company again \u2014 guidance raised ~$2.5B, AI outlook up to $9B, only 9% of customers on new gear in a $100B refresh cycle \u2022 BI analysts see no industrial logic in a reported SpaceX\u2013Tesla merger"
+    },
+    {
      "title": "Here\u2019s What It Will Really Take To Fix America\u2019s Economy \u2014 ft. Kathryn Anne Edwards",
      "url": "https://podcasts.apple.com/us/podcast/heres-what-it-will-really-take-to-fix-americas-economy/id1744631325?i=1000801696137&uo=4",
      "source": "Prof G Markets",
      "take": "Edwards' answer: stop producing inequality instead of taxing it afterward \u2014 invest in children and give workers power, as small wins every year over ~10 years \u2022 The specifics: cut the estate-tax exemption to $1M to fund a children's trust, sectoral bargaining and a higher minimum wage, end step-up basis and the mortgage deduction to fund below-market housing, lift the Social Security payroll cap \u2022 On the midterms: a 'blue nami' referendum on affordability and corruption \u2014 'They can't afford their life. That is the assignment.'"
+    },
+    {
+     "title": "Hasan Piker Has Joined the Party",
+     "url": "https://www.nytimes.com/2026/11/13/opinion/ezra-klein-podcast-hasan-piker.html",
+     "source": "The Ezra Klein Show",
+     "take": "Klein tests whether the left can hold the coalition: Piker argues 'vulgar Bernieism' won the war \u2014 every Democrat ran economics-first against billionaires, data centers and AI, while the party grew both its DSA left and its Blue Dog moderates \u2022 Piker's program: Medicare for All stays the North Star even if built in pieces, culture-war fights are distractions to refuse, and Chinese EVs stay tariffed to protect domestic manufacturing \u2022 The fault line is Israel: Klein presses Piker's Nazi and KKK comparisons and Piker doesn't climb down \u2014 he calls Oct 7 war crimes he never condoned, but argues the occupation made an explosion inevitable"
     },
     {
      "title": "Cybertruck Ending Production Next Year!",
@@ -286,7 +304,7 @@
  ],
  "markets": {
   "source": "Yahoo Finance",
-  "fetched_at": "2026-11-13T13:08:05.278167-08:00",
+  "fetched_at": "2026-11-13T13:31:18.024681-08:00",
   "dates": [
    "2025-11-14",
    "2025-11-17",
@@ -795,7 +813,7 @@
      369.55,
      374.25,
      372.62,
-     371.2
+     371.11
     ],
     "intraday": {
      "t": [
@@ -876,7 +894,8 @@
       "12:40 PM",
       "12:45 PM",
       "12:50 PM",
-      "12:55 PM"
+      "12:55 PM",
+      "1:00 PM"
      ],
      "c": [
       373.04,
@@ -956,7 +975,8 @@
       370.46,
       370.83,
       371.4,
-      371.2
+      371.19,
+      371.11
      ]
     },
     "dayHigh": 374.23,
@@ -1218,7 +1238,7 @@
      749.92,
      759.81,
      757.12,
-     754.21
+     754.37
     ],
     "intraday": {
      "t": [
@@ -1345,7 +1365,7 @@
       752.04,
       752.16,
       751.77,
-      751.03,
+      751.04,
       751.3,
       751.23,
       751.58,
@@ -1381,7 +1401,7 @@
       753.44,
       754.58,
       754.25,
-      754.21
+      754.37
      ]
     },
     "dayHigh": 760.12,
@@ -1789,11 +1809,11 @@
       679.56,
       680.01,
       679.23,
-      679.51,
+      679.53,
       679.01,
       678.43,
       678.24,
-      679.87,
+      679.85,
       679.57,
       679.53,
       679.79,

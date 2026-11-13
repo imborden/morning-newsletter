@@ -1,51 +1,51 @@
 {
- "date": "2026-11-12",
- "updated_label": "EVENING UPDATE \u00b7 8:27 PM PT",
+ "date": "2026-11-13",
+ "updated_label": "MORNING EDITION \u00b7 9:24 AM PT",
  "sections": [
   {
    "name": "Tech & AI",
    "stories": [
     {
-     "title": "Democrats launch Nvidia investigation, write scathing letter on Huang\u2019s \u2018scheme\u2019 with Trump",
-     "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+     "title": "Microsoft\u2019s global outage may be worse than Amazon's or CrowdStrike's, expert says",
+     "url": "https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/",
+     "source": "Ars Technica",
+     "take": "Microsoft blames failed server health checks, not hackers \u2014 and the scale may top the Amazon and CrowdStrike outages."
+    },
+    {
+     "title": "ChatGPT\u2019s new Wallet lets AI agents shop and check out for you",
+     "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
      "source": "TechCrunch",
-     "take": "Congress opens a second Nvidia investigation into China sales and the company's dealings with Trump \u2014 the Huang fallout is now a formal political fight."
+     "take": "OpenAI's agent wallet moves AI shopping from recommendations to actual checkout \u2014 the agent-commerce race just got real."
     },
     {
-     "title": "Jensen Huang and the end of the \u2018lol nothing matters\u2019 era of American politics",
-     "url": "https://www.platformer.news/jensen-huang-resigns-founder-cult-accountability/",
-     "source": "Platformer",
-     "take": "Platformer's read: the real Nvidia scandal is Silicon Valley's founder cult \u2014 one man's conduct became a national-security problem because no one could check him."
+     "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
+     "url": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/",
+     "source": "Ars Technica",
+     "take": "A publicly dropped Windows zero-day gives attackers System rights \u2014 patch vigilance matters until Microsoft ships a fix."
     },
     {
-     "title": "\u2018Bring Back THE Boss\u2019: Nvidia Employees Petition for Jensen Huang\u2019s Return",
-     "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
-     "source": "Wired",
-     "take": "Inside Nvidia, staff are petitioning to bring Huang back \u2014 1,600+ comments, mostly in support, even after the resignation."
-    },
-    {
-     "title": "Microsoft begins restoring services as global outage affects Outlook and Teams",
-     "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
-     "source": "Guardian US",
-     "take": "Microsoft is restoring Outlook and Teams after a global outage that drew nearly 130,000 user reports \u2014 the workday outage is winding down, not escalating."
-    },
-    {
-     "title": "Google\u2019s latest Search upgrade promises better answers to your most complicated questions",
-     "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
+     "title": "Uber confirms hackers stole thousands of drivers\u2019 license information in data breach",
+     "url": "https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
      "source": "TechCrunch",
-     "take": "Google's AI Mode, now on Gemini 4 Hydrogen, promises better answers to complex questions with richer visuals and more relevant links."
+     "take": "Uber confirms hackers took thousands of drivers' license details \u2014 another identity-theft exposure for gig workers."
+    },
+    {
+     "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+     "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+     "source": "MIT Tech Review",
+     "take": "Nvidia privately said chip tracking works to fight smuggling while the industry publicly doubted it \u2014 a gap Congress will notice."
     },
     {
      "title": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395",
      "url": "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/",
      "source": "Ars Technica",
-     "take": "Google's Gemini smartglasses with Samsung, Warby Parker and Gentle Monster start at $395 \u2014 and Google is leading with privacy to separate them from Meta's."
+     "take": "Google and Samsung's Gemini smartglasses start at $395, with privacy as the pitch after the Glass backlash."
     },
     {
      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
      "url": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
      "source": "Ars Technica",
-     "take": "The FAA is expanding AI congestion advice across all US airspace; airlines praise it, but the controllers' union wasn't involved."
+     "take": "The FAA is expanding AI advice for congestion across all US airspace \u2014 automation moves into the tower's workflow."
     }
    ]
   },
@@ -53,40 +53,40 @@
    "name": "Marketing",
    "stories": [
     {
-     "title": "Yahoo becomes first licensee of \u2018Spotify-like\u2019 collective AI content licensing model",
-     "url": "https://digiday.com/media/yahoo-becomes-first-licensee-of-spotify-like-collective-ai-content-licensing-model/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-     "source": "Digiday",
-     "take": "Yahoo is the first licensee of a collective, Spotify-like AI licensing model \u2014 publishers may finally have a standard way to get paid for AI search use."
-    },
-    {
-     "title": "Sociable: Meta\u2019s AI ads included unapproved discounts",
-     "url": "https://www.marketingdive.com/news/sociable-metas-ai-ads-included-unapproved-discounts/874525/",
-     "source": "Marketing Dive",
-     "take": "Meta's AI ad tools reportedly posted discount offers customers never approved, even with promotions off \u2014 a trust problem for automated ads."
-    },
-    {
-     "title": "How Unilever\u2019s social-first marketing is evolving amid reorganization",
-     "url": "https://www.marketingdive.com/news/how-unilevers-social-first-marketing-is-evolving-amid-reorganization/874457/",
-     "source": "Marketing Dive",
-     "take": "Unilever is reorganizing its social-first marketing around 'global strategy, local execution' \u2014 the model other big brands keep copying."
-    },
-    {
-     "title": "Oreo refreshes holiday creative with spin on Santa\u2019s milk and cookies",
-     "url": "https://www.marketingdive.com/news/oreo-refreshes-holiday-creative-with-spin-on-santas-milk-and-cookies/874493/",
-     "source": "Marketing Dive",
-     "take": "Oreo's first new holiday work in five years: Santa takes revenge on a dad who sneaks his cookies."
-    },
-    {
-     "title": "Why brands like Anthropologie are commissioning creator-created shows instead of posts",
-     "url": "https://digiday.com/marketing/why-brands-like-anthropologie-are-commissioning-creator-created-shows-instead-of-posts/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-     "source": "Digiday",
-     "take": "Brands like Anthropologie are commissioning whole creator-made shows instead of one-off posts \u2014 creators are becoming networks, not placements."
-    },
-    {
-     "title": "Week of Nov 2 Cable News Ratings: Midterm Elections Bring in Viewers",
-     "url": "https://www.adweek.com/tvnewser/week-of-nov-2-2026-cable-news-ratings-midterm-elections-bring-in-viewers/",
+     "title": "Target\u2019s New CMO Wants the Brand To Get Its Edge Back",
+     "url": "https://www.adweek.com/commerce/targets-new-cmo-wants-the-brand-to-get-its-edge-back/",
      "source": "Adweek",
-     "take": "Midterms lifted cable news: Fox News led total viewers for the week of Nov. 2, while CNN led the 25-54 demo."
+     "take": "Target's new CMO wants the brand's edge back \u2014 expect sharper creative after a soft stretch for the bullseye."
+    },
+    {
+     "title": "Twitch debuts shoppable, skippable ads as TwitchCon feels growing pains",
+     "url": "https://www.marketingdive.com/news/twitch-debuts-shoppable-skippable-ads-as-twitchcon-feels-growing-pains/874614/",
+     "source": "Marketing Dive",
+     "take": "Twitch rolls out shoppable, skippable ads \u2014 commerce moves inside the stream, not around it."
+    },
+    {
+     "title": "AI-derived audience insights hurt results: What the numbers say",
+     "url": "https://www.marketingdive.com/news/ai-derived-audience-insights-hurt-results-what-the-numbers-say/874565/",
+     "source": "Marketing Dive",
+     "take": "New numbers say AI-derived audience insights hurt results \u2014 a caution for teams swapping research for model output."
+    },
+    {
+     "title": "Mattel brings Barbie, Hot Wheels to TikTok Shop",
+     "url": "https://digiday.com/marketing/mattel-brings-barbie-hot-wheels-to-tiktok-shop/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+     "source": "Digiday",
+     "take": "Mattel puts Barbie and Hot Wheels on TikTok Shop \u2014 toy buying follows the scroll."
+    },
+    {
+     "title": "AI is turning ad tech into a fight for the brain behind the buy",
+     "url": "https://digiday.com/media-buying/ai-is-turning-ad-tech-into-a-fight-for-the-brain-behind-the-buy/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+     "source": "Digiday",
+     "take": "Ad tech's fight is now over who owns the AI brain behind the buy, not just the inventory."
+    },
+    {
+     "title": "Beyond Points and Perks: How Sephora Makes 46 Million Members Feel Known",
+     "url": "https://www.adweek.com/brand-marketing/beyond-points-and-perks-how-sephora-makes-46-million-members-feel-known/",
+     "source": "Adweek",
+     "take": "Sephora's loyalty play is personalization at 46-million-member scale \u2014 points are table stakes, recognition is the product."
     }
    ]
   },
@@ -97,37 +97,31 @@
      "title": "Cade authors NBA's first 50-point, 10-assist, 0-turnover game in 2OT thriller",
      "url": "https://www.espn.com/nba/story/_/id/50468039/cade-cunningham-ausar-thompson-power-pistons-wizards",
      "source": "ESPN NBA",
-     "take": "Cade Cunningham made history: 52 points, 11 assists, zero turnovers \u2014 the NBA's first 50-10-0 game \u2014 as Detroit outlasted Washington in double OT."
+     "take": "Cade Cunningham authored the NBA's first 50-point, 10-assist, zero-turnover game in a double-OT thriller \u2014 a historic line."
     },
     {
      "title": "Warriors' Curry out at least 2 weeks with oblique injury, could miss a month",
      "url": "https://www.espn.com/nba/story/_/id/50462899/warriors-stephen-curry-least-2-weeks-oblique-tear",
      "source": "ESPN NBA",
-     "take": "Curry is out at least two weeks with an oblique tear, and Golden State is bracing for closer to a month."
-    },
-    {
-     "title": "Rockets' Smart suspended 3 games for punch",
-     "url": "https://www.espn.com/nba/story/_/id/50465316/rockets-marcus-smart-suspended-three-games-punch",
-     "source": "ESPN NBA",
-     "take": "Settled: Marcus Smart gets three games without pay for punching Charles Bassey \u2014 the suspension landed Thursday."
-    },
-    {
-     "title": "Bulls rookie Wilson has successful surgery on fractured hand",
-     "url": "https://www.espn.com/nba/story/_/id/50464091/sources-bulls-wilson-surgery-hand-4-6-weeks",
-     "source": "ESPN NBA",
-     "take": "Bulls rookie Caleb Wilson had surgery on his fractured hand and is out 4-6 weeks \u2014 his Rookie of the Year push likely ends here."
-    },
-    {
-     "title": "Harden brushes off early-season criticism as throwback 32-point effort leads Cavs",
-     "url": "https://www.espn.com/nba/story/_/id/50458667/cavaliers-james-harden-ends-slow-start-season-high-32-points-beat-knicks",
-     "source": "ESPN NBA",
-     "take": "Harden shook off a slow start with a season-high 32 as Cleveland beat the Knicks 115-107; Brunson taking zero free throws drew Mike Brown's ire."
+     "take": "Curry is out at least two weeks with an oblique tear and could miss a month \u2014 Golden State's hot start gets tested."
     },
     {
      "title": "Reaves exits with heel injury as banged-up Lakers win 7th straight",
      "url": "https://www.espn.com/nba/story/_/id/50459249/reaves-exits-heel-injury-banged-lakers-win-again",
      "source": "ESPN NBA",
-     "take": "The Lakers won their seventh straight, but Austin Reaves exited with a heel injury \u2014 X-rays negative, further evaluation ahead."
+     "take": "The Lakers won their seventh straight, but Reaves exited with a heel injury \u2014 the win streak now runs on a thinner roster."
+    },
+    {
+     "title": "Harden brushes off early-season criticism as throwback 32-point effort leads Cavs",
+     "url": "https://www.espn.com/nba/story/_/id/50458667/cavaliers-james-harden-ends-slow-start-season-high-32-points-beat-knicks",
+     "source": "ESPN NBA",
+     "take": "Harden answered early criticism with a throwback 32-point night to lead the Cavs past the Knicks."
+    },
+    {
+     "title": "Rockets' Smart suspended 3 games for punch",
+     "url": "https://www.espn.com/nba/story/_/id/50465316/rockets-marcus-smart-suspended-three-games-punch",
+     "source": "ESPN NBA",
+     "take": "Marcus Smart draws a three-game suspension for punching Charles Bassey \u2014 Houston loses its edge-setter for a stretch."
     }
    ]
   },
@@ -135,40 +129,34 @@
    "name": "MLB",
    "stories": [
     {
-     "title": "Cubs superstar Pete Crow-Armstrong wins National League MVP unanimously, beating Shohei Ohtani",
-     "url": "https://www.cbssports.com/mlb/news/mlb-2026-national-league-mvp-pete-crow-armstrong-cubs/",
-     "source": "CBS Sports MLB",
-     "take": "Pete Crow-Armstrong is the unanimous NL MVP, beating Shohei Ohtani \u2014 a dominant third full season for the 24-year-old Cubs star."
+     "title": "Cubs' Crow-Armstrong, Astros' Alvarez sweep votes as unanimous MVP winners",
+     "url": "https://www.espn.com/mlb/story/_/id/50466186/cubs-pete-crow-armstrong-astros-yordan-alvarez-win-mvp-honors",
+     "source": "ESPN MLB",
+     "take": "Pete Crow-Armstrong and Yordan Alvarez are unanimous MVPs \u2014 Alvarez nearly won the Triple Crown, PCA beat Ohtani."
     },
     {
-     "title": "Astros slugger Yordan Alvarez named unanimous American League MVP after nearly winning 2026 Triple Crown",
-     "url": "https://www.cbssports.com/mlb/news/mlb-2026-american-league-mvp-yordan-alvarez-astros/",
-     "source": "CBS Sports MLB",
-     "take": "Yordan Alvarez is the unanimous AL MVP after nearly winning the Triple Crown \u2014 a full comeback from his injury-riddled 2025."
+     "title": "Brewers' Misiorowski, Yanks' Schlittler crowned unanimous Cy Young winners",
+     "url": "https://www.espn.com/mlb/story/_/id/50456772/brewers-misiorowski-yanks-schlittler-unanimous-cy-young-winners",
+     "source": "ESPN MLB",
+     "take": "Misiorowski and Schlittler are unanimous Cy Young winners \u2014 a clean sweep for the new power-pitching era."
     },
     {
      "title": "Braves bolster bullpen, reach 3-year, $35 million deal with Phillips",
      "url": "https://www.espn.com/mlb/story/_/id/50464197/braves-reliever-evan-phillips-agree-3-year-35m-deal",
      "source": "ESPN MLB",
-     "take": "Atlanta bolsters its bullpen with Evan Phillips from the Dodgers: three years, $35 million."
+     "take": "Atlanta locks reliever Evan Phillips for three years and $35 million \u2014 bullpen arms are getting paid early this winter."
     },
     {
      "title": "Former catcher Ausmus lands Astros manager job, 'can't wait to get to work'",
      "url": "https://www.espn.com/mlb/story/_/id/50453386/source-astros-hire-brad-ausmus-new-manager",
      "source": "ESPN MLB",
-     "take": "Houston hires franchise icon Brad Ausmus as manager \u2014 the former Astros catcher returns after a stint as Yankees bench coach."
+     "take": "Brad Ausmus takes the Astros manager job \u2014 Houston turns to a former catcher to steady the dugout."
     },
     {
-     "title": "Tarik Skubal free agency tracker: Latest on MLB's top free agent",
-     "url": "https://www.espn.com/mlb/story/_/id/50453514/tarik-skubal-free-agency-updates",
+     "title": "What we learned about all 30 teams at the MLB GM meetings",
+     "url": "https://www.espn.com/mlb/story/_/id/50461703/free-agency-offseason-2026-27-gm-meetings-lessons",
      "source": "ESPN MLB",
-     "take": "All eyes on Tarik Skubal: the two-time Cy Young winner is the winter's top free agent, and his market sets the offseason's pace."
-    },
-    {
-     "title": "MLB rumors: Phillies OF on the trading block, Blue Jays eye ex-Yankee, plus Mets, Mariners, Braves, Rays, more",
-     "url": "https://www.cbssports.com/mlb/news/mlb-rumors-mariners-ian-happ-mets-alec-bohm-twins-rays/",
-     "source": "CBS Sports MLB",
-     "take": "Hot stove, Nov. 12: Phillies outfielder on the block, Blue Jays eye a former Yankee, and the Mets, Mariners, Braves and Rays all feature."
+     "take": "The GM meetings set the winter's trade and free-agency map for all 30 teams \u2014 Skubal headlines the market."
     }
    ]
   },
@@ -176,46 +164,40 @@
    "name": "National",
    "stories": [
     {
-     "title": "Chris Van Hollen says he will challenge Chuck Schumer for Senate majority leader",
-     "url": "https://www.npr.org/2026/11/12/nx-s1-6039357/chris-van-hollen-chuck-schumer-senate-majority-leader",
-     "source": "NPR News",
-     "take": "Chris Van Hollen will challenge Chuck Schumer for Senate majority leader, saying midterm voters demanded change from the status quo."
-    },
-    {
-     "title": "New York building collapse kills 8, including 2 children",
-     "url": "https://www.pbs.org/newshour/show/new-york-building-collapse-kills-8-including-2-children",
+     "title": "Van Hollen to challenge Schumer for Senate Democratic leader",
+     "url": "https://www.pbs.org/newshour/politics/van-hollen-to-challenge-schumer-for-senate-democratic-leader",
      "source": "PBS NewsHour",
-     "take": "Brooklyn collapse, final toll: eight dead, including two children, and officials say rescue operations have ended with no more victims inside."
+     "take": "Chris Van Hollen will challenge Chuck Schumer for Senate Democratic leader \u2014 the party's ideological rift is now a leadership fight."
     },
     {
-     "title": "Police identify suspect and victim in Washington DC gym shooting that also injured four",
-     "url": "https://www.theguardian.com/us-news/2026/nov/12/dc-shooting-logan-circle",
+     "title": "Condo manager says DC gym shooter confessed in phone call, noting dispute over living conditions",
+     "url": "https://www.theguardian.com/us-news/2026/nov/13/washington-dc-gym-shooter-confession",
      "source": "Guardian US",
-     "take": "Police identified the Logan Circle gym shooting suspect and victim; four were injured and the gunman died of a self-inflicted wound."
-    },
-    {
-     "title": "How Scott Colom won his longshot bid to flip Mississippi's Senate seat",
-     "url": "https://www.pbs.org/newshour/show/how-scott-colom-won-his-longshot-bid-to-flip-mississippis-senate-seat",
-     "source": "PBS NewsHour",
-     "take": "How Scott Colom pulled the longshot: a Democrat flipping Mississippi's Senate seat, the state's first Black senator since Reconstruction."
-    },
-    {
-     "title": "Cindy Holscher wins in Kansas, holding governor's office for Democrats",
-     "url": "https://www.npr.org/2026/11/12/g-s1-151239/kansas-governor-midterms-holscher-masterson",
-     "source": "NPR News",
-     "take": "Cindy Holscher holds Kansas's governor's office for Democrats, beating a Trump-endorsed Republican in a state the GOP swept elsewhere."
+     "take": "The DC gym shooter reportedly confessed by phone, angry over living conditions \u2014 one dead and at least five injured near Logan Circle."
     },
     {
      "title": "Senators probe RFK Jr.'s reason for Samoa trip after letter refuting his testimony published",
      "url": "https://www.pbs.org/newshour/politics/senators-probe-rfk-jr-s-reason-for-samoa-trip-after-letter-refuting-his-testimony-published",
      "source": "PBS NewsHour",
-     "take": "Two senators are investigating whether RFK Jr. misled Congress about his 2019 Samoa trip after a published letter contradicted his testimony."
+     "take": "Senators are probing RFK Jr.'s Samoa trip after a letter contradicted his testimony \u2014 scrutiny of the health secretary sharpens."
     },
     {
-     "title": "Putin takes hard line in US talks as Ukraine says Starlink disrupted again",
-     "url": "https://www.theguardian.com/world/2026/nov/12/vladimir-putin-russia-target-foreign-troops-ukraine-elon-musk-starlink",
+     "title": "Ukraine fires nearly 1,200 drones at Russia as U.S.-led talks consider wider European security",
+     "url": "https://www.pbs.org/newshour/world/ukraine-fires-nearly-1200-drones-at-russia-as-u-s-led-talks-consider-wider-european-security",
+     "source": "PBS NewsHour",
+     "take": "Ukraine fired nearly 1,200 drones at Russia as US-led talks weigh wider European security \u2014 escalation and diplomacy at once."
+    },
+    {
+     "title": "New York building collapse kills 8, including 2 children",
+     "url": "https://www.pbs.org/newshour/show/new-york-building-collapse-kills-8-including-2-children",
+     "source": "PBS NewsHour",
+     "take": "A Brooklyn building collapse killed eight people, including two children \u2014 a community is asking who will be held accountable."
+    },
+    {
+     "title": "Trump says no deal needed on Iran war and orders Vance to focus on domestic issues",
+     "url": "https://www.theguardian.com/us-news/2026/nov/12/trump-jd-vance-iran-war",
      "source": "Guardian US",
-     "take": "Putin takes a hard line in US talks, warning Russia would target any foreign troops in Ukraine and refusing to soften territorial demands."
+     "take": "Trump says no deal is needed on the Iran war and tells Vance to focus domestically \u2014 the war's endgame stays undefined."
     }
    ]
   },
@@ -223,88 +205,41 @@
    "name": "California",
    "stories": [
     {
-     "title": "Newsom names Nancy Pelosi, Barry Bonds, Robin Williams to California Hall of Fame",
-     "url": "https://www.latimes.com/california/story/2026-11-12/newsom-california-hall-of-fame-class",
+     "title": "Rain, dangerous surf and snow could hit Southern California. Here's where and when storms are expected",
+     "url": "https://www.latimes.com/california/story/2026-11-13/storm-series-brings-rain-dangerous-surf-snow-to-southern-california-heres-where-when",
      "source": "LA Times California",
-     "take": "Newsom names Nancy Pelosi, Barry Bonds and Robin Williams among 18 new California Hall of Fame honorees."
+     "take": "A storm series brings rain, dangerous surf and snow to Southern California \u2014 check timing before weekend plans."
     },
     {
-     "title": "Notorious Graffiti Towers wiped clean in downtown Los Angeles",
-     "url": "https://www.latimes.com/business/story/2026-11-12/notorious-graffiti-towers-wiped-clean-in-downtown-los-angeles",
-     "source": "LA Times California",
-     "take": "Downtown LA's Graffiti Towers are wiped clean \u2014 the Oceanwide Plaza eyesore, painted up to 54 stories, is gone before the 2028 spotlight."
+     "title": "A super El Ni\u00f1o brings startling changes for marine life on California coast: \u2018like nothing we\u2019ve ever seen\u2019",
+     "url": "https://www.theguardian.com/environment/2026/nov/13/super-el-nino-california-monterey-bay",
+     "source": "Guardian US",
+     "take": "A super El Ni\u00f1o is reshaping marine life off Monterey in ways researchers say they have never seen."
     },
     {
-     "title": "Bass says her election defeat was part of a national wave, with voters demanding change",
-     "url": "https://www.latimes.com/california/story/2026-11-12/bass-says-her-election-defeat-was-part-of-national-wave-with-voters-demanding-change",
-     "source": "LA Times California",
-     "take": "Karen Bass calls her defeat part of a national change wave: voters 'just want everything new' every five or six years."
+     "title": "California governor Gavin Newsom endorses global fossil fuel phaseout",
+     "url": "https://www.theguardian.com/environment/2026/nov/13/california-gavin-newsom-endorses-fossil-fuel-phaseout",
+     "source": "Guardian US",
+     "take": "Newsom endorsed a global fossil fuel phaseout \u2014 California stakes a climate position well beyond its borders."
     },
     {
-     "title": "Troubled LAX people mover drops further into junk bond status as key deadline nears",
-     "url": "https://www.latimes.com/california/story/2026-11-12/junk-bond-ratings-on-troubled-lax-people-mover-drop-again-as-key-deadline-nears",
-     "source": "LA Times California",
-     "take": "The troubled LAX people mover sinks deeper into junk as Fitch downgrades it again with a key deadline approaching."
-    },
-    {
-     "title": "These part-time professors make big money teaching dozens of classes online. Are their students learning?",
-     "url": "https://calmatters.org/education/2026/11/community-college-professors-pay/",
+     "title": "California voters overhaul recall elections, pass Democratic-backed Prop. 5",
+     "url": "https://calmatters.org/politics/2026/11/california-election-2026-prop-5-wins/",
      "source": "CalMatters",
-     "take": "Some part-time community college professors teach dozens of online classes across campuses and clear $400K \u2014 with no cap on course loads, students may be shortchanged."
+     "take": "Voters passed Prop. 5 and overhauled recall elections \u2014 California's direct-democracy rules just changed."
     },
     {
-     "title": "Bring out your umbrellas. Cooling temperatures and scattered showers start Thursday night",
-     "url": "https://www.latimes.com/california/story/2026-11-12/bring-out-your-umbrellas-cooling-temperatures-scattered-showers-start-thursday-night",
+     "title": "Popular California beach closed amid E. coli outbreak",
+     "url": "https://www.latimes.com/california/story/2026-11-12/santa-cruz-countys-capitola-beach-closed-as-9-children-get-e-coli",
      "source": "LA Times California",
-     "take": "Umbrellas out: SoCal cools about 10 degrees with scattered showers starting Thursday night into the weekend."
-    }
-   ]
-  },
-  {
-   "name": "\ud83c\udf99\ufe0f Podcasts",
-   "stories": [
-    {
-     "title": "CalFresh fraud, El Ni\u00f1o costal flooding concerns, Center for disaster prep \u2014 Evening Edition",
-     "url": "https://podcasts.apple.com/us/podcast/the-la-report/id1508035189?uo=4",
-     "source": "The LA Report",
-     "take": "Eight LA County residents charged with taking $177K+ in CalFresh/CalWORKs benefits by lying about income; DA's office has filed 340 such fraud cases this year, $4M+ in losses \u2022 El Ni\u00f1o marine heat wave has ocean temps Sonoma-to-Ensenada 10\u00b0 above average \u2014 unprecedented \u2014 with king tides later this month a half-foot to a foot higher, raising coastal flood risk \u2022 Caltech's new Center for Disaster Resilience, led by Lucy Jones, will get credible quake/fire/flood info to the public in a disaster \u2022 Space Shuttle Endeavour's new home, the 200,000-sq-ft Samuel Oschin Air and Space Center, opens Friday \u2014 free admission"
-    },
-    {
-     "title": "Jensen Huang Is Out at Nvidia",
-     "url": "https://podcasts.apple.com/us/podcast/jensen-huang-is-out-at-nvidia/id1528594034?i=1000801627279&uo=4",
-     "source": "Hard Fork",
-     "take": "The reporters who broke the story reconstruct the fall: a second affair, with Nvidia healthcare VP Kimberly Powell, forced the board's hand Wednesday night; Huang isn't even quoted in Nvidia's resignation statement \u2022 Succession is near-impossible \u2014 Huang never groomed one and had ~60 direct reports; interim CEO Colette Kress is a finance hand, and chip CEOs must be world-class computer scientists \u2022 Washington's tide turned after the midterms: hearings, chip bills and a DOJ criminal probe into Megaspeed are ahead, while AMD and Broadcom circle \u2022 Bottom line from the panel: frontier-lab demand, not the chip drama, decides whether the AI boom survives"
-    },
-    {
-     "title": "Nvidia was AI's linchpin. Now what?",
-     "url": "https://podcasts.apple.com/us/podcast/nvidia-was-ais-linchpin-now-what/id201853034?i=1000801612033&uo=4",
-     "source": "Marketplace",
-     "take": "The answer: nothing structural yet \u2014 Nvidia stays at the center of AI compute and of the circular financing web (stakes in OpenAI, xAI, Anthropic; a VC arm funding chip buyers), closing just under $4 trillion with shares off ~5%; what's missing is Huang as the industry's salesman-in-chief \u2022 Silicon Valley's vibe 'feels like an earthquake'; even the Denny's booth where Nvidia was hatched is updating its valuation plaque downward \u2022 Tariffs keep feeding inflation as suppliers pass costs through, and Bloomberg's new private CPI tracker reads October at ~4.6% year over year, hotter than BLS \u2022 JetBlue's first-class bet shows where airline money is: premium cabins in a K-shaped economy"
-    },
-    {
-     "title": "Jensen Huang, a Leader of the Global AI Boom, Is Out as Nvidia CEO",
-     "url": "https://www.wsj.com/podcasts/whats-news",
-     "source": "WSJ What's News",
-     "take": "The board moved after the second affair \u2014 one with a suspected Chinese spy, one with an employee \u2014 fearing a pattern; CFO Colette Kress is interim CEO and the search is on \u2022 Nvidia fell 14% at the open but closed down only 4.3% at a $4 trillion market cap; analysts question the circular AI financing Huang championed \u2022 Tuesday's earnings call is the test: Kress's steering and any change to the big financing deals matter more than the already-done quarter's numbers \u2022 Also: home sales hit a 16-year low with mortgages over 7%, and Trump reversed course, saying the US doesn't need an Iran deal"
-    },
-    {
-     "title": "How Democrats overperformed in the South",
-     "url": "https://podcasts.apple.com/us/podcast/how-democrats-overperformed-in-the-south/id1057255460?i=1000801582916&uo=4",
-     "source": "NPR Politics Podcast",
-     "take": "The answer: Black voters turned out at near-presidential levels while Republicans stayed home \u2014 Scott Colom outpolled Kamala Harris's Mississippi total by ~7,000 and won by 5,000+, while Hyde-Smith drew 120,000 fewer votes than Trump in his top 10 Mississippi counties; six Southern states swung left 22 points on average vs. 15 nationally \u2022 Democrats flipped Senate seats in Mississippi, North Carolina, South Carolina and Texas, powered by anger over the Supreme Court gutting the Voting Rights Act and redistricting that diluted Black voting power \u2022 The panel's biggest surprises: North Carolina's collapse (Cooper would have won with zero Election Day votes), Texas, and South Carolina called as polls closed \u2022 Open question: six-year terms are locked in, but holding these states in a presidential year is another matter"
-    },
-    {
-     "title": "LB Naples Christmas boat parade canceled,  Wet weather in SoCal, Artist Lita Albuquerque work coming to the High Desert\u2014 Afternoon Edition",
-     "url": "https://podcasts.apple.com/us/podcast/lb-naples-christmas-boat-parade-canceled-wet-weather/id1508035189?i=1000801581778&uo=4",
-     "source": "The LA Report",
-     "take": "Long Beach's Naples Christmas boat parade and light contest are canceled this year \u2014 crumbling seawalls plus record El Ni\u00f1o high tides; neighbors call the handling reactive, though decorated houses will still draw crowds \u2022 SoCal cools down: mid-60s to low 70s this weekend, light rain, and a possible mountain snow dusting Monday with snow levels near 5,000 feet \u2022 Lita Albuquerque's The Interval Between Things \u2014 a 274-foot line of blue pigment in the desert \u2014 opens Saturday at High Desert Test Sites near Joshua Tree"
+     "take": "Capitola Beach is closed after nine children got E. coli \u2014 a popular Santa Cruz County beach is off-limits for now."
     }
    ]
   }
  ],
  "markets": {
   "source": "Yahoo Finance",
-  "fetched_at": "2026-11-12T20:28:01.703237-08:00",
+  "fetched_at": "2026-11-13T09:24:40.927278-08:00",
   "dates": [
    "2025-11-13",
    "2025-11-14",
@@ -894,8 +829,7 @@
       "12:40 PM",
       "12:45 PM",
       "12:50 PM",
-      "12:55 PM",
-      "1:00 PM"
+      "12:55 PM"
      ],
      "c": [
       372.11,
@@ -975,8 +909,7 @@
       372.53,
       372.61,
       372.44,
-      372.58,
-      372.62
+      372.58
      ]
     },
     "dayHigh": 375.67,
@@ -1319,8 +1252,7 @@
       "12:40 PM",
       "12:45 PM",
       "12:50 PM",
-      "12:55 PM",
-      "1:00 PM"
+      "12:55 PM"
      ],
      "c": [
       755.35,
@@ -1400,8 +1332,7 @@
       756.9,
       757.0,
       756.75,
-      757.2,
-      757.12
+      757.2
      ]
     },
     "dayHigh": 763.04,
@@ -1744,8 +1675,7 @@
       "12:40 PM",
       "12:45 PM",
       "12:50 PM",
-      "12:55 PM",
-      "1:00 PM"
+      "12:55 PM"
      ],
      "c": [
       683.7,
@@ -1825,8 +1755,7 @@
       687.1,
       687.7,
       687.81,
-      688.21,
-      688.17
+      688.21
      ]
     },
     "dayHigh": 694.56,
@@ -2169,8 +2098,7 @@
       "12:40 PM",
       "12:45 PM",
       "12:50 PM",
-      "12:55 PM",
-      "1:00 PM"
+      "12:55 PM"
      ],
      "c": [
       357.47,
@@ -2250,8 +2178,7 @@
       355.21,
       355.23,
       354.92,
-      354.89,
-      354.88
+      354.89
      ]
     },
     "dayHigh": 359.37,
@@ -2594,8 +2521,7 @@
       "12:40 PM",
       "12:45 PM",
       "12:50 PM",
-      "12:55 PM",
-      "1:00 PM"
+      "12:55 PM"
      ],
      "c": [
       156.26,
@@ -2675,8 +2601,7 @@
       164.35,
       164.87,
       165.45,
-      166.04,
-      166.19
+      166.04
      ]
     },
     "dayHigh": 167.14,

@@ -1,57 +1,57 @@
 {
  "date": "2026-11-14",
- "updated_label": "MORNING EDITION \u00b7 9:04 AM PT",
+ "updated_label": "AFTERNOON UPDATE \u00b7 1:03 PM PT",
  "sections": [
   {
    "name": "Tech & AI",
    "stories": [
     {
+     "title": "Tesla opens Cybercab pre-orders \u2018for personal use,\u2019 with geo restrictions and a $299 monthly fee",
+     "url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
+     "source": "TechCrunch",
+     "take": "Tesla's robotaxi is now a subscription you can pre-order \u2014 geo limits and $299 a month show how personal the rollout still isn't."
+    },
+    {
      "title": "Asian governments react to Nvidia CEO Jensen Huang\u2019s exit",
      "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
      "source": "TechCrunch",
-     "take": "Asian governments are scrambling to lock in chip supply after Jensen Huang's exit \u2014 some confirming commitments, others watching local projects and investigations."
-    },
-    {
-     "title": "Export-banned Nvidia chips are behind China\u2019s most powerful AI models \u2014 uh-oh, Jensen!",
-     "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-     "source": "TechCrunch",
-     "take": "China's most powerful AI models were reportedly built on banned Nvidia chips \u2014 the export-control story at the center of Huang's fall."
+     "take": "Governments that courted Nvidia are scrambling \u2014 Huang's exit is now a diplomatic problem, not just a chip story."
     },
     {
      "title": "Jensen Huang\u2019s departure blasts big hole in AI startup funding, VCs and founders say",
      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
      "source": "TechCrunch",
-     "take": "VCs and founders say Huang's departure blows a hole in AI startup funding \u2014 Nvidia's checkbook was a pillar of the ecosystem."
+     "take": "Founders and VCs say the funding hole is real: Huang personally anchored deals that no successor inherits automatically."
     },
     {
-     "title": "Microsoft\u2019s global outage may be worse than Amazon's or CrowdStrike's, expert says",
-     "url": "https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/",
-     "source": "Ars Technica",
-     "take": "Experts say Microsoft's global outage may top Amazon's and CrowdStrike's in impact \u2014 Outlook, Teams and Copilot went down across 70-plus countries."
-    },
-    {
-     "title": "ChatGPT\u2019s new Wallet lets AI agents shop and check out for you",
-     "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+     "title": "The AI graveyard: a running list of projects and startups that didn\u2019t make it",
+     "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
      "source": "TechCrunch",
-     "take": "ChatGPT's new Wallet lets AI agents shop and check out for you \u2014 agentic commerce moves from demo to product."
+     "take": "TechCrunch's running graveyard is the useful counterweight to the hype \u2014 a lot of AI products are quietly dying."
     },
     {
-     "title": "AI agent startup LangChain hits $3B valuation",
-     "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-     "source": "TechCrunch",
-     "take": "LangChain hit a $3B valuation \u2014 agent infrastructure is still commanding huge prices even as the Nvidia shock ripples through AI."
+     "title": "Beware the New AI-Fueled Ransomware Boom",
+     "url": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
+     "source": "Wired",
+     "take": "AI is lowering the cost of ransomware attacks \u2014 Wired warns the boom is already here, not coming."
     },
     {
-     "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
-     "url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
-     "source": "Ars Technica",
-     "take": "An OpenAI board member warns an AI 'takeover' of society could be months away \u2014 a stark claim that lands in Decoder's interview today too."
+     "title": "Microsoft says services fully restored after global outage hits governments",
+     "url": "https://www.theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage",
+     "source": "Guardian US",
+     "take": "Microsoft says the global outage is fully restored \u2014 the follow-up replaces this morning's still-broken angle."
     },
     {
      "title": "Starship flight 15 powers to orbit\u2014setting up a possible catch on Saturday",
      "url": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
      "source": "Ars Technica",
-     "take": "Starship flight 15 powered to orbit, setting up a possible catch on Saturday \u2014 SpaceX keeps the test cadence relentless."
+     "take": "Starship reached orbit and set up a possible catch today \u2014 SpaceX's test cadence keeps moving."
+    },
+    {
+     "title": "James Webb telescope finds ice older than the star it orbits",
+     "url": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/",
+     "source": "Ars Technica",
+     "take": "Webb found ice that predates its own star \u2014 a neat reminder the telescope still delivers pure-science wins."
     }
    ]
   },
@@ -59,46 +59,52 @@
    "name": "Marketing",
    "stories": [
     {
-     "title": "Target\u2019s New CMO Wants the Brand To Get Its Edge Back",
-     "url": "https://www.adweek.com/commerce/targets-new-cmo-wants-the-brand-to-get-its-edge-back/",
+     "title": "Beyond Points and Perks: How Sephora Makes 46 Million Members Feel Known",
+     "url": "https://www.adweek.com/brand-marketing/beyond-points-and-perks-how-sephora-makes-46-million-members-feel-known/",
      "source": "Adweek",
-     "take": "Target's new CMO wants the brand's edge back \u2014 a reset brief for a retailer that lost its cultural sharpness."
-    },
-    {
-     "title": "AI is turning ad tech into a fight for the brain behind the buy",
-     "url": "https://digiday.com/media-buying/ai-is-turning-ad-tech-into-a-fight-for-the-brain-behind-the-buy/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-     "source": "Digiday",
-     "take": "AI is turning ad tech into a fight for the brain behind the buy \u2014 platforms are racing to own the decisioning layer."
-    },
-    {
-     "title": "Mattel brings Barbie, Hot Wheels to TikTok Shop",
-     "url": "https://digiday.com/marketing/mattel-brings-barbie-hot-wheels-to-tiktok-shop/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-     "source": "Digiday",
-     "take": "Mattel is putting Barbie and Hot Wheels on TikTok Shop \u2014 toy marketing keeps moving to social commerce."
+     "take": "Sephora's loyalty play is personalization at 46-million-member scale, not points \u2014 the model other retailers keep chasing."
     },
     {
      "title": "\u2018We\u2019re not trying to be TwitchTok\u2019: Twitch adds new short-form video feature",
      "url": "https://digiday.com/media/were-not-trying-to-be-twitchtok-twitch-adds-new-short-form-video-feature/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
      "source": "Digiday",
-     "take": "Twitch insists its new short-form feature isn't 'TwitchTok' \u2014 but every platform is now chasing the same feed."
+     "take": "Twitch wants short-form discovery without becoming TikTok \u2014 a careful line every platform is now trying to walk."
+    },
+    {
+     "title": "Twitch debuts shoppable, skippable ads as TwitchCon feels growing pains",
+     "url": "https://www.marketingdive.com/news/twitch-debuts-shoppable-skippable-ads-as-twitchcon-feels-growing-pains/874614/",
+     "source": "Marketing Dive",
+     "take": "Twitch is also selling shoppable, skippable ads \u2014 commerce is creeping into the stream, not just around it."
     },
     {
      "title": "Election Advertising Drove 10% of Viewers to Seek Ad-Free Options",
      "url": "https://www.adweek.com/convergent-tv/election-advertising-drove-10-of-viewers-to-seek-ad-free-options/",
      "source": "Adweek",
-     "take": "Election advertising drove 10% of viewers to seek ad-free options \u2014 political ad saturation has a measurable churn cost."
+     "take": "Election ad saturation pushed 1 in 10 viewers toward ad-free tiers \u2014 political spend has a subscription side effect."
+    },
+    {
+     "title": "Lyft Is Testing a Prominent New Ad Placement",
+     "url": "https://www.adweek.com/commerce/lyft-is-testing-a-prominent-new-ad-placement/",
+     "source": "Adweek",
+     "take": "Lyft is testing a more prominent in-app ad slot \u2014 rideshare media keeps hunting for inventory riders can't ignore."
     },
     {
      "title": "How AdHoc made Dispatch feel like an animated TV series",
      "url": "https://www.creativebloq.com/features/how-adhoc-made-dispatch-feel-like-an-animated-tv-series",
      "source": "Creative Bloq",
-     "take": "How AdHoc made Dispatch feel like an animated TV series \u2014 a craft look at episodic game storytelling."
+     "take": "Dispatch works because AdHoc built a game like a TV show \u2014 pacing and episodes first, mechanics in service of story."
     },
     {
-     "title": "Beyond Points and Perks: How Sephora Makes 46 Million Members Feel Known",
-     "url": "https://www.adweek.com/brand-marketing/beyond-points-and-perks-how-sephora-makes-46-million-members-feel-known/",
-     "source": "Adweek",
-     "take": "Sephora's loyalty playbook: making 46 million members feel known, beyond points and perks."
+     "title": "The Gatto trailer is dividing opinion over Pixar's new painterly style",
+     "url": "https://www.creativebloq.com/news/the-gatto-trailer-is-dividing-opinion-over-pixars-new-painterly-style",
+     "source": "Creative Bloq",
+     "take": "Pixar's painterly Gatto look splits opinion \u2014 a real style swing after years of polished sameness."
+    },
+    {
+     "title": "A simple logo redesign has become Australia's latest culture war \u2013 why that's bad news for designers",
+     "url": "https://www.creativebloq.com/news/sydneys-logo-controversy-shows-how-politics-can-get-in-the-way-of-good-design",
+     "source": "Creative Bloq",
+     "take": "A logo redesign turned into a culture war in Australia \u2014 Creative Bloq says designers lose when identity work becomes a proxy fight."
     }
    ]
   },
@@ -109,37 +115,37 @@
      "title": "Wemby, Spurs land early KO with 18-0 run, rout Warriors for 11th straight win",
      "url": "https://www.espn.com/nba/story/_/id/50478136/victor-wembanyama-spurs-rout-warriors-11th-straight-win",
      "source": "ESPN NBA",
-     "take": "Wemby and the Spurs landed an early KO with an 18-0 run, routing the Warriors for their 11th straight win."
+     "take": "An 18-0 opening run buried Golden State \u2014 San Antonio's 11th straight win looks less like a streak, more like a level."
     },
     {
      "title": "Giannis, Bam combine for 74 as Heat flex potential as East contenders",
      "url": "https://www.espn.com/nba/story/_/id/50477867/giannis-antetokounmpo-bam-adebayo-shine-heat-take-cavs",
      "source": "ESPN NBA",
-     "take": "Giannis and Bam combined for 74 as the Heat flexed their potential as East contenders."
+     "take": "Giannis and Bam combined for 74 \u2014 Miami's ceiling case in one box score."
     },
     {
      "title": "Redick says Lakers' Reaves day-to-day with left heel bruise",
      "url": "https://www.espn.com/nba/story/_/id/50475090/lakers-austin-reaves-day-day-left-heel-bruise",
      "source": "ESPN NBA",
-     "take": "JJ Redick says Austin Reaves is day-to-day with a left heel bruise \u2014 Lakers fans can exhale, for now."
+     "take": "Reaves is day-to-day with a left heel bruise \u2014 Redick's wording keeps this minor, for now."
     },
     {
      "title": "Murray wants trade from Pelicans; both sides working on resolution",
      "url": "https://www.espn.com/nba/story/_/id/50473732/sources-dejounte-murray-wants-trade-pelicans",
      "source": "ESPN NBA",
-     "take": "Dejounte Murray wants out of New Orleans, and both sides are working on a resolution after his venting posts."
+     "take": "Dejounte Murray wants out and New Orleans is working on it \u2014 this one ends in a trade, not a repair."
     },
     {
      "title": "Knicks' Hart 'not in a good headspace' after scoreless night, benching",
      "url": "https://www.espn.com/nba/story/_/id/50480516/josh-hart-seeking-answers-zero-points-knicks-loss",
      "source": "ESPN NBA",
-     "take": "Josh Hart admitted he's 'not in a good headspace' after a scoreless night and a benching \u2014 a rough patch for the Knicks' glue guy."
+     "take": "Hart went scoreless, got benched, and said he's not in a good headspace \u2014 New York has a rotation and a morale issue."
     },
     {
      "title": "Yaxel Lendeborg, Warriors get a taste of life without Stephen Curry: 'It felt helpless out there'",
      "url": "https://www.cbssports.com/nba/news/yaxel-lendeborg-warriors-spurs-life-without-stephen-curry/",
      "source": "CBS Sports NBA",
-     "take": "Life without Steph Curry was bleak for the Warriors \u2014 Lendeborg went 1-for-13 in a blowout loss to San Antonio."
+     "take": "Life without Curry felt 'helpless' \u2014 Lendeborg's 1-for-13 night showed how thin Golden State's margin is."
     }
    ]
   },
@@ -147,34 +153,40 @@
    "name": "MLB",
    "stories": [
     {
+     "title": "What's next for Red Sox after Jake Bauers deal? Plus more intel from the MLB GM Meetings",
+     "url": "https://www.cbssports.com/mlb/news/whats-next-for-red-sox-jake-bauers-mlb-gm-meetings/",
+     "source": "CBS Sports MLB",
+     "take": "The Bauers deal is done; the GM Meetings intel is about what Boston does next \u2014 that's the afternoon update."
+    },
+    {
+     "title": "MLB rumors: Blue Jays targeting Ketel Marte, Giants rejecting trade calls for ace Logan Webb",
+     "url": "https://www.cbssports.com/mlb/news/mlb-rumors-free-agency-giants-logan-webb-kaima-taira-braves-tigers-cardinals-blue-jays/",
+     "source": "CBS Sports MLB",
+     "take": "Toronto eyes Ketel Marte while San Francisco shuts down Logan Webb calls \u2014 one ace is available in rumors, the other isn't."
+    },
+    {
      "title": "Cubs' Crow-Armstrong, Astros' Alvarez sweep votes as unanimous MVP winners",
      "url": "https://www.espn.com/mlb/story/_/id/50466186/cubs-pete-crow-armstrong-astros-yordan-alvarez-win-mvp-honors",
      "source": "ESPN MLB",
-     "take": "Pete Crow-Armstrong and Yordan Alvarez swept the votes as unanimous MVP winners."
+     "take": "Unanimous MVPs on both sides: Crow-Armstrong and Alvarez left no debate in the voting."
     },
     {
      "title": "Brewers' Misiorowski, Yanks' Schlittler crowned unanimous Cy Young winners",
      "url": "https://www.espn.com/mlb/story/_/id/50456772/brewers-misiorowski-yanks-schlittler-unanimous-cy-young-winners",
      "source": "ESPN MLB",
-     "take": "Jacob Misiorowski and Cam Schlittler were crowned unanimous Cy Young winners \u2014 a clean sweep for young arms."
+     "take": "Misiorowski and Schlittler were unanimous Cy Young picks too \u2014 awards week belonged to clear winners."
     },
     {
      "title": "Sources: Bauers parlays career season into 4-year, $58M contract with Red Sox",
      "url": "https://www.espn.com/mlb/story/_/id/50473029/sources-jake-bauers-red-sox-agree-4-year-58m-deal",
      "source": "ESPN MLB",
-     "take": "Jake Bauers parlayed a career season into a 4-year, $58M deal with the Red Sox \u2014 the winter's first big move."
+     "take": "Bauers turned a career year into 4 years and $58M from Boston \u2014 the deal underneath today's follow-up."
     },
     {
-     "title": "MLB rumors: Giants declining calls on Logan Webb, three contenders eyeing Japanese ace Kaima Taira",
-     "url": "https://www.cbssports.com/mlb/news/mlb-rumors-free-agency-giants-logan-webb-kaima-taira-braves-tigers-cardinals-blue-jays/",
-     "source": "CBS Sports MLB",
-     "take": "The Giants are declining calls on Logan Webb, while three contenders eye Japanese ace Kaima Taira \u2014 hot stove season is open."
-    },
-    {
-     "title": "Blue Jays\u2019 Anthony Santander apologizes for sharing anti-Muslim social media posts",
-     "url": "https://www.theguardian.com/sport/2026/nov/14/anthony-santander-blue-jays-anti-muslim-posts-apology",
-     "source": "Guardian US",
-     "take": "Anthony Santander apologized for sharing anti-Muslim posts, saying the content caused hurt."
+     "title": "Blue Jays' Santander apologizes for sharing anti-Muslim posts",
+     "url": "https://www.espn.com/mlb/story/_/id/50474604/blue-jays-anthony-santander-apologizes-anti-muslim-posts",
+     "source": "ESPN MLB",
+     "take": "Santander apologized for sharing anti-Muslim posts \u2014 Toronto is left managing the fallout, not just the statement."
     }
    ]
   },
@@ -182,52 +194,52 @@
    "name": "National",
    "stories": [
     {
-     "title": "FAA has lifted its third-ever nationwide ground stop",
-     "url": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/",
-     "source": "Ars Technica",
-     "take": "The FAA lifted its third-ever nationwide ground stop \u2014 air travel is recovering, but thousands of cancellations will take days to unwind."
-    },
-    {
-     "title": "Thousands of flights canceled as airlines work to recover from nationwide ground stop",
-     "url": "https://www.pbs.org/newshour/nation/thousands-of-flights-canceled-as-airlines-work-to-recover-from-nationwide-ground-stop",
-     "source": "PBS NewsHour",
-     "take": "Thousands of flights were canceled as airlines worked to recover from the ground stop \u2014 check your weekend itinerary twice."
-    },
-    {
-     "title": "FAA blames Friday's ground stop on 'equipment issue' during telecoms network upgrade",
-     "url": "https://www.npr.org/2026/11/14/nx-s1-6040952/faa-ground-stop-airplane-travel",
-     "source": "NPR News",
-     "take": "The FAA blames Friday's ground stop on an 'equipment issue' during a telecoms network upgrade."
-    },
-    {
-     "title": "Progressive versus moderate? Democrats deny party rift as they head into new Congress",
-     "url": "https://www.theguardian.com/us-news/2026/nov/14/democrats-moderate-progressive-congress",
+     "title": "US officials say flight stoppage stemmed from \u2018routine maintenance\u2019 as travel chaos continues",
+     "url": "https://www.theguardian.com/world/2026/nov/14/faa-ground-stop-flights-resume-airport-chaos",
      "source": "Guardian US",
-     "take": "Progressive vs. moderate? Democrats deny a party rift as they head into the new Congress after big midterm wins."
+     "take": "Officials now blame 'routine maintenance' for the ground stop \u2014 the chaos at airports continued anyway today."
     },
     {
-     "title": "Jonathan Kreiss-Tomkins becomes first Democrat since 1998 elected governor in Alaska",
-     "url": "https://www.pbs.org/newshour/politics/jonathan-kreiss-tomkins-becomes-first-democrat-since-1998-elected-governor-in-alaska",
+     "title": "Evacuation zone lifted after bomb found at Illinois ethanol plant",
+     "url": "https://www.theguardian.com/us-news/2026/nov/14/peoria-illinois-evacuation-bomb",
+     "source": "Guardian US",
+     "take": "The evacuation zone around the Illinois ethanol plant is lifted \u2014 the bomb scare ends without the worst outcome."
+    },
+    {
+     "title": "Democrat wins Alaska governor\u2019s seat for first time in nearly 30 years",
+     "url": "https://www.theguardian.com/us-news/2026/nov/14/alaska-governor-democrat-jonathan-kreiss-tomkins-wins",
+     "source": "Guardian US",
+     "take": "A Democrat wins Alaska's governorship for the first time in nearly 30 years \u2014 the midterms' biggest statehouse flip."
+    },
+    {
+     "title": "Alaska voters reject ballot measure seeking to repeal open primaries and ranked voting system",
+     "url": "https://www.pbs.org/newshour/politics/alaska-voters-reject-ballot-measure-seeking-to-repeal-open-primaries-and-ranked-voting-system",
      "source": "PBS NewsHour",
-     "take": "Jonathan Kreiss-Tomkins became the first Democrat since 1998 elected governor in Alaska \u2014 ranked-choice and top-four primaries survived there too."
+     "take": "Alaska voters also kept open primaries and ranked-choice voting \u2014 the system that helped produce that result survives."
     },
     {
-     "title": "Bessent accuses Lutnick of failing to prevent China from obtaining Nvidia chips",
-     "url": "https://www.pbs.org/newshour/show/bessent-accuses-lutnick-of-failing-to-prevent-china-from-obtaining-nvidia-chips",
-     "source": "PBS NewsHour",
-     "take": "Treasury Secretary Bessent accused Lutnick of failing to prevent China from obtaining Nvidia chips \u2014 the Huang fallout is now a cabinet fight."
-    },
-    {
-     "title": "Hegseth's failed impeachment was a warning to Democrats. Where will they go from here?",
-     "url": "https://www.npr.org/2026/11/14/nx-s1-6040299/hegseth-impeachment-democrats-house-test",
+     "title": "'We can't let them down' -- After midterm wins, Democrats turn to charting path ahead",
+     "url": "https://www.npr.org/2026/11/14/nx-s1-6037777/democrats-midterms-whats-next-conference",
      "source": "NPR News",
-     "take": "Hegseth's failed impeachment was a warning to Democrats \u2014 where they go from here will shape the new Congress."
+     "take": "After the wins, Democrats are arguing about what to do with them \u2014 'we can't let them down' is the new pressure line."
     },
     {
-     "title": "ICE touts record number of deportations in agency's history",
-     "url": "https://www.pbs.org/newshour/show/ice-touts-record-number-of-deportations-in-agencys-history",
+     "title": "U.S. gives states another 6 months before they have to remove people from Medicaid for not working",
+     "url": "https://www.pbs.org/newshour/health/u-s-gives-states-another-6-months-before-they-have-to-remove-people-from-medicaid-for-not-working",
      "source": "PBS NewsHour",
-     "take": "ICE is touting a record number of deportations in the agency's history, even as raids reshape voting and daily life in places like Kansas meatpacking country."
+     "take": "States get six more months before Medicaid work-rule removals kick in \u2014 a delay that changes who keeps coverage this winter."
+    },
+    {
+     "title": "Zelenskyy says a new European security framework floated by U.S. could benefit Putin",
+     "url": "https://www.pbs.org/newshour/world/zelenskyy-says-a-new-european-security-framework-floated-by-u-s-could-benefit-putin",
+     "source": "PBS NewsHour",
+     "take": "Zelenskyy warns a U.S.-floated European security framework could benefit Putin \u2014 Kyiv is pushing back in public."
+    },
+    {
+     "title": "New Orleans officials file $1m lawsuit after \u2018Mississippi miracle\u2019 tanker crash",
+     "url": "https://www.theguardian.com/us-news/2026/nov/14/new-orleans-mississippi-river-tanker-crash-lawsuit",
+     "source": "Guardian US",
+     "take": "New Orleans filed a $1m suit after the tanker crash dubbed the 'Mississippi miracle' \u2014 the miraculous part is over, the legal part starts."
     }
    ]
   },
@@ -238,37 +250,37 @@
      "title": "California Democrats plan to investigate Trump but leave a third impeachment off the table for now",
      "url": "https://www.latimes.com/california/story/2026-11-14/powerful-california-democrats-in-new-congress-focused-on-trump",
      "source": "LA Times California",
-     "take": "California Democrats plan to investigate Trump but are leaving a third impeachment off the table for now."
+     "take": "Sacramento Democrats will investigate Trump but park a third impeachment \u2014 oversight yes, impeachment not yet."
     },
     {
      "title": "Tax the rich \u2014 sometimes. California voters sent mixed signals with ballot measures",
      "url": "https://calmatters.org/politics/elections/2026/11/tax-the-rich-ballot-measures/",
      "source": "CalMatters",
-     "take": "Tax the rich \u2014 sometimes. California voters sent mixed signals on ballot measures, and passed Proposition 42 barring new taxes on personal assets."
-    },
-    {
-     "title": "Newsom spared 500+ death row inmates. Some DAs still plan to seek the death penalty",
-     "url": "https://calmatters.org/justice/2026/11/death-penalty-california-whats-next/",
-     "source": "CalMatters",
-     "take": "Newsom spared 500-plus death row inmates \u2014 some DAs still plan to seek the death penalty, setting up a legal fight over the pardons."
+     "take": "Voters taxed the rich sometimes and not others \u2014 CalMatters reads a mixed, not ideological, signal in the measures."
     },
     {
      "title": "L.A. County park visits plunged after the 2025 ICE raids. Attendance still hasn't recovered",
      "url": "https://www.latimes.com/california/story/2026-11-14/la-county-park-attendance-hasnt-recovered-after-2025-ice-raids",
      "source": "LA Times California",
-     "take": "L.A. County park visits plunged after the 2025 ICE raids and still haven't recovered \u2014 a quiet measure of fear in public spaces."
+     "take": "L.A. County park visits plunged after the 2025 ICE raids and still haven't recovered \u2014 fear outlasted the raids themselves."
+    },
+    {
+     "title": "Newsom spared 500+ death row inmates. Some DAs still plan to seek the death penalty",
+     "url": "https://calmatters.org/justice/2026/11/death-penalty-california-whats-next/",
+     "source": "CalMatters",
+     "take": "Newsom spared 500+ death-row inmates; some DAs still plan to seek death \u2014 the clemency fight moves to county courtrooms."
     },
     {
      "title": "Rain, dangerous surf and snow could hit Southern California. Here's where and when storms are expected",
      "url": "https://www.latimes.com/california/story/2026-11-13/storm-series-brings-rain-dangerous-surf-snow-to-southern-california-heres-where-when",
      "source": "LA Times California",
-     "take": "Rain, dangerous surf and snow could hit Southern California \u2014 storm timing and locations to watch this weekend."
+     "take": "Rain, dangerous surf and snow are in the Southern California forecast \u2014 check the timing before weekend plans."
     },
     {
      "title": "Driver in suspected DUI crash that killed North Hollywood vendors charged with murder",
      "url": "https://www.latimes.com/california/story/2026-11-13/north-hollywood-dui-crash-suspect-murder-charge",
      "source": "LA Times California",
-     "take": "The driver in the suspected DUI crash that killed North Hollywood vendors has been charged with murder."
+     "take": "The driver in the North Hollywood crash that killed street vendors is now charged with murder, not just DUI."
     }
    ]
   },
@@ -276,119 +288,17 @@
    "name": "\ud83c\udf99\ufe0f Podcasts",
    "stories": [
     {
-     "title": "Special Report: The Fall Of Jensen Huang & What Comes Next",
-     "url": "https://podcasts.apple.com/us/podcast/special-report-the-fall-of-jensen-huang-what-comes-next/id1522960417?i=1000801822873&uo=4",
-     "source": "Big Technology Podcast",
-     "take": "What comes next, per the hosts: Finance chief Colette Kress serves as interim CEO while the board searches internally and externally; prediction-market odds cited put Arm CEO Rene Haas #1, Nvidia's Ian Buck #2 and Kress #3 \u2014 but co-host Ranjan Roy argues an internal pick is more likely because an external CEO will\u2026 \u2022 Jensen Huang himself faces continuing congressional and federal investigations \u2014 the hosts say resignation does not end accountability \u2014 and Nvidia faces questions over whether anyone else knew about alleged export-control circumvention, possible tighter enforcement, and loss of a large China-linked revenue stream. \u2022 Host Alex Kantrowitz and Ranjan Roy break down the Wall Street Journal report that Huang was ousted / resigned after extramarital affairs \u2014 by the end of the show three reported affairs, including one with a subordinate / direct report, which they say is a fireable offence on its own, and one with Alice Wang of\u2026"
-    },
-    {
-     "title": "Nvidia's Leadership Crisis, US Retirement Gets a C+ & Anthropic's Big Debut Next Week",
-     "url": "https://podcasts.apple.com/us/podcast/bloomberg-intelligence/id326301337?uo=4",
-     "source": "Bloomberg Intelligence",
-     "take": "This is Bloomberg Money (Tom Keene, with Carol Massar; Scarlett Fu working from home), a personal finance / retirement / wealth management edition recorded after a bruising week, covering four threads: the Nvidia leadership crisis, oil and Ed Morse, the US retirement system's C+ grade, post-election Democratic\u2026 \u2022 Nvidia leadership crisis: Sarah Frier (transcribed \"Fryer\") argues the story is about far more than reportedly three affairs involving Jensen Huang. The heart of it is US-China relations: to what extent Huang was tapped as a resource to reach Trump and understand the US government, and what happened to Nvidia\u2026 \u2022 Succession is an open problem: Huang had 60 direct reports and personally signed off on arrangements; a successor needs his charisma, connections, and deal-making. Rene Haas of Arm is floated as one possibility, but the panel doubts an outsider can replicate the \"secret sauce.\" Nobody \u2014 board included \u2014 seems to\u2026"
-    },
-    {
-     "title": "The OpenAI board member who fired Sam Altman says we still can't trust AI CEOs",
-     "url": "https://podcasts.apple.com/us/podcast/the-openai-board-member-who-fired-sam-altman-says-we/id1011668648?i=1000801899463&uo=4",
-     "source": "Decoder with Nilay Patel",
-     "take": "Host Nilay Patel interviews Helen Toner, executive director of the Center for Security and Emerging Technology (CSET) at Georgetown, and a former OpenAI board member who was one of four board members who voted to fire Sam Altman in the incident now called \"the blip.\" Altman returned, Toner resigned, and OpenAI\u2026 \u2022 Toner describes CSET: about 50 people, founded in 2019, producing rigorous, actionable analysis for policymakers on emerging technology and national security, with briefings for Congress, the executive branch, the White House, and agencies including State, Commerce, and the Department of War. \u2022 On money in politics vs. research: Toner says AI money flooded the recent election but largely failed to defeat candidates who talked about AI governance and safety. She argues the issue is increasingly bipartisan, voters care about it, and policymakers actively want independent, high-quality information."
-    },
-    {
-     "title": "Putin lets Europe join Ukraine peace talks",
-     "url": "https://podcasts.apple.com/us/podcast/putin-lets-europe-join-ukraine-peace-talks/id135067274?i=1000801669856&uo=4",
-     "source": "Global News Podcast",
-     "take": "After President Trump's envoys Jared Kushner and Steve Witkoff met President Putin in Moscow on Thursday, Russia agreed to give Europeans a seat at the table in the next round of peace talks with Russia on Ukraine \u2014 after Europe was largely sidelined for about two years. The envoys then flew to Dublin / Ireland for\u2026 \u2022 Ukraine's President Volodymyr Zelensky welcomed the move, saying Europe will be a negotiation team, will have a voice, and that European involvement matters for prosperity and security guarantees because the war is in Europe and Ukraine will be an EU member in the future. \u2022 EU top diplomat Kaja Kallas questioned Russia's commitment to peace but welcomed European involvement, arguing after almost two years of US-Russia talks it is clear Europe needs to be a player because Europe supports Ukraine, put sanctions in place, and holds the frozen assets, so no agreement can be implemented\u2026"
-    },
-    {
-     "title": "Microsoft outage: Millions affected in over 70 countries",
-     "url": "https://podcasts.apple.com/us/podcast/microsoft-outage-millions-affected-in-over-70-countries/id135067274?i=1000801755864&uo=4",
-     "source": "Global News Podcast",
-     "take": "A huge global Microsoft outage hit schools, banks, health services, emergency services, businesses and personal users in more than 70 countries, disrupting Outlook email and Microsoft Teams / Microsoft 365. Examples included GPs unable to send confidential patient information or request prescriptions, postponed\u2026 \u2022 Microsoft said it had found no evidence of malicious activity / a cyber attack. Technology reporter Laura Kress said recovery after more than 20 hours was a slow, step-by-step process: restarting a server and letting people back in caused a rush of returning traffic that overwhelmed the system and knocked it\u2026 \u2022 The cause described was servers dropping offline during routine checks / health checks, with too much digital traffic dumped onto remaining servers and overloading them \u2014 servers tripping over each other in a cascade."
-    },
-    {
-     "title": "US airspace reopens after flights grounded for several hours",
-     "url": "https://podcasts.apple.com/us/podcast/us-airspace-reopens-after-flights-grounded-for-several/id135067274?i=1000801869888&uo=4",
-     "source": "Global News Podcast",
-     "take": "US airspace reopened after a nationwide ground stop on Friday that lasted about four hours \u2014 only the third nationwide grounding in 25 years \u2014 leaving tens of thousands of passengers stranded, with some airports running out of tarmac to park planes and some travellers switching to long rental-car drives. \u2022 Flights were grounded because the air traffic control system became overloaded and caused communication issues. The White House said there was zero evidence of a cyber attack. \u2022 Transportation Secretary Sean Duffy warned recovery would take time as crews and aircraft were repositioned, blamed old legacy hardware, said recently rolled-out equipment was not to blame, and appealed to Congress for $50 billion to build a state-of-the-art air traffic control system rather than a patchwork fix."
-    },
-    {
-     "title": "The Happy Pod: I've put women on the map with Antarctic record",
-     "url": "https://podcasts.apple.com/us/podcast/the-happy-pod-ive-put-women-on-the-map-with-antarctic-record/id135067274?i=1000801915562&uo=4",
-     "source": "Global News Podcast",
-     "take": "Antarctic Ice Ultra: Canadian ultra-runner Stephanie Case has become the first woman ever to complete the Antarctic Ice Ultra-Marathon \u2014 a non-stop 160km (100-mile) race, run as 38 loops of 4.2km, in temperatures as low as minus 35 Celsius and severe winds \u2014 finishing in 17 and a half hours. She says the website\u2026 \u2022 Zaha, Sudan: A BBC team first met Zaha in Sudan last year \u2014 a young boy who lost both legs in a drone strike, was shy and withdrawn in a big wheelchair, but came alive playing football with friends on his knees and talking about Real Madrid. After a fundraising campaign he received specialist treatment in Egypt and\u2026 \u2022 Sightless Cinema, Northern Ireland: Blind and partially sighted actors in a workshop create theatre using sound rather than visual effects \u2014 live Foley with gravel trays, jugs of water and other props \u2014 developing a comedy about a jilted bride on her wedding day, to be performed at Queen's University for an\u2026"
-    },
-    {
-     "title": "How Wall Street Is Bracing For the Post-Jensen Huang Nvidia Era",
-     "url": "https://podcasts.apple.com/us/podcast/odd-lots/id1056200096?uo=4",
-     "source": "Odd Lots",
-     "take": "Bernstein, via senior analyst Stacey Raskin, downgraded Nvidia from outperform to market perform and cut its target price in half \u2014 not because near-term numbers were cut, but because Raskin says he cannot advocate buying in front of coming investigations, headlines and CEO uncertainty. \u2022 Raskin says near-term demand is not at risk: customers are not buying less data-center product next year because of Jensen Huang's dismissal. The risk is medium- to long-term \u2014 succession, roadmap calls after Rubin / Rubin Ultra / Feynman, talent retention, and tougher China export policy. \u2022 Recorded Friday, November 13 at 12:10pm New York time, with Nvidia stock down about 4% that day and earnings due the following week. Hosts Joe Weisenthal and Tracy Alloway frame Huang as the ultimate \"key man risk\": ~60 direct reports, no succession plan, personally involved in individual financing deals, and the\u2026"
-    },
-    {
-     "title": "Investigating Patient Zero of the NBA Gambling Scandal \u2014 and the Mob",
-     "url": "https://podcasts.apple.com/us/podcast/investigating-patient-zero-of-the-nba-gambling/id1685093486?i=1000801702765&uo=4",
-     "source": "Pablo Torre Finds Out",
-     "take": "Pablo Torre interviews New Yorker writer Nick Paumgarten / \"Nick Barradini\" as transcribed \u2014 a former University of Missouri walk-on (13 official NCAA points) who has known Jontay Porter since Porter and brother Michael Porter Jr.'s freshman season at Missouri, and who secured the on-the-record interviews and\u2026 \u2022 Porter's background: one of eight children, all on basketball scholarships, parents who played college ball, mother homeschooling, father in Christian ministry / coaching, money tight in a family of 10. From seventh grade fixing iPhone screens, to using his mother's driver's licence to open a Coinbase account when\u2026 \u2022 Addiction in the receipts: Nick obtained Porter's FanDuel transaction history. Porter had made $4.7 million as an undrafted Grizzlies rookie before being cut in July 2021. In September 2021 he put $125,000 on the Chiefs to beat the Ravens plus a $10,000 three-leg parlay (Chiefs win, Chiefs running back yardage,\u2026"
-    },
-    {
-     "title": "Democrats Won Big \u2014 Now Comes The Hard Part",
-     "url": "https://podcasts.apple.com/us/podcast/democrats-won-big-now-comes-the-hard-part/id1744631325?i=1000801891609&uo=4",
-     "source": "Prof G Markets",
-     "take": "In this \"Simply Put\" monologue, Ed Elson argues his prediction came true: six months ago he predicted Democrats would win the midterms in a \"landslide,\" and on November 3 they took the House and the Senate in what he calls not a blue wave but a \"blue tsunami\" \u2014 one of the most resounding victories in American\u2026 \u2022 The scale, per Elson: Democrats flipped Texas, Kansas, Maine, Ohio, Iowa, North Carolina, and South Carolina. Texas elected its first Democratic governor in nearly 40 years; Kansas elected its first Democratic senator in nearly 100 years (the last, George McGill, was born in 1879). 94% of counties shifted left from\u2026 \u2022 He credits a new generation of Democratic talent \u2014 naming James Talarico, Adam Hamilton, Abdul El-Sayed, and John Ossoff \u2014 whose message is toughness combined with love."
-    },
-    {
-     "title": "Olivia Wilde Hit Bottom. Here's How She Bounced Back.",
-     "url": "https://podcasts.apple.com/us/podcast/olivia-wilde-hit-bottom-heres-how-she-bounced-back/id1200361736?i=1000801908793&uo=4",
-     "source": "The Daily",
-     "take": "She stopped trying to control how she was perceived after the *Don't Worry Darling* storm and a painful separation: therapy, reading, travel, and time zooming out showed her the villain narrative \"had very little to do with me.\" \u2022 Seth Rogen inviting her onto *The Studio* for two days reminded her she loved acting \u2014 she had thought she would never act again \u2014 and he then joined her film *The Invite*. \u2022 Host David Marchese interviews Olivia Wilde in London about a big year: *The Invite*, the third film she has directed \u2014 a grown-up comedy about a couple on the rocks and their sexy neighbors upstairs \u2014 plus acting roles in Greg Araki's *I Want Your Sex* (playing a dominatrix/art-world provocateur) and the upcoming\u2026"
-    },
-    {
-     "title": "FAA nationwide ground stop, Lineage cleanup aftermath, Metrolink cuts on hold\u2014 Evening Edition",
-     "url": "https://podcasts.apple.com/us/podcast/faa-nationwide-ground-stop-lineage-cleanup-aftermath/id1508035189?i=1000801828919&uo=4",
+     "title": "Airport delays continue, Rare baby sea turtles, Doing 'The Moth' \u2014 Saturday Edition",
+     "url": "https://podcasts.apple.com/us/podcast/the-la-report/id1508035189?uo=4",
      "source": "The LA Report",
-     "take": "FAA nationwide ground stop: The FAA issued a nationwide ground stop for all US airports this afternoon because of a \"communication issue\" impacting all air route traffic control centers. Go Fact Yourself co-host Helen Hong described being on a plane at LAX that was about to push off from the gate when the pilot\u2026 \u2022 Lineage warehouse, Boyle Heights: Air quality officials said Lineage has completed requirements issued in August for its burnt-out Boyle Heights warehouse. Lineage will no longer have to conduct its own community air monitoring, and the South Coast Air Quality Management District is also winding down its monitoring\u2026 \u2022 LA County parks after ICE raids: A year after ICE raids swept through Los Angeles, attendance at six LA County parks has dropped, according to researchers from UCLA and UC Berkeley. Parks near Latino communities were hardest hit. Santa Fe Dam and Whittier Narrows saw over 7,000 fewer cars entering last year, and\u2026"
-    },
-    {
-     "title": "NoHo crash suspect in court, OC parents plead in son's e-bike death, Rinderknecht surprise witness denied\u2014 Morning Edition",
-     "url": "https://podcasts.apple.com/us/podcast/noho-crash-suspect-in-court-oc-parents-plead-in-sons/id1508035189?i=1000801734475&uo=4",
-     "source": "The LA Report",
-     "take": "NoHo crash suspect in court: The man arrested for murder after plowing into North Hollywood street vendors is set to make his first court appearance today. 61-year-old Ihor Demayenko is accused of being under the influence when he killed three and injured two others. One victim, Sylvia Figueroa, continues to fight\u2026 \u2022 OC parents plead in son's e-bike death: The parents of a 13-year-old who died while riding an e-bike in Garden Grove have pleaded not guilty to child endangerment. Benson Nguyen was driving at speeds over 40 miles per hour when he crashed into a light pole on May 7. Prosecutors say his father had been warned\u2026 \u2022 Rinderknecht surprise witness denied: A judge is refusing to allow a surprise witness to testify in the retrial of the man accused of sparking the events that led to the Palisades Fire. Prosecutors say Jonathan Rinderknecht started the Lachman Fire on New Year's Day with a lighter, which reignited a week later to\u2026"
-    },
-    {
-     "title": "Rebuilding after the LA fires, New home to space shuttle Endeavour now open, Santa Maria barbecue\u2014 Afternoon Edition",
-     "url": "https://podcasts.apple.com/us/podcast/rebuilding-after-the-la-fires-new-home-to-space/id1508035189?i=1000801802861&uo=4",
-     "source": "The LA Report",
-     "take": "Rebuilding after the LA fires: As LA fire survivors approach the second anniversary of the disaster, LAist has been checking in on their lives. Partnership producer David Rodriguez spoke with Palisades Fire survivor Barry Zetlin, who says he found friends in his architects and contractor while rebuilding his home\u2026 \u2022 Space shuttle Endeavour's new home opens: The California Science Center's new Samuel Oschin Air and Space Center opens today. Its main attraction is the fully assembled space shuttle Endeavour in launch position. Endeavour was taken off public display about three years ago. The centre also includes the Korean Air\u2026 \u2022 Food Friday \u2014 Santa Maria barbecue: LAist food and culture writer Gab Chabran explained Santa Maria-style barbecue, a Central Coast tradition from the Santa Maria Valley between Santa Barbara and San Luis Obispo, a couple of hours north of LA. It is cooked over a red oak fire (red oak grown locally), uses no sauce\u2026"
-    },
-    {
-     "title": "Mississippi, hot damn!",
-     "url": "https://podcasts.apple.com/us/podcast/mississippi-hot-damn/id1346207297?i=1000801781749&uo=4",
-     "source": "Today, Explained",
-     "take": "Scott Colom (spelled variously Colum / Colomb / Cologne in the auto-transcript) has won a US Senate seat in Mississippi as a Democrat \u2014 the first Black person to win any statewide office in Mississippi since Reconstruction, and the first Black Democrat elected to the Senate from the state. Mississippi Today\u2026 \u2022 The race was extraordinarily close: 48.9% to 48.9% on election night, a margin of just 28 votes at one point (also described as a narrow lead of about 20-25 votes), decided as affidavit ballots \u2014 Mississippi's term for provisional ballots \u2014 broke for Colom before the Associated Press called it. Supporters\u2026 \u2022 Three rally moments convinced Vance it was possible: (1) Colom's hometown Columbus rally with Vice President Kamala Harris, where a high-school gym crowd spontaneously chanted \"we want Scott\"; (2) a Gulf Coast rally with former Transportation Secretary Pete Buttigieg drawing at least 700 people in the safest\u2026"
-    },
-    {
-     "title": "Politics beyond Trump",
-     "url": "https://podcasts.apple.com/us/podcast/politics-beyond-trump/id1346207297?i=1000801920367&uo=4",
-     "source": "Today, Explained",
-     "take": "This is an \"America, Actually\" look-back episode: host Astead Herndon (transcribed as \"is Ted Herndon\") and producer Kasia Pilgrim / \"Kasia Priscalian\" review eight months of reporting trips \u2014 Wisconsin, South Carolina, Nevada, Queens, Allentown PA, Vineland NJ, Washington DC, Richmond VA, Michigan and Florida \u2014\u2026 \u2022 Affordability and blame: At a Speedway gas station in Allentown, voters \u2014 including Republicans who voted for Trump \u2014 named tariffs and the Iran war directly and blamed the president personally for costs he promised to drop. Looking ahead, the war is the first question for Republicans (JD Vance's midterm excuses\u2026 \u2022 The fiscal constraint: US debt is so high investors worry about servicing it, growth is around 3% but much of it rests on the AI build-out amid bubble concerns, and a sobering inflation report leaves little room to roll back Medicaid / Medicare cuts. The fiscal-responsibility wing of both parties has been \"smushed\"\u2026"
-    },
-    {
-     "title": "Air Travel Ground Stop, Starship Rocket Launch, ExxonMobil Eyes Return to Venezuela",
-     "url": "https://podcasts.apple.com/us/podcast/air-travel-ground-stop-starship-rocket-launch-exxonmobil/id1222114325?i=1000801924874&uo=4",
-     "source": "Up First",
-     "take": "Nationwide ground stop: A telecommunications outage paralyzed US air travel for more than four hours yesterday \u2014 only the second nationwide ground stop since September 11, 2001, and several hours longer than the last one in 2023. NPR's Joel Rose reports problems began around 3:36 p.m. ET with intermittent radar and\u2026 \u2022 Transportation Secretary Sean Duffy blamed old, outdated air traffic control equipment \u2014 \"old switches, old routers,\" 1980s copper lines \u2014 overloaded by data, though he did not say why it was overwhelmed on a normal travel day and investigators are still working. Homeland Security Secretary Markwayne Mullin said it\u2026 \u2022 Passenger impact: more than 10,000 flights canceled and thousands more delayed; airlines will need a few days at least to get operations back on track. Passenger Erin Britt described deplaning at Reagan National with flight attendants as in the dark as passengers."
-    },
-    {
-     "title": "What\u2019s News in Markets: Nvidia\u2019s Next Chapter, Coreweave\u2019s Bullish Backlog, Microsoft\u2019s Global Outage",
-     "url": "https://www.wsj.com/podcasts/whats-news",
-     "source": "WSJ What's News",
-     "take": "Nvidia: CEO Jensen Huang resigned Thursday after reports of multiple extramarital affairs, including with an employee and an alleged Chinese spy; shares fell nearly 13% this week, erasing $570B+ in market value. Rivals rose \u2014 Micron +13%, AMD +19%, Intel +6%. \u2022 CoreWeave: shares surged 14.5% this week on stronger-than-expected revenue and a backlog of nearly $133 billion. \u2022 Host Imani Moise recaps the week's biggest stock moves: consumer prices up, bond prices down, and the CEO of one of the world's most valuable companies out."
+     "take": "More than 160 LAX cancellations this morning after the 4.5-hour ground stop, with delays across Ontario, John Wayne and San Diego \u2014 officials expect normal before Thanksgiving \u2022 First West Coast olive ridley sea turtle eggs hatched on Seal Beach after 58 days and were released early this morning; a Huntington Beach nest is still incubating \u2022 LAist editor Suzanne Levy finally did The Moth Story Slam, tied for the win with her airport-tarmac story, and lost the tiebreaker \u2022 Sheryl Crow headlined the free Live on Sunset festival shutting down Sunset Boulevard in West Hollywood"
     }
    ]
   }
  ],
  "markets": {
   "source": "Yahoo Finance",
-  "fetched_at": "2026-11-14T09:03:49.838504-08:00",
+  "fetched_at": "2026-11-14T13:03:56.150930-08:00",
   "dates": [
    "2025-11-14",
    "2025-11-17",
@@ -1449,7 +1359,7 @@
       752.04,
       752.16,
       751.77,
-      751.03,
+      751.04,
       751.3,
       751.23,
       751.58,
@@ -1893,11 +1803,11 @@
       679.56,
       680.01,
       679.23,
-      679.51,
+      679.53,
       679.01,
       678.43,
       678.24,
-      679.87,
+      679.85,
       679.57,
       679.53,
       679.79,

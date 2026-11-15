@@ -1,57 +1,57 @@
 {
  "date": "2026-11-14",
- "updated_label": "AFTERNOON UPDATE \u00b7 1:03 PM PT",
+ "updated_label": "EVENING UPDATE \u00b7 8:15 PM PT",
  "sections": [
   {
    "name": "Tech & AI",
    "stories": [
     {
-     "title": "Tesla opens Cybercab pre-orders \u2018for personal use,\u2019 with geo restrictions and a $299 monthly fee",
-     "url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
-     "source": "TechCrunch",
-     "take": "Tesla's robotaxi is now a subscription you can pre-order \u2014 geo limits and $299 a month show how personal the rollout still isn't."
+     "title": "Italy fines Meta $887m for accessing Android users\u2019 photos and videos",
+     "url": "https://www.theguardian.com/technology/2026/nov/15/italy-fines-meta-887m-for-accessing-android-users-photos-and-videos",
+     "source": "Guardian US",
+     "take": "Italy fined Meta $887 million over Android photo and video access \u2014 the evening's biggest new tech enforcement move, and a fresh privacy fight for Meta in Europe."
     },
     {
-     "title": "Asian governments react to Nvidia CEO Jensen Huang\u2019s exit",
-     "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
-     "source": "TechCrunch",
-     "take": "Governments that courted Nvidia are scrambling \u2014 Huang's exit is now a diplomatic problem, not just a chip story."
+     "title": "With Starship catch, SpaceX still shows it can dazzle the world",
+     "url": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
+     "source": "Ars Technica",
+     "take": "SpaceX caught Starship again \u2014 Ars says the dazzle is the point, and the catch keeps the fully reusable rocket story moving from stunt to routine."
     },
     {
-     "title": "Jensen Huang\u2019s departure blasts big hole in AI startup funding, VCs and founders say",
-     "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+     "title": "Where was Nvidia\u2019s security team?",
+     "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
      "source": "TechCrunch",
-     "take": "Founders and VCs say the funding hole is real: Huang personally anchored deals that no successor inherits automatically."
+     "take": "TechCrunch asks where Nvidia's security team was \u2014 the Huang exit now has a security and governance angle, not just a succession one."
     },
     {
-     "title": "The AI graveyard: a running list of projects and startups that didn\u2019t make it",
-     "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+     "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+     "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
      "source": "TechCrunch",
-     "take": "TechCrunch's running graveyard is the useful counterweight to the hype \u2014 a lot of AI products are quietly dying."
-    },
-    {
-     "title": "Beware the New AI-Fueled Ransomware Boom",
-     "url": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
-     "source": "Wired",
-     "take": "AI is lowering the cost of ransomware attacks \u2014 Wired warns the boom is already here, not coming."
+     "take": "Musk and other tech execs signed a petition to reinstate Jensen Huang \u2014 the industry is lobbying Nvidia's board in public, which tells you how unsettled the exit is."
     },
     {
      "title": "Microsoft says services fully restored after global outage hits governments",
      "url": "https://www.theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage",
      "source": "Guardian US",
-     "take": "Microsoft says the global outage is fully restored \u2014 the follow-up replaces this morning's still-broken angle."
+     "take": "Microsoft says services are fully restored after the global outage hit governments \u2014 the outage is over, the reliance question it raised is not."
     },
     {
-     "title": "Starship flight 15 powers to orbit\u2014setting up a possible catch on Saturday",
-     "url": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
-     "source": "Ars Technica",
-     "take": "Starship reached orbit and set up a possible catch today \u2014 SpaceX's test cadence keeps moving."
+     "title": "Beware the New AI-Fueled Ransomware Boom",
+     "url": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
+     "source": "Wired",
+     "take": "Wired warns of an AI-fueled ransomware boom \u2014 attackers are automating extortion, and defenders are now racing the same tools."
     },
     {
      "title": "James Webb telescope finds ice older than the star it orbits",
      "url": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/",
      "source": "Ars Technica",
-     "take": "Webb found ice that predates its own star \u2014 a neat reminder the telescope still delivers pure-science wins."
+     "take": "Webb found ice older than the star it orbits \u2014 a small headline with a big implication for how planetary systems inherit their chemistry."
+    },
+    {
+     "title": "Tesla opens Cybercab pre-orders \u2018for personal use,\u2019 with geo restrictions and a $299 monthly fee",
+     "url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
+     "source": "TechCrunch",
+     "take": "Tesla opened Cybercab pre-orders at $299 a month with geo restrictions \u2014 the robotaxi is now a subscription, but a tightly fenced one."
     }
    ]
   },
@@ -59,52 +59,46 @@
    "name": "Marketing",
    "stories": [
     {
-     "title": "Beyond Points and Perks: How Sephora Makes 46 Million Members Feel Known",
-     "url": "https://www.adweek.com/brand-marketing/beyond-points-and-perks-how-sephora-makes-46-million-members-feel-known/",
-     "source": "Adweek",
-     "take": "Sephora's loyalty play is personalization at 46-million-member scale, not points \u2014 the model other retailers keep chasing."
-    },
-    {
-     "title": "\u2018We\u2019re not trying to be TwitchTok\u2019: Twitch adds new short-form video feature",
-     "url": "https://digiday.com/media/were-not-trying-to-be-twitchtok-twitch-adds-new-short-form-video-feature/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-     "source": "Digiday",
-     "take": "Twitch wants short-form discovery without becoming TikTok \u2014 a careful line every platform is now trying to walk."
-    },
-    {
-     "title": "Twitch debuts shoppable, skippable ads as TwitchCon feels growing pains",
-     "url": "https://www.marketingdive.com/news/twitch-debuts-shoppable-skippable-ads-as-twitchcon-feels-growing-pains/874614/",
-     "source": "Marketing Dive",
-     "take": "Twitch is also selling shoppable, skippable ads \u2014 commerce is creeping into the stream, not just around it."
-    },
-    {
      "title": "Election Advertising Drove 10% of Viewers to Seek Ad-Free Options",
      "url": "https://www.adweek.com/convergent-tv/election-advertising-drove-10-of-viewers-to-seek-ad-free-options/",
      "source": "Adweek",
-     "take": "Election ad saturation pushed 1 in 10 viewers toward ad-free tiers \u2014 political spend has a subscription side effect."
+     "take": "Election advertising drove 10% of viewers to seek ad-free options \u2014 political ad saturation is now a measurable push toward paid, ad-free TV."
     },
     {
      "title": "Lyft Is Testing a Prominent New Ad Placement",
      "url": "https://www.adweek.com/commerce/lyft-is-testing-a-prominent-new-ad-placement/",
      "source": "Adweek",
-     "take": "Lyft is testing a more prominent in-app ad slot \u2014 rideshare media keeps hunting for inventory riders can't ignore."
+     "take": "Lyft is testing a prominent new ad placement \u2014 rideshare screens are becoming a real media surface, not a side experiment."
     },
     {
      "title": "How AdHoc made Dispatch feel like an animated TV series",
      "url": "https://www.creativebloq.com/features/how-adhoc-made-dispatch-feel-like-an-animated-tv-series",
      "source": "Creative Bloq",
-     "take": "Dispatch works because AdHoc built a game like a TV show \u2014 pacing and episodes first, mechanics in service of story."
+     "take": "How AdHoc made Dispatch feel like an animated TV series \u2014 a craft look at interactive storytelling built like television, not a cutscene reel."
     },
     {
      "title": "The Gatto trailer is dividing opinion over Pixar's new painterly style",
      "url": "https://www.creativebloq.com/news/the-gatto-trailer-is-dividing-opinion-over-pixars-new-painterly-style",
      "source": "Creative Bloq",
-     "take": "Pixar's painterly Gatto look splits opinion \u2014 a real style swing after years of polished sameness."
+     "take": "Pixar's Gatto trailer is dividing opinion over its painterly style \u2014 the look is the story, and audiences are split on whether it works."
     },
     {
      "title": "A simple logo redesign has become Australia's latest culture war \u2013 why that's bad news for designers",
      "url": "https://www.creativebloq.com/news/sydneys-logo-controversy-shows-how-politics-can-get-in-the-way-of-good-design",
      "source": "Creative Bloq",
-     "take": "A logo redesign turned into a culture war in Australia \u2014 Creative Bloq says designers lose when identity work becomes a proxy fight."
+     "take": "A simple Sydney logo redesign became a culture war \u2014 Creative Bloq's warning for designers is that politics now sits inside ordinary brand work."
+    },
+    {
+     "title": "\u2018We\u2019re not trying to be TwitchTok\u2019: Twitch adds new short-form video feature",
+     "url": "https://digiday.com/media/were-not-trying-to-be-twitchtok-twitch-adds-new-short-form-video-feature/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+     "source": "Digiday",
+     "take": "Twitch added short-form video while insisting it is not trying to be 'TwitchTok' \u2014 every platform wants TikTok discovery without TikTok's identity."
+    },
+    {
+     "title": "The future of CTV lies in standardization",
+     "url": "https://digiday.com/sponsored/the-future-of-ctv-lies-in-standardization/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+     "source": "Digiday",
+     "take": "Digiday argues CTV's future lies in standardization \u2014 without common measurement and formats, connected TV budgets stay harder to scale than they should be."
     }
    ]
   },
@@ -115,37 +109,37 @@
      "title": "Wemby, Spurs land early KO with 18-0 run, rout Warriors for 11th straight win",
      "url": "https://www.espn.com/nba/story/_/id/50478136/victor-wembanyama-spurs-rout-warriors-11th-straight-win",
      "source": "ESPN NBA",
-     "take": "An 18-0 opening run buried Golden State \u2014 San Antonio's 11th straight win looks less like a streak, more like a level."
+     "take": "An 18-0 opening run buried Golden State \u2014 San Antonio's 11th straight win, settled early and never really in doubt tonight."
     },
     {
      "title": "Giannis, Bam combine for 74 as Heat flex potential as East contenders",
      "url": "https://www.espn.com/nba/story/_/id/50477867/giannis-antetokounmpo-bam-adebayo-shine-heat-take-cavs",
      "source": "ESPN NBA",
-     "take": "Giannis and Bam combined for 74 \u2014 Miami's ceiling case in one box score."
+     "take": "Giannis and Bam combined for 74 as Miami beat Cleveland \u2014 one box score that makes the Heat's East-contender case for them."
     },
     {
-     "title": "Redick says Lakers' Reaves day-to-day with left heel bruise",
-     "url": "https://www.espn.com/nba/story/_/id/50475090/lakers-austin-reaves-day-day-left-heel-bruise",
+     "title": "Cavaliers without starting five vs. Mavs after flight delay",
+     "url": "https://www.espn.com/nba/story/_/id/50485303/cavaliers-starting-five-vs-mavs-flight-delay",
      "source": "ESPN NBA",
-     "take": "Reaves is day-to-day with a left heel bruise \u2014 Redick's wording keeps this minor, for now."
+     "take": "Cleveland went without its starting five against Dallas after a flight delay \u2014 the FAA ground stop reached all the way into an NBA lineup card."
     },
     {
-     "title": "Murray wants trade from Pelicans; both sides working on resolution",
-     "url": "https://www.espn.com/nba/story/_/id/50473732/sources-dejounte-murray-wants-trade-pelicans",
+     "title": "Lakers' Reaves to sit out vs. Suns due to left heel bruise",
+     "url": "https://www.espn.com/nba/story/_/id/50485143/lakers-austin-reaves-heel-bruise-sit-vs-suns",
      "source": "ESPN NBA",
-     "take": "Dejounte Murray wants out and New Orleans is working on it \u2014 this one ends in a trade, not a repair."
+     "take": "Austin Reaves will sit against Phoenix with a left heel bruise \u2014 a short-handed test for the Lakers in tonight's matchup."
     },
     {
      "title": "Knicks' Hart 'not in a good headspace' after scoreless night, benching",
      "url": "https://www.espn.com/nba/story/_/id/50480516/josh-hart-seeking-answers-zero-points-knicks-loss",
      "source": "ESPN NBA",
-     "take": "Hart went scoreless, got benched, and said he's not in a good headspace \u2014 New York has a rotation and a morale issue."
+     "take": "Josh Hart said he is 'not in a good headspace' after a scoreless night and a benching \u2014 New York's uneven start now has a candid face."
     },
     {
-     "title": "Yaxel Lendeborg, Warriors get a taste of life without Stephen Curry: 'It felt helpless out there'",
-     "url": "https://www.cbssports.com/nba/news/yaxel-lendeborg-warriors-spurs-life-without-stephen-curry/",
+     "title": "Pelicans' Dejounte Murray requests trade after venting about franchise in deleted social media posts",
+     "url": "https://www.cbssports.com/nba/news/pelicans-dejounte-murraysocial-media-now-deleted-posts-trade/",
      "source": "CBS Sports NBA",
-     "take": "Life without Curry felt 'helpless' \u2014 Lendeborg's 1-for-13 night showed how thin Golden State's margin is."
+     "take": "Dejounte Murray requested a trade after venting about the Pelicans in deleted posts \u2014 New Orleans has a star problem it can no longer keep private."
     }
    ]
   },
@@ -153,40 +147,40 @@
    "name": "MLB",
    "stories": [
     {
-     "title": "What's next for Red Sox after Jake Bauers deal? Plus more intel from the MLB GM Meetings",
-     "url": "https://www.cbssports.com/mlb/news/whats-next-for-red-sox-jake-bauers-mlb-gm-meetings/",
-     "source": "CBS Sports MLB",
-     "take": "The Bauers deal is done; the GM Meetings intel is about what Boston does next \u2014 that's the afternoon update."
-    },
-    {
-     "title": "MLB rumors: Blue Jays targeting Ketel Marte, Giants rejecting trade calls for ace Logan Webb",
-     "url": "https://www.cbssports.com/mlb/news/mlb-rumors-free-agency-giants-logan-webb-kaima-taira-braves-tigers-cardinals-blue-jays/",
-     "source": "CBS Sports MLB",
-     "take": "Toronto eyes Ketel Marte while San Francisco shuts down Logan Webb calls \u2014 one ace is available in rumors, the other isn't."
-    },
-    {
      "title": "Cubs' Crow-Armstrong, Astros' Alvarez sweep votes as unanimous MVP winners",
      "url": "https://www.espn.com/mlb/story/_/id/50466186/cubs-pete-crow-armstrong-astros-yordan-alvarez-win-mvp-honors",
      "source": "ESPN MLB",
-     "take": "Unanimous MVPs on both sides: Crow-Armstrong and Alvarez left no debate in the voting."
+     "take": "Pete Crow-Armstrong and Yordan Alvarez were unanimous MVP winners \u2014 no split vote, no debate left in either league's top award."
     },
     {
      "title": "Brewers' Misiorowski, Yanks' Schlittler crowned unanimous Cy Young winners",
      "url": "https://www.espn.com/mlb/story/_/id/50456772/brewers-misiorowski-yanks-schlittler-unanimous-cy-young-winners",
      "source": "ESPN MLB",
-     "take": "Misiorowski and Schlittler were unanimous Cy Young picks too \u2014 awards week belonged to clear winners."
+     "take": "Jacob Misiorowski and Cam Schlittler were unanimous Cy Young winners \u2014 a clean sweep night for the awards season's biggest pitching prize."
     },
     {
      "title": "Sources: Bauers parlays career season into 4-year, $58M contract with Red Sox",
      "url": "https://www.espn.com/mlb/story/_/id/50473029/sources-jake-bauers-red-sox-agree-4-year-58m-deal",
      "source": "ESPN MLB",
-     "take": "Bauers turned a career year into 4 years and $58M from Boston \u2014 the deal underneath today's follow-up."
+     "take": "Jake Bauers turned a career season into a four-year, $58 million deal with Boston \u2014 the Red Sox made the winter's first big bet official."
     },
     {
-     "title": "Blue Jays' Santander apologizes for sharing anti-Muslim posts",
-     "url": "https://www.espn.com/mlb/story/_/id/50474604/blue-jays-anthony-santander-apologizes-anti-muslim-posts",
+     "title": "Braves bolster bullpen, reach 3-year, $35 million deal with Phillips",
+     "url": "https://www.espn.com/mlb/story/_/id/50464197/braves-reliever-evan-phillips-agree-3-year-35m-deal",
      "source": "ESPN MLB",
-     "take": "Santander apologized for sharing anti-Muslim posts \u2014 Toronto is left managing the fallout, not just the statement."
+     "take": "Atlanta bolstered its bullpen with a three-year, $35 million deal for Phillips \u2014 the Braves moved early while other contenders are still shopping."
+    },
+    {
+     "title": "MLB rumors: Blue Jays targeting Ketel Marte, Giants rejecting trade calls for ace Logan Webb",
+     "url": "https://www.cbssports.com/mlb/news/mlb-rumors-free-agency-giants-logan-webb-kaima-taira-braves-tigers-cardinals-blue-jays/",
+     "source": "CBS Sports MLB",
+     "take": "Toronto is targeting Ketel Marte while San Francisco rejects trade calls for ace Logan Webb \u2014 one star is in play in rumors, the other is not."
+    },
+    {
+     "title": "Brewers' Murphy 3-peats as top NL manager; White Sox's Venable wins AL honors",
+     "url": "https://www.espn.com/mlb/story/_/id/50447635/brewers-pat-murphy-white-sox-venable-win-top-manager-awards",
+     "source": "ESPN MLB",
+     "take": "Pat Murphy three-peated as NL Manager of the Year and the White Sox's Will Venable won in the AL \u2014 Milwaukee's run starts on the top step."
     }
    ]
   },
@@ -194,52 +188,52 @@
    "name": "National",
    "stories": [
     {
-     "title": "US officials say flight stoppage stemmed from \u2018routine maintenance\u2019 as travel chaos continues",
-     "url": "https://www.theguardian.com/world/2026/nov/14/faa-ground-stop-flights-resume-airport-chaos",
-     "source": "Guardian US",
-     "take": "Officials now blame 'routine maintenance' for the ground stop \u2014 the chaos at airports continued anyway today."
+     "title": "Maintenance gone awry caused nation-wide ground stop, says Transportation Secretary",
+     "url": "https://www.npr.org/2026/11/14/nx-s1-6040942/maintenance-gone-awry-caused-nation-wide-ground-stop-says-transportation-secretary",
+     "source": "NPR News",
+     "take": "The Transportation Secretary said maintenance gone awry caused the nationwide ground stop \u2014 by evening the official story is a routine upgrade that failed, not a mystery."
     },
     {
-     "title": "Evacuation zone lifted after bomb found at Illinois ethanol plant",
-     "url": "https://www.theguardian.com/us-news/2026/nov/14/peoria-illinois-evacuation-bomb",
-     "source": "Guardian US",
-     "take": "The evacuation zone around the Illinois ethanol plant is lifted \u2014 the bomb scare ends without the worst outcome."
+     "title": "US has lost measles elimination status, global health authorities say",
+     "url": "https://www.npr.org/2026/11/14/nx-s1-6041119/us-measles-elimination-status-vaccines-cdc-paho",
+     "source": "NPR News",
+     "take": "The US has lost its measles elimination status, global health authorities say \u2014 a designation held for decades, gone after sustained outbreaks."
     },
     {
      "title": "Democrat wins Alaska governor\u2019s seat for first time in nearly 30 years",
      "url": "https://www.theguardian.com/us-news/2026/nov/14/alaska-governor-democrat-jonathan-kreiss-tomkins-wins",
      "source": "Guardian US",
-     "take": "A Democrat wins Alaska's governorship for the first time in nearly 30 years \u2014 the midterms' biggest statehouse flip."
+     "take": "A Democrat won Alaska's governor's seat for the first time in nearly 30 years \u2014 the night's clearest political upset, now confirmed."
     },
     {
      "title": "Alaska voters reject ballot measure seeking to repeal open primaries and ranked voting system",
      "url": "https://www.pbs.org/newshour/politics/alaska-voters-reject-ballot-measure-seeking-to-repeal-open-primaries-and-ranked-voting-system",
      "source": "PBS NewsHour",
-     "take": "Alaska voters also kept open primaries and ranked-choice voting \u2014 the system that helped produce that result survives."
+     "take": "Alaska voters rejected repealing open primaries and ranked-choice voting \u2014 the system that helped reshape the state's politics survives its own referendum."
+    },
+    {
+     "title": "Evacuation zone lifted after bomb found at Illinois ethanol plant",
+     "url": "https://www.theguardian.com/us-news/2026/nov/14/peoria-illinois-evacuation-bomb",
+     "source": "Guardian US",
+     "take": "The evacuation zone around the Illinois ethanol plant was lifted after a bomb was found \u2014 the scare ended without injuries, and the investigation continues."
     },
     {
      "title": "'We can't let them down' -- After midterm wins, Democrats turn to charting path ahead",
      "url": "https://www.npr.org/2026/11/14/nx-s1-6037777/democrats-midterms-whats-next-conference",
      "source": "NPR News",
-     "take": "After the wins, Democrats are arguing about what to do with them \u2014 'we can't let them down' is the new pressure line."
-    },
-    {
-     "title": "U.S. gives states another 6 months before they have to remove people from Medicaid for not working",
-     "url": "https://www.pbs.org/newshour/health/u-s-gives-states-another-6-months-before-they-have-to-remove-people-from-medicaid-for-not-working",
-     "source": "PBS NewsHour",
-     "take": "States get six more months before Medicaid work-rule removals kick in \u2014 a delay that changes who keeps coverage this winter."
+     "take": "After midterm wins, Democrats are turning to charting a path ahead \u2014 NPR reports a party trying to convert a good election into a governing plan."
     },
     {
      "title": "Zelenskyy says a new European security framework floated by U.S. could benefit Putin",
      "url": "https://www.pbs.org/newshour/world/zelenskyy-says-a-new-european-security-framework-floated-by-u-s-could-benefit-putin",
      "source": "PBS NewsHour",
-     "take": "Zelenskyy warns a U.S.-floated European security framework could benefit Putin \u2014 Kyiv is pushing back in public."
+     "take": "Zelenskyy said a new European security framework floated by the US could benefit Putin \u2014 Kyiv is pushing back on the terms before they harden."
     },
     {
-     "title": "New Orleans officials file $1m lawsuit after \u2018Mississippi miracle\u2019 tanker crash",
-     "url": "https://www.theguardian.com/us-news/2026/nov/14/new-orleans-mississippi-river-tanker-crash-lawsuit",
-     "source": "Guardian US",
-     "take": "New Orleans filed a $1m suit after the tanker crash dubbed the 'Mississippi miracle' \u2014 the miraculous part is over, the legal part starts."
+     "title": "U.S. gives states another 6 months before they have to remove people from Medicaid for not working",
+     "url": "https://www.pbs.org/newshour/health/u-s-gives-states-another-6-months-before-they-have-to-remove-people-from-medicaid-for-not-working",
+     "source": "PBS NewsHour",
+     "take": "Washington gave states another six months before they must remove people from Medicaid for not working \u2014 the work-requirement deadline slips again."
     }
    ]
   },
@@ -247,58 +241,47 @@
    "name": "California",
    "stories": [
     {
+     "title": "Juvenile in custody after gunfire at Ontario mall sent customers fleeing in panic",
+     "url": "https://www.latimes.com/california/story/2026-11-14/juvenile-in-custody-after-gunfire-at-ontario-mall-sent-customers-fleeing-in-panic",
+     "source": "LA Times California",
+     "take": "A juvenile is in custody after gunfire at an Ontario mall sent customers fleeing \u2014 the latest California story tonight, with shoppers cleared and no worst-case outcome reported."
+    },
+    {
+     "title": "'The beach is not your friend this weekend': Massive waves pummel California coast",
+     "url": "https://www.latimes.com/california/story/2026-11-14/the-beach-is-not-your-friend-this-weekend-massive-waves-pummel-california-coast",
+     "source": "LA Times California",
+     "take": "Massive waves are pummeling the California coast \u2014 'the beach is not your friend this weekend' is the forecasters' blunt warning."
+    },
+    {
+     "title": "Airports, passengers recover from FAA meltdown as chaotic holiday travel season looms",
+     "url": "https://www.latimes.com/travel/story/2026-11-14/lax-u-s-airports-recover-from-ground-stop-ahead-of-thanksgiving",
+     "source": "LA Times California",
+     "take": "California airports and passengers are recovering from the FAA meltdown as a chaotic holiday travel season looms \u2014 normal operations are returning, confidence is slower."
+    },
+    {
+     "title": "California's first native-born sea turtles hatch and scuttle into the sea",
+     "url": "https://www.latimes.com/california/story/2026-11-14/californias-first-native-born-sea-turtles-hatch-in-historic-milestone",
+     "source": "LA Times California",
+     "take": "California's first native-born sea turtles hatched and scuttled into the sea at Seal Beach \u2014 a first for the state, confirmed today."
+    },
+    {
      "title": "California Democrats plan to investigate Trump but leave a third impeachment off the table for now",
      "url": "https://www.latimes.com/california/story/2026-11-14/powerful-california-democrats-in-new-congress-focused-on-trump",
      "source": "LA Times California",
-     "take": "Sacramento Democrats will investigate Trump but park a third impeachment \u2014 oversight yes, impeachment not yet."
+     "take": "California Democrats in the new Congress plan to investigate Trump but leave a third impeachment off the table for now \u2014 oversight yes, impeachment not yet."
     },
     {
-     "title": "Tax the rich \u2014 sometimes. California voters sent mixed signals with ballot measures",
-     "url": "https://calmatters.org/politics/elections/2026/11/tax-the-rich-ballot-measures/",
-     "source": "CalMatters",
-     "take": "Voters taxed the rich sometimes and not others \u2014 CalMatters reads a mixed, not ideological, signal in the measures."
-    },
-    {
-     "title": "L.A. County park visits plunged after the 2025 ICE raids. Attendance still hasn't recovered",
-     "url": "https://www.latimes.com/california/story/2026-11-14/la-county-park-attendance-hasnt-recovered-after-2025-ice-raids",
+     "title": "Voters pass Proposition 42, barring new taxes on personal assets",
+     "url": "https://www.latimes.com/california/story/2026-11-13/voters-pass-proposition-42-barring-new-taxes-on-personal-assets",
      "source": "LA Times California",
-     "take": "L.A. County park visits plunged after the 2025 ICE raids and still haven't recovered \u2014 fear outlasted the raids themselves."
-    },
-    {
-     "title": "Newsom spared 500+ death row inmates. Some DAs still plan to seek the death penalty",
-     "url": "https://calmatters.org/justice/2026/11/death-penalty-california-whats-next/",
-     "source": "CalMatters",
-     "take": "Newsom spared 500+ death-row inmates; some DAs still plan to seek death \u2014 the clemency fight moves to county courtrooms."
-    },
-    {
-     "title": "Rain, dangerous surf and snow could hit Southern California. Here's where and when storms are expected",
-     "url": "https://www.latimes.com/california/story/2026-11-13/storm-series-brings-rain-dangerous-surf-snow-to-southern-california-heres-where-when",
-     "source": "LA Times California",
-     "take": "Rain, dangerous surf and snow are in the Southern California forecast \u2014 check the timing before weekend plans."
-    },
-    {
-     "title": "Driver in suspected DUI crash that killed North Hollywood vendors charged with murder",
-     "url": "https://www.latimes.com/california/story/2026-11-13/north-hollywood-dui-crash-suspect-murder-charge",
-     "source": "LA Times California",
-     "take": "The driver in the North Hollywood crash that killed street vendors is now charged with murder, not just DUI."
-    }
-   ]
-  },
-  {
-   "name": "\ud83c\udf99\ufe0f Podcasts",
-   "stories": [
-    {
-     "title": "Airport delays continue, Rare baby sea turtles, Doing 'The Moth' \u2014 Saturday Edition",
-     "url": "https://podcasts.apple.com/us/podcast/the-la-report/id1508035189?uo=4",
-     "source": "The LA Report",
-     "take": "More than 160 LAX cancellations this morning after the 4.5-hour ground stop, with delays across Ontario, John Wayne and San Diego \u2014 officials expect normal before Thanksgiving \u2022 First West Coast olive ridley sea turtle eggs hatched on Seal Beach after 58 days and were released early this morning; a Huntington Beach nest is still incubating \u2022 LAist editor Suzanne Levy finally did The Moth Story Slam, tied for the win with her airport-tarmac story, and lost the tiebreaker \u2022 Sheryl Crow headlined the free Live on Sunset festival shutting down Sunset Boulevard in West Hollywood"
+     "take": "Voters passed Proposition 42, barring new taxes on personal assets \u2014 a hard limit on wealth-tax ideas in California, decided at the ballot box."
     }
    ]
   }
  ],
  "markets": {
   "source": "Yahoo Finance",
-  "fetched_at": "2026-11-14T13:03:56.150930-08:00",
+  "fetched_at": "2026-11-14T20:15:46.821312-08:00",
   "dates": [
    "2025-11-14",
    "2025-11-17",

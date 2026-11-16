@@ -1,6 +1,6 @@
 {
  "date": "2026-11-16",
- "updated_label": "MORNING EDITION \u00b7 9:03 AM PT",
+ "updated_label": "MORNING EDITION \u00b7 9:12 AM PT",
  "sections": [
   {
    "name": "Tech & AI",
@@ -258,10 +258,22 @@
      "take": "The answer: X manufactures fake consensus \u2014 NJ's governor says Republicans trapped in that bubble mistake astroturfed energy for real voters, while the young men they perform for have moved on to jobs and housing worries \u2022 Corruption ranked as a pocketbook issue because voters tie it to their own costs \u2022 Influencer politics is permanent but only works when it is authentic \u2014 she calls Mamdani a social media prodigy, not a bravado act"
     },
     {
+     "title": "DF Direct Weekly #290: Jensen Quits Nvidia, GTA 6 PS5 Pro + Xbox One Streaming, Harada vs Series S",
+     "url": "https://podcasts.apple.com/us/podcast/df-direct-weekly-290-jensen-quits-nvidia-gta-6-ps5/id1596728253?i=1000802300123&uo=4",
+     "source": "Digital Foundry Direct Weekly",
+     "take": "Jensen Huang's resignation ends a 33-year run \u2014 the panel's fear is a successor who sidelines gaming for AI, though gaming's billions and a locked roadmap should hold short term \u2022 GTA 6 is 30fps on consoles, with PSSR clarity and ray-traced shadows only on PS5 Pro \u2022 Xbox cloud streaming runs two virtual Series S profiles per Series X chip, with some of the best latency DF has tested \u2022 A new open APEX upscaling suite runs on any GPU, pressuring Nvidia's closed DLSS model"
+    },
+    {
      "title": "Government forces retreat in Yemen",
      "url": "https://podcasts.apple.com/us/podcast/government-forces-retreat-in-yemen/id135067274?i=1000802187389&uo=4",
      "source": "Global News Podcast",
      "take": "Government forces withdraw from ground overlooking the Bab al-Mandeb Strait, leaving the Red Sea gateway with the Houthis, who now have leverage over Saudi Arabia \u2022 Mexico's Guadalajara cartel founder F\u00e9lix Gallardo dies in detention at 80 \u2022 Guatemala declares a 30-day emergency after a surge in gang killings \u2022 A 140-country study finds one in four teens had zero active days a week in 2025"
+    },
+    {
+     "title": "Crimea Kerch Bridge hit in a huge Ukrainian drone attack",
+     "url": "https://podcasts.apple.com/us/podcast/crimea-kerch-bridge-hit-in-a-huge-ukrainian-drone-attack/id135067274?i=1000802304078&uo=4",
+     "source": "Global News Podcast",
+     "take": "Moscow says Ukraine fired 1,000+ drones overnight \u2014 its biggest attack yet \u2014 hitting the Kerch Bridge; the Kremlin calls the damage minor and traffic is continuing \u2022 Western countries call on Israel to stop blocking Gaza aid, with 150,000 tents held at the border before winter \u2022 Reports say Jensen Huang may be plotting a Nvidia comeback, with Musk backing him and Bessent pushing for an outsider \u2022 The ICRC wants new law on killer robots: 'we are in the slaughterbots era now'"
     },
     {
      "title": "The Impossible Trilemma That Hangs Over the Nvidia Crisis",
@@ -310,7 +322,7 @@
  ],
  "markets": {
   "source": "Yahoo Finance",
-  "fetched_at": "2026-11-16T09:04:25.547907-08:00",
+  "fetched_at": "2026-11-16T09:12:29.381169-08:00",
   "dates": [
    "2025-11-17",
    "2025-11-18",
@@ -1365,7 +1377,7 @@
       752.04,
       752.16,
       751.77,
-      751.03,
+      751.04,
       751.3,
       751.23,
       751.58,
@@ -1806,11 +1818,11 @@
       679.56,
       680.01,
       679.23,
-      679.51,
+      679.53,
       679.01,
       678.43,
       678.24,
-      679.87,
+      679.85,
       679.57,
       679.53,
       679.79,

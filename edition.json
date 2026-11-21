@@ -1,57 +1,57 @@
 {
  "date": "2026-11-21",
- "updated_label": "MORNING EDITION \u00b7 9:01 AM PT",
+ "updated_label": "AFTERNOON UPDATE \u00b7 1:03 PM PT",
  "sections": [
   {
    "name": "Tech & AI",
    "stories": [
     {
-     "title": "Anthropic mathematician claims he used Claude to prove 19th-century Riemann hypothesis",
+     "title": "Two groups verify mathematician\u2019s claim that Claude helped prove mathematics problem",
      "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
      "source": "Guardian US",
-     "take": "An Anthropic mathematician says Claude helped prove the Riemann hypothesis in six weeks \u2014 a claim that, if it holds up, is a landmark for AI in math."
+     "take": "The Riemann claim got its first check: two groups have verified the Anthropic mathematician's claim that Claude helped prove the 167-year-old hypothesis - the story moved from assertion to scrutiny in a day."
     },
     {
-     "title": "Google rolls out new search homepage with AI chat history and no search button",
-     "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
-     "source": "Ars Technica",
-     "take": "Google's new homepage drops the search button for AI chat history \u2014 search is becoming a conversation by default."
+     "title": "Trump says reported FBI database hack is \u2018not good\u2019",
+     "url": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/",
+     "source": "TechCrunch",
+     "take": "Trump called the reported FBI database hack 'not good' as reports of breaches at USDA and the FBI pile up amid a spate of federal tech outages."
     },
     {
-     "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
-     "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
-     "source": "Ars Technica",
-     "take": "Meta is rethinking its 2030 net-zero pledge as AI data centers push its emissions to record levels."
+     "title": "The Outages Are Just Getting Started",
+     "url": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
+     "source": "Wired",
+     "take": "Wired's warning after a week of tech disruptions: the outages are a symptom of brittle, concentrated infrastructure, not a run of bad luck."
+    },
+    {
+     "title": "Here are the top AI agents that can live in your text messages",
+     "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+     "source": "TechCrunch",
+     "take": "The next AI battleground is your message thread - TechCrunch rounds up the agents now living inside texts instead of separate apps."
+    },
+    {
+     "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+     "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+     "source": "TechCrunch",
+     "take": "A microdrama startup wants to license AI versions of actors' faces - a small deal that tests where Hollywood's likeness rights actually land."
+    },
+    {
+     "title": "The AI boom had a really bad week \u2014 and it's raising loud alarms",
+     "url": "https://www.npr.org/2026/11/21/nx-s1-6048729/ai-stock-markets-anthropic-nvidia",
+     "source": "NPR News",
+     "take": "NPR's post-mortem on AI's rough week: tumbling stocks and loud alarms are testing whether investor appetite survives contact with the bills."
+    },
+    {
+     "title": "California AG subpoenas Nvidia over worries about Huang\u2019s ties with China",
+     "url": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/",
+     "source": "TechCrunch",
+     "take": "California's AG subpoenaed Nvidia over worries about Jensen Huang's ties with China - state scrutiny joins the federal kind."
     },
     {
      "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
      "source": "Ars Technica",
-     "take": "Planting 2 million canary tokens in the AI supply chain surfaced a privacy disaster hiding in plain sight."
-    },
-    {
-     "title": "Bending Spoons buys Mailchimp for $3.68B",
-     "url": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/",
-     "source": "TechCrunch",
-     "take": "Bending Spoons adds another faded internet brand to its portfolio, buying Mailchimp for $3.68B."
-    },
-    {
-     "title": "Jensen Huang\u2019s \u2018Lying\u2019 Alarmed Nvidia Board Ahead of His Resignation",
-     "url": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/",
-     "source": "Wired",
-     "take": "Reporting on Huang's exit says board concern about his candor, not just the scandal, sealed his resignation."
-    },
-    {
-     "title": "The most misunderstood graph in AI just got a major update",
-     "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
-     "source": "MIT Tech Review",
-     "take": "MIT Tech Review updates the chart everyone cites about AI progress \u2014 and what it actually shows is murkier."
-    },
-    {
-     "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
-     "url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
-     "source": "TechCrunch",
-     "take": "Security experts warn AI's fast-moving, high-access world is unusually exposed to honey-trap schemes."
+     "take": "A researcher planted 2 million canaries in the AI supply chain and surfaced a privacy disaster - the data pipelines leak in places nobody was watching."
     }
    ]
   },
@@ -59,40 +59,46 @@
    "name": "Marketing",
    "stories": [
     {
-     "title": "When It Comes to GTA 6, Every Brand Suddenly Wants to Break the Rules",
-     "url": "https://www.adweek.com/brand-marketing/when-it-comes-to-gta-6-every-brand-suddenly-wants-to-break-the-rules/",
+     "title": "The Media RFP Is Quietly Becoming Obsolete ft. Bruce Williams",
+     "url": "https://www.adweek.com/brand-marketing/the-media-rfp-is-quietly-becoming-obsolete-ft-bruce-williams/",
      "source": "Adweek",
-     "take": "GTA VI's launch has every brand, from Mercedes to Huggies, bending its own rules to get in on the moment."
+     "take": "The media RFP is quietly going obsolete - buyers and sellers are routing around the formal process that structured media deals for decades."
     },
     {
-     "title": "AI Is off the Festive Dinner Menu In Coke\u2019s 2026 Holiday Ad",
-     "url": "https://www.adweek.com/creativity/ai-is-off-the-festive-dinner-menu-in-cokes-2026-holiday-ad/",
+     "title": "The Art, Science and Theater of Modern Marketing ft. Thomas Ranese",
+     "url": "https://www.adweek.com/brand-marketing/the-art-science-and-theater-of-modern-marketing-ft-thomas-ranese/",
      "source": "Adweek",
-     "take": "Coke, burned by past AI-ad backlash, is pointedly keeping AI off the menu for its 2026 holiday spot."
+     "take": "Adweek's marketing panel lands on a useful frame: modern marketing is part art, part science, and part theater - and the theater part is not optional."
     },
     {
-     "title": "Anthropic says no to ads but Wall Street may have other ideas",
-     "url": "https://digiday.com/marketing/anthropic-says-no-to-ads-but-wall-street-may-have-other-ideas/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-     "source": "Digiday",
-     "take": "Anthropic says no ads in Claude \u2014 now that it's public, Wall Street may test how long that holds."
+     "title": "Skydance\u2019s Rebecca Mall Announces New Marketing Leadership Team",
+     "url": "https://www.adweek.com/media/skydances-rebecca-mall-announces-new-marketing-leadership-team/",
+     "source": "Adweek",
+     "take": "Skydance's Rebecca Mall named her new marketing leadership team - the post-merger studio's pitch machine is taking its final shape."
     },
     {
-     "title": "Why more brands are paying creators to make their ads",
-     "url": "https://digiday.com/marketing/why-more-brands-are-paying-creators-to-make-their-ads/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-     "source": "Digiday",
-     "take": "More brands are skipping polished spots and paying creators to make the ads instead \u2014 authenticity is the buy."
+     "title": "How Taco Bell Turned a Golf Tournament Into Its Latest Entertainment Play",
+     "url": "https://www.adweek.com/brand-marketing/how-taco-bell-turned-a-golf-tournament-into-its-latest-entertainment-play/",
+     "source": "Adweek",
+     "take": "Taco Bell turned a golf tournament into an entertainment play - another fast-food brand treating live events as content, not sponsorship."
     },
     {
-     "title": "Canva's 'AI off switch' finally recognises the backlash from creatives",
-     "url": "https://www.creativebloq.com/news/the-canva-ai-off-switch-finally-recognises-the-artist-backlash",
+     "title": "How SNTIENT 2.0 put a ruined city outside a bedroom-sized set",
+     "url": "https://www.creativebloq.com/news/how-sntient-2-0-put-a-ruined-city-outside-a-bedroom-sized-set",
      "source": "Creative Bloq",
-     "take": "Canva's new AI off switch is a direct nod to creatives who never asked for AI in every tool."
+     "take": "How SNTIENT 2.0 built a ruined city outside a bedroom-sized set - a practical-effects reminder that scale is a camera trick, not a budget line."
     },
     {
-     "title": "Meta\u2019s Holiday Ad Pitches Its Smart Glasses as the Secret to Present Parenting",
-     "url": "https://www.adweek.com/brand-marketing/metas-holiday-ad-pitches-its-smart-glasses-as-the-secret-to-present-parenting/",
-     "source": "Adweek",
-     "take": "Meta's holiday pitch for its smart glasses: be the present parent, let the glasses capture the moment."
+     "title": "GTA 6\u2019s NPCs are built to the same visual standard as Jason and Lucia",
+     "url": "https://www.creativebloq.com/news/gta-6s-npcs-are-built-to-the-same-visual-standard-as-jason-and-lucia",
+     "source": "Creative Bloq",
+     "take": "GTA 6's background NPCs are built to the same visual standard as its leads - the detail bar for the whole industry just moved again."
+    },
+    {
+     "title": "Campaign Trail: Tiffany tells human holiday story with Hollywood talent",
+     "url": "https://www.marketingdive.com/news/campaign-trail-tiffany-tells-human-holiday-story-with-hollywood-talent/874914/",
+     "source": "Marketing Dive",
+     "take": "Tiffany is telling a human holiday story with Hollywood talent - luxury's festive bet is people and craft, pointedly not AI."
     }
    ]
   },
@@ -100,40 +106,40 @@
    "name": "NBA",
    "stories": [
     {
+     "title": "As James Harden passes Kobe Bryant on NBA's 50-point game list, Donovan Mitchell says he's underappreciated",
+     "url": "https://www.cbssports.com/nba/news/james-harden-kobe-bryant-donovan-mitchell-nba-50-point-game-list/",
+     "source": "CBS Sports NBA",
+     "take": "Harden's vintage 51 passed Kobe on the all-time 50-point games list - and Donovan Mitchell's point stands: he is still underappreciated for it."
+    },
+    {
      "title": "Lakers eke out win after Redick rips team's lack of fight vs. last-place Kings",
      "url": "https://www.espn.com/nba/story/_/id/50547994/jj-redick-half-rant-fuels-lakers-last-place-kings",
      "source": "ESPN NBA",
-     "take": "The Lakers barely beat the last-place Kings after JJ Redick ripped their lack of fight \u2014 a win that felt like a warning."
+     "take": "The Lakers eked out a win over last-place Sacramento, but Redick ripped the team's lack of fight - a win that read like a warning."
     },
     {
-     "title": "Harden has 51 in 'vintage' performance, leaps Kobe for 3rd-most 50-point games",
-     "url": "https://www.espn.com/nba/story/_/id/50546191/james-harden-explodes-51-points-propels-cavs-pacers",
+     "title": "What NBA insiders see from Boozer, Dybantsa and seven other top rookies",
+     "url": "https://www.espn.com/nba/story/_/id/50534111/rookies-dybantsa-peterson-boozer-acuff-yaxel",
      "source": "ESPN NBA",
-     "take": "James Harden dropped 51 in a vintage night, passing Kobe for third-most 50-point games in NBA history."
+     "take": "One month in, insiders are grading the rookie class - Boozer, Dybantsa and seven other top rookies get the early verdict."
     },
     {
      "title": "\ud83d\udc40 What the first month has revealed about all 30 teams",
      "url": "https://www.espn.com/nba/story/_/id/50502518/first-month-lakers-knicks-spurs-celtics",
      "source": "ESPN NBA",
-     "take": "One month in, ESPN takes stock of all 30 teams \u2014 what's real, what's noise, and who's already in trouble."
+     "take": "ESPN's one-month check on all 30 teams: the contenders separated fast, and a few supposed rebuilds are ahead of schedule."
     },
     {
-     "title": "Timberwolves, Grizzlies reportedly hope to move to Eastern Conference after expansion; who makes more sense?",
-     "url": "https://www.cbssports.com/nba/news/nba-expansion-timberwolves-grizzlies-eastern-conference/",
-     "source": "CBS Sports NBA",
-     "take": "Minnesota and Memphis reportedly want East after expansion \u2014 geography finally catching up with the conference map."
-    },
-    {
-     "title": "Damian Lillard stars in his Milwaukee return in another stark reminder of how bleak things are for the Bucks",
-     "url": "https://www.cbssports.com/nba/news/damian-lillard-milwaukee-return-trail-blazers-bucks-bleak-future/",
-     "source": "CBS Sports NBA",
-     "take": "Lillard starred back in Milwaukee, a bright moment that only underlined how bleak things have gotten for the Bucks."
-    },
-    {
-     "title": "Updated NBA championship and MVP odds: Heat on the rise, Wemby moves ahead of Luka",
-     "url": "https://www.espn.com/espn/betting/story/_/id/44679680/2026-nba-finals-championship-mvp-odds",
+     "title": "Udoka says Rockets 'mentally fragile,' blasts defense after loss to Nuggets",
+     "url": "https://www.espn.com/nba/story/_/id/50549254/ime-udoka-frustrated-rockets-defense-loss-nuggets",
      "source": "ESPN NBA",
-     "take": "Miami is rising and Wembanyama has moved ahead of Luka in early MVP odds after the season's first month."
+     "take": "Udoka called his Rockets 'mentally fragile' and blasted the defense after the Nuggets loss - Houston's slump now has a label from its own coach."
+    },
+    {
+     "title": "NBA injury updates: The latest on Tyrese Haliburton, Anthony Edwards, Kawhi Leonard, Dylan Harper, more",
+     "url": "https://www.cbssports.com/nba/news/nba-injury-updates-tyrese-haliburton-kawhi-leonard-dylan-harper-brandon-ingram/",
+     "source": "CBS Sports NBA",
+     "take": "The injury ledger that matters: latest status on Haliburton, Anthony Edwards, Kawhi Leonard and Dylan Harper as the schedule tightens."
     }
    ]
   },
@@ -141,40 +147,46 @@
    "name": "MLB",
    "stories": [
     {
-     "title": "Skubal to Mets? MLB offseason dominoes for biggest free agents",
-     "url": "https://www.espn.com/mlb/story/_/id/50512061/offseason-free-agency-signings-predictions",
-     "source": "ESPN MLB",
-     "take": "Tarik Skubal to the Mets is the domino that could set the whole free-agent winter in motion."
+     "title": "A.J. Ewing, Mets agree to eight-year, $95 million extension after standout rookie season, per reports",
+     "url": "https://www.cbssports.com/mlb/news/a-j-ewing-new-york-mets-contract-extension/",
+     "source": "CBS Sports MLB",
+     "take": "The Mets locked up rookie standout A.J. Ewing for eight years and $95 million - an early, big bet that his debut season was the real thing."
     },
     {
-     "title": "Dodgers acquire versatile infielder Lewis in trade with Twins",
-     "url": "https://www.espn.com/mlb/story/_/id/50544410/sources-dodgers-acquire-royce-lewis-trade-twins",
-     "source": "ESPN MLB",
-     "take": "The Dodgers landed former No. 1 pick Royce Lewis from Minnesota \u2014 a buy-low swing on a big talent."
+     "title": "MLB rumors: Freddy Peralta market picking up steam, top Japanese pitcher visits Chicago, more",
+     "url": "https://www.cbssports.com/mlb/news/mlb-rumors-freddy-peralta-hiromi-itoh-mark-vientos-mets-cubs-white-sox/",
+     "source": "CBS Sports MLB",
+     "take": "The Peralta market is picking up steam and a top Japanese pitcher visited Chicago - the hot-stove rumor mill is fully warm now."
     },
     {
-     "title": "MLB offseason grades: Yankees reinforce bullpen with Bednar, Loaisiga",
-     "url": "https://www.espn.com/mlb/story/_/id/50473334/2026-27-offseason-free-agency-trade-grades",
+     "title": "Luis Gil, Nolan Gorman, Trevor Larnach, more hit MLB free agency after non-tender deadline",
+     "url": "https://www.cbssports.com/mlb/news/mlb-free-agency-non-tender-deadline-decisions/",
+     "source": "CBS Sports MLB",
+     "take": "Non-tender day reshaped free agency: former AL Rookie of the Year Luis Gil, Nolan Gorman and Trevor Larnach were all cut loose."
+    },
+    {
+     "title": "Royce Lewis trade grades: Dodgers land former No. 1 pick; Twins get another arm, arrow-up prospect",
+     "url": "https://www.cbssports.com/mlb/news/royce-lewis-trade-grades-twins-dodgers/",
+     "source": "CBS Sports MLB",
+     "take": "Trade grades on the Dodgers landing former No. 1 pick Royce Lewis from Minnesota - Los Angeles buys low on pedigree, the Twins take an arm and an arrow-up prospect."
+    },
+    {
+     "title": "Padres bring back slugger Sheets with 3-year deal",
+     "url": "https://www.espn.com/mlb/story/_/id/50545784/gavin-sheets-returns-san-diego-padres-11-million-3-year-deal",
      "source": "ESPN MLB",
-     "take": "Early offseason grades like the Yankees' bullpen work, adding Bednar and bringing back Lo\u00e1isiga."
+     "take": "San Diego kept its slugger: Gavin Sheets returns on a three-year deal instead of testing a thin first-base market."
+    },
+    {
+     "title": "Ohtani extends deal with New Balance for remainder of playing career",
+     "url": "https://www.espn.com/mlb/story/_/id/50542241/shohei-ohtani-extends-new-balance-rest-playing-career",
+     "source": "ESPN MLB",
+     "take": "Ohtani extended his New Balance deal for the rest of his playing career - the most marketable player in baseball is off the endorsement market for good."
     },
     {
      "title": "MLB CBA negotiations timeline: League, MLBPA continue brawling over salary cap as Dec. 1 deadline nears",
      "url": "https://www.cbssports.com/mlb/news/mlb-cba-negotiations-timeline-2026/",
      "source": "CBS Sports MLB",
-     "take": "With the Dec. 1 deadline nearing, the league and union are still brawling over a salary cap."
-    },
-    {
-     "title": "Gil, '24 AL Rookie of Year, cut loose by Yankees at MLB tender deadline",
-     "url": "https://www.espn.com/mlb/story/_/id/50545849/yankees-cut-gil-24-al-rookie-year-tender-deadline",
-     "source": "ESPN MLB",
-     "take": "The Yankees cut Luis Gil, the 2024 AL Rookie of the Year, loose at the tender deadline \u2014 a stunner of a non-tender."
-    },
-    {
-     "title": "Sources: Tigers, right-hander Melton agree to 6-year, $46.5M extension",
-     "url": "https://www.espn.com/mlb/story/_/id/50543664/sources-tigers-troy-melton-reach-6-year-465m-extension",
-     "source": "ESPN MLB",
-     "take": "Detroit locked up right-hander Melton for six years and $46.5M, betting early on its rotation future."
+     "take": "The CBA fight over a salary cap keeps brawling toward the Dec. 1 deadline - the calendar, not the rhetoric, is now the story."
     }
    ]
   },
@@ -182,46 +194,52 @@
    "name": "National",
    "stories": [
     {
-     "title": "NATO calls Russian missiles landing in Poland a 'grave violation' of airspace",
-     "url": "https://www.pbs.org/newshour/world/nato-calls-russian-missiles-landing-in-poland-a-grave-violation-of-airspace",
-     "source": "PBS NewsHour",
-     "take": "NATO called Russian missiles landing in Poland a 'grave violation' of airspace \u2014 the war keeps spilling over the border."
-    },
-    {
-     "title": "Senate permitting bill speeds up renewables, divides greens over oil and gas",
-     "url": "https://www.npr.org/2026/11/21/nx-s1-6046482/senate-permitting-bill-speeds-up-renewables-divides-greens-over-oil-and-gas",
-     "source": "NPR News",
-     "take": "The Senate permitting bill would speed renewables but divides greens over what it gives oil and gas."
-    },
-    {
-     "title": "Cop31 talks go into overtime as debate rages over lack of fossil fuels in draft deal",
-     "url": "https://www.theguardian.com/environment/2026/nov/20/cop31-talks-overtime-fossil-fuels-vanish-from-draft-deal",
+     "title": "Climate talks stall as countries mull showdown with Saudi Arabia over fossil fuel phaseout",
+     "url": "https://www.theguardian.com/environment/2026/nov/21/climate-talks-stall-countries-mull-showdown-saudi-arabia-over-fossil-fuels",
      "source": "Guardian US",
-     "take": "COP31 ran into overtime with fossil fuels still missing from the draft deal \u2014 activists call it one of the most disappointing COPs ever."
+     "take": "COP31 stalled Saturday night in Turkey, with countries weighing a showdown with Saudi Arabia over phasing out fossil fuels as the summit overruns without a deal."
     },
     {
-     "title": "Second federal judge blocks construction of Trump's memorial arch",
-     "url": "https://www.pbs.org/newshour/politics/second-federal-judge-blocks-construction-of-trumps-memorial-arch",
+     "title": "Trump orders federal contractors to check with White House before responding to Congress",
+     "url": "https://www.pbs.org/newshour/politics/trump-orders-federal-contractors-to-check-with-white-house-before-responding-to-congress",
      "source": "PBS NewsHour",
-     "take": "A second federal judge has blocked Trump's memorial arch, another court check on the White House build-out."
+     "take": "Trump ordered federal contractors to check with the White House before responding to Congress - a direct new friction point between the branches."
     },
     {
-     "title": "An effort to circumvent the Electoral College may be within reach. But hurdles remain",
-     "url": "https://www.npr.org/2026/11/21/nx-s1-6044237/electoral-college-national-popular-vote-interstate-compact",
+     "title": "Trump auditions potential successors as Rubio and Vance join him for White House briefing",
+     "url": "https://www.pbs.org/newshour/politics/trump-auditions-potential-successors-as-rubio-and-vance-join-him-for-white-house-briefing",
+     "source": "PBS NewsHour",
+     "take": "Trump is openly auditioning successors, with Rubio and Vance joining him for a White House briefing - the 2028 shadow race is now staged in public."
+    },
+    {
+     "title": "Bayer reaches Roundup settlement that could cost the company billions",
+     "url": "https://www.npr.org/2026/11/21/nx-s1-6049684/roundup-bayer-hodgkins-settlement",
      "source": "NPR News",
-     "take": "The interstate compact to sidestep the Electoral College is within reach \u2014 but the legal hurdles after that are the real fight."
+     "take": "Bayer's Roundup settlement could cost billions - the court-approved $7.25 billion deal is the company's attempt to finally cap the weed-killer litigation."
     },
     {
-     "title": "Court approves $7.25 billion Bayer settlement over claims Roundup weed killer caused cancer",
-     "url": "https://www.pbs.org/newshour/nation/court-approves-7-25-billion-bayer-settlement-over-claims-roundup-weed-killer-caused-cancer",
+     "title": "Storms expected on both coasts threatens Thanksgiving travel",
+     "url": "https://www.npr.org/2026/11/21/nx-s1-6047508/weather-thanksgiving-storm-elnino",
+     "source": "NPR News",
+     "take": "Storms on both coasts are set to snarl Thanksgiving travel - the busiest travel week of the year meets the worst timing."
+    },
+    {
+     "title": "Mexico detains top cartel boss 'El Chapo Isidro,' setting off a burst of violence in Sinaloa",
+     "url": "https://www.pbs.org/newshour/world/mexico-detains-top-cartel-boss-el-chapo-isidro-setting-off-a-burst-of-violence-in-sinaloa",
      "source": "PBS NewsHour",
-     "take": "A court approved Bayer's $7.25B Roundup settlement, a major step toward closing years of cancer claims."
+     "take": "Mexico detained cartel boss 'El Chapo Isidro' in a special forces raid, setting off a burst of violence in Sinaloa."
     },
     {
-     "title": "Race to lead Senate Democrats the latest battlefield in party\u2019s tussle over Israel",
-     "url": "https://www.theguardian.com/us-news/2026/nov/21/senate-democrats-chuck-schumer-chris-van-hollen",
+     "title": "Killer robots: U.N. talks fall short of hopes for legally binding rules",
+     "url": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones",
+     "source": "NPR News",
+     "take": "UN talks on autonomous weapons collapsed without binding rules - 'killer robots' remain governed by hope rather than law."
+    },
+    {
+     "title": "Virginia child dies in state\u2019s first measles-associated death of 2026",
+     "url": "https://www.theguardian.com/us-news/2026/nov/21/virginia-child-dies-measles",
      "source": "Guardian US",
-     "take": "The race to lead Senate Democrats has become the latest front in the party's fight over Israel."
+     "take": "A Virginia child died in the state's first measles-associated death of 2026 - the outbreak toll keeps reaching places it had not before."
     }
    ]
   },
@@ -229,46 +247,46 @@
    "name": "California",
    "stories": [
     {
-     "title": "Palisades arson retrial ends with conviction of man accused of sparking deadly wildfire",
-     "url": "https://www.latimes.com/california/story/2026-11-20/palisades-fire-arson-retrial-verdict",
+     "title": "Another quake rattles Southern California, this time off the coast of San Pedro",
+     "url": "https://www.latimes.com/california/story/2026-11-21/another-quake-rattles-southern-california-this-time-off-coast-of-san-pedro",
      "source": "LA Times California",
-     "take": "A jury convicted Jonathan Rinderknecht in the Palisades arson retrial for sparking the deadly 2025 wildfire."
+     "take": "Another quake rattled Southern California, this time off the coast of San Pedro - the second shaker to get the region's attention in two days."
     },
     {
-     "title": "UC jumps into AI with systemwide OpenAI deal as faculty urge caution",
-     "url": "https://www.latimes.com/california/story/2026-11-21/uc-openai-chatgpt-deal",
+     "title": "L.A. County wants to talk with neighbors of Chiquita Canyon trash juice explosion",
+     "url": "https://www.latimes.com/california/story/2026-11-21/la-county-wants-to-talk-with-chiquita-canyon-trash-geyser-neighbors",
      "source": "LA Times California",
-     "take": "UC signed a systemwide OpenAI deal while faculty urge caution \u2014 the classroom AI fight comes to California's biggest university."
+     "take": "L.A. County wants to talk with neighbors of the Chiquita Canyon 'trash juice' explosion - the landfill saga moves from blast to community fallout."
     },
     {
-     "title": "Thousands of mixed-status California families to lose housing under Trump HUD rule",
-     "url": "https://calmatters.org/housing/2026/11/hud-mixed-status/",
-     "source": "CalMatters",
-     "take": "A Trump HUD rule will cost thousands of mixed-status California families their housing assistance."
-    },
-    {
-     "title": "California adds 47,000 jobs in October, dropping unemployment rate to lowest in three years",
-     "url": "https://www.latimes.com/business/story/2026-11-20/california-adds-47-000-jobs-in-october-as-unemployment-drops-to-three-year-low",
+     "title": "Body pulled from L.A. River following powerful storm, investigation underway",
+     "url": "https://www.latimes.com/california/story/2026-11-21/body-pulled-from-la-river-following-powerful-storm",
      "source": "LA Times California",
-     "take": "California added 47,000 jobs in October, dropping unemployment to its lowest in three years."
+     "take": "A body was pulled from the L.A. River after the powerful storm, and an investigation is under way - the record rain's human cost is still being counted."
     },
     {
-     "title": "Atmospheric river dumps rain on Southern California, breaking decades-old records",
-     "url": "https://www.latimes.com/california/story/2026-11-20/atmospheric-river-socal-record-rain",
+     "title": "Dozens of dogs recovered in Pasadena need fur-ever homes. Here's how you can help",
+     "url": "https://www.latimes.com/california/story/2026-11-21/dogs-recovered-pasadena-need-homes-how-you-can-help",
      "source": "LA Times California",
-     "take": "An atmospheric river dumped record-breaking rain on Southern California \u2014 and a body was pulled from the L.A. River after the storm."
+     "take": "Dozens of dogs recovered in Pasadena need homes - a lighter note with a real ask attached if you have room for one."
     },
     {
-     "title": "California just elected its most diverse group of lawmakers yet",
-     "url": "https://calmatters.org/politics/elections/2026/11/diverse-california-legislature/",
-     "source": "CalMatters",
-     "take": "California's newest Legislature is its most diverse ever, even as AI flooded the state's election ads."
-    },
-    {
-     "title": "From transmission lines to pipelines: What the Senate's permitting reform bill could mean for California",
-     "url": "https://www.latimes.com/environment/story/2026-11-20/from-transmission-lines-to-pipelines-what-senates-permitting-bill-could-mean-for-california",
+     "title": "Desperate to curb drugs and crime, L.A. is building a fence around MacArthur Park",
+     "url": "https://www.latimes.com/california/story/2026-11-21/desperate-to-curb-drugs-crime-la-is-building-fence-around-macarthur-park",
      "source": "LA Times California",
-     "take": "What Washington's permitting overhaul would mean at home: faster transmission lines, pipelines, and data-center energy fights in California."
+     "take": "L.A. is building a fence around MacArthur Park to curb drugs and crime - a drastic fix that will test whether barriers change behavior or just move it."
+    },
+    {
+     "title": "Honeymoon over? Controller Mejia accuses L.A. Council of trying to sabotage Raman",
+     "url": "https://www.latimes.com/california/story/2026-11-21/honeymoon-over-controller-mejia-accuses-la-council-of-trying-to-sabotage-raman",
+     "source": "LA Times California",
+     "take": "The honeymoon may already be over: Controller Mejia accused the L.A. Council of trying to sabotage Mayor-elect Raman before she even takes office."
+    },
+    {
+     "title": "Federal jury convicts man of starting the deadly 2025 Palisades Fire in Los Angeles",
+     "url": "https://www.npr.org/2026/11/21/nx-s1-6049625/palisades-fire-conviction",
+     "source": "NPR News",
+     "take": "A federal jury convicted the man who started the deadly 2025 Palisades Fire - the verdict closes the criminal chapter of L.A.'s worst recent disaster."
     }
    ]
   },
@@ -276,71 +294,17 @@
    "name": "\ud83c\udf99\ufe0f Podcasts",
    "stories": [
     {
-     "title": "Anthropic's IPO & Nvidia Drama Test Investor AI Appetite",
-     "url": "https://podcasts.apple.com/us/podcast/anthropics-ipo-nvidia-drama-test-investor-ai-appetite/id326301337?i=1000803265500&uo=4",
-     "source": "Bloomberg Intelligence",
-     "take": "Anthropic's record IPO turned muted on day two, down about 12.5% toward its $83 IPO price with staff locked up for 180 days \u2022 Hosts compare it to Facebook's IPO train wreck and recovery, but note Anthropic is less proven with more rivals and regulation \u2022 S&P 500 is in correction, down 10% from its high, as the AI trade unwinds"
-    },
-    {
-     "title": "Can Anthropic afford to put safety first?",
-     "url": "https://podcasts.apple.com/us/podcast/can-anthropic-afford-to-put-safety-first/id1011668648?i=1000803269517&uo=4",
-     "source": "Decoder with Nilay Patel",
-     "take": "The answer: legally yes \u2014 founders hold 50.1% of voting power, so shareholders can't vote safety out \u2014 but economically the pressure points the other way \u2022 Anthropic must grow revenue roughly 17-fold in 10 years while paying about $900B in compute costs, and expensive safety work is the likeliest casualty \u2022 Watch earnings calls for quietly sidelined safety teams, not the daily stock price"
-    },
-    {
-     "title": "Man found guilty of starting deadly LA wildfire",
-     "url": "https://podcasts.apple.com/us/podcast/man-found-guilty-of-starting-deadly-la-wildfire/id135067274?i=1000803242876&uo=4",
-     "source": "Global News Podcast",
-     "take": "A jury found Jonathan Rinderknecht guilty of starting the deadly 2025 Palisades fire; he faces 5\u201320 years per count, sentencing March 17 \u2022 Prosecutors said a small New Year's Day fire smouldered in roots for six days before winds revived it; the fires killed 12 and destroyed thousands of homes \u2022 Trump defended Putin and Xi meetings and threatened to ban US firms building AI data centers overseas"
-    },
-    {
-     "title": "The Happy Pod: The 'amazing\u2019 device that controls Tourette's",
-     "url": "https://podcasts.apple.com/us/podcast/global-news-podcast/id135067274?uo=4",
-     "source": "Global News Podcast",
-     "take": "A UK-trialled wrist device sending pulses to the median nerve eased Tourette's tics for 17-year-old Milo \u2014 his mother says his face visibly relaxes when he wears it \u2022 A Gifu chef who was once homeless runs Seven Cafe: free meals for preschoolers, cheap buffets, and about 50 volunteers, taking no salary \u2022 Voyager 1 became the first human-made object one light-day from Earth, more than 25 billion km away"
-    },
-    {
-     "title": "How AI Is Forcing China to Reshape Industrial Policy",
-     "url": "https://podcasts.apple.com/us/podcast/how-ai-is-forcing-china-to-reshape-industrial-policy/id1056200096?i=1000803259965&uo=4",
-     "source": "Odd Lots",
-     "take": "The answer: Beijing is pushing firms toward a fully self-reliant chip stack \u2014 co-designing with Huawei even at short-term cost \u2014 over building on the best Nvidia chips today \u2022 US export controls and five-year-plan incentives drive the full-stack push across chips, HBM, and lithography \u2022 Huawei Ascend chips are good enough for inference and pushing toward training; the bottleneck is production scale at SMIC"
-    },
-    {
-     "title": "Jensen Huang's Downfall Reveals Silicon Valley's Biggest Problem",
-     "url": "https://podcasts.apple.com/us/podcast/jensen-huangs-downfall-reveals-silicon-valleys-biggest/id1744631325?i=1000803261800&uo=4",
-     "source": "Prof G Markets",
-     "take": "The answer: Silicon Valley's biggest problem is billionaire CEOs who are never told no \u2014 the 'Icarus Paradox,' where flattery inflates judgment until it fails \u2022 For Huang, Elson points to allegedly circumventing export laws or not seeing an alleged Chinese chip smuggler as a problem \u2022 Nvidia had no board chair, COO, or succession plan, Elson notes"
-    },
-    {
-     "title": "Hakeem Jeffries on Trump, Stephen Miller, AIPAC and the Road Ahead",
-     "url": "https://podcasts.apple.com/us/podcast/the-daily/id1200361736?uo=4",
-     "source": "The Daily",
-     "take": "House Democrats nominated Hakeem Jeffries for Speaker, putting him in line to be the first Black Speaker on Jan. 3 \u2022 Jeffries says he won't deal with Stephen Miller, whom he calls a 'stone cold racist,' but can talk directly to Trump and cabinet secretaries \u2022 His affordability targets: housing, health care, gas, utilities, groceries, and caregiving"
-    },
-    {
-     "title": "Democrats audition for 2028",
-     "url": "https://podcasts.apple.com/us/podcast/democrats-audition-for-2028/id1346207297?i=1000803295310&uo=4",
-     "source": "Today, Explained",
-     "take": "From Denver's What's Next conference, 2028 hopefuls auditioned before about 3,500 Democratic insiders after the midterm wins \u2022 Sen. Raphael Warnock: voters didn't fall in love with Democrats, they felt crushed economically and gave the party a chance \u2014 it must center people, not politics \u2022 Warnock says the party ignores the South at its peril and should dream bigger on health care"
-    },
-    {
-     "title": "AI Stocks Tumble, Permitting Reform Bill Clears Senate, Confusion Over Medicaid Cuts",
-     "url": "https://podcasts.apple.com/us/podcast/ai-stocks-tumble-permitting-reform-bill-clears-senate/id1222114325?i=1000803299156&uo=4",
-     "source": "Up First",
-     "take": "NASDAQ fell 10% this week, its worst since 2020, with the S&P and Dow in correction despite Anthropic's record IPO \u2022 Drivers cited: a September Fed rate hike, Democrats promising to slow the AI boom, and Jensen Huang's resignation \u2022 The Senate passed bipartisan permitting reform rewriting NEPA and other laws, while confusion grows over Medicaid cuts"
-    },
-    {
-     "title": "What\u2019s News in Markets: Anthropic IPO, Nvidia Drama, \u2018GTA VI\u2019",
-     "url": "https://www.wsj.com/podcasts/whats-news",
-     "source": "WSJ What's News",
-     "take": "Markets in correction: NASDAQ -8% for the week, S&P nearly -9%, Dow -10%, erasing NASDAQ's 2026 gains \u2022 Anthropic popped 30% at its IPO open but finished day one up just 17%, then fell 8.5% Friday to just under $89 vs. its $83 IPO price \u2022 Nvidia is down 23% for the week and now the fourth-largest US company; GTA VI is projected to sell 30M+ copies at $80+"
+     "title": "Port workers avert strike, CSU strike authorization, Teen punk venue \u2014 Saturday Edition",
+     "url": "https://podcasts.apple.com/us/podcast/port-workers-avert-strike-csu-strike-authorization/id1508035189?i=1000803337632&uo=4",
+     "source": "The LA Report",
+     "take": "Port strike averted: about 250 security guards at the ports of LA and Long Beach reached a tentative deal before their contract expired, avoiding a walkout thousands of other port workers could have joined \u2022 CSU faculty authorized a strike: Cal State faculty voted overwhelmingly to let their bargaining team call a strike, seeking better raises, AI guardrails and academic freedom protections \u2022 Backyard Party's permanent teen venue: the music nonprofit opened an all-ages, alcohol-free Pasadena venue for young bands - $12 shows, bands always paid, and a permanent home after the Eaton fire displaced its shows"
     }
    ]
   }
  ],
  "markets": {
   "source": "Yahoo Finance",
-  "fetched_at": "2026-11-21T09:01:36.992398-08:00",
+  "fetched_at": "2026-11-21T13:03:13.120747-08:00",
   "dates": [
    "2025-11-21",
    "2025-11-24",

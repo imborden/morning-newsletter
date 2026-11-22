@@ -1,6 +1,6 @@
 {
- "date": "2026-11-21",
- "updated_label": "EVENING UPDATE \u00b7 8:17 PM PT",
+ "date": "2026-11-22",
+ "updated_label": "MORNING EDITION \u00b7 9:04 AM PT",
  "sections": [
   {
    "name": "Tech & AI",
@@ -9,96 +9,66 @@
      "title": "Signal restricts mobile screenshots as it confronts \u2018existential threat\u2019 of AI surveillance",
      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
      "source": "TechCrunch",
-     "take": "Signal is blocking mobile screenshots to fight AI surveillance \u2014 the encrypted app now treats always-watching AI assistants as an existential threat to private messaging."
+     "take": "Signal is blocking screenshots on mobile \u2014 a sign AI agents that can see your screen are now a real privacy threat."
     },
     {
      "title": "A tale of two Nvidias",
      "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
      "source": "TechCrunch",
-     "take": "Two Nvidias are emerging: the AI chip king printing money, and a company whose China business, board drama and export fights keep complicating the story."
+     "take": "Nvidia sits at the center of the AI boom and the China chip fight at the same time \u2014 and those two stories are pulling in opposite directions."
     },
     {
-     "title": "Two groups verify mathematician\u2019s claim that Claude helped prove mathematics problem",
-     "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
-     "source": "Guardian US",
-     "take": "Settled tonight: two groups have verified the claim that Claude helped prove a mathematics problem tied to the 167-year-old Riemann hypothesis \u2014 assertion is now a checked result."
-    },
-    {
-     "title": "Bessent says no further restrictions are needed for Nvidia chip exports to China",
-     "url": "https://www.pbs.org/newshour/politics/bessent-says-no-further-restrictions-are-needed-for-nvidia-chip-exports-to-china",
-     "source": "PBS NewsHour",
-     "take": "Treasury Secretary Bessent says no further restrictions are needed on Nvidia chip exports to China \u2014 a clear signal the administration is not tightening the AI chip screws again, for now."
-    },
-    {
-     "title": "Google employees protest AI in schools policy",
-     "url": "https://www.npr.org/2026/11/21/nx-s1-6048599/google-employees-protest-ai-in-schools-policy",
-     "source": "NPR News",
-     "take": "Google employees are protesting the company's AI-in-schools policy from inside \u2014 the education push is now a workforce fight, not just a product launch."
+     "title": "Banks Have Had It Up to Here With Your AI Agent",
+     "url": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
+     "source": "Wired",
+     "take": "Banks are cracking down on AI agents acting for customers \u2014 the agent era is hitting real-world guardrails."
     },
     {
      "title": "The Outages Are Just Getting Started",
      "url": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
      "source": "Wired",
-     "take": "Wired's warning held up all day: the recent tech failures are not a blip, and the systems underneath them are getting more tangled, not simpler."
+     "take": "Wired warns the recent wave of tech outages is not a blip \u2014 expect years of fragility as systems get more tangled."
     },
     {
-     "title": "Here are the top AI agents that can live in your text messages",
-     "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
-     "source": "TechCrunch",
-     "take": "The newest AI agents live right in your texts \u2014 TechCrunch rounds up the ones that book, buy and answer without making you open another app."
+     "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
+     "url": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
+     "source": "Ars Technica",
+     "take": "GLP-1 drugs may cut food demand enough to matter for emissions \u2014 an unexpected climate angle on a health story."
     },
     {
-     "title": "USDA, FBI breached by hackers amid spate of tech outages \u2013 reports",
-     "url": "https://www.theguardian.com/us-news/2026/nov/21/usda-fbi-outages-cyber-attack",
-     "source": "Guardian US",
-     "take": "Federal systems took the hit: USDA and FBI breaches were reported amid a spate of tech outages, and the FBI is investigating an apparent hack of a key criminal justice database."
+     "title": "Mercury gets its first visitor in years as a pair of spacecraft loop into orbit",
+     "url": "https://www.pbs.org/newshour/science/mercury-gets-its-first-visitor-in-years-as-a-pair-of-spacecraft-loop-into-orbit",
+     "source": "PBS NewsHour",
+     "take": "Two spacecraft just reached Mercury \u2014 the first visit in years to the least-explored inner planet."
     }
    ]
   },
   {
-   "name": "Marketing & creative industry",
+   "name": "Marketing",
    "stories": [
     {
-     "title": "The Media RFP Is Quietly Becoming Obsolete ft. Bruce Williams",
-     "url": "https://www.adweek.com/brand-marketing/the-media-rfp-is-quietly-becoming-obsolete-ft-bruce-williams/",
-     "source": "Adweek",
-     "take": "The media RFP is quietly dying \u2014 Bruce Williams argues brands now pick partners on relationships and live problem-solving, not a binder of responses."
-    },
-    {
-     "title": "The Art, Science and Theater of Modern Marketing ft. Thomas Ranese",
-     "url": "https://www.adweek.com/brand-marketing/the-art-science-and-theater-of-modern-marketing-ft-thomas-ranese/",
-     "source": "Adweek",
-     "take": "Modern marketing as theater: Thomas Ranese makes the case that the best work still needs showmanship on top of the data and the science."
-    },
-    {
-     "title": "How SNTIENT 2.0 put a ruined city outside a bedroom-sized set",
-     "url": "https://www.creativebloq.com/news/how-sntient-2-0-put-a-ruined-city-outside-a-bedroom-sized-set",
+     "title": "\u201cIt\u2019s not meant to replace your creativity\u201d: Adobe\u2019s AI pitch hasn\u2019t changed in two years, but the tools have",
+     "url": "https://www.creativebloq.com/features/its-not-meant-to-replace-your-creativity-adobes-ai-pitch-hasnt-changed-in-two-years-but-the-tools-have",
      "source": "Creative Bloq",
-     "take": "A ruined city, built outside a bedroom-sized set: SNTIENT 2.0 shows how far practical sets plus digital extension can stretch a tiny stage."
+     "take": "Adobe keeps saying AI will not replace creativity \u2014 Creative Bloq tests whether the much stronger tools still fit that pitch."
+    },
+    {
+     "title": "GTA 6 is proof that human creativity is still the most impressive technology we have",
+     "url": "https://www.creativebloq.com/news/gta-6-is-proof-that-human-creativity-is-still-the-most-impressive-technology-we-have",
+     "source": "Creative Bloq",
+     "take": "GTA 6 is being held up as proof that handcrafted detail still beats generated content \u2014 a useful line for creative work."
     },
     {
      "title": "GTA 6\u2019s NPCs are built to the same visual standard as Jason and Lucia",
      "url": "https://www.creativebloq.com/news/gta-6s-npcs-are-built-to-the-same-visual-standard-as-jason-and-lucia",
      "source": "Creative Bloq",
-     "take": "GTA 6's background characters are built to the same visual standard as leads Jason and Lucia \u2014 crowd scenes are no longer where the detail drops off."
+     "take": "Even background characters in GTA 6 get lead-character detail \u2014 that is the new bar for world-building craft."
     },
     {
      "title": "This movie poster is one big AI slop Easter egg hunt",
      "url": "https://www.creativebloq.com/news/this-movie-poster-is-one-big-ai-slop-easter-egg-hunt",
      "source": "Creative Bloq",
-     "take": "This movie poster turned into an AI slop Easter egg hunt \u2014 a cautionary poster child for letting generated art ship without a human eye on it."
-    },
-    {
-     "title": "This beautiful logo design was created to grow like nature",
-     "url": "https://www.creativebloq.com/news/this-beautiful-logo-design-was-created-to-grow-like-nature",
-     "source": "Creative Bloq",
-     "take": "A logo designed to grow like nature: branching, organic marks that change over time instead of sitting frozen in a brand guideline PDF."
-    },
-    {
-     "title": "Why has North Korea redesigned its flag? It's not about aesthetics...",
-     "url": "https://www.creativebloq.com/news/why-has-north-korea-redesigned-its-flag-its-not-about-aesthetics",
-     "source": "Creative Bloq",
-     "take": "North Korea redesigned its flag, and it is not about aesthetics \u2014 the change is a political signal dressed in design language."
+     "take": "A movie poster turned its AI mistakes into an Easter egg hunt \u2014 clever, but it also shows how visible slop has become."
     }
    ]
   },
@@ -106,46 +76,40 @@
    "name": "NBA",
    "stories": [
     {
+     "title": "Wemby makes history in 18 minutes, finishes game with 50 points",
+     "url": "https://www.espn.com/nba/story/_/id/50559763/victor-wembanyama-shows-50-point-5-block-performance",
+     "source": "ESPN NBA",
+     "take": "Wembanyama put up 50 points with 5 blocks \u2014 history in 18 minutes, then he finished the job."
+    },
+    {
+     "title": "Bridges shakes off slump, hits buzzer-beating 3 to save Knicks from collapse",
+     "url": "https://www.espn.com/nba/story/_/id/50559927/knicks-mikal-bridges-shakes-slump-3-buzzer-tops-blazers",
+     "source": "ESPN NBA",
+     "take": "Mikal Bridges broke his slump with a buzzer-beating 3 \u2014 the Knicks avoided a collapse against Portland."
+    },
+    {
      "title": "Harden has 51 in 'vintage' performance, leaps Kobe for 3rd-most 50-point games",
      "url": "https://www.espn.com/nba/story/_/id/50546191/james-harden-explodes-51-points-propels-cavs-pacers",
      "source": "ESPN NBA",
-     "take": "Vintage Harden, final: 51 points and he leaps Kobe Bryant for third-most 50-point games ever \u2014 a throwback night that still moved a record book."
-    },
-    {
-     "title": "76ers survive in clutch again despite Herro's 50",
-     "url": "https://www.espn.com/nba/story/_/id/50555316/76ers-survive-clutch-again-tyler-herro-50",
-     "source": "ESPN NBA",
-     "take": "Herro dropped 50 and it still was not enough \u2014 the 76ers survived in the clutch again, continuing their habit of winning the last five minutes."
-    },
-    {
-     "title": "Lakers eke out win after Redick rips team's lack of fight vs. last-place Kings",
-     "url": "https://www.espn.com/nba/story/_/id/50547994/jj-redick-half-rant-fuels-lakers-last-place-kings",
-     "source": "ESPN NBA",
-     "take": "The Lakers eked out a win over the last-place Kings, but JJ Redick ripped his team's lack of fight \u2014 the result was fine, the performance was not."
+     "take": "Harden dropped 51 and passed Kobe Bryant for third-most 50-point games \u2014 vintage, and now higher on the list."
     },
     {
      "title": "Is Stephen Curry the real NBA MVP? It's hard not to think so when you watch the Warriors without him",
      "url": "https://www.cbssports.com/nba/news/stephen-curry-injury-absence-nba-mvp-warriors/",
      "source": "CBS Sports NBA",
-     "take": "The MVP case for Curry is the Warriors themselves: watch them without him, and the argument writes itself."
+     "take": "Golden State without Curry is the MVP argument \u2014 the Warriors look lost without him."
     },
     {
-     "title": "\ud83d\udc40 What the first month has revealed about all 30 teams",
-     "url": "https://www.espn.com/nba/story/_/id/50502518/first-month-lakers-knicks-spurs-celtics",
+     "title": "Lakers eke out win after Redick rips team's lack of fight vs. last-place Kings",
+     "url": "https://www.espn.com/nba/story/_/id/50547994/jj-redick-half-rant-fuels-lakers-last-place-kings",
      "source": "ESPN NBA",
-     "take": "One month in, ESPN takes stock of all 30 teams \u2014 contenders have separated, and a few supposed rebuilds are ahead of schedule."
+     "take": "The Lakers barely beat last-place Sacramento after JJ Redick ripped the team at halftime for lack of fight."
     },
     {
-     "title": "Udoka says Rockets 'mentally fragile,' blasts defense after loss to Nuggets",
-     "url": "https://www.espn.com/nba/story/_/id/50549254/ime-udoka-frustrated-rockets-defense-loss-nuggets",
+     "title": "76ers survive in clutch again despite Herro's 50",
+     "url": "https://www.espn.com/nba/story/_/id/50555316/76ers-survive-clutch-again-tyler-herro-50",
      "source": "ESPN NBA",
-     "take": "Ime Udoka called his Rockets 'mentally fragile' and blasted the defense after the Nuggets loss \u2014 a public challenge to a young team that has stalled."
-    },
-    {
-     "title": "Melo calls out Humphrey for Baltimore remark: Back your apology with action",
-     "url": "https://www.espn.com/nfl/story/_/id/50548223/carmelo-anthony-calls-ravens-humphrey-baltimore-remark",
-     "source": "ESPN NBA",
-     "take": "Carmelo Anthony called out Marlon Humphrey over his Baltimore remark: back the apology with action, not just words."
+     "take": "Tyler Herro scored 50 and Philadelphia still won in the clutch \u2014 the 76ers keep closing tight games."
     }
    ]
   },
@@ -153,52 +117,34 @@
    "name": "MLB",
    "stories": [
     {
+     "title": "Logan Webb landing spots: Five possible destinations for Giants starting pitcher on the trading block",
+     "url": "https://www.cbssports.com/mlb/news/logan-webb-landing-spots-giants-trade/",
+     "source": "CBS Sports MLB",
+     "take": "San Francisco is reportedly open to trading Logan Webb \u2014 the price is high, and five teams fit."
+    },
+    {
      "title": "Mets, CF Ewing agree on 8-year, $95M extension, sources say",
      "url": "https://www.espn.com/mlb/story/_/id/50552088/mets-aj-ewing-reach-8-year-95m-extension-sources-say",
      "source": "ESPN MLB",
-     "take": "The Mets lock up their future: center fielder A.J. Ewing agrees to an eight-year, $95 million extension after a standout rookie season."
-    },
-    {
-     "title": "Gil, '24 AL Rookie of Year, cut loose by Yankees at MLB tender deadline",
-     "url": "https://www.espn.com/mlb/story/_/id/50545849/yankees-cut-gil-24-al-rookie-year-tender-deadline",
-     "source": "ESPN MLB",
-     "take": "Two years after winning AL Rookie of the Year, Luis Gil is cut loose by the Yankees at the tender deadline \u2014 the fastest fall from untouchable to free agent."
+     "take": "The Mets locked up A.J. Ewing for 8 years and $95M after a standout rookie season \u2014 a big bet on a young core."
     },
     {
      "title": "Dodgers acquire versatile infielder Lewis in trade with Twins",
      "url": "https://www.espn.com/mlb/story/_/id/50544410/sources-dodgers-acquire-royce-lewis-trade-twins",
      "source": "ESPN MLB",
-     "take": "The Dodgers land former No. 1 pick Royce Lewis from the Twins \u2014 a buy-low swing on star talent, with Minnesota getting an arm and an arrow-up prospect back."
+     "take": "The Dodgers added Royce Lewis from Minnesota \u2014 versatility and upside for a team that collects both."
     },
     {
-     "title": "Sources: Tigers, right-hander Melton agree to 6-year, $46.5M extension",
-     "url": "https://www.espn.com/mlb/story/_/id/50543664/sources-tigers-troy-melton-reach-6-year-465m-extension",
+     "title": "Gil, '24 AL Rookie of Year, cut loose by Yankees at MLB tender deadline",
+     "url": "https://www.espn.com/mlb/story/_/id/50545849/yankees-cut-gil-24-al-rookie-year-tender-deadline",
      "source": "ESPN MLB",
-     "take": "Detroit spends to keep its own: the Tigers and right-hander Melton agree to a six-year, $46.5 million extension."
+     "take": "The Yankees cut Luis Gil, the 2024 AL Rookie of the Year, at the tender deadline \u2014 a sharp fall in two years."
     },
     {
-     "title": "Padres bring back slugger Sheets with 3-year deal",
-     "url": "https://www.espn.com/mlb/story/_/id/50545784/gavin-sheets-returns-san-diego-padres-11-million-3-year-deal",
+     "title": "Skubal to Mets? MLB offseason dominoes for biggest free agents",
+     "url": "https://www.espn.com/mlb/story/_/id/50512061/offseason-free-agency-signings-predictions",
      "source": "ESPN MLB",
-     "take": "San Diego keeps its slugger: the Padres bring back Sheets on a three-year deal rather than letting him test the market."
-    },
-    {
-     "title": "MLB rumors: Logan Webb trade possible for Giants, Freddy Peralta market picking up steam, more",
-     "url": "https://www.cbssports.com/mlb/news/mlb-rumors-freddy-peralta-hiromi-itoh-mark-vientos-mets-cubs-white-sox/",
-     "source": "CBS Sports MLB",
-     "take": "Hot stove is heating up: a Logan Webb trade is suddenly possible for the Giants, and the Freddy Peralta market is picking up steam."
-    },
-    {
-     "title": "Sources: Lo\u00e1isiga back to Bronx after agreeing to 2-year deal",
-     "url": "https://www.espn.com/mlb/story/_/id/50540563/sources-jonathan-loaisiga-returning-yankees-2-year-deal",
-     "source": "ESPN MLB",
-     "take": "Lo\u00e1isiga is back in the Bronx on a two-year deal \u2014 the Yankees are reinforcing the bullpen piece by piece this winter."
-    },
-    {
-     "title": "MLB CBA negotiations timeline: League, MLBPA continue brawling over salary cap as Dec. 1 deadline nears",
-     "url": "https://www.cbssports.com/mlb/news/mlb-cba-negotiations-timeline-2026/",
-     "source": "CBS Sports MLB",
-     "take": "The clock is the story in the CBA fight: league and players keep brawling over a salary cap with the Dec. 1 deadline now days away."
+     "take": "Tarik Skubal is the domino this offseason turns on \u2014 ESPN maps where the biggest names could land."
     }
    ]
   },
@@ -206,52 +152,52 @@
    "name": "National",
    "stories": [
     {
-     "title": "Climate talks stall as countries mull showdown with Saudi Arabia over fossil fuel phaseout",
-     "url": "https://www.theguardian.com/environment/2026/nov/21/climate-talks-stall-countries-mull-showdown-saudi-arabia-over-fossil-fuels",
-     "source": "Guardian US",
-     "take": "Climate talks stalled into overtime, with countries weighing a showdown with Saudi Arabia over a fossil fuel phaseout \u2014 no deal yet, and the fight is now public."
+     "title": "International climate talks end in disappointment",
+     "url": "https://www.npr.org/2026/11/22/nx-s1-6046195/cop31-climate-talks-close-disappointment",
+     "source": "NPR News",
+     "take": "COP31 ended in deep division \u2014 the EU and others rejected a deal that did not mention fossil fuels."
     },
     {
      "title": "Trump orders federal contractors to check with White House before responding to Congress",
      "url": "https://www.npr.org/2026/11/21/g-s1-154966/trump-contractors-congress",
      "source": "NPR News",
-     "take": "Trump ordered federal contractors to check with the White House before responding to Congress \u2014 a direct new limit on how companies answer oversight questions."
+     "take": "Federal contractors must now check with the White House before answering Congress \u2014 a direct clash over oversight."
+    },
+    {
+     "title": "AP source: FBI investigating apparent hack of its key national criminal justice database",
+     "url": "https://www.pbs.org/newshour/politics/ap-source-fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database",
+     "source": "PBS NewsHour",
+     "take": "The FBI is investigating an apparent hack of a key national criminal justice database \u2014 Trump called it \u2018not good.\u2019"
     },
     {
      "title": "Trump vows to work with Democrats to cap credit card interest rates at 10%",
      "url": "https://www.pbs.org/newshour/politics/trump-vows-to-work-with-democrats-to-cap-credit-card-interest-rates-at-10",
      "source": "PBS NewsHour",
-     "take": "Trump vowed to work with Democrats to cap credit card interest rates at 10% \u2014 a populist pitch that puts bank lobbyists on defense tonight."
+     "take": "Trump says he will work with Democrats to cap credit card rates at 10% \u2014 a populist pitch with big bank opposition ahead."
+    },
+    {
+     "title": "Storms expected on both coasts threaten Thanksgiving travel",
+     "url": "https://www.npr.org/2026/11/21/nx-s1-6047508/weather-thanksgiving-storm-elnino",
+     "source": "NPR News",
+     "take": "Storms on both coasts threaten Thanksgiving travel \u2014 plan for delays if you are flying this week."
     },
     {
      "title": "Bayer reaches Roundup settlement that could cost the company billions",
      "url": "https://www.npr.org/2026/11/21/nx-s1-6049684/roundup-bayer-hodgkins-settlement",
      "source": "NPR News",
-     "take": "Bayer reached a Roundup settlement that could cost billions \u2014 the weedkiller litigation that has hung over the company for years is finally priced, and it is huge."
+     "take": "Bayer settled Roundup claims in a deal that could cost billions \u2014 one of the largest product-liability payouts in years."
     },
     {
-     "title": "Storms expected on both coasts threatens Thanksgiving travel",
-     "url": "https://www.npr.org/2026/11/21/nx-s1-6047508/weather-thanksgiving-storm-elnino",
-     "source": "NPR News",
-     "take": "Plan for a messy getaway: storms on both coasts are expected to snarl Thanksgiving travel in the busiest week of the year."
-    },
-    {
-     "title": "Alleged Mexican drug cartel boss \u2018El Chapo Isidro\u2019 arrested in special forces raid",
-     "url": "https://www.theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested",
+     "title": "Conservative media weighs its future as cracks emerge in Trump\u2019s movement",
+     "url": "https://www.theguardian.com/us-news/2026/nov/22/conservative-media-trump-midterm-elections-results",
      "source": "Guardian US",
-     "take": "Mexico arrested alleged cartel boss 'El Chapo Isidro' in a special forces raid, setting off a burst of violence in Sinaloa \u2014 the capture is major, the aftermath is not over."
+     "take": "After midterm losses, conservative media is debating its future as cracks show in Trump\u2019s movement."
     },
     {
-     "title": "Virginia child dies in state\u2019s first measles-associated death of 2026",
-     "url": "https://www.theguardian.com/us-news/2026/nov/21/virginia-child-dies-measles",
+     "title": "Trump\u2019s immigration crackdown drives international students away from US universities",
+     "url": "https://www.theguardian.com/education/2026/nov/22/trump-immigration-crackdown-international-students",
      "source": "Guardian US",
-     "take": "A Virginia child died in the state's first measles-associated death of 2026 \u2014 a preventable disease claiming a life as cases keep climbing."
-    },
-    {
-     "title": "Ukraine war briefing: Russian cargo ship hit by drone in Baltic Sea as Finland PM says conflict \u2018spilling over\u2019",
-     "url": "https://www.theguardian.com/world/2026/nov/22/ukraine-war-briefing-russian-cargo-ship-hit-by-drone-in-baltic-sea-as-finland-pm-says-conflict-spilling-over",
-     "source": "Guardian US",
-     "take": "The Ukraine war spilled further north: a Russian cargo ship was hit by a drone in the Baltic Sea, and Finland's PM said the conflict is 'spilling over.'"
+     "take": "International students are turning away from US universities under the immigration crackdown \u2014 a hit to enrollment and revenue."
     }
    ]
   },
@@ -259,59 +205,88 @@
    "name": "California",
    "stories": [
     {
-     "title": "Raid of Chico warehouses nets 118 tons of marijuana, 62 arrests, officials say",
-     "url": "https://www.latimes.com/california/story/2026-11-21/raid-of-chico-warehouses-nets-118-tons-of-marijuana-62-arrests-officials-say",
+     "title": "As El Ni\u00f1o and rising seas batter California homes, experts point to a novel buyout solution",
+     "url": "https://www.latimes.com/environment/story/2026-11-22/el-nino-sea-level-rise-buyout-rentback-california",
      "source": "LA Times California",
-     "take": "A raid of Chico warehouses netted 118 tons of marijuana and 62 arrests, officials say \u2014 one of the largest illegal-grow busts in the state this year."
-    },
-    {
-     "title": "California train burglars carefully executed heists for \u2018staggering\u2019 $22m haul",
-     "url": "https://www.theguardian.com/us-news/2026/nov/21/california-arrests-train-heists",
-     "source": "Guardian US",
-     "take": "California's train burglars carefully executed heists for a 'staggering' $22 million haul \u2014 organized cargo theft, planned down to the minute."
-    },
-    {
-     "title": "ICE officer seen on video smashing window to detain man at Santa Clarita sheriff's station",
-     "url": "https://www.latimes.com/california/story/2026-11-21/ice-officer-seen-on-video-smashing-window-to-detain-man-at-santa-clarita-sheriffs-station",
-     "source": "LA Times California",
-     "take": "Video shows an ICE officer smashing a window to detain a man at the Santa Clarita sheriff's station \u2014 the footage is driving tonight's local outrage."
-    },
-    {
-     "title": "Federal jury convicts man of starting the deadly 2025 Palisades Fire in Los Angeles",
-     "url": "https://www.npr.org/2026/11/21/nx-s1-6049625/palisades-fire-conviction",
-     "source": "NPR News",
-     "take": "Final verdict: a federal jury convicted the man who started the deadly 2025 Palisades Fire \u2014 the retrial in Los Angeles ended in conviction, not a second hung jury."
-    },
-    {
-     "title": "Thousands of mixed-status California families to lose housing under Trump HUD rule",
-     "url": "https://calmatters.org/housing/2026/11/hud-mixed-status/",
-     "source": "CalMatters",
-     "take": "Thousands of mixed-status California families will lose housing under a new Trump HUD rule, CalMatters reports \u2014 the state's housing safety net just got a hole in it."
+     "take": "For California homes battered by El Ni\u00f1o and rising seas, experts propose buyouts with rent-back \u2014 help without immediate displacement."
     },
     {
      "title": "UC jumps into AI with systemwide OpenAI deal as faculty urge caution",
      "url": "https://www.latimes.com/california/story/2026-11-21/uc-openai-chatgpt-deal",
      "source": "LA Times California",
-     "take": "UC jumped in systemwide: a University of California deal with OpenAI puts AI in every campus's hands, while faculty urge caution."
+     "take": "UC signed a systemwide OpenAI deal while faculty urge caution \u2014 directly relevant to Jeff\u2019s employer."
     },
     {
-     "title": "California adds 47,000 jobs in October, dropping unemployment rate to lowest in three years",
-     "url": "https://www.latimes.com/business/story/2026-11-20/california-adds-47-000-jobs-in-october-as-unemployment-drops-to-three-year-low",
+     "title": "Thousands of mixed-status California families to lose housing under Trump HUD rule",
+     "url": "https://calmatters.org/housing/2026/11/hud-mixed-status/",
+     "source": "CalMatters",
+     "take": "Thousands of mixed-status California families could lose housing under a new Trump HUD rule."
+    },
+    {
+     "title": "Video shows ICE agents in Seattle dragging L.A.-bound passengers off jet bridge",
+     "url": "https://www.latimes.com/california/story/2026-11-21/ice-officers-arrest-passengers-at-seattle-airport-boarding-flight-to-los-angeles",
      "source": "LA Times California",
-     "take": "California added 47,000 jobs in October and unemployment fell to its lowest in three years \u2014 a strong jobs print heading into the holidays."
+     "take": "ICE agents removed L.A.-bound passengers at Seattle airport in a scene that delayed the flight."
+    },
+    {
+     "title": "Raid of Chico warehouses nets 118 tons of marijuana, 62 arrests, officials say",
+     "url": "https://www.latimes.com/california/story/2026-11-21/raid-of-chico-warehouses-nets-118-tons-of-marijuana-62-arrests-officials-say",
+     "source": "LA Times California",
+     "take": "A Chico warehouse raid seized 118 tons of marijuana and led to 62 arrests \u2014 one of the largest busts in state memory."
     },
     {
      "title": "Another quake rattles Southern California, this time off the coast of San Pedro",
      "url": "https://www.latimes.com/california/story/2026-11-21/another-quake-rattles-southern-california-this-time-off-coast-of-san-pedro",
      "source": "LA Times California",
-     "take": "Another quake rattled Southern California, this time off San Pedro \u2014 no major damage reported, but the swarm is keeping nerves on edge."
+     "take": "Another quake rattled Southern California, this time off San Pedro \u2014 no major damage reported in the item."
+    }
+   ]
+  },
+  {
+   "name": "\ud83c\udf99\ufe0f Podcasts",
+   "stories": [
+    {
+     "title": "When AI Labs Rival Nations",
+     "url": "https://podcasts.apple.com/us/podcast/when-ai-labs-rival-nations/id1680633614?i=1000803416531&uo=4",
+     "source": "The AI Daily Brief",
+     "take": "Anthropic is on track to be the most powerful company on Earth and needs government-level transparency, per Hugging Face's Thomas Wolfe, a signer of the anti-Anthropic statement \u2022 \u2018Handoverism\u2019 \u2014 handing humanity's future direction to AI \u2014 is the term Bill Gurley says every AI decision-maker must know and disclose a position on \u2022 Every software company is converging on one business: selling AI transformation, not software \u2014 you build intelligence or you diffuse it \u2022 The bitter lesson is coming for work: let agents organize themselves instead of forcing them into human org charts"
+    },
+    {
+     "title": "Deadlock at UN climate summit in Turkey",
+     "url": "https://podcasts.apple.com/us/podcast/deadlock-at-un-climate-summit-in-turkey/id135067274?i=1000803375890&uo=4",
+     "source": "Global News Podcast",
+     "take": "COP31 is deadlocked a day overtime \u2014 the draft deal has no mention of fossil fuels, a red line for the EU and Pacific island nations \u2022 Three fights remain: fossil-fuel transition language, unpaid climate finance from rich countries, and Turkey's plan to raise electricity to 35% of world energy by 2035 \u2022 Talks could end with no agreement at all, or lose quorum as delegates fly home \u2022 Also: Vietnam cuts capital crimes from ten to four, and a claim that an Anthropic model cracked the Riemann hypothesis"
+    },
+    {
+     "title": "A Thanksgiving Dinner for $100? Yes, It\u2019s Possible (and Delicious).",
+     "url": "https://podcasts.apple.com/us/podcast/the-daily/id1200361736?uo=4",
+     "source": "The Daily",
+     "take": "Yes \u2014 Andy Baraghani cooked Thanksgiving for four in New York City for $96.44 at Whole Foods \u2022 Menu: braised chicken legs (no turkey in store), herby Persian rice with tahdig instead of stuffing, roast potatoes, honey-butter honeynut squash, chopped spoon salad, and apple tarte tatin \u2022 He saved by cutting a pomegranate and a dip at checkout; a whole turkey elsewhere runs about $20 at last year's $1.34/lb \u2022 His turkey rule: dry brine 12\u201336 hours uncovered for crisp skin \u2014 never wet brine"
+    },
+    {
+     "title": "The rise of kidults",
+     "url": "https://podcasts.apple.com/us/podcast/the-rise-of-kidults/id1346207297?i=1000803419054&uo=4",
+     "source": "Today, Explained",
+     "take": "Adults with no kids now buy more toys and games than households with children \u2014 over 50% of US toy sales in the first half of the year \u2022 The US toy industry is $30B+, half from grownups; global sales topped $120B, up 20% this year, driven by adults \u2022 Lego led it with $700\u2013$800 premium sets; the pandemic turned a niche into a habit that stuck \u2022 Play is hardwired and cuts stress \u2014 start with 30 seconds to 5 minutes a day, unscheduled"
+    },
+    {
+     "title": "The booming cash advance industry trapping America\u2019s small businesses",
+     "url": "https://podcasts.apple.com/us/podcast/the-booming-cash-advance-industry-trapping-americas/id1222114325?i=1000803190499&uo=4",
+     "source": "Up First",
+     "take": "Merchant cash advances cost a typical 25%\u2013200% annualized and sit outside lending law \u2014 no license, no fee limits, daily debits from your bank account \u2022 One Glendale promoter took $250,000 and owed almost $400,000, then was \u2018carroted\u2019 with a fake $750,000 line of credit at 9% that never came \u2022 He ended over $1M in debt to friends and family, lost his house, and is suing for $5M+ instead of settling \u2022 Banks reject ~20% of small-business loans \u2014 that gap is what feeds the industry"
+    },
+    {
+     "title": "Is \u2018Grand Theft Auto VI\u2019 Gaming\u2019s Last Blockbuster?",
+     "url": "https://www.wsj.com/podcasts/whats-news",
+     "source": "WSJ What's News",
+     "take": "Probably, for this kind of game \u2014 journalist Chris Plant says the ever-bigger, hand-made blockbuster is on its way out; large games will survive (Nintendo, Call of Duty), but most studios should not take GTA-scale risk \u2022 GTA VI took over a decade, thousands of people, and more money than a typical film, funded by earlier GTA games \u2022 It is digital-only with no disc, and the PS6 reportedly drops the disc drive too \u2022 No AI prompt will produce a GTA VII near this quality any time soon \u2014 hand-made is Rockstar's selling point"
     }
    ]
   }
  ],
  "markets": {
   "source": "Yahoo Finance",
-  "fetched_at": "2026-11-21T20:15:21.235581-08:00",
+  "fetched_at": "2026-11-22T09:02:57.885550-08:00",
   "dates": [
    "2025-11-21",
    "2025-11-24",
@@ -981,7 +956,7 @@
       340.64,
       339.84,
       341.84,
-      339.9,
+      339.93,
       339.89,
       340.02
      ]
@@ -1394,18 +1369,18 @@
       696.19,
       696.29,
       695.62,
-      695.83,
-      695.02,
+      695.81,
+      694.97,
       693.77,
       693.97,
       693.56,
       694.4,
       693.45,
       692.65,
-      690.24,
+      690.26,
       691.56,
       689.93,
-      694.04,
+      694.03,
       689.97,
       690.91,
       689.81
@@ -1763,13 +1738,13 @@
       641.61,
       640.64,
       638.56,
-      636.5,
+      636.52,
       632.57,
       630.92,
       632.23,
       630.38,
       631.16,
-      628.94,
+      628.92,
       630.41,
       629.54,
       628.8,
@@ -1803,7 +1778,7 @@
       621.86,
       622.18,
       620.39,
-      621.91,
+      621.92,
       621.98,
       619.87,
       620.27,
@@ -2225,7 +2200,7 @@
       345.69,
       345.78,
       345.41,
-      345.49,
+      345.47,
       345.74,
       344.96,
       345.84,
@@ -2642,7 +2617,7 @@
       135.3,
       135.41,
       135.91,
-      135.3,
+      135.32,
       135.31,
       135.48,
       135.35,
@@ -2661,7 +2636,7 @@
       135.83,
       135.56,
       134.24,
-      132.99,
+      133.0,
       131.6,
       130.99,
       130.54,
@@ -2669,9 +2644,9 @@
       130.43,
       130.43,
       129.29,
-      128.66,
+      128.67,
       129.0,
-      128.07,
+      128.06,
       128.27,
       126.78,
       127.13,

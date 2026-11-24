@@ -1,86 +1,98 @@
 {
  "date": "2026-11-23",
- "updated_label": "AFTERNOON UPDATE \u00b7 1:22 PM PT",
+ "updated_label": "EVENING UPDATE \u00b7 8:28 PM PT",
  "sections": [
   {
    "name": "Tech & AI",
    "stories": [
     {
-     "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company\u2019s HQ",
-     "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
-     "source": "TechCrunch",
-     "take": "Huang got a hero's welcome back at HQ and promised to be 'a better CEO the second time around' \u2014 the reinstatement story is now a full-blown saga."
+     "title": "Jensen Huang reinstated as Nvidia CEO, board chair",
+     "url": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/",
+     "source": "Ars Technica",
+     "take": "Huang is back as CEO and board chair after Trump told the board he did nothing wrong \u2014 the scandal ends with a reinstatement, not a resignation."
     },
     {
-     "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
-     "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
-     "source": "TechCrunch",
-     "take": "Next step in the saga: Huang testifies before the Senate next week, with bipartisan calls to explain the affair allegations and Trump's role in his return."
+     "title": "Inside Nvidia, Not Everyone Is Celebrating Jensen Huang\u2019s Return",
+     "url": "https://www.wired.com/story/inside-nvidia-not-everyone-is-celebrating-jensen-huangs-return/",
+     "source": "Wired",
+     "take": "Inside Nvidia the mood is split: some staff saw Huang's exit as a chance for culture change and are openly dreading the old regime's return."
     },
     {
-     "title": "Google Search\u2019s AI Mode can now tap into Drive and Wallet for more personalized responses",
-     "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+     "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+     "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
      "source": "TechCrunch",
-     "take": "Google's AI Mode gets Personal Intelligence hooks into Drive and Wallet \u2014 more useful answers, bought with deeper access to your own data."
+     "take": "Anthropic's Claude Ship lets AI agents review, fix and approve code changes \u2014 the bottleneck moves from writing code to trusting the reviewer."
     },
     {
      "title": "Amazon snaps up Decart\u2019s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
      "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
      "source": "TechCrunch",
-     "take": "Amazon pays a reported $7.5B for Decart's AI optimization tech and team as it gears up to sell Trainium chips to outside customers."
+     "take": "Amazon pays a reported $7.5B for Decart's AI optimization tech and team as it gets ready to sell its own Trainium chips to outsiders."
     },
     {
-     "title": "Surveillance pricing uses our personal data to make us pay more",
-     "url": "https://arstechnica.com/tech-policy/2026/11/surveillance-pricing-uses-our-personal-data-to-make-us-pay-more/",
-     "source": "Ars Technica",
-     "take": "Personalized pricing is quietly turning your data into a reason to charge you more \u2014 and it can bake in bias, too."
-    },
-    {
-     "title": "Meta throws out its net-zero goal \u2014 its competitors should be furious",
-     "url": "https://techcrunch.com/2026/11/23/meta-throws-out-its-net-zero-goal-its-competitors-should-be-furious/",
+     "title": "CrowdStrike to acquire Zscaler for $44 billion",
+     "url": "https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/",
      "source": "TechCrunch",
-     "take": "Meta walks back its 2030 net-zero pledge in its 2026 sustainability report \u2014 a retreat rivals that kept their targets will not let it forget."
+     "take": "CrowdStrike buys zero-trust rival Zscaler for $44B, pitching the combined stack as the security layer for the AI agent era."
+    },
+    {
+     "title": "Google Search\u2019s AI Mode can now tap into Drive and Wallet for more personalized responses",
+     "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+     "source": "TechCrunch",
+     "take": "Google Search's AI Mode can now pull from Drive and Wallet \u2014 personalization deepens, and so does the amount of your life in the answer."
+    },
+    {
+     "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+     "url": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
+     "source": "Ars Technica",
+     "take": "State attorneys general sue SpaceX, saying Grok still generates child sex images and revenge porn despite X's claim that every output is screened."
+    },
+    {
+     "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+     "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+     "source": "TechCrunch",
+     "take": "Sierra, Bret Taylor's AI customer-experience startup, doubles to a $30B valuation in six months on a $1.75B Series F."
     }
    ]
   },
   {
-   "name": "Marketing",
+   "name": "Marketing & creative industry",
    "stories": [
-    {
-     "title": "Every 3D artist should have an AI assistant, Maxon says as it launches new tools and agentic licences",
-     "url": "https://www.creativebloq.com/news/every-3d-artist-should-have-an-ai-assistant-maxon-says-as-it-launches-new-tools-and-agentic-licences",
-     "source": "Creative Bloq",
-     "take": "Maxon brings AI generation to Cinema 4D and ZBrush with agentic licences \u2014 and, notably, an off switch for artists who want one."
-    },
     {
      "title": "Agencies are selling AI efficiency \u2014 clients want outcomes",
      "url": "https://digiday.com/sponsored/agencies-are-selling-ai-efficiency-clients-want-outcomes/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
      "source": "Digiday",
-     "take": "Agencies pitched AI as cheaper and faster for two years; clients have stopped nodding and started asking what it actually delivered."
+     "take": "Agencies spent two years selling AI as a cost cut; clients nodded, waited, and now want outcomes instead of efficiency decks."
+    },
+    {
+     "title": "The next test for agentic media",
+     "url": "https://digiday.com/sponsored/the-next-test-for-agentic-media/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+     "source": "Digiday",
+     "take": "Agentic media's next test is interoperability \u2014 every advertiser's agents, data and rules have to work inside everyone else's stack."
+    },
+    {
+     "title": "Intuit offloads Mailchimp to Bending Spoons to deepen bets on AI",
+     "url": "https://www.marketingdive.com/news/intuit-offloads-mailchimp-to-bending-spoons-to-deepen-bets-on-ai/875423/",
+     "source": "Marketing Dive",
+     "take": "Intuit sells Mailchimp to Bending Spoons for less than a third of the $12B it paid in 2021, doubling down on AI instead of email."
     },
     {
      "title": "Modelo Becomes First Official Beer of the NCAA",
      "url": "https://www.adweek.com/convergent-tv/modelo-becomes-first-official-beer-of-the-ncaa/",
      "source": "Adweek",
-     "take": "Modelo lands the NCAA's first official beer sponsorship \u2014 March Madness is the headline, but the deal covers 90-plus championships."
+     "take": "Modelo becomes the NCAA's first official beer, with March Madness as the centerpiece across 90-plus championships."
     },
     {
-     "title": "Carl\u2019s Jr. taps David&Goliath as marketing focus turns to boldness",
-     "url": "https://www.marketingdive.com/news/carls-jr-taps-davidgoliath-as-marketing-focus-turns-to-boldness/875471/",
-     "source": "Marketing Dive",
-     "take": "Carl's Jr. hands its account to David&Goliath and goes cooked-to-order system-wide \u2014 a bet that bold marketing needs a product change behind it."
+     "title": "Gap Inc. is betting on \u2018fashiontainment\u2019 to fuel growth",
+     "url": "https://digiday.com/marketing/gap-inc-is-betting-on-fashiontainment-to-fuel-growth/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+     "source": "Digiday",
+     "take": "Gap Inc. bets on 'fashiontainment' \u2014 a boy-band partnership and a scripted Banana Republic microseries \u2014 to make the brands cultural again."
     },
     {
      "title": "How GTA 6\u2019s interface kept the classic Pricedown font but still managed to feel modern",
      "url": "https://www.creativebloq.com/news/how-gta-6s-interface-kept-the-classic-pricedown-font-but-still-managed-to-feel-modern",
      "source": "Creative Bloq",
-     "take": "Rockstar's UI team kept GTA's classic Pricedown type but rebuilt the HUD around a phone in hand and accessibility from the start."
-    },
-    {
-     "title": "Dr. Alex Cooper Prescribes Less Screen Time in Google Pixel\u2019s Holiday Ad",
-     "url": "https://www.adweek.com/brand-marketing/dr-alex-cooper-prescribes-less-screen-time-in-google-pixels-holiday-ad/",
-     "source": "Adweek",
-     "take": "Google Pixel's holiday ad casts Alex Cooper as a 'Phonehead Therapy' prescriber of less screen time \u2014 a phone brand selling you time away from phones."
+     "take": "Rockstar's UI team kept GTA 6's classic Pricedown font and rebuilt everything around it, with accessibility designed in from the start."
     }
    ]
   },
@@ -88,34 +100,40 @@
    "name": "NBA",
    "stories": [
     {
+     "title": "Vocal Green swats back at online critics, fuels Warriors' victory over Celtics",
+     "url": "https://www.espn.com/nba/story/_/id/50570668/vocal-green-defensive-stop-buzzer-fuels-warriors-win",
+     "source": "ESPN NBA",
+     "take": "Draymond Green spent the day firing back at critics online, then closed out Golden State's 88-87 win over Boston with a last-second stop."
+    },
+    {
+     "title": "Spurs rule Wembanyama, Fox out 90 minutes before tipoff against Kings",
+     "url": "https://www.espn.com/nba/story/_/id/50578664/spurs-victor-wembanyama-deaaron-fox-kings",
+     "source": "ESPN NBA",
+     "take": "San Antonio ruled Wembanyama and Fox out 90 minutes before tipoff against Sacramento; both are expected back Wednesday."
+    },
+    {
+     "title": "NBA trade rumors: Lakers planning to be active, Jazz looking elsewhere after Kyrie Irving buzz",
+     "url": "https://www.cbssports.com/nba/news/nba-trade-rumors-lakers-jazz-kyrie-irving-nov-23/",
+     "source": "CBS Sports NBA",
+     "take": "Trade buzz a month in: the Lakers plan to be active, while Utah looks elsewhere after the Kyrie Irving chatter."
+    },
+    {
      "title": "Ranking NBA's biggest winners and losers of the week: Knicks hit their stride, while Celtics take step back",
      "url": "https://www.cbssports.com/nba/news/ranking-nba-biggest-winners-losers-of-the-week-knicks-celtics-nov-23/",
      "source": "CBS Sports NBA",
-     "take": "Week in review: the Knicks have hit their stride, the Celtics have taken a step back, and parity is the league's defining feature right now."
+     "take": "The week's winners and losers: the Knicks hit their stride, the Celtics take a step back, and parity is the league's real story."
     },
     {
      "title": "Golliver's too-early NBA All-Star picks: The 24 most deserving players right now",
      "url": "https://www.espn.com/nba/story/_/id/50558987/all-star-selections-wembanyama-giannis-maxey",
      "source": "ESPN NBA",
-     "take": "Three months early is exactly when All-Star arguments are most fun \u2014 Golliver locks in the 24 most deserving names so far, Wemby and Giannis included."
+     "take": "Too-early All-Star picks, three months out: the 24 most deserving players right now, and the position battles worth watching."
     },
     {
-     "title": "2027 NBA Draft Big Board: Quentin Coleman's meteoric rise, Tyran Stokes stays at No. 1, returners boost stock",
-     "url": "https://www.cbssports.com/nba/news/2027-nba-draft-big-board-quentin-coleman-tyran-stokes-ivan-kharchenkov/",
-     "source": "CBS Sports NBA",
-     "take": "Three weeks into the college season, Quentin Coleman is the draft board's meteoric riser \u2014 Tyran Stokes still holds No. 1."
-    },
-    {
-     "title": "How a season without their 'admiral' showed the Rockets what they were missing",
-     "url": "https://www.espn.com/nba/story/_/id/50524821/nba-houston-rockets-fred-vanvleet-injury-comeback",
+     "title": "Cleveland Cavaliers become first NBA team to practice at Obama Presidential Center",
+     "url": "https://www.espn.com/nba/story/_/id/50575533/cleveland-cavaliers-obama-presidential-center",
      "source": "ESPN NBA",
-     "take": "A healthy Fred VanVleet is commanding the surging Rockets \u2014 last season's ACL absence taught Houston exactly what he brings."
-    },
-    {
-     "title": "Sources: Kings set to boost backcourt depth with Vincent signing",
-     "url": "https://www.espn.com/nba/story/_/id/50564924/sources-free-agent-gabe-vincent-kings-finalizing-deal",
-     "source": "ESPN NBA",
-     "take": "The Kings are finalizing a deal with Gabe Vincent for their 15th roster spot, per Shams \u2014 cheap, playoff-tested backcourt depth."
+     "take": "Cleveland becomes the first NBA team to practice at Chicago's Obama Presidential Center."
     }
    ]
   },
@@ -123,40 +141,40 @@
    "name": "MLB",
    "stories": [
     {
+     "title": "Big Apple blockbuster: Mets, Skubal reach record 9-year, $450M contract, sources say",
+     "url": "https://www.espn.com/mlb/story/_/id/50565674/sources-mets-skubal-agree-9-year-450m-contract",
+     "source": "ESPN MLB",
+     "take": "The blockbuster is done: Tarik Skubal and the Mets agree to nine years and $450M \u2014 the richest pitcher contract ever, by total and by year."
+    },
+    {
+     "title": "Tarik Skubal to the Mets! Grading the record $450 million deal",
+     "url": "https://www.espn.com/mlb/story/_/id/50521081/tarik-skubal-new-york-mets-grade-record-contract",
+     "source": "ESPN MLB",
+     "take": "Grading the Skubal deal: New York landed the winter's top free agent, and the price resets what an ace costs."
+    },
+    {
+     "title": "As lockout looms, MLB raises minimum salary offer while union eyes media deals",
+     "url": "https://www.espn.com/mlb/story/_/id/50576198/mlb-offers-higher-minimum-player-salaries-lockout-looms",
+     "source": "ESPN MLB",
+     "take": "With a lockout looming, MLB raises its minimum-salary offer and floats earlier pay for young players; the union counters on media money."
+    },
+    {
      "title": "MLB CBA negotiations timeline: League, MLBPA trade new proposals over revenue sharing as Dec. 1 deadline nears",
      "url": "https://www.cbssports.com/mlb/news/mlb-cba-negotiations-timeline-2026/",
      "source": "CBS Sports MLB",
-     "take": "The Dec. 1 deadline is a week out: league and union have traded new revenue-sharing proposals, and a work stoppage still looms over the winter."
+     "take": "CBA talks, tracked: league and union trade revenue-sharing proposals with the Dec. 1 deadline now a week away."
     },
     {
-     "title": "MLB rumors: Mets' Tarik Skubal follow-up, where Blue Jays turn now, plus Yankees, Phillies, Red Sox, more",
-     "url": "https://www.cbssports.com/mlb/news/mlb-rumors-mets-paul-goldschmidt-blue-jays-freddy-peralta-teruaki-sato-jarren-duran/",
-     "source": "CBS Sports MLB",
-     "take": "Hot stove follow-through: what the Mets do after the Skubal blockbuster, where the spurned Blue Jays turn next, and the Yankees, Phillies and Red Sox latest."
-    },
-    {
-     "title": "Sources: Yankees continue to strengthen bullpen, sign Suter to 1-year, $4M deal",
-     "url": "https://www.espn.com/mlb/story/_/id/50576087/yankees-agree-1-year-4m-deal-reliever-suter",
+     "title": "Sources: Cubs shore up rotation, agree to free agent deal with LHP Rogers",
+     "url": "https://www.espn.com/mlb/story/_/id/50579432/sources-free-agent-trevor-rogers-cubs-reach-5-year-deal",
      "source": "ESPN MLB",
-     "take": "The Yankees keep stacking the bullpen \u2014 lefty Brent Suter signs for one year and $4M with a club option for 2028."
+     "take": "Chicago shores up its rotation with a five-year deal for free-agent lefty Trevor Rogers."
     },
     {
-     "title": "Sources: Tigers stay busy, add '24 AL Rookie of Year Gil to pitching mix",
-     "url": "https://www.espn.com/mlb/story/_/id/50565569/sources-free-agent-luis-gil-agrees-deal-tigers",
+     "title": "MLB offseason grades: Mets keep spending, grab ex-Yank Goldschmidt",
+     "url": "https://www.espn.com/mlb/story/_/id/50473334/2026-27-offseason-free-agency-trade-grades",
      "source": "ESPN MLB",
-     "take": "Detroit picks up Luis Gil, the 2024 AL Rookie of the Year, on a one-year $2.3M deal days after the Yankees non-tendered him."
-    },
-    {
-     "title": "Mets, CF Ewing agree on 8-year, $95M extension, sources say",
-     "url": "https://www.espn.com/mlb/story/_/id/50552088/mets-aj-ewing-reach-8-year-95m-extension-sources-say",
-     "source": "ESPN MLB",
-     "take": "The Mets' spending day wasn't just Skubal: 22-year-old center fielder A.J. Ewing locks in an eight-year, $95M extension."
-    },
-    {
-     "title": "Brewers receive full playoff share of $493,044; total pool down from 2025",
-     "url": "https://www.espn.com/mlb/story/_/id/50575095/world-series-champion-brewers-full-playoff-share-was-493044",
-     "source": "ESPN MLB",
-     "take": "A full World Series share for the champion Brewers pays $493,044 \u2014 and the total players' pool, about $114.5M, is down from the last two seasons."
+     "take": "Offseason grades so far: the Mets keep spending, adding ex-Yankee Paul Goldschmidt to the Skubal splurge."
     }
    ]
   },
@@ -164,46 +182,46 @@
    "name": "National",
    "stories": [
     {
-     "title": "Top Democrats raise corruption concerns after Trump involvement in Jensen Huang\u2019s Nvidia reinstatement \u2013 live",
-     "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
-     "source": "Guardian US",
-     "take": "Top Democrats are raising corruption concerns over Trump's hand in Huang's Nvidia reinstatement \u2014 the tech story is now a Washington story."
-    },
-    {
-     "title": "Trump defers to appeals court over army plan to detonate bomb-making material in Iowa",
+     "title": "Federal court clears way for army to detonate bomb-making chemicals in Iowa",
      "url": "https://www.theguardian.com/us-news/2026/nov/23/iowa-lead-bomb-appeals-court",
      "source": "Guardian US",
-     "take": "Trump says the Army won't detonate 68 barrels of degraded bomb-making material in Iowa without court approval, after environmentalists sued over lead pollution."
+     "take": "A federal appeals court clears the Army to detonate tons of degraded bomb-making chemicals in Iowa, over the state's objections."
+    },
+    {
+     "title": "Federal appeals court gives President Donald Trump a path to erasing hush money conviction",
+     "url": "https://www.pbs.org/newshour/politics/federal-appeals-court-gives-president-donald-trump-a-path-to-erasing-hush-money-conviction",
+     "source": "PBS NewsHour",
+     "take": "An appeals court gives Trump a path to erase his hush-money conviction, moving the case to federal court where immunity could end it."
+    },
+    {
+     "title": "Democrats win House by largest margin in 50 years. And, COP31 ends with no deal",
+     "url": "https://www.npr.org/2026/11/23/g-s1-155021/up-first-newsletter-midterms-house-ai-stocks-poland-nato-cop31",
+     "source": "NPR News",
+     "take": "Democrats have flipped 47 House seats \u2014 their largest win in 50 years \u2014 and COP31 closes as the longest climate summit ever, with no deal."
+    },
+    {
+     "title": "COP31 ends in failure as countries split over fossil fuels, climate finance",
+     "url": "https://arstechnica.com/science/2026/11/cop31-ends-in-failure-as-countries-split-over-fossil-fuels-climate-finance/",
+     "source": "Ars Technica",
+     "take": "COP31 ends in failure, the first summit since 2009 with no consensus, split over fossil fuels and climate finance."
     },
     {
      "title": "Senate leadership vote tests newly elected Democrats' promise of change",
      "url": "https://www.pbs.org/newshour/politics/senate-leadership-vote-tests-newly-elected-democrats-promise-of-change",
      "source": "PBS NewsHour",
-     "take": "Incoming Democratic senators face an early test of their change-the-Senate promises: picking the leader of their new majority."
+     "take": "The Senate leadership vote is the new Democratic majority's first test of its promise to shake up Washington."
     },
     {
-     "title": "Airline glitches and storms could make Thanksgiving travel messy",
-     "url": "https://www.pbs.org/newshour/nation/airline-glitches-and-storms-could-make-thanksgiving-travel-messy",
+     "title": "Trump administration deported US citizen to Mexico, DoJ admits in court",
+     "url": "https://www.theguardian.com/us-news/2026/nov/23/trump-administration-deported-citizen-mexico",
+     "source": "Guardian US",
+     "take": "The Justice Department admits in court that the Trump administration deported a U.S. citizen from Texas to Mexico by mistake."
+    },
+    {
+     "title": "News Wrap: Storms threaten Thanksgiving travel as airlines rebound from tech failures",
+     "url": "https://www.pbs.org/newshour/show/news-wrap-storms-threaten-thanksgiving-travel-as-airlines-rebound-from-tech-failures",
      "source": "PBS NewsHour",
-     "take": "A week of airline technical glitches plus incoming storms points to a messy Thanksgiving travel rush \u2014 build in buffer if you're flying."
-    },
-    {
-     "title": "Child safety groups urge Amazon and eBay to stop selling AI toys until proved safe",
-     "url": "https://www.theguardian.com/technology/2026/nov/23/child-safety-groups-urge-amazon-ebay-stop-selling-ai-toys-until-proved-safe",
-     "source": "Guardian US",
-     "take": "More than 150 child-safety groups across six continents want Amazon and eBay to pull AI toys until they're proved safe for kids."
-    },
-    {
-     "title": "Amtrak train derails after colliding with tractor-trailer in Louisiana",
-     "url": "https://www.theguardian.com/us-news/2026/nov/23/amtrak-derailment-louisiana",
-     "source": "Guardian US",
-     "take": "An Amtrak train hit a tractor-trailer at a Louisiana crossing and derailed; five passengers were hurt, none with life-threatening injuries."
-    },
-    {
-     "title": "Failure of Cop31 prompts calls for urgent reform of UN climate summits",
-     "url": "https://www.theguardian.com/environment/2026/nov/23/failure-cop31-calls-urgent-reform-un-climate-summits",
-     "source": "Guardian US",
-     "take": "After COP31 collapsed without a deal, Al Gore and other climate leaders are demanding reform of the UN summit consensus rule itself."
+     "take": "Storms on both coasts threaten Thanksgiving travel just as airlines recover from a run of tech failures."
     }
    ]
   },
@@ -214,37 +232,43 @@
      "title": "L.A. Rep. Jimmy Gomez quitting after ethics panel finds evidence of sexual misconduct",
      "url": "https://www.latimes.com/politics/story/2026-11-23/rep-jimmy-gomez-quitting-after-ethics-panel-finds-evidence-of-sexual-misconduct",
      "source": "LA Times California",
-     "take": "L.A. Rep. Jimmy Gomez is quitting after the House ethics panel found substantial evidence of unwanted sexual advances toward a staffer \u2014 he disputes the findings."
-    },
-    {
-     "title": "California, other states sue HUD over policy to check immigrant status of public housing residents",
-     "url": "https://www.latimes.com/california/story/2026-11-23/california-hud-lawsuit",
-     "source": "LA Times California",
-     "take": "California and other states sue HUD over a mid-December rule forcing everyone in federally funded housing to prove citizenship or legal status."
+     "take": "L.A. Rep. Jimmy Gomez quits after the House ethics panel finds substantial evidence he made unwanted sexual advances toward a staffer."
     },
     {
      "title": "California coast faces historic flooding threat this week: Here's what you need to know",
      "url": "https://www.latimes.com/california/story/2026-11-23/what-you-need-to-know-about-historic-flooding-threat-on-california-coast-this-week",
      "source": "LA Times California",
-     "take": "King tides plus El Ni\u00f1o could bring historic coastal flooding from the Bay Area to San Diego during Thanksgiving week \u2014 here's the county-by-county picture."
+     "take": "The coast faces a historic flooding threat this Thanksgiving week, with extreme high-tide flooding possible from the Bay Area to San Diego."
     },
     {
-     "title": "Nine people shot at central California concert with one in critical condition",
-     "url": "https://www.theguardian.com/us-news/2026/nov/23/concert-shooting-california-strathmore",
+     "title": "California sues to block Trump rule denying aid to families with mixed immigration statuses",
+     "url": "https://calmatters.org/housing/2026/11/hud-mixed-status-lawsuit/",
+     "source": "CalMatters",
+     "take": "California sues to block a Trump rule denying housing aid to mixed-status families \u2014 about 7,000 California households stand to lose it."
+    },
+    {
+     "title": "California confirmed 60 measles cases this year, more than the past two years combined",
+     "url": "https://calmatters.org/health/2026/11/california-measles-after-elimination-status-loss/",
+     "source": "CalMatters",
+     "take": "California has confirmed 60 measles cases this year, more than the past two years combined, days after the U.S. lost elimination status."
+    },
+    {
+     "title": "Republican sheriff racked up $3m security bill for California taxpayers, including Ritz-Carlton stays and steak",
+     "url": "https://www.theguardian.com/us-news/2026/nov/23/sheriff-chad-bianco-security-spending-california-governor-candidate",
      "source": "Guardian US",
-     "take": "Nine people were shot at a concert in Strathmore in Tulare County on Saturday night, one critically; authorities say it may be gang-related."
+     "take": "A Southern California county spent over $3M in a year guarding Sheriff Chad Bianco during his failed run for governor \u2014 Ritz-Carlton stays included."
     },
     {
-     "title": "Beverly Hills landscaper dies in massive crane collapse",
-     "url": "https://www.latimes.com/california/story/2026-11-23/beverly-hills-landscaper-dies-in-massive-crane-collapse",
+     "title": "Why California\u2019s universities are setting up their own AI data centers",
+     "url": "https://calmatters.org/education/higher-education/2026/11/california-colleges-ai/",
+     "source": "CalMatters",
+     "take": "California's universities are building their own AI data centers rather than waiting on commercial cloud capacity."
+    },
+    {
+     "title": "Los Angeles, Long Beach port workers avoid strike with last-minute deal",
+     "url": "https://www.latimes.com/california/story/2026-11-22/los-angeles-long-beach-port-workers-avoid-strike-last-minute-deal",
      "source": "LA Times California",
-     "take": "A landscaper working for a city contractor was killed when a crane collapsed in Beverly Hills."
-    },
-    {
-     "title": "\u2018It\u2019s an embarrassment\u2019: how LA\u2019s desperately needed airport tram went off the rails",
-     "url": "https://www.theguardian.com/us-news/2026/nov/23/lax-skylink-people-mover-los-angeles",
-     "source": "Guardian US",
-     "take": "LAX's SkyLink people mover: under 2.5 miles, $1B over budget and four years late \u2014 a case study in how LA builds transit."
+     "take": "L.A. and Long Beach port workers call off a strike at the last minute, averting a holiday-season shutdown."
     }
    ]
   },
@@ -252,47 +276,47 @@
    "name": "\ud83c\udf99\ufe0f Podcasts",
    "stories": [
     {
-     "title": "At Trump's behest, NVIDIA's CEO gets his job back",
-     "url": "https://podcasts.apple.com/us/podcast/the-npr-politics-podcast/id1057255460?uo=4",
-     "source": "NPR Politics Podcast",
-     "take": "Trump lobbied Nvidia's board directly and took credit for Huang's reinstatement, dismissing the spy concerns \u2022 Hosts say the real security issue is the chip loophole: $60B in advanced Nvidia chips flowed to Malaysia, Singapore and Thailand over 18 months, with Chinese firms using those data centers \u2022 Conflicts flagged: Trump's own Nvidia investments and Nvidia's donation to his White House ballroom project \u2022 Bipartisan scrutiny is building \u2014 even Newt Gingrich wants Congress to dig in, and Commerce Secretary Lutnick faces the Senate Banking Committee"
+     "title": "Jensen Huang Is Back at Nvidia. What\u2019s Next?",
+     "url": "https://www.wsj.com/podcasts/whats-news",
+     "source": "WSJ What's News",
+     "take": "What's next, per WSJ: Huang returns with guardrails \u2014 a new board chairman role and a national security committee on chip exports \u2014 while congressional briefings loom next week and tougher export controls look like the lasting legacy \u2022 His reinstatement added nearly $1 trillion to Nvidia's market cap in a day, the biggest one-day gain ever for a U.S. company; Nasdaq +6.5%, S&P +4.7% \u2022 Trump sent JD Vance to assure the board Huang was no security risk, 11 days after he resigned over affairs, one with a suspected Chinese intelligence contact \u2022 Also: CrowdStrike's $44B Zscaler deal, and Trump halts the Army's plan to detonate ~10,000 lb of lead azide in Iowa"
     },
     {
-     "title": "Nvidia Rehires Huang in Stunning Comeback Following Trump Push",
-     "url": "https://omny.fm/shows/the-tape/nvidia-rehires-huang-in-stunning-comeback-following-trump-push",
-     "source": "Bloomberg Intelligence",
-     "take": "Analysts call the week a real-time lesson in key-person risk \u2014 a succession plan and better governance are now top of the agenda \u2022 Credit analyst Rob Schiffman: the return eases financing fears, but AI debt is heading to $400\u2013500B+ in 2027 on increasingly creative structured deals \u2022 Trump's backing may shield Nvidia from DOJ, Commerce and SEC exposure for now, but a 5-year statute of limitations leaves a future administration room to revisit \u2022 Yale's Gautam Mukunda called it unprecedented state capitalism and said the board should resign"
+     "title": "Trump's Mission to Get Jensen Huang Back at Nvidia",
+     "url": "https://podcasts.apple.com/us/podcast/trumps-mission-to-get-jensen-huang-back-at-nvidia/id1528594034?i=1000803695211&uo=4",
+     "source": "Hard Fork",
+     "take": "Biographer Stephen Witt: Huang ran a war room and lobbied straight to Trump \u2014 'He's the trillion dollar man. He's too big to fire' \u2022 Witt calls the return great for shareholders but terrible for the rule of law, and predicts aggressive hearings when Democrats take power \u2022 NYT's Jonathan Swan: Trump sees Huang as a 'golden goose,' dismissed a Rubio memo on the spy concerns, and built a moat \u2014 any wrongdoing at Nvidia, but not by Huang \u2022 Huang's irreplaceable asset is vision: he built robot brains a decade before the robots existed"
     },
     {
-     "title": "Too Big to Fire: Jensen Huang Is Back as Nvidia CEO",
-     "url": "https://podcasts.apple.com/us/podcast/too-big-to-fire-jensen-huang-is-back-as-nvidia-ceo/id1680633614?i=1000803641153&uo=4",
-     "source": "The AI Daily Brief",
-     "take": "Huang returns 11 days after resigning, following an organized campaign \u2014 StandWithJensen.com drew 10,000+ employees and 108,000 shareholders \u2022 Markets exploded: Nvidia up nearly 35%, roughly $1T added pre-market, and Nasdaq 100 futures briefly halted on a 7% upside jump \u2022 The frame: 'too big to fire' \u2014 Nvidia as the AI economy's central bank made state intervention feel inevitable \u2022 Critics warn about presidents picking CEOs, with major congressional hearings predicted for 2027"
+     "title": "Jensen's back, back again",
+     "url": "https://podcasts.apple.com/us/podcast/jensens-back-back-again/id201853034?i=1000803683753&uo=4",
+     "source": "Marketplace",
+     "take": "Huang's 11-day exile ends (Altman's took five); 200,000+ signed a 'stand with Jensen' letter, and the board cited government assurances he is no security threat \u2022 The flip side: one man worth ~$1 trillion signals an economy that is 'not the most stable or resilient,' and the pre-scandal AI questions are still unanswered \u2022 82% of businesses report rising material costs \u2014 highest since 1999 \u2014 on fuel, labor, tariffs and AI construction demand \u2022 Kansas farmers: a tractor is now $700,000, wheat sells $2 below the cost of production"
     },
     {
-     "title": "The Shocking Return of Jensen Huang",
-     "url": "https://podcasts.apple.com/us/podcast/the-shocking-return-of-jensen-huang/id1522960417?i=1000803639908",
-     "source": "Big Technology Podcast",
-     "take": "Trump joined Sunday's board meeting and gave national-security assurances; the stock reversed violently \u2014 Nvidia up 32%, nearly $1T in market cap \u2022 Kantrowitz frames it as a governance and culture failure: no succession plan, handshake deals, circular 'Bank of Jensen' financing \u2022 SEC, FBI, DOJ and congressional investigations are still pending \u2022 Likely outcome: a reshuffled board and tougher export controls that close China's Southeast Asia chip-rental loophole"
+     "title": "Rep. Jimmy Gomez steps down, Port strike avoided, Bracing for this week's king tides \u2014 Evening Edition",
+     "url": "https://podcasts.apple.com/us/podcast/rep-jimmy-gomez-steps-down-port-strike-avoided-bracing/id1508035189?i=1000803696927&uo=4",
+     "source": "The LA Report",
+     "take": "Rep. Jimmy Gomez resigns effective Dec. 1 after the Ethics Committee found substantial evidence of unwelcome advances toward a staffer \u2022 Port security workers reach a tentative deal, averting an LA/Long Beach strike \u2014 ratification still pending \u2022 King tides over 8 feet peak Wednesday and Thursday; sandbags redirect water rather than stop it \u2022 LAX holiday tips: the 96th and Vicksburg entrance, Metro C/K lines plus the free shuttle, FlyAway every ~30 minutes"
     },
     {
-     "title": "Drowning in credit card debt",
-     "url": "https://podcasts.apple.com/us/podcast/drowning-in-credit-card-debt/id1346207297?i=1000803651991&uo=4",
-     "source": "Today, Explained",
-     "take": "US credit card debt sits near $1.3T at average rates over 20% \u2022 The Sanders-Hawley bill would cap rates at 10% and once had Trump's support \u2014 but passage in its current form looks unlikely, and banks warn they would cut credit lines and rewards \u2022 The burden falls hardest on the bottom 20\u201330% of borrowers, even though balances concentrate in middle and upper-middle incomes \u2022 Historian Elizabeth Cohen traces today's affordability politics to the post-WWII consumer-economy circle breaking down in the 1970s"
+     "title": "Olympics security could cost $3 billion, Riverside's  Mission Inn Festival of Lights returns,  Dodgers pitcher Tarik Skubal is leaving LA\u2014Afternoon Edition",
+     "url": "https://podcasts.apple.com/us/podcast/olympics-security-could-cost-%243-billion-riversides/id1508035189?i=1000803667262&uo=4",
+     "source": "The LA Report",
+     "take": "Sheriff Luna: 2028 Olympics security could cost $3 billion \u2014 triple the $1 billion federal set-aside \u2014 with up to 30,000 extra officers; LAPD's chief has floated $4 billion \u2022 Chief McDonald's future is still undecided, and he argues removing him would disrupt Games planning \u2022 Riverside's Mission Inn Festival of Lights is back, free nightly through Dec. 31 \u2022 Dodgers lefty Tarik Skubal leaves LA for the Mets' record nine-year, $450M deal"
     },
     {
-     "title": "GTA 6 is Officially The Biggest Launch in History - Kinda Funny Games Daily 11.23.26",
-     "url": "https://podcasts.apple.com/us/podcast/kinda-funny-games-daily-video-games-news-podcast/id1247343210?uo=4",
-     "source": "Kinda Funny Games Daily",
-     "take": "The answer: $3.79B in pre-orders plus first-day sales in 24 hours on 32.5M presale units \u2014 outgrossing Avengers: Endgame's $2.9B in a single day \u2022 Hosts credit the detail and discoverability (mini-golf, physics clips) and a Lucia-led story reaching beyond hardcore gamers; GTA Online guessed at 1\u20132 years away \u2022 Patch 1.002.002 (~603MB) fixes the broken auto-save \u2022 Deborah Ann Woll returns as Faye in Amazon's God of War series"
+     "title": "Unreleased songs from before Tom Petty was a star",
+     "url": "https://podcasts.apple.com/us/podcast/unreleased-songs-from-before-tom-petty-was-a-star/id807752117?i=1000803698549&uo=4",
+     "source": "Press Play with Madeleine Brand",
+     "take": "A jury convicts Jonathan Rinderknecht in the Palisades Fire retrial on a fully circumstantial case \u2014 phone data, his own statements, and a ChatGPT query about cigarette liability; he faces 5\u201320 years per charge \u2022 After Delta's 1,600 delayed flights and bank outages, experts blame AI stress-testing upgrades and advise a week of cash at home and autopay set a few days early \u2022 Resy and OpenTable turn your phone number into a diner profile; OpenTable's Global Insights starts sharing it across restaurants \u2022 Tom Petty's 'Origins' box set: Adria Petty and Ron Blair on a 20-year-old who was already 'fully formed' in Gainesville"
     }
    ]
   }
  ],
  "markets": {
   "source": "Yahoo Finance",
-  "fetched_at": "2026-11-23T13:21:57.740171-08:00",
+  "fetched_at": "2026-11-23T20:28:21.723088-08:00",
   "dates": [
    "2025-11-24",
    "2025-11-25",
@@ -1226,7 +1250,7 @@
      730.2,
      715.87,
      689.81,
-     722.51
+     722.29
     ],
     "intraday": {
      "t": [
@@ -1389,11 +1413,11 @@
       724.19,
       722.12,
       722.39,
-      722.51
+      722.29
      ]
     },
-    "dayHigh": 727.97,
-    "dayLow": 713.54,
+    "dayHigh": 727.98,
+    "dayLow": 713.53,
     "hi52": 781.62,
     "lo52": 629.28
    },
@@ -1817,7 +1841,7 @@
       651.03
      ]
     },
-    "dayHigh": 657.5,
+    "dayHigh": 657.53,
     "dayLow": 641.95,
     "hi52": 762.86,
     "lo52": 555.6
